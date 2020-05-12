@@ -2,8 +2,12 @@
 
 ## Objective
 
-## Milestones
+## Timeline
+
+## First Milestone
 
 ### Text to Speech API with User Quality: Create a Audible like App
 
-### AI Dungeon + Wattpad Story Writing App
+## Second Milestone
+
+### Creating AI Movie Steps
