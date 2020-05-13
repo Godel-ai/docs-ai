@@ -34,4 +34,4 @@ Density Matching for Bilingual Word Embedding. NAACL 2019. [PDF]
 
 ## Story Generation App
 
-Disentangling Representations for StoryGAN
+### Disentangling Representations for StoryGAN
