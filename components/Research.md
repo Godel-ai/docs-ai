@@ -34,16 +34,13 @@ Density Matching for Bilingual Word Embedding. NAACL 2019. [PDF]
 
 **Model Predictive Control: Models a PID controller? where Integral is the memory of the previous errors (keep track of past mistakes), Differential predicts the trajectory of the current work.**
 
-## Story Generation App
-
-### Disentangling Representations for StoryGAN
+**Story Generation App**
+**Disentangling Representations for StoryGAN**
 
 ---
 
-## Hardware Portion
-
-# Edge AI Infrastructure
-
+**Hardware Portion**
+**Edge AI Infrastructure**
 [https://dl.acm.org/doi/pdf/10.1145/3197517.3201383](https://dl.acm.org/doi/pdf/10.1145/3197517.3201383)
 
 Automating Hardware Design by Extracting Generalization from Data-Flow Graphs
