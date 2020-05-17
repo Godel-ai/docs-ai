@@ -20,6 +20,9 @@ Density Matching for Bilingual Word Embedding. NAACL 2019. [PDF]
 
 : proposes an approach that instead expresses the two monolingual embedding spaces as probability densities defined by a Gaussian mixture model, and matches the two densities using a method called normalizing flow.
 
+**VQA has some components of Neural Module Networks**
+**Differentiable Reasoning over Text**
+
 **Causal Machine Learning**
 
 **Using counterfactuals to solve problems , Recurrent Independent Mechanisms**
