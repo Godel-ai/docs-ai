@@ -1,3 +1,3 @@
 - [Introduction](README.md)
 
-- [Research](components/Research.md)
+- [Research](components/research/Research.md)
