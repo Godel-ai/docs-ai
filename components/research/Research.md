@@ -21,7 +21,10 @@ Density Matching for Bilingual Word Embedding. NAACL 2019. [PDF]
 : proposes an approach that instead expresses the two monolingual embedding spaces as probability densities defined by a Gaussian mixture model, and matches the two densities using a method called normalizing flow.
 
 **VQA has some components of Neural Module Networks**
+
 **Differentiable Reasoning over Text**
+
+---
 
 **Causal Machine Learning**
 
@@ -36,9 +39,6 @@ Density Matching for Bilingual Word Embedding. NAACL 2019. [PDF]
 **Feedback driven adversarial learning**
 
 **Model Predictive Control: Models a PID controller? where Integral is the memory of the previous errors (keep track of past mistakes), Differential predicts the trajectory of the current work.**
-
-**Story Generation App**
-**Disentangling Representations for StoryGAN**
 
 ---
 
@@ -60,6 +60,8 @@ What are the applications where we just providing the same semantic context is e
 Let's do another thing, we will synthesize video on the edge by just passing the semantic information to you. But what if we want to synthesize and compress domain-specific videos, then can we compress the videos by finding a specific domain. So we can maybe do better on a specific domain for video compression. So, in what domains can the ultimate compression is alright to get ?.
 
 That is your pass only what is important and don't pass any extra information.
+
+---
 
 **AR Hardware Chips / Video-Analytics + Video Compression Chips**
 
