@@ -6,12 +6,6 @@
 
 **Vision-NLP Interfaces**
 
-Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching : Multi-attention Cross Matching Model - Dual Path Recurrent Neural Network (DP-RNN) to compute similarity
-
-Density Matching for Bilingual Word Embedding. NAACL 2019. [PDF]
-
-: proposes an approach that instead expresses the two monolingual embedding spaces as probability densities defined by a Gaussian mixture model, and matches the two densities using a method called normalizing flow.
-
 **VQA has some components of Neural Module Networks**
 
 **Differentiable Reasoning over Text**
