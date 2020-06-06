@@ -6,14 +6,6 @@
 
 **Vision-NLP Interfaces**
 
-https://www.sciencedirect.com/science/article/abs/pii/S0031320319304650
-
-https://hal.archives-ouvertes.fr/hal-02480975/document
-
-https://github.com/ryankiros/visual-semantic-embedding
-
-https://github.com/linxd5/VSE_Pytorch
-
 Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching : Multi-attention Cross Matching Model - Dual Path Recurrent Neural Network (DP-RNN) to compute similarity
 
 Density Matching for Bilingual Word Embedding. NAACL 2019. [PDF]
