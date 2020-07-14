@@ -4,7 +4,7 @@
 
 ## AGI
 
-![alt](./AGI.drawio.svg)
+![](./AGI.drawio.svg)
 
 ---
 
