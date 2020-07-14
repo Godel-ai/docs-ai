@@ -2,41 +2,96 @@
 
 ---
 
-**Machine Learning Research**
+## AGI
 
-**Vision-NLP Interfaces**
-
-**VQA has some components of Neural Module Networks**
-
-**Differentiable Reasoning over Text**
+![alt](./AGI.drawio.svg)
 
 ---
 
-**Causal Machine Learning**
+## Vision-NLP Interfaces
 
-**Using counterfactuals to solve problems , Recurrent Independent Mechanisms**
+- VQA has some components of Neural Module Networks - Neuro Symbolic VQA
 
-**Model based Causality and Disentanglement : Causality and Anti-Causal by injecting interference**
-
-**Extractive Summarization of Scientific Documents :**
-
-**Long Horizon Generation of Ideas :**
-
-**Feedback driven adversarial learning**
-
-**Model Predictive Control: Models a PID controller? where Integral is the memory of the previous errors (keep track of past mistakes), Differential predicts the trajectory of the current work.**
+- Differential Reasoning over Text
 
 ---
 
-**Hardware Portion**
-**Edge AI Infrastructure**
+## Story Generation
+
+![alt](./storgen.drawio.svg)
+
+---
+
+## Video synthesis
+
+![alt](./videosynthesis/page1.drawio.svg)
+
+![alt](./videosynthesis/page2.drawio.svg)
+
+![alt](./videosynthesis/page3.drawio.svg)
+
+![alt](./videosynthesis/page4.drawio.svg)
+
+![alt](./videosynthesis/page5.drawio.svg)
+
+---
+
+## Synthesia
+
+![alt](./synthesia/page1.drawio.svg)
+
+![alt](./synthesia/page2.drawio.svg)
+
+![alt](./synthesia/page3.drawio.svg)
+
+![alt](./synthesia/page4.drawio.svg)
+
+![alt](./synthesia/page5.drawio.svg)
+
+![alt](./synthesia/page6.drawio.svg)
+
+![alt](./synthesia/page7.drawio.svg)
+
+---
+
+## Causal Machine Learning
+
+- Using counterfactuals to solve problems, Recurrent Independent Mechanisms
+- Model based Causality and Disentanglement : Causality and Anti-Causal by injecting interference
+
+---
+
+## :) Extractive Summarization of Scientific Documents
+
+---
+
+## :zap: Long Horizon Generation of Ideas
+
+---
+
+## :tada: GANs
+
+- Feedback driven adversarial learning
+
+---
+
+## :zap: Reinforcement Learning
+
+- Model Predictive Control: Models a PID controller? where Integral is the memory of the previous errors (keep track of past mistakes), Differential predicts the trajectory of the current work.
+
+---
+
+## :zap: Edge AI Infrastructure
+
+---
+
 [https://dl.acm.org/doi/pdf/10.1145/3197517.3201383](https://dl.acm.org/doi/pdf/10.1145/3197517.3201383)
 
-Automating Hardware Design by Extracting Generalization from Data-Flow Graphs
-High-Performance Differential Processor for Edge Training
-EdgeX: Edge-AI Infrastructure
-Energy-Efficient Accelerator Design by Coupling Video Understanding and Compression
-Propose an Edge Framework for Collaborative and Efficient Data Understanding, Compression and Transmission
+- Automating Hardware Design by Extracting Generalization from Data-Flow Graphs
+- High-Performance Differential Processor for Edge Training
+- EdgeX: Edge-AI Infrastructure
+- Energy-Efficient Accelerator Design by Coupling Video Understanding and Compression
+- Propose an Edge Framework for Collaborative and Efficient Data Understanding, Compression and Transmission
 
 Let's just say that everything about video compression has an incomplete analysis of power consumption on mobile phones. What is the power consumption ratio of decoding and displaying to the power consumption of streaming?
 
@@ -49,7 +104,7 @@ That is your pass only what is important and don't pass any extra information.
 
 ---
 
-**AR Hardware Chips / Video-Analytics + Video Compression Chips**
+## :tada: AR Hardware Chips / Video-Analytics + Video Compression Chips
 
 https://ieeexplore.ieee.org/document/8875669
 
