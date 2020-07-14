@@ -16,12 +16,6 @@
 
 ---
 
-## Story Generation
-
-![alt](./storgen.drawio.svg)
-
----
-
 ## Causal Machine Learning
 
 - Using counterfactuals to solve problems, Recurrent Independent Mechanisms
@@ -49,4 +43,4 @@
 
 ---
 
----
+
