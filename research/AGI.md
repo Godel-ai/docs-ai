@@ -1,0 +1,3 @@
+## AGI
+
+![](./AGI.drawio.svg)
