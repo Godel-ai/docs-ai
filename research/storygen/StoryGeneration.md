@@ -1,5 +1,0 @@
-## Story Generation
-
-![](./storgen.svg)
-
----
