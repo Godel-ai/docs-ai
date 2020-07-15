@@ -1,6 +1,6 @@
 ## Story Generation
 
-![](./storgen.drawio.svg)
+![](./storgen.svg)
 
 ---
 
