@@ -1,6 +1,6 @@
 - [Introduction](README.md)
 
-- [Research](components/research/Research.md)
-  - [StoryGeneration](components/research/storygen/StoryGeneration.md)
-  - [Synthesia](components/research/synthesia/Synthesia.md)
-  - [EdgeAI](components/research/edgeai/Edgeai.md)
+- [Research](research/Research.md)
+  - [StoryGeneration](research/storygen/StoryGeneration.md)
+  - [Synthesia](research/synthesia/Synthesia.md)
+  - [EdgeAI](research/edgeai/Edgeai.md)
