@@ -1,5 +1,5 @@
 - [Introduction](README.md)
-
+- [Projects](Projects.md)
 - [Research](research/Research.md)
   - [AbstractIdeas](research/AbstractIdeas.md)
   - [AGI](research/AGI.md)
