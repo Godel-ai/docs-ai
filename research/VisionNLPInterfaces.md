@@ -2,6 +2,8 @@
 
 ![](VSE.drawio.svg)
 
-- VQA has some components of Neural Module Networks - Neuro Symbolic VQA
+---
+
+### Neuro Symbolic VQA (: Using different Neural Modules for VQA)
 
 ---
