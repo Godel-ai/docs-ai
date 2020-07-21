@@ -8,7 +8,7 @@
   - [CausalMachineLearning](research/CausalMachineLearning.md)
   - [Cognition](research/Cognition.md)
   - [CoolApplications](research/CoolApplications.md)
-  - [EdgeAI](research/edgeai/Edgeai.md)
+  - [EdgeAI](research/Edgeai.md)
   - [ExplainableAI](research/ExplainableAI.md)
   - [GameAI](research/GameAI.md)
   - [Graphics](research/Graphics.md)
