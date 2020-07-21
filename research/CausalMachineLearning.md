@@ -14,7 +14,7 @@ We propose to meta-learn causal structures based on how fast a learner adapts to
 
 ![](2020-07-21-05-35-22.png)
 
-![](2020-07-21-05-36-27.png)
+![](2020-07-21-14-24-55.png)
 
 ![](2020-07-21-05-37-40.png)
 
