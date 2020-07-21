@@ -19,3 +19,6 @@
 ![](2020-07-22-00-31-24.png)
 
 ---
+[Link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Graph-Based_Global_Reasoning_Networks_CVPR_2019_paper.pdf)
+
+![](2020-07-22-01-58-53.png)
