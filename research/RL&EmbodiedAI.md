@@ -108,3 +108,11 @@ Adapting the AlphaZero algorithm  to remove the need of execution traces to trai
 
 ---
 
+## Hierarchical Visual Foresight
+
+
+![](2020-07-21-14-14-22.png)
+![](2020-07-21-14-15-01.png)
+![](2020-07-21-14-15-55.png)
+![](2020-07-21-14-16-32.png)
+![](2020-07-21-14-17-08.png)
