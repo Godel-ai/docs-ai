@@ -1,25 +1,7 @@
-# NLP 
+# NLP
+
+---
 
 ## Extractive Summarization of Scientific Documents
 
 - Differential Reasoning over Text
----
-
-## Story Generation
-
-![](2020-07-22-00-48-41.png)
-
-
-![](2020-07-22-00-49-06.png)
-
-![](2020-07-22-00-49-23.png)
-
-![](2020-07-22-00-49-42.png)
-
-
-![](2020-07-22-00-50-01.png)
-
-![](2020-07-22-00-50-16.png)
-
-![](2020-07-22-00-51-00.png)
----
