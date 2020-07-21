@@ -27,3 +27,18 @@
 
 ![](2020-07-22-00-40-15.png)
 [Link](http://papers.nips.cc/paper/8931-universal-invariant-and-equivariant-graph-neural-networks.pdf)
+
+
+---
+![](2020-07-22-01-21-03.png)
+
+[Link](https://arxiv.org/pdf/1903.05136.pdf)
+
+![](2020-07-22-01-21-37.png)
+![](2020-07-22-01-22-00.png)
+![](2020-07-22-01-22-20.png)
+
+![](2020-07-22-01-23-29.png)
+
+![](2020-07-22-01-25-31.png)
+![](2020-07-22-01-25-56.png)
