@@ -26,10 +26,12 @@
 
 ---
 [Link](https://arxiv.org/pdf/1806.01810.pdf)
+
 ![](2020-07-22-02-10-43.png)
 
 ---
 [Link](https://arxiv.org/pdf/1806.04166.pdf)
+
 ![](2020-07-22-02-17-52.png)
 
 ---
