@@ -3,6 +3,9 @@
 ![](2020-07-21-04-49-16.png)
 
 ---
+[Link](https://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs.pdf)
+
+![](2020-07-23-01-11-22.png)
 
 ![](2020-07-22-00-28-52.png)
 
