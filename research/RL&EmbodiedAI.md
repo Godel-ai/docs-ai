@@ -30,11 +30,13 @@ How do we add constraints to the actions the agent can take ?
 ---
 
 ## Self-Supervised Exploration via Disagreement ##
+
 #### [[Project Website]](https://pathak22.github.io/exploration-by-disagreement/) [[Demo Video]](https://youtu.be/POlrWt32_ec)
 
 ---
 
 ## Zero-Shot Visual Imitation ##
+
 #### In ICLR 2018 [[Project Website]](https://pathak22.github.io/zeroshot-imitation/) [[Videos]](http://pathak22.github.io/zeroshot-imitation/index.html#demoVideos)
 
 We propose an alternative paradigm wherein an agent first explores the world without any expert supervision and then distills its experience into a goal-conditioned skill policy with a novel forward consistency loss. The key insight is the intuition that, for most tasks, reaching the goal is more important than how it is reached.
@@ -52,6 +54,7 @@ Please see [blog post](http://blog.otoro.net//2018/06/09/world-models-experiment
 ---
 
 ## Soft Actor-Critic
+
 Soft actor-critic is a deep reinforcement learning framework for training maximum entropy policies in continous domains. The algorithm is based on the paper [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://drive.google.com/file/d/0Bxz3x8U2LH_2QllDZVlUQ1BJVEJHeER2YU5mODNaeFZmc3dz/view) presented at the [Deep Reinforcement Learning Symposium](https://sites.google.com/view/deeprl-symposium-nips2017/), NIPS 2017.
 
 --- 
@@ -80,7 +83,7 @@ a partially-trained agent in the environment. Compared to
 --- 
 
 ## Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller ##
-### NeurIPS 2019
+
 #### [[Project Website]](https://pathak22.github.io/hierarchical-imitation/) [[Demo Video]](https://youtu.be/eWBkDuNFEKA)
 
 ---
@@ -108,11 +111,18 @@ Adapting the AlphaZero algorithm  to remove the need of execution traces to trai
 
 ---
 
+
+
 ## Hierarchical Visual Foresight
 
+[Link](https://arxiv.org/abs/1909.05829)
 
 ![](2020-07-21-14-14-22.png)
+
 ![](2020-07-21-14-15-01.png)
+
 ![](2020-07-21-14-15-55.png)
+
 ![](2020-07-21-14-16-32.png)
+
 ![](2020-07-21-14-17-08.png)
