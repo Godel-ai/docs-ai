@@ -27,11 +27,25 @@
 - Look at the scene graph generation code for characters and stuff
 - Do a literature survey of Story: Visual StoryTelling, Context and Genre specific Dialog Generation
 - Create a React Native App of Story Writing Platform like Wattpad
-- Make the Visual Storytelling Web tool
+- Make the Visual Storytelling Web tool, Alt-life : life simulator, Pratilipi, Wattpad
 - r/WritingPrompts
 - r/NoSleep
 - The steps for story writing involves: a generated world/scene-setting, characters, character dynamics, keys events, plots, genre and dialogue generation
 - Have some characters: and their figures, parse the story into sentences, generate 3D layout and scenes of events, add characters and their interactions in it.
+- Grounding, Non-Normative Text and Enhancement of Plots (Events to Sentences), Fine-Tuning of GPT-2 and Generating Stories with Characters with more benefit from different story-writing platforms with others
 
 ---
 
+# Coga.ai : An AI-based Content Generation Platform
+
+---
+
+# Emotiv.ai : Real time Voice Cloning
+
+- Text to Speech API with User Quality: Create a Audible/SUNO like App
+
+---
+
+# Philo-Stream : Video Streaming
+
+- TikTok, BulBul : Curiosity and Information Stream
