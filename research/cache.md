@@ -1,11 +1,13 @@
 https://arxiv.org/abs/1609.07152.pdf | Input Convex Neural Networks
-http://www.jmlr.org/papers/volume20/18-444/18-444.pdf | 18-444.pdf
+http://www.jmlr.org/papers/volume20/18-444/18-444.pdf | Tunability: Importance of Hyperparameters of Machine
+Learning Algorithms
 https://arxiv.org/abs/2004.13344 | [2004.13344] Robust Generative Adversarial Network
-https://arxiv.org/abs/2006.04248.pdf | 2006.04248.pdf
+https://arxiv.org/abs/2006.04248.pdf | Learning Convex Optimization Models
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Cubuk_AutoAugment_Learning_Augmentation_Strategies_From_Data_CVPR_2019_paper.pdf | AutoAugment: Learning Augmentation Strategies From Data
-https://library.oapen.org/bitstream/handle/20.500.12657/23012/1007149.pdf?sequence=1#page=15 | 1007149.pdf
-http://proceedings.mlr.press/v108/lorraine20a/lorraine20a.pdf | AISTATS_IFT_HyperOpt.pdf
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8870187 | IEEE Xplore Full-Text PDF:
+https://library.oapen.org/bitstream/handle/20.500.12657/23012/1007149.pdf?sequence=1#page=15 | Automated
+Machine Learning Book
+http://proceedings.mlr.press/v108/lorraine20a/lorraine20a.pdf | Optimizing Millions of Hyperparameters by Implicit Differentiation
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8870187 | Why is Developing Machine Learning Applications Challenging? A Study on Stack Overflow Posts
 https://distill.pub/2019/gan-open-problems/ | Open Questions about Generative Adversarial Networks
 https://datascience.stackexchange.com/questions/51276/gan-am-i-seeing-mode-collapse-common-fixes-not-working | machine learning - GAN - am I seeing mode collapse? Common fixes not working - Data Science Stack Exchange
 https://poloclub.github.io/ganlab/ | GAN Lab: Play with Generative Adversarial Networks in Your Browser!
@@ -13,7 +15,7 @@ https://arxiv.org/abs/1502.02127 | [1502.02127] Hyperparameter Search in Machine
 http://papers.nips.cc/paper/8808-learning-disentangled-representations-for-recommendation.pdf | Learning Disentangled Representations for Recommendation
 https://www.google.com/search?q=learning+rate+scheduler+for+gans&oq=learning+rate+scheduler+for+gans&aqs=chrome..69i57j33.5185j0j7&sourceid=chrome&ie=UTF-8 | learning rate scheduler for gans - Google Search
 https://arxiv.org/abs/1801.04406.pdf | Which Training Methods for GANs do actually Converge?
-https://arxiv.org/abs/1905.00094.pdf | 
+https://arxiv.org/abs/1905.00094.pdf | Forget the Learning Rate, Decay Loss
 https://papers.nips.cc/paper/6797-stabilizing-training-of-generative-adversarial-networks-through-regularization.pdf | Stabilizing Training of Generative Adversarial Networks through Regularization
 https://scholar.google.com/scholar?as_ylo=2019&hl=en&as_sdt=0,5&sciodt=0,5&cites=11974368860899381464&scipsc= | Roth: Stabilizing training of generative adversarial... - Google Scholar
 http://papers.nips.cc/paper/8454-multi-marginal-wasserstein-gan | Multi-marginal Wasserstein GAN
@@ -27,7 +29,7 @@ https://arxiv.org/abs/1704.00028.pdf | Improved Training of Wasserstein GANs
 https://arxiv.org/abs/1802.05957 | [1802.05957] Spectral Normalization for Generative Adversarial Networks
 http://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html | CVPR 2019 Open Access Repository
 http://proceedings.mlr.press/v97/zhang19d.html | Self-Attention Generative Adversarial Networks
-http://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.html | CVPR 2020 Open Access Repository
+http://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.html | Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing
 http://openaccess.thecvf.com/content_CVPR_2020/html/Karnewar_MSG-GAN_Multi-Scale_Gradients_for_Generative_Adversarial_Networks_CVPR_2020_paper.html | CVPR 2020 Open Access Repository
 
 ---
@@ -39,8 +41,8 @@ https://sites.google.com/view/learning-to-simulate/home#h.p_hjnaJ6k8y0wo | Learn
 ---
 
 https://link.springer.com/content/pdf/10.1007/s10270-020-00786-6.pdf | Hardware architecture exploration: automatic exploration of distributed automotive hardware architectures
-https://dl.acm.org/doi/pdf/10.1145/3061639.3062195 | 3061639.3062195
-http://www.math.le.ac.uk/people/ag153/homepage/sepulchre.pdf | sepulchre.pdf
+https://dl.acm.org/doi/pdf/10.1145/3061639.3062195 | Accurate High-level Modeling and Automated Hardware/Software Co-design for Effective SoC Design Space Exploration
+http://www.math.le.ac.uk/people/ag153/homepage/sepulchre.pdf | Optimization on manifolds and data processing
 https://web.math.princeton.edu/~nboumal/papers/boumal_optimization_and_estimation_on_manifolds_phd_thesis.pdf | boumal_optimization_and_estimation_on_manifolds_phd_thesis.pdf
 
 ---
@@ -57,7 +59,7 @@ https://arxiv.org/abs/1803.03067 | [1803.03067] Compositional Attention Networks
 https://scholar.google.com/scholar?cites=643529454353768326&as_sdt=2005&sciodt=0,5&hl=en | Gu: Scene graph generation with external knowledge... - Google Scholar
 http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ACMM_Aligned_Cross-Modal_Memory_for_Few-Shot_Image_and_Sentence_Matching_ICCV_2019_paper.pdf | ACMM: Aligned Cross-Modal Memory for Few-Shot Image and Sentence Matching
 https://www.aaai.org/ocs/index.php/WS/AAAIW17/paper/viewFile/15067/14772 | Towards Automatically Extracting Story Graphs from Natural Language Stories
-https://arxiv.org/abs/2003.00392.pdf | 2003.00392.pdf
+https://arxiv.org/abs/2003.00392.pdf | Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning
 
 https://scholar.google.com/citations?hl=en&user=xF7oivwAAAAJ&view_op=list_works&sortby=pubdate | Zhengdong Zhang - Google Scholar Citations
 http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Zhang_FAST_A_Framework_CVPR_2017_paper.pdf | FAST: A Framework to Accelerate Super-Resolution Processing on Compressed Videos
@@ -110,15 +112,12 @@ https://github.com/AliaksandrSiarohin/first-order-model | AliaksandrSiarohin/fir
 https://aliaksandrsiarohin.github.io/first-order-model-website/ | First order model
 https://scholar.google.com/scholar?start=0&q=high+fidelity+synthesis+using+pose&hl=en&as_sdt=0,5&as_ylo=2020 | high fidelity synthesis using pose - Google Scholar
 http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation.pdf | First Order Motion Model for Image Animation
-https://arxiv.org/abs/1811.11459.pdf | 1811.11459.pdf
-https://arxiv.org/abs/1801.00055.pdf | 1801.00055.pdf
+https://arxiv.org/abs/1811.11459.pdf | Coordinate-based Texture Inpainting for Pose-Guided Image Generation
+https://arxiv.org/abs/1801.00055.pdf | Deformable GANs for Pose-based Human Image Generation
 http://openaccess.thecvf.com/content_ECCV_2018/papers/Natalia_Neverova_Two_Stream__ECCV_2018_paper.pdf | Two Stream Pose Transfer Guided by Dense Pose Estimation
-https://arxiv.org/abs/2001.09518.pdf | 2001.09518.pdf
-https://arxiv.org/abs/2003.03756.pdf | 2003.03756.pdf
+https://arxiv.org/abs/2001.09518.pdf | Unsupervised Disentanglement of Pose, Appearance and Background from Images and Videos
+https://arxiv.org/abs/2003.03756.pdf | Perceptual Image Super-Resolution with Progressive Adversarial Network
 https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=3043558815618961635 | Siarohin: Deformable gans for pose-based human image... - Google Scholar
-https://mail.google.com/mail/u/2/?ogbl#inbox | Inbox (9) - khushal.sethi@rephrase.ai - Rephrase.ai Mail
-https://slack.com/intl/en-in/ | Where work happens | Slack
-https://app.slack.com/client/TQLUKUDJ8/CQ9UCLSP5/thread/DR817JC66-1588739504.001500 | Slack | general | Rephrase.ai
 https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2020&q=high+fidelity+synthesis+using+pose&oq= | high fidelity synthesis using pose - Google Scholar
 https://scholar.google.com/scholar?start=10&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2019&cites=12479535951654162053&scipsc= | Park: Semantic image synthesis with spatially-adaptive... - Google Scholar
 https://arxiv.org/abs/1912.00416.pdf | 1912.00416.pdf
@@ -128,16 +127,15 @@ https://openreview.net/forum?id=SyezSCNYPB | Disentangled GANs for Controllable 
 
 http://proceedings.mlr.press/v80/ganin18a.html | Synthesizing Programs for Images using Reinforced Adversarial Learning
 
-https://arxiv.org/abs/2003.00196.pdf | 2003.00196.pdf
 https://arxiv.org/abs/2003.00696.pdf | Deep Image Spatial Transformation for Person Image Generation
 https://arxiv.org/abs/2004.12919v1.pdf | First return then explore
 https://arxiv.org/abs/2004.12974v1.pdf | Emergent Real-World Robotic Skills via Unsupervised Off-Policy Reinforcement Learning
 https://arxiv.org/abs/2004.14545v1.pdf | Explainable Deep Learning: A Field Guide for the Uninitiated
 https://www.youtube.com/watch?v=MPdj8KGZHa0 | Neural Network Dreams About Beautiful Natural Scenes - YouTube
 
-https://arxiv.org/abs/2004.15011v1.pdf | 2004.15011v1.pdf
+https://arxiv.org/abs/2004.15011v1.pdf | TLDR: Extreme Summarization of Scientific Documents
 https://distill.pub/2019/gan-open-problems/ | Open Questions about Generative Adversarial Networks
-https://arxiv.org/abs/2001.04296.pdf | 2001.04296.pdf
+https://arxiv.org/abs/2001.04296.pdf | High-Fidelity Synthesis with Disentangled Representation
 https://github.com/allenai/scitldr | allenai/scitldr
 https://arxiv.org/abs/2001.04296 | [2001.04296] High-Fidelity Synthesis with Disentangled Representation
 
@@ -154,9 +152,8 @@ https://github.com/RenYurui/Global-Flow-Local-Attention | RenYurui/Global-Flow-L
 https://arxiv.org/abs/2004.12919v1.pdf | First return then explore
 https://arxiv.org/abs/2004.14545v1 | [2004.14545v1] Explainable Deep Learning: A Field Guide for the Uninitiated
 
-https://arxiv.org/abs/1606.04209.pdf |
 https://openreview.net/forum?id=SkeXL0NKwH | Low Rank Training of Deep Neural Networks for Emerging Memory Technology
-http://proceedings.mlr.press/v97/gural19a/gural19a.pdf | gural19a.pdf
+http://proceedings.mlr.press/v97/gural19a/gural19a.pdf | Memory-Optimal Direct Convolutions for Maximizing Classification Accuracy in Embedded Applications
 
 ---
 
@@ -301,7 +298,7 @@ https://github.com/JeremyBYU/airsimgeo | JeremyBYU/airsimgeo: AirSim with more c
 
 https://docs.google.com/document/d/1MfQG6LdutZdOhELpfQSkMuxVMxsEUYtSQ7nS5WToyCU/edit?ts=5e7ca588 | Interfacing vision and NLP - Google Docs
 https://arxiv.org/abs/2002.08510.pdf | Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching
-https://arxiv.org/abs/1411.2539.pdf | 1411.2539.pdf
+https://arxiv.org/abs/1411.2539.pdf | Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models
 http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ACMM_Aligned_Cross-Modal_Memory_for_Few-Shot_Image_and_Sentence_Matching_ICCV_2019_paper.pdf | ACMM: Aligned Cross-Modal Memory for Few-Shot Image and Sentence Matching
 https://arxiv.org/abs/1902.05509.pdf | MultiGrain: a unified image embedding for classes and instances
 https://scholar.google.com/scholar?start=20&q=cross+modal+graph+interface&hl=en&as_sdt=0,5&as_ylo=2020 | cross modal graph interface - Google Scholar
@@ -343,12 +340,10 @@ https://www.overleaf.com/project | Your Projects - Overleaf, Online LaTeX Editor
 https://www.overleaf.com/project/5bcb8b793b20013ef469625e | Khushal CV_cs - Online LaTeX Editor Overleaf
 https://www.microsoft.com/en-us/research/uploads/prod/2018/06/27794.compressed.pdf | 27794.compressed.pdf
 https://github.com/dcmocanu/sparse-evolutionary-artificial-neural-networks | dcmocanu/sparse-evolutionary-artificial-neural-networks: Always sparse. Never dense. But never say never. A repository for the Adaptive Sparse Connectivity concept and its algorithmic instantiation, i.e. Sparse Evolutionary Training, to boost Deep Learning scalability on various aspects (e.g. memory and computational time efficiency, representation and generalization power).
-https://github.com/ | GitHub
 https://github.com/vlomonaco/cvpr_clvision_challenge | vlomonaco/cvpr_clvision_challenge: CVPR 2020 Continual Learning Challenge - Submit your CL algorithm today!
 https://arxiv.org/abs/1911.05722 | [1911.05722] Momentum Contrast for Unsupervised Visual Representation Learning
-https://www.overleaf.com/project/5dd7ef46ce9dcd00017e5241 | Causal Reasoning - Online LaTeX Editor Overleaf
-https://openreview.net/forum?id=H1gN6kSFwS | pdf
-https://arxiv.org/abs/1911.10496.pdf | 1911.10496.pdf
+https://openreview.net/forum?id=H1gN6kSFwS | Learning Neural Causal Models from Unknown Interventions 
+https://arxiv.org/abs/1911.10496.pdf | Two Causal Principles for Improving Visual Dialog
 https://github.com/batra-mlp-lab | Machine Learning and Perception Lab, Georgia Tech
 
 ---
@@ -356,8 +351,6 @@ https://github.com/batra-mlp-lab | Machine Learning and Perception Lab, Georgia 
 https://github.com/ | GitHub
 https://github.com/slundberg/shap | slundberg/shap: A game theoretic approach to explain the output of any machine learning model.
 https://github.com/google-research/dads | google-research/dads: Code for 'Dynamics-Aware Unsupervised Discovery of Skills' (DADS). Enables skill discovery without supervision, which can be combined with model-based control.
-https://www.overleaf.com/project | Your Projects - Overleaf, Online LaTeX Editor
-https://paperswithcode.com/latest | Latest papers with code
 https://paperswithcode.com/paper/deep-relational-reasoning-graph-network-for | Papers with Code - Deep Relational Reasoning Graph Network for Arbitrary Shape Text Detection
 https://paperswithcode.com/paper/non-adversarial-video-synthesis-with-learned | Papers with Code - Non-Adversarial Video Synthesis with Learned Priors
 https://github.com/abhishekaich27/Navsynth | abhishekaich27/Navsynth
@@ -366,12 +359,9 @@ https://arxiv.org/abs/2003.09565 | [2003.09565] Non-Adversarial Video Synthesis 
 ---
 
 https://arxiv.org/abs/1902.09240.pdf | Modularity as a Means for Complexity Management in Neural Networks Learning
-http://www.arxiv-sanity.com/toptwtr?timefilter=month | Arxiv Sanity Preserver
-https://paperswithcode.com/ | Papers With Code : the latest in machine learning
 https://paperswithcode.com/paper/deep-graph-library-towards-efficient-and | Papers with Code - Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs
 https://paperswithcode.com/paper/audio-driven-talking-face-video-generation | Papers with Code - Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose
 https://arxiv.org/abs/1905.13049 | [1905.13049] Neural Consciousness Flow
-https://arxiv.org/abs/2002.08046.pdf | 2002.08046.pdf
 https://nlp.stanford.edu/pubs/emnlp2015_2_jiwei.pdf | When Are Tree Structures Necessary for Deep Learning of Representations?
 
 ---
@@ -379,7 +369,7 @@ https://nlp.stanford.edu/pubs/emnlp2015_2_jiwei.pdf | When Are Tree Structures N
 https://scholar.google.com/scholar?start=20&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2016&cites=6568395747360267252&scipsc= | Rolnick: Experience replay for continual learning - Google Scholar
 https://openreview.net/forum?id=HJllSVBgLH | pdf
 https://github.com/guoyongcs/DRN | guoyongcs/DRN: Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution
-https://arxiv.org/abs/2003.07018.pdf | 2003.07018.pdf
+https://arxiv.org/abs/2003.07018.pdf | Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution
 https://scholar.google.com/scholar?safe=active&sxsrf=ALeKk018TpsnXwJtn_lO0482qyrbdU0f1w:1585041270402&uact=5&um=1&ie=UTF-8&lr&cites=16122983999526866358 | Rios: Closed-loop memory GAN for continual learning - Google Scholar
 https://arxiv.org/abs/1811.01146.pdf | 1811.01146.pdf
 https://www.sciencedirect.com/science/article/pii/S0092867419306403 | Human Replay Spontaneously Reorganizes Experience - ScienceDirect
@@ -417,9 +407,9 @@ https://arxiv.org/abs/1910.00005 | [1910.00005] Neural Embedding Propagation on 
 https://github.com/amber0309/Domain-generalization | amber0309/Domain-generalization: All about domain generalization
 https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=11769494438894608216 | Li: Learning to generalize: Meta-learning for domain... - Google Scholar
 https://scholar.google.co.in/scholar?q=neural+communication+networks&hl=en&as_sdt=0&as_vis=1&oi=scholart | neural communication networks - Google Scholar
-https://arxiv.org/abs/1709.08591.pdf | 1709.08591.pdf
+https://arxiv.org/abs/1709.08591.pdf | Evaluating performance of neural codes in model neural communication networks
 https://www.jstor.org/stable/3835175?seq=1 | Communication in Neuronal Networks on JSTOR
-https://openreview.net/forum?id=HJllSVBgLH | pdf
+https://openreview.net/forum?id=HJllSVBgLH | Cross-channel Communication Networks 
 https://github.com/jwyang/C3Net.pytorch | jwyang/C3Net.pytorch: Pytorch code for our NeurIPS 2019 paper "Cross-channel Communication Networks"
 
 ---
@@ -469,9 +459,10 @@ https://arxiv.org/abs/1906.01827.pdf | Coresets for Data-efficient Training of M
 ---
 
 http://papers.nips.cc/paper/8836-comparing-unsupervised-word-translation-methods-step-by-step.pdf | Comparing Unsupervised Word Translation Methods Step by Step
-https://arxiv.org/abs/1906.04848.pdf | 1906.04848.pdf
+https://arxiv.org/abs/1906.04848.pdf | A Closer Look at the Optimization Landscapes of Generative Adversarial Networks
 https://github.com/facebookresearch/GAN-optimization-landscape | facebookresearch/GAN-optimization-landscape: code to reproduce the empirical results in the research paper
-https://arxiv.org/abs/2002.08014v1.pdf | 2002.08014v1.pdf
+https://arxiv.org/abs/2002.08014v1.pdf | Communication-Efficient Distributed SVD via Local Power Iterations
+
 
 ---
 
@@ -755,7 +746,6 @@ https://openreview.net/forum?id=HJllSVBgLH | Cross-channel Communication Network
 file:///C:/Users/khush/Desktop/hahn2018.pdf | Portraits of communication in neuronal networks
 https://github.com/locuslab/deq | locuslab/deq: [NeurIPS'19] Deep Equilibrium Models
 https://econweb.ucsd.edu/~kamurali/papers/Working%20Papers/Disrupting%20Education%20(Current%20WP).pdf | Disrupting Education (Current WP).pdf
-https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgxwDsFdTkFDtrNQdfTMllqsgHrJM | First-generation students + robot delivery + Breakthrough Prize + science jokes - iaskhushal@gmail.com - Gmail
 http://news.mit.edu/2019/technique-helps-robots-find-front-door-1104 | Technique helps robots find the front door | MIT News
 
 ---
