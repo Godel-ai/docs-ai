@@ -152,14 +152,11 @@ https://arxiv.org/abs/2003.00196.pdf | First Order Motion Model for Image Animat
 https://arxiv.org/abs/2003.00696.pdf | Deep Image Spatial Transformation for Person Image Generation
 https://github.com/RenYurui/Global-Flow-Local-Attention | RenYurui/Global-Flow-Local-Attention: The source code for paper "Deep Image Spatial Transformation for Person Image Generation"
 
-http://www.arxiv-sanity.com/toptwtr | Arxiv Sanity Preserver
-https://arxiv.org/abs/2004.12919v1.pdf | https://arxiv.org/abs/2004.12919v1.pdf
+https://arxiv.org/abs/2004.12919v1.pdf | First return then explore
 https://arxiv.org/abs/2004.14545v1 | [2004.14545v1] Explainable Deep Learning: A Field Guide for the Uninitiated
-https://arxiv.org/abs/2004.14545v1.pdf | https://arxiv.org/abs/2004.14545v1.pdf
 
 https://arxiv.org/abs/1606.04209.pdf |
 https://openreview.net/forum?id=SkeXL0NKwH | Low Rank Training of Deep Neural Networks for Emerging Memory Technology
-https://drive.google.com/drive/my-drive | My Drive - Google Drive
 http://proceedings.mlr.press/v97/gural19a/gural19a.pdf | gural19a.pdf
 
 ---
@@ -205,7 +202,6 @@ https://www.youtube.com/?gl=IN&tab=r1 | YouTube
 
 ---
 
-https://paperswithcode.com/latest | Papers with Code - Latest papers with code
 https://paperswithcode.com/paper/graph-structured-referring-expression | Papers with Code - Graph-Structured Referring Expression Reasoning in The Wild
 https://github.com/mesnico/TERN | mesnico/TERN: Code and Resources for the Transformer Encoder Reasoning Network (TERN) - https://arxiv.org/abs/2004.09144
 https://github.com/maszhongming/MatchSum | maszhongming/MatchSum: Code for ACL 2020 paper: "Extractive Summarization as Text Matching"
@@ -251,7 +247,7 @@ https://arxiv.org/abs/1908.05646.pdf | SenseBERT: Driving Some Sense into BERT
 ---
 
 https://dblp.org/db/conf/emnlp/emnlp2019-1.html | dblp: Joint Conference on Empirical Methods in Natural Language Processing and International Joint Conference on Natural Language Processing 2019
-https://arxiv.org/abs/2002.00388.pdf | 2002.00388.pdf
+https://arxiv.org/abs/2002.00388.pdf | A Survey on Knowledge Graphs: Representation, Acquisition and Applications
 https://andy-jqa.github.io/doc/PubMedQA.pdf | PubMedQA.pdf
 https://scholar.google.com/scholar?as_ylo=2020&hl=en&as_sdt=0,5&sciodt=0,5&cites=11355291430156150752&scipsc= | Covington: Deep neural networks for youtube recommendations - Google Scholar
 https://dl.acm.org/doi/abs/10.1145/3336191.3371854 | Knowledge-aware Complementary Product Representation Learning | Proceedings of the 13th International Conference on Web Search and Data Mining
@@ -262,10 +258,7 @@ https://github.com/facebookresearch/dlrm | facebookresearch/dlrm: An implementat
 
 ---
 
-https://arxiv.org/abs/2003.03919.pdf | 2003.03919.pdf
-https://arxiv.org/abs/2004.00626.pdf | 2004.00626.pdf
-https://github.com/INK-USC/DArtNet | INK-USC/DArtNet: Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution
-https://github.com/mit-han-lab/torchprofile | mit-han-lab/torchprofile: A more general and accurate MACs / FLOPs profiler for PyTorch models
+https://arxiv.org/abs/2004.00626.pdf | Background Matting: The World is Your Green Screen
 
 ---
 
