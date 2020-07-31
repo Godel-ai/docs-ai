@@ -126,3 +126,40 @@ Adapting the AlphaZero algorithm  to remove the need of execution traces to trai
 ![](2020-07-21-14-16-32.png)
 
 ![](2020-07-21-14-17-08.png)
+
+
+
+### RL
+
+https://paperswithcode.com/paper/represented-value-function-approach-for-large | : Represented Value Function Approach for Large Scale Multi Agent Reinforcement Learning
+https://paperswithcode.com/paper/biologically-motivated-deep-learning-method | : Biologically-Motivated Deep Learning Method using Hierarchical Competitive Learning
+https://paperswithcode.com/paper/restricting-the-flow-information-bottlenecks-1 | : Restricting the Flow: Information Bottlenecks for Attribution
+https://paperswithcode.com/paper/understanding-and-mitigating-gradient | : Understanding and mitigating gradient pathologies in physics-informed neural networks
+https://arxiv.org/abs/2001.04536v1.pdf | Understanding and mitigating gradient pathologies in physics-informed neural networks
+https://arxiv.org/abs/2001.04451v1.pdf | Reformer: The Efficient Transformer
+
+https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI | Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI | DeepMind
+https://arxiv.org/abs/1906.00190v1.pdf | Neural Replicator Dynamics
+https://arxiv.org/abs/1903.05614v3.pdf | Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent
+https://arxiv.org/abs/2001.04959v1.pdf | High–Dimensional Brain in a High-Dimensional World: Blessing of Dimensionality
+https://arxiv.org/abs/2001.04947v1.pdf | Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation
+https://arxiv.org/abs/2001.05140v1.pdf | Graph-Bert: Only Attention is Needed for Learning Graph Representations
+https://arxiv.org/abs/2001.05016v1.pdf | Neural Arithmetic Units
+https://arxiv.org/abs/1912.12740v1.pdf | Practice of Streaming and Dynamic Graphs: Concepts, Models, Systems, and Parallelism
+https://arxiv.org/abs/1806.02813.pdf | Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings
+
+
+### PPO and RL algorithms
+
+https://arxiv.org/abs/1707.06347.pdf | Proximal Policy Optimization Algorithms
+https://github.com/phecy/SSL-FEW-SHOT | phecy/SSL-FEW-SHOT: SSL-FEW-SHOT
+https://www.ncbi.nlm.nih.gov/pubmed/20345247 | Neural mechanisms for interacting with a world full of action choices. - PubMed - NCBI
+https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1985.0010 | Actions and habits: the development of behavioural autonomy | Philosophical Transactions of the Royal Society of London. B, Biological Sciences
+https://www.google.com/search?q=A+framework+for+the+cooperation+of+learning+algorithms.&rlz=1C1CHBF_enUS858US858&oq=A+framework+for+the+cooperation+of+learning+algorithms.&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8 | A framework for the cooperation of learning algorithms. - Google Search
+https://www.google.com/search?q=Motivation+and+cognitive+control%3A+from+behavior+to+neural+mechanism&rlz=1C1CHBF_enUS858US858&oq=Motivation+and+cognitive+control%3A+from+behavior+to+neural++mechanism&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Motivation and cognitive control: from behavior to neural mechanism - Google Search
+https://www.google.com/search?q=Neural+module+networks&rlz=1C1CHBF_enUS858US858&oq=Neural+module+networks&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Neural module networks - Google Search
+https://arxiv.org/abs/1709.08568 | [1709.08568] The Consciousness Prior
+https://www.nature.com/nathumbehav/ | Nature Human Behaviour
+https://www.google.com/search?q=Learning+to+decompose+neural+computation.&rlz=1C1CHBF_enUS858US858&oq=Learning+to+decompose+neural++computation.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Learning to decompose neural computation. - Google Search
+https://www.google.com/search?q=Routing+networks+and+the+challenges+of+modular+and+compositional+computation&rlz=1C1CHBF_enUS858US858&oq=Routing+networks+and+the++challenges+of+modular+and+compositional+computation&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Routing networks and the challenges of modular and compositional computation - Google Search
+https://www.google.com/search?q=challenging+common+assumptions+in+the+unsupervised+learning+of+disentangled+representations&rlz=1C1CHBF_enUS858US858&oq=challen&aqs=chrome.1.69i57j35i39j0l2j69i60l2.4878j0j7&sourceid=chrome&ie=UTF-8 | challenging common assumptions in the unsupervised learning of disentangled representations - Google Search

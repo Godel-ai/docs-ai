@@ -67,3 +67,22 @@
 ![](2020-07-22-02-06-48.png)
 
 ![](2020-07-22-02-07-09.png)
+
+
+### NeuroSymbolic AI
+
+http://nscl.csail.mit.edu/ | The Neuro-Symbolic Concept Learner
+https://visualcommonsense.com/ | VCR: Visual Commonsense Reasoning
+https://arxiv.org/abs/1909.05379.pdf | Specifying Object Attributes and Relations in Interactive Scene Generation
+https://arxiv.org/abs/1907.09358.pdf | Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods
+https://arxiv.org/abs/1903.02741.pdf | RAVEN: A Dataset for Relational and Analogical Visual rEasoNing
+https://arxiv.org/abs/1812.01855.pdf | Explainable and Explicit Visual Reasoning over Scene Graphs
+https://arxiv.org/abs/1811.10830.pdf | From Recognition to Cognition: Visual Commonsense Reasoning
+https://zpascal.net/cvpr2019/Yang_Cross-Modal_Relationship_Inference_for_Grounding_Referring_Expressions_CVPR_2019_paper.pdf | Cross-Modal Relationship Inference for Grounding Referring Expressions
+https://openreview.net/forum?id=HJWLfGWRb | Matrix capsules with EM routing
+https://arxiv.org/abs/1812.01233.pdf | Spatio-Temporal Action Graph Networks
+https://arxiv.org/abs/1903.05136.pdf | Unsupervised Discovery of Parts, Structure, and Dynamics
+https://arxiv.org/abs/1906.07343.pdf | Language as an Abstraction for Hierarchical Deep Reinforcement Learning
+https://arxiv.org/abs/1812.00568.pdf | Visual Foresight: Model-Based Deep Reinforcement Learning for Vision-Based Robotic Control
+https://arxiv.org/abs/1903.01599.pdf | Learning Dynamics Model in Reinforcement Learning by Incorporating the Long Term Future
+https://arxiv.org/abs/1702.05068.pdf | Discovering objects and their relations from entangled scene representations

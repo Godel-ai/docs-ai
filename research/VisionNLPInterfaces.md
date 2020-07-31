@@ -60,3 +60,52 @@
 ---
 
 ![](2020-07-24-01-09-32.png)
+
+
+---
+
+### Visual-NLP
+
+https://docs.google.com/document/d/1MfQG6LdutZdOhELpfQSkMuxVMxsEUYtSQ7nS5WToyCU/edit?ts=5e7ca588 | Interfacing vision and NLP - Google Docs
+https://arxiv.org/abs/2002.08510.pdf | Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching
+https://arxiv.org/abs/1411.2539.pdf | Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models
+http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ACMM_Aligned_Cross-Modal_Memory_for_Few-Shot_Image_and_Sentence_Matching_ICCV_2019_paper.pdf | ACMM: Aligned Cross-Modal Memory for Few-Shot Image and Sentence Matching
+https://arxiv.org/abs/1902.05509.pdf | MultiGrain: a unified image embedding for classes and instances
+https://scholar.google.com/scholar?start=20&q=cross+modal+graph+interface&hl=en&as_sdt=0,5&as_ylo=2020 | cross modal graph interface - Google Scholar
+https://hal.archives-ouvertes.fr/hal-02480975/ | Archive ouverte HAL - Review of Recent Deep Learning Based Methods for Image-Text Retrieval
+https://hal.archives-ouvertes.fr/hal-02480975/document | Review of Recent Deep Learning Based Methods for Image-Text Retrieval
+https://ieeexplore.ieee.org/abstract/document/8986691 | Vision-Language Navigation Policy Learning and Adaptation - IEEE Journals & Magazine
+https://arxiv.org/abs/2003.00392.pdf | 2003.00392.pdf
+https://link.springer.com/content/pdf/10.1007/s00500-019-03973-w.pdf | Novel model to integrate word embeddings and syntactic trees for automatic caption generation from images
+https://colab.research.google.com/drive/1ObAYvVKQjMG5nd2wIno7j2y_X91E9IrX#scrollTo=u067AY93zh-k&forceEdit=true&sandboxMode=true | SimCLR Notebook.ipynb - Colaboratory
+http://localhost:8889/tree#notebooks | Home
+https://www.sciencedirect.com/science/article/abs/pii/S0031320319304650 | Discriminative distribution alignment: A unified framework for heterogeneous domain adaptation - ScienceDirect
+https://arxiv.org/abs/1906.12120.pdf | One Embedding To Do Them All
+https://arxiv.org/abs/1906.02390 | [1906.02390] Multi-view Knowledge Graph Embedding for Entity Alignment
+https://arxiv.org/abs/1612.00222 | [1612.00222] Interaction Networks for Learning about Objects, Relations and Physics
+https://arxiv.org/abs/1706.01433 | [1706.01433] Visual Interaction Networks
+https://scholar.google.com/scholar?start=20&q=unified+embedding&hl=en&as_sdt=0,5&as_ylo=2019 | unified embedding - Google Scholar
+https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=5649908015913062760 | Watters: Visual interaction networks: Learning a... - Google Scholar
+
+---
+
+### Unified Embedding Project
+
+https://github.com/GemsLab/KGist | GemsLab/KGist
+https://www.sciencedirect.com/science/article/abs/pii/S0031320319304650 | Discriminative distribution alignment: A unified framework for heterogeneous domain adaptation - ScienceDirect
+http://openaccess.thecvf.com/content_WACV_2020/papers/Raboh_Differentiable_Scene_Graphs_WACV_2020_paper.pdf | Differentiable Scene Graphs
+https://arxiv.org/abs/2002.08510.pdf | Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching
+http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ACMM_Aligned_Cross-Modal_Memory_for_Few-Shot_Image_and_Sentence_Matching_ICCV_2019_paper.pdf | ACMM: Aligned Cross-Modal Memory for Few-Shot Image and Sentence Matching
+https://arxiv.org/abs/1411.2539.pdf | 1411.2539.pdf
+https://ieeexplore.ieee.org/abstract/document/8994196 | Cross-Modal Attention With Semantic Consistence for Image-Text Matching - IEEE Journals & Magazine
+http://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding | Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding
+https://scholar.google.com/scholar?as_ylo=2020&hl=en&as_sdt=0,5&sciodt=0,5&cites=10941421330777237042&scipsc= | Yi: Neural-symbolic vqa: Disentangling reasoning... - Google Scholar
+https://arxiv.org/abs/2003.13962.pdf | 2003.13962.pdf
+http://openaccess.thecvf.com/content_WACV_2020/papers/Raboh_Differentiable_Scene_Graphs_WACV_2020_paper.pdf | Differentiable Scene Graphs
+https://github.com/shikorab/DSG | shikorab/DSG
+http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Visual_Semantic_Reasoning_for_Image-Text_Matching_ICCV_2019_paper.pdf | Visual Semantic Reasoning for Image-Text Matching
+https://arxiv.org/abs/1710.00453.pdf | Visual Reasoning with Natural Language
+https://arxiv.org/abs/1803.08896.pdf | Explicit Reasoning over End-to-End Neural Architectures for Visual Question Answering
+https://paperswithcode.com/paper/190807836 | PubLayNet: largest dataset ever for document layout analysis - Papers With Code
+https://arxiv.org/abs/1911.12247 | [1911.12247] Contrastive Learning of Structured World Models
+https://arxiv.org/abs/1911.05978v1.pdf | HUSE: Hierarchical Universal Semantic Embeddings
