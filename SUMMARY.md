@@ -3,6 +3,7 @@
   - [AbstractIdeas](research/AbstractIdeas.md)
   - [AGI](research/AGI.md)
   - [AutomatedResearch](research/AutomatedResearch.md)
+  - [Bookmarks](research/Bookmarks.md)
   - [Drug Discovery](research/Bio.md)
   - [CausalMachineLearning](research/CausalMachineLearning.md)
   - [Cognition](research/Cognition.md)
