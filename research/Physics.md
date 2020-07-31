@@ -10,3 +10,4 @@ https://openreview.net/forum?id=r1gelyrtwH | Physics-aware Difference Graph Netw
 https://arxiv.org/abs/2001.04536v1.pdf | Understanding and mitigating gradient pathologies in physics-informed neural networks
 https://arxiv.org/abs/1806.01242.pdf | Graph Networks as Learnable Physics Engines for Inference and Control
 https://is.mpg.de/uploads_file/attachment/attachment/543/zhu_gcpr2019_physvidpred.pdf | zhu_gcpr2019_physvidpred.pdf
+https://arxiv.org/abs/1910.00935.pdf | DiffTaichi: Differentiable Programming for Physical Simulation

@@ -49,3 +49,4 @@ https://arxiv.org/abs/1710.10903.pdf | Graph Attention Networks
 https://arxiv.org/abs/1911.11763.pdf | SuperGlue: Learning Feature Matching with Graph Neural Networks
 https://github.com/RexYing/gnn-model-explainer | RexYing/gnn-model-explainer: gnn explainer
 https://github.com/thunlp/GNNPapers | thunlp/GNNPapers: Must-read papers on graph neural networks (GNN)
+https://paperswithcode.com/paper/deep-graph-library-towards-efficient-and | - Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs

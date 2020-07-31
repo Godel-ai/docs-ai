@@ -58,3 +58,4 @@ https://www.youtube.com/watch?v=c8-OeGYRFpI | Possible Paths to Artificial Gener
 https://www.youtube.com/watch?v=7ROelYvo8f0
 https://www.google.com/search?q=Nick+Bostrom&rlz=1C1CHBF_enUS858US858&oq=Nick+Bostrom&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
 https://www.youtube.com/watch?v=IU9cQ1JdC7Y | Building AGI: Promising Approaches, Remaining Milestones, and Likely Obstacles | Yoshua Bengio - YouTube
+https://github.com/ixaxaar/pytorch-dnc | ixaxaar/pytorch-dnc: Differentiable Neural Computers, Sparse Access Memory and Sparse Differentiable Neural Computers, for Pytorch

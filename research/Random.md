@@ -5,31 +5,18 @@ https://web.math.princeton.edu/~nboumal/papers/boumal_optimization_and_estimatio
 https://arxiv.org/abs/2004.05631v1.pdf | At the Interface of Algebra and Statistics
 https://arxiv.org/abs/1902.03245.pdf | Ask Not What AI Can Do, But What AI Should Do: Towards a Framework of Task Delegability
 http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf | turing.pdf
-https://arxiv.org/abs/2003.10536v1.pdf | ProGraML: Graph-based Deep Learning for Program Optimization and Analysis
-https://www.youtube.com/watch?v=GgELrV66Pf4 | Symbolic Automata for Static Specification Mining - YouTube
 https://arxiv.org/abs/1811.09737 | [1811.09737] Frustrated with Replicating Claims of a Shared Model? A Solution
-https://www.microsoft.com/en-us/research/uploads/prod/2018/06/27794.compressed.pdf | 27794.compressed.pdf
 https://github.com/dcmocanu/sparse-evolutionary-artificial-neural-networks | dcmocanu/sparse-evolutionary-artificial-neural-networks: Always sparse. Never dense. But never say never. A repository for the Adaptive Sparse Connectivity concept and its algorithmic instantiation, i.e. Sparse Evolutionary Training, to boost Deep Learning scalability on various aspects (e.g. memory and computational time efficiency, representation and generalization power).
-https://github.com/vlomonaco/cvpr_clvision_challenge | vlomonaco/cvpr_clvision_challenge: CVPR 2020 Continual Learning Challenge - Submit your CL algorithm today!
 https://arxiv.org/abs/1911.05722 | [1911.05722] Momentum Contrast for Unsupervised Visual Representation Learning
 https://paperswithcode.com/paper/deep-relational-reasoning-graph-network-for | - Deep Relational Reasoning Graph Network for Arbitrary Shape Text Detection
 https://arxiv.org/abs/1902.09240.pdf | Modularity as a Means for Complexity Management in Neural Networks Learning
-https://paperswithcode.com/paper/deep-graph-library-towards-efficient-and | - Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs
-https://paperswithcode.com/paper/audio-driven-talking-face-video-generation | - Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose
 https://arxiv.org/abs/1905.13049 | [1905.13049] Neural Consciousness Flow
-https://nlp.stanford.edu/pubs/emnlp2015_2_jiwei.pdf | When Are Tree Structures Necessary for Deep Learning of Representations?
-https://scholar.google.com/scholar?start=20&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2016&cites=6568395747360267252&scipsc= | Rolnick: Experience replay for continual learning - Google Scholar
 https://openreview.net/forum?id=HJllSVBgLH | Cross-channel Communication Networks
 https://scholar.google.com/scholar?safe=active&sxsrf=ALeKk018TpsnXwJtn_lO0482qyrbdU0f1w:1585041270402&uact=5&um=1&ie=UTF-8&lr&cites=16122983999526866358 | Rios: Closed-loop memory GAN for continual learning - Google Scholar
 https://arxiv.org/abs/1811.01146.pdf | 1811.01146.pdf
 https://www.sciencedirect.com/science/article/pii/S0092867419306403 | Human Replay Spontaneously Reorganizes Experience - ScienceDirect
-http://papers.nips.cc/paper/8981-continual-unsupervised-representation-learning.pdf | Continual Unsupervised Representation Learning
-http://papers.nips.cc/paper/8327-experience-replay-for-continual-learning.pdf | Experience Replay for Continual Learning
-https://arxiv.org/abs/2001.04529 | [2001.04529] Rethinking Curriculum Learning with Incremental Labels and Adaptive Compensation
-https://arxiv.org/abs/1809.02058.pdf | Memory Replay GANs: learning to generate images from new categories without forgetting
 https://scholar.google.co.in/scholar?q=modular+curriculum+learning&hl=en&as_sdt=0&as_vis=1&oi=scholart | modular curriculum learning - Google Scholar
 https://scholar.google.co.in/scholar?as_ylo=2019&hl=en&as_sdt=2005&sciodt=0,5&cites=5436796240835430868&scipsc= | Andreas: Modular multitask reinforcement learning... - Google Scholar
-https://scholar.google.com/citations?hl=en&user=Q_kKkIUAAAAJ&sortby=pubdate&view_op=list_works&citft=1&citft=3&email_for_op=khushalsethi98%40gmail.com&gmla=AJsN-F4OQpeSZGcbYkhS2ZNNrF3l5CiLDFpwD09jqDYXSTbldmYMKI9wNpOaT4eMbDPZc_rKEhYc8uemhTmNylOIN44aKFk7vJVq4pYBE09vlVNFwZoU0067edW3MmeRk_uHsK_MP2SPeEi621WBIgQc-wzcwMcA6zLx1bm9GVK8QxntfXp-F1HOUxllFlUE28HfOMpr8VAMDkH30B4Ox2ZSx2G5pXsh2y9OdfWiiZrC7Sh1TvVgfRWYiwvUd4MI5B3LB0KjtVADFsqegbqZH9HBmRkKS5qzP9lxzRjdZUVx04CbGwt6zl9boAI2N7JmwQzGlW5NfTZj1RplG1F3LK0ds_JaE6hvTw | Jure Leskovec - Google Scholar Citations
 http://openaccess.thecvf.com/content_ICCV_2019/papers/Miech_HowTo100M_Learning_a_Text-Video_Embedding_by_Watching_Hundred_Million_Narrated_ICCV_2019_paper.pdf | HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips
 https://github.com/ElementAI/osaka | ElementAI/osaka: Codebase for "Online Fast Adaptation and Knowledge Accumulation: a New Approach to Continual Learning"
 https://github.com/lukemelas/image-paragraph-captioning | lukemelas/image-paragraph-captioning: PyTorch implementation of Training for Diversity in Image Paragraph Captioning (EMNLP 2018)
@@ -52,9 +39,6 @@ https://arxiv.org/abs/1709.08591.pdf | Evaluating performance of neural codes in
 https://www.jstor.org/stable/3835175?seq=1 | Communication in Neuronal Networks on JSTOR
 https://openreview.net/forum?id=HJllSVBgLH | Cross-channel Communication Networks
 https://github.com/jwyang/C3Net.pytorch | jwyang/C3Net.pytorch: Pytorch code for our NeurIPS 2019 paper "Cross-channel Communication Networks"
-https://arxiv.org/abs/2003.06417.pdf | Sparse Graphical Memory for Robust Planning
-https://github.com/scottemmons/sgm | scottemmons/sgm: Sparse Graphical Memory for Robust Planning
-https://github.com/mtensor/rulesynthesis | mtensor/rulesynthesis: Code for "Learning Compositional Rules via Neural Program Synthesis"
 https://colab.research.google.com/drive/1GnyIypicdLf2g--tej3yZguLDkHUgEsk#scrollTo=MbGXO1TURVf- | SoRB.ipynb - Colaboratory
 https://arxiv.org/abs/2003.05562.pdf | Learning Compositional Rules via Neural Program Synthesis
 https://arxiv.org/abs/2003.04663.pdf | Fast Online Adaptation in Robotics through Meta-Learning Embeddings of Simulated Priors
@@ -66,15 +50,12 @@ https://arxiv.org/abs/1912.00444.pdf | Automated curriculum generation for Polic
 http://www.faculty.idc.ac.il/arik/site/writeVideo.asp | Ariel Shamir's Homepage
 https://github.com/dianchen96/LearningByCheating | dianchen96/LearningByCheating: Driving in CARLA using waypoints and two-stage imitation learning
 https://pdfs.semanticscholar.org/7416/6384ad391513e8e8bf48cbeaff2516b8c332.pdf | Learning Multimodal Representations with Factorized Deep Generative Models
-https://arxiv.org/abs/1909.10893.pdf | 1909.10893.pdf
 https://openreview.net/forum?id=HJgzt2VKPB | CATER: A diagnostic dataset for Compositional Actions & TEmporal Reasoning | OpenReview
 https://github.com/openai/multi-agent-emergence-environments | openai/multi-agent-emergence-environments: Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
-https://github.com/ixaxaar/pytorch-dnc | ixaxaar/pytorch-dnc: Differentiable Neural Computers, Sparse Access Memory and Sparse Differentiable Neural Computers, for Pytorch
 https://github.com/Kaixhin/PlaNet | Kaixhin/PlaNet: Deep Planning Network: Control from pixels by latent planning with learned dynamics
 https://github.com/allenai/savn | allenai/savn: Learning to Learn how to Learn: Self-Adaptive Visual Navigation using Meta-Learning (https://arxiv.org/abs/1812.00971)
 https://github.com/IC3Net/IC3Net | IC3Net/IC3Net: Code for ICLR 2019 paper: Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks
 https://github.com/yikangshen/Ordered-Memory | yikangshen/Ordered-Memory: This repository contains the code used for Ordered Memory paper
-https://arxiv.org/abs/1909.09436.pdf | CodeSearchNet Challenge Evaluating the State of Semantic Code Search
 https://arxiv.org/abs/1910.13466.pdf | Ordered Memory
 https://arxiv.org/abs/1907.03950.pdf | Learning by Abstraction: The Neural State Machine
 https://arxiv.org/abs/1907.01470.pdf | Augmenting Self-attention with Persistent Memory
@@ -96,7 +77,6 @@ https://arxiv.org/abs/1906.11315.pdf | Generalization to Novel Objects using Pri
 https://github.com/TsuTikgiau/DisentPhys4VidPredict | TsuTikgiau/DisentPhys4VidPredict: GCPR 2019: Learning to Disentangle Latent Physical Factors for Video Prediction
 https://sites.google.com/view/dynamicsmodels/home | Home
 https://arxiv.org/abs/1910.01727v2.pdf | Generalized Inner Loop Meta-Learning
-https://arxiv.org/abs/1910.00935.pdf | DiffTaichi: Differentiable Programming for Physical Simulation
 https://arxiv.org/abs/1910.01007.pdf | Unsupervised Doodling and Painting with Improved SPIRAL
 http://news.mit.edu/2019/image-proteins-synapses-0926 | Technique can image individual proteins within synapses | MIT News
 https://arxiv.org/abs/1907.02544v1.pdf | Large Scale Adversarial Representation Learning

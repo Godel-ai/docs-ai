@@ -174,3 +174,6 @@ https://pathak22.github.io/zeroshot-imitation/ | Zero-Shot Visual Imitation
 http://proceedings.mlr.press/v78/finn17a/finn17a.pdf?source=post_page--------------------------- | finn17a.pdf
 https://arxiv.org/abs/1906.10667.pdf | Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives
 https://github.com/google-research/dads | google-research/dads: Code for 'Dynamics-Aware Unsupervised Discovery of Skills' (DADS). Enables skill discovery without supervision, which can be combined with model-based control.
+
+https://arxiv.org/abs/2003.06417.pdf | Sparse Graphical Memory for Robust Planning
+https://github.com/scottemmons/sgm | scottemmons/sgm: Sparse Graphical Memory for Robust Planning
