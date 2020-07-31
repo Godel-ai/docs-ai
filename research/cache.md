@@ -12,24 +12,17 @@ http://www.math.le.ac.uk/people/ag153/homepage/sepulchre.pdf | Optimization on m
 https://web.math.princeton.edu/~nboumal/papers/boumal_optimization_and_estimation_on_manifolds_phd_thesis.pdf | boumal_optimization_and_estimation_on_manifolds_phd_thesis.pdf
 
 ---
+
+
 https://abhishekaich27.github.io/navsynth.html | Navsynth
 https://github.com/abhishekaich27/Navsynth | abhishekaich27/Navsynth
 https://arxiv.org/abs/2004.07229v1.pdf | Network Medicine Framework for Identifying Drug Repurposing Opportunities for COVID-19
 https://arxiv.org/abs/2004.05631v1.pdf | At the Interface of Algebra and Statistics
 https://papers.nips.cc/paper/8315-the-point-where-reality-meets-fantasy-mixed-adversarial-generators-for-image-splice-detection.pdf | The Point Where Reality Meets Fantasy: Mixed Adversarial Generators for Image Splice Detection
 https://arxiv.org/abs/1902.03245.pdf | Ask Not What AI Can Do, But What AI Should Do: Towards a Framework of Task Delegability
-
-
-
 https://arxiv.org/abs/2004.04136v1 | [2004.04136v1] CURL: Contrastive Unsupervised Representations for Reinforcement Learning
 https://arxiv.org/abs/2004.03844v1 | [2004.03844v1] Poor Man's BERT: Smaller and Faster Transformer Models
-
----
-
 https://github.com/rail-berkeley/softlearning | rail-berkeley/softlearning: Softlearning is a reinforcement learning framework for training maximum entropy policies in continuous domains. Includes the official implementation of the Soft Actor-Critic algorithm
-
----
-
 https://github.com/NervanaSystems | Nervana
 https://github.com/vahidk/EffectivePyTorch#broadcast | vahidk/EffectivePyTorch: PyTorch tutorials and best practices.
 https://github.com/tamarott/SinGAN | tamarott/SinGAN: Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
@@ -37,21 +30,12 @@ https://github.com/bharathgs/Awesome-pytorch-list | bharathgs/Awesome-pytorch-li
 http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf | turing.pdf
 https://github.com/PhyllisH/NMMP | PhyllisH/NMMP: Code for "Collaborative Motion Prediction via Neural Motion Message Passing", CVPR 2020 Oral
 https://inspirehep.net/ | Home - INSPIRE
-
----
-
 https://paperswithcode.com/paper/deepgs-deep-representation-learning-of-graphs | - DeepGS: Deep Representation Learning of Graphs and Sequences for Drug-Target Binding Affinity Prediction
 https://github.com/microsoft/AirSim | microsoft/AirSim: Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 https://github.com/thu-ml/tianshou | thu-ml/tianshou: An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform.
 https://github.com/deepmind/bsuite | deepmind/bsuite: bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
 https://github.com/Kamaropoulos/AirSim_Gym | Kamaropoulos/AirSim_Gym: An OpenAI Gym environment for Microsoft's AirSim Multirotor simulator
 https://github.com/JeremyBYU/airsimgeo | JeremyBYU/airsimgeo: AirSim with more coordinate systems
-
----
-
-
----
-
 https://arxiv.org/abs/2003.10536v1.pdf | ProGraML: Graph-based Deep Learning for Program Optimization and Analysis
 https://github.com/GemsLab/KGist | GemsLab/KGist
 http://openaccess.thecvf.com/content_WACV_2020/html/Wang_Cross-modal_Scene_Graph_Matching_for_Relationship-aware_Image-Text_Retrieval_WACV_2020_paper.html | WACV 2020 Open Access Repository
@@ -76,18 +60,11 @@ https://arxiv.org/abs/1911.10496.pdf | Two Causal Principles for Improving Visua
 https://github.com/slundberg/shap | slundberg/shap: A game theoretic approach to explain the output of any machine learning model.
 https://github.com/google-research/dads | google-research/dads: Code for 'Dynamics-Aware Unsupervised Discovery of Skills' (DADS). Enables skill discovery without supervision, which can be combined with model-based control.
 https://paperswithcode.com/paper/deep-relational-reasoning-graph-network-for | - Deep Relational Reasoning Graph Network for Arbitrary Shape Text Detection
-
-
----
-
 https://arxiv.org/abs/1902.09240.pdf | Modularity as a Means for Complexity Management in Neural Networks Learning
 https://paperswithcode.com/paper/deep-graph-library-towards-efficient-and | - Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs
 https://paperswithcode.com/paper/audio-driven-talking-face-video-generation | - Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose
 https://arxiv.org/abs/1905.13049 | [1905.13049] Neural Consciousness Flow
 https://nlp.stanford.edu/pubs/emnlp2015_2_jiwei.pdf | When Are Tree Structures Necessary for Deep Learning of Representations?
-
----
-
 https://scholar.google.com/scholar?start=20&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2016&cites=6568395747360267252&scipsc= | Rolnick: Experience replay for continual learning - Google Scholar
 https://openreview.net/forum?id=HJllSVBgLH | pdf
 https://github.com/guoyongcs/DRN | guoyongcs/DRN: Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution
@@ -102,9 +79,6 @@ https://arxiv.org/abs/1809.02058.pdf | 1809.02058.pdf
 https://arxiv.org/abs/1810.06284 | CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning
 https://scholar.google.co.in/scholar?q=modular+curriculum+learning&hl=en&as_sdt=0&as_vis=1&oi=scholart | modular curriculum learning - Google Scholar
 https://scholar.google.co.in/scholar?as_ylo=2019&hl=en&as_sdt=2005&sciodt=0,5&cites=5436796240835430868&scipsc= | Andreas: Modular multitask reinforcement learning... - Google Scholar
-
----
-
 https://scholar.google.com/citations?hl=en&user=Q_kKkIUAAAAJ&sortby=pubdate&view_op=list_works&citft=1&citft=3&email_for_op=khushalsethi98%40gmail.com&gmla=AJsN-F4OQpeSZGcbYkhS2ZNNrF3l5CiLDFpwD09jqDYXSTbldmYMKI9wNpOaT4eMbDPZc_rKEhYc8uemhTmNylOIN44aKFk7vJVq4pYBE09vlVNFwZoU0067edW3MmeRk_uHsK_MP2SPeEi621WBIgQc-wzcwMcA6zLx1bm9GVK8QxntfXp-F1HOUxllFlUE28HfOMpr8VAMDkH30B4Ox2ZSx2G5pXsh2y9OdfWiiZrC7Sh1TvVgfRWYiwvUd4MI5B3LB0KjtVADFsqegbqZH9HBmRkKS5qzP9lxzRjdZUVx04CbGwt6zl9boAI2N7JmwQzGlW5NfTZj1RplG1F3LK0ds_JaE6hvTw | Jure Leskovec - Google Scholar Citations
 http://openaccess.thecvf.com/content_ICCV_2019/papers/Miech_HowTo100M_Learning_a_Text-Video_Embedding_by_Watching_Hundred_Million_Narrated_ICCV_2019_paper.pdf | HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Graphical_Contrastive_Losses_for_Scene_Graph_Parsing_CVPR_2019_paper.pdf | Graphical Contrastive Losses for Scene Graph Parsing
@@ -241,16 +215,6 @@ https://arxiv.org/abs/1906.11315.pdf | 1906.11315.pdf
 https://arxiv.org/abs/1910.02425.pdf | 1910.02425.pdf
 https://github.com/ICLR20/STOVE | ICLR20/STOVE: Anonymous ICLR 2020 Submission: Structured Object-Aware Physics Prediction for Video Modelling and Planning
 https://arxiv.org/abs/1902.01109.pdf | Strategies for Structuring Story Generation
-
----
-
-
-
-
----
-
----
-
 https://github.com/TsuTikgiau/DisentPhys4VidPredict | TsuTikgiau/DisentPhys4VidPredict: GCPR 2019: Learning to Disentangle Latent Physical Factors for Video Prediction
 https://sites.google.com/view/dynamicsmodels/home | Home
 https://arxiv.org/abs/1910.01727v2.pdf | Generalized Inner Loop Meta-Learning
@@ -259,86 +223,13 @@ https://arxiv.org/abs/1910.01007.pdf | Unsupervised Doodling and Painting with I
 https://is.mpg.de/uploads_file/attachment/attachment/543/zhu_gcpr2019_physvidpred.pdf | zhu_gcpr2019_physvidpred.pdf
 https://arxiv.org/abs/1909.12271.pdf | RLBench: The Robot Learning Benchmark & Learning Environment
 http://news.mit.edu/2019/image-proteins-synapses-0926 | Technique can image individual proteins within synapses | MIT News
-
 https://arxiv.org/abs/1907.02544v1.pdf | Large Scale Adversarial Representation Learning
-
-
----
-
-
----
-
 http://openaccess.thecvf.com/content_ECCV_2018/papers/Bo_Zhao_Modular_Generative_Adversarial_ECCV_2018_paper.pdf | Modular Generative Adversarial Networks
 https://people.eecs.berkeley.edu/~ke.li/projects/imle/scene_layouts/ | Diverse Image Synthesis from Semantic Layouts via Conditional IMLE
 https://arxiv.org/abs/1811.07441.pdf | CompoNet: Learning to Generate the Unseen by Part Synthesis and Composition
 https://arxiv.org/abs/1909.05862v1.pdf | Learning Symbolic Physics with Graph Networks
 
----
 
-https://books.google.co.in/books?hl=en&lr=&id=Kq_dU65kngUC&oi=fnd&pg=PP2&ots=vEmD9Rjr3i&sig=LXVandqs4l0nLWDwDaNgSwa3XjY&redir_esc=y#v=onepage&q&f=false | Non-Photorealistic Computer Graphics: Modeling, Rendering, and Animation - Thomas Strothotte, Stefan Schlechtweg - Google Books
-https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=1538375253694513701 | Lin: Video stylization: painterly rendering and optimizat... - Google Scholar
-http://www.eecs.umich.edu/courses/eecs498-2/papers/meier96.pdf
-
-http://jiaya.me/papers/vigan_iccv19.pdf | vigan_iccv19.pdf
-https://arxiv.org/abs/1903.09781.pdf | 1903.09781.pdf
-https://arxiv.org/abs/1908.09514.pdf | Mocycle-GAN: Unpaired Video-to-Video Translation
-http://openaccess.thecvf.com/content_CVPR_2019/papers/Nam_End-To-End_Time-Lapse_Video_Synthesis_From_a_Single_Outdoor_Image_CVPR_2019_paper.pdf | End-To-End Time-Lapse Video Synthesis From a Single Outdoor Image
-https://arxiv.org/abs/1908.09514.pdf | Mocycle-GAN: Unpaired Video-to-Video Translation
-https://arxiv.org/abs/1808.06601.pdf | 1808.06601.pdf
-https://arxiv.org/abs/1905.08233.pdf | 1905.08233.pdf
-https://arxiv.org/abs/1906.07889.pdf | 1906.07889.pdf
-https://arxiv.org/abs/1906.01292.pdf | 1906.01292.pdf
-https://arxiv.org/abs/1904.08379.pdf | 1904.08379.pdf
-https://www.citi.sinica.edu.tw/papers/yylin/6497-F.pdf | Deep Video Frame Interpolation using Cyclic Frame Generation
-https://arxiv.org/abs/1904.10247.pdf | 1904.10247.pdf
-https://openreview.net/forum?id=rylgEULtdN | FVD: A new Metric for Video Generation | OpenReview
-https://arxiv.org/abs/1903.07291.pdf | 1903.07291.pdf
-http://openaccess.thecvf.com/content_ECCV_2018/papers/Bo_Zhao_Modular_Generative_Adversarial_ECCV_2018_paper.pdf | Modular Generative Adversarial Networks
-
-https://learning-to-paint.github.io/ | Unsupervised Doodling and Painting with Improved SPIRAL
-https://deeplearn.org/ | Deep Learning Monitor - Find new Arxiv papers, tweets and Reddit posts for you
-https://arxiv.org/abs/1910.01007.pdf | 1910.01007.pdf
-
-http://jiaya.me/papers/vigan_iccv19.pdf | vigan_iccv19.pdf
-https://arxiv.org/abs/1903.09781.pdf | 1903.09781.pdf
-https://arxiv.org/abs/1908.05324.pdf | 1908.05324.pdf
-http://iccv2019.thecvf.com/program/main_conference#oral11 | ICCV 2019
-https://arxiv.org/abs/1908.07500.pdf | https://arxiv.org/abs/1908.07500.pdf
-http://www.eecs.harvard.edu/~htk/publication/2019-aaai-cha-gwon-kung.pdf | Adversarial Learning of Semantic Relevance in Text to Image Synthesis
-https://arxiv.org/abs/1811.07441.pdf | 1811.07441.pdf
-http://jiaya.me/papers/vigan_iccv19.pdf | vigan_iccv19.pdf
-https://arxiv.org/abs/1908.05324.pdf | 1908.05324.pdf
-https://arxiv.org/abs/1903.09781.pdf | 1903.09781.pdf
-https://arxiv.org/abs/1909.12224.pdf | 1909.12224.pdf
-https://www.google.com/search?q=Convolutional+Sequence+Generation+for+Skeleton-Based+Action+Synthesis&rlz=1C1CHBF_enUS858US858&oq=Convolutional+Sequence+Generation+for+Skeleton-Based+Action+Synthesis&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Convolutional Sequence Generation for Skeleton-Based Action Synthesis - Google Search
-https://arxiv.org/abs/1711.08682.pdf | https://arxiv.org/abs/1711.08682.pdf
-https://arxiv.org/abs/1811.12373.pdf | https://arxiv.org/abs/1811.12373.pdf
-https://gilwoolee.github.io/files/lee2019handmotiondataset.pdf | lee2019handmotiondataset.pdf
-
-https://arxiv.org/abs/1909.12224v2.pdf | 1909.12224v2.pdf
-http://graphics.pixar.com/library/sigAsia2018Course/paper.pdf | paper.pdf
-https://www.youtube.com/watch?v=7hUH92xwODg | OpenVDB: An Open Source Data Structure and Toolkit for High-Resolution Volumes - YouTube
-https://users.cs.cf.ac.uk/Yukun.Lai/papers/PerformanceSurveyJCST.pdf | 2017-3-11-7483.dvi
-https://arxiv.org/abs/1906.01524.pdf | Text-based Editing of Talking-head Video
-
-https://arxiv.org/abs/1902.04208.pdf | 1902.04208.pdf
-https://arxiv.org/abs/1811.12297.pdf | 1811.12297.pdf
-
-https://arxiv.org/abs/1909.12224v2.pdf | 1909.12224v2.pdf
-http://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Unsupervised_Person_Image_Generation_With_Semantic_Parsing_Transformation_CVPR_2019_paper.pdf | Unsupervised Person Image Generation With Semantic Parsing Transformation
-http://openaccess.thecvf.com/content_CVPR_2019/papers/Flynn_DeepView_View_Synthesis_With_Learned_Gradient_Descent_CVPR_2019_paper.pdf | DeepView: View Synthesis With Learned Gradient Descent
-http://openaccess.thecvf.com/content_CVPR_2019/papers/Shysheya_Textured_Neural_Avatars_CVPR_2019_paper.pdf | Textured Neural Avatars
-http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_Multi-Channel_Attention_Selection_GAN_With_Cascaded_Semantic_Guidance_for_Cross-View_CVPR_2019_paper.pdf | Multi-Channel Attention Selection GAN With Cascaded Semantic Guidance for Cross-View Image Translation
-http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_STGAN_A_Unified_Selective_Transfer_Network_for_Arbitrary_Image_Attribute_CVPR_2019_paper.pdf | STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing
-http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Towards_Instance-Level_Image-To-Image_Translation_CVPR_2019_paper.pdf | Towards Instance-Level Image-To-Image Translation
-http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Deep_Flow-Guided_Video_Inpainting_CVPR_2019_paper.pdf | Deep Flow-Guided Video Inpainting
-
-https://arxiv.org/abs/1905.11833.pdf | https://arxiv.org/abs/1905.11833.pdf
-https://arxiv.org/abs/1904.11955.pdf | 1904.11955.pdf
-
-http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiao_MirrorGAN_Learning_Text-To-Image_Generation_by_Redescription_CVPR_2019_paper.pdf | MirrorGAN: Learning Text-To-Image Generation by Redescription
-http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Inserting_Videos_Into_Videos_CVPR_2019_paper.pdf | Inserting Videos Into Videos
-https://arxiv.org/abs/1606.03126.pdf | 1606.03126.pdf
 https://arxiv.org/abs/1803.10122.pdf | World Models
 http://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3305510 | Sci-Hub | | 10.0000/dl.acm.org/3305510
 https://aws.amazon.com/# | Amazon Web Services (AWS) - Cloud Computing Services
@@ -541,17 +432,9 @@ https://arxiv.org/abs/1912.07538v1.pdf | https://arxiv.org/abs/1912.07538v1.pdf
 https://arxiv.org/abs/1912.05877.pdf | 1912.05877.pdf
 https://arxiv.org/abs/1910.13607v2.pdf | 1910.13607v2.pdf
 
-https://wellsaidlabs.com/ | WellSaid Labs – Voice Narration. Simplified.
-https://sonantic.io/ | Sonantic
-
-http://www.arxiv-sanity.com/toptwtr?timefilter=week | Arxiv Sanity Preserver
 https://arxiv.org/abs/2004.10634v1 | [2004.10634v1] Unpaired Photo-to-manga Translation Based on The Methodology of Manga Drawing
-https://paperswithcode.com/latest | Latest papers with code - Papers With Code
 https://paperswithcode.com/paper/transformer-reasoning-network-for-image-text | Transformer Reasoning Network for Image-Text Matching and Retrieval - Papers With Code
 https://paperswithcode.com/paper/grounding-conversations-with-improvised | Grounding Conversations with Improvised Dialogues - Papers With Code
-
-https://paperswithcode.com/latest | - Latest papers with code
-https://paperswithcode.com/paper/how-to-teach-dnns-to-pay-attention-to-the | - How to Teach DNNs to Pay Attention to the Visual Modality in Speech Recognition
 
 https://www.youtube.com/watch?v=s7U3hJao4-Y | Sorting Networks Part 2 - Intro to Parallel Programming - YouTube
 https://www.youtube.com/watch?v=UzdwAyfvcfY | Sorting Networks Part 1 - Intro to Parallel Programming - YouTube
@@ -565,18 +448,14 @@ https://arxiv.org/abs/1911.11763.pdf | 1911.11763.pdf
 https://github.com/google-research/electra | google-research/electra: ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
 https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
 http://www.matthewtancik.com/nerf | NeRF: Neural Radiance Fields
-
 https://arxiv.org/abs/1805.11604.pdf | 1805.11604.pdf
 https://arxiv.org/abs/1701.04862.pdf | 1701.04862.pdf
 https://arxiv.org/abs/1704.00028.pdf | Improved Training of Wasserstein GANs
 https://arxiv.org/abs/1705.07761.pdf | 1705.07761.pdf
 http://www.cse.iitd.ac.in/~srsarangi/courses/col_819_2020/docs/chord.pdf | Distributed Hash Tables - Chord
-
 https://arxiv.org/abs/1912.09007v1.pdf | Interestingness Elements for Explainable Reinforcement Learning: Understanding Agents' Capabilities and Limitations
 https://arxiv.org/abs/1912.08998v1.pdf | 1912.08998v1.pdf
 https://arxiv.org/abs/1911.13024v1.pdf | 1911.13024v1.pdf
-
-
 https://mbio.asm.org/content/mbio/11/1/e02780-19.full.pdf | Gut Feelings Begin in Childhood: the Gut Metagenome Correlates with Early Environment, Caregiving, and Behavior
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Fang_Scene_Memory_Transformer_for_Embodied_Agents_in_Long-Horizon_Tasks_CVPR_2019_paper.pdf | Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks
 https://grakn.ai/ | Grakn: The Knowledge Graph
@@ -595,33 +474,7 @@ https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fr
 https://deepmind.com/research/open-source/streetlearn-code | StreetLearn - Code | DeepMind
 https://deepmind.com/research/open-source/openspiel | OpenSpiel: A Framework For Reinforcement Learning in Games | DeepMind
 
-https://scholar.google.com/scholar?safe=active&rlz=1C1CHBF_enUS858US858&sxsrf=ACYBGNSAPKh-P1RHf4kuZ0Ciw-tc4coy7A:1578892703748&uact=5&um=1&ie=UTF-8&lr&cites=10392085391906571188 | Katti: Chargrid: Towards understanding 2d documents - Google Scholar
-http://proceedings.mlr.press/v97/chu19b.html | MeanSum: A Neural Model for Unsupervised Multi-Document Abstractive Summarization
-https://github.com/sosuperic/MeanSum | sosuperic/MeanSum
-https://arxiv.org/abs/1906.01749.pdf | 1906.01749.pdf
-https://arxiv.org/abs/1910.11411.pdf | 1910.11411.pdf
-https://www.aclweb.org/anthology/D18-1476.pdf | Chargrid: Towards Understanding 2D Documents
-https://arxiv.org/abs/1909.03186.pdf | AAAI Press Formatting Instructions for Authors Using LaTeX -- A Guide
-https://arxiv.org/abs/1706.06681.pdf | 1706.06681.pdf
-https://scholar.google.com/scholar?start=10&hl=en&as_sdt=2005&sciodt=0,5&cites=6702357170880053318&scipsc= | Gehrmann: Bottom-up abstractive summarization - Google Scholar
-https://www.sciencedirect.com/science/article/pii/S0957417418307735 | Abstractive summarization: An overview of the state of the art - ScienceDirect
-https://www.techbooky.com/wp-content/uploads/2019/02/Better-Language-Models-and-Their-Implications.pdf | Language Models are Unsupervised Multitask Learners
-https://arxiv.org/abs/1908.08345 | [1908.08345] Text Summarization with Pretrained Encoders
-https://arxiv.org/abs/1908.08960 | [1908.08960] Neural Text Summarization: A Critical Evaluation
-https://arxiv.org/abs/1910.08435.pdf | 1910.08435.pdf
-https://paperswithcode.com/task/dialogue-generation | : Dialogue Generation
-https://paperswithcode.com/sota | Browse the State-of-the-Art in Machine Learning
-https://paperswithcode.com/task/knowledge-base-population/latest#code | : Knowledge Base Population
-https://paperswithcode.com/task/recommendation-systems/latest#code | : Recommendation Systems
-https://paperswithcode.com/task/causal-inference | : Causal Inference
-https://paperswithcode.com/task/neural-network-compression/latest#code | : Neural Network Compression
-https://paperswithcode.com/task/knowledge-graphs/latest#code | : Knowledge Graphs
-https://paperswithcode.com/task/knowledge-base-completion | : Knowledge Base Completion
-https://paperswithcode.com/task/extractive-document-summarization/latest#code | : Extractive Document Summarization
-https://paperswithcode.com/task/abstractive-text-summarization/latest#code | : Abstractive Text Summarization
-https://paperswithcode.com/task/document-summarization | : Document Summarization
-https://paperswithcode.com/task/relation-extraction/latest#code | : Relation Extraction
-https://paperswithcode.com/task/dialogue-generation/latest#code | : Dialogue Generation
+
 
 https://www.youtube.com/watch?v=hUCg0O00Eew&list=PL24nOpPUQlbaSXgf3YwlcPrpsdaj5949o | E971 The Next Unicorns, E1: Checkr CEO Daniel Yanisse built 1st background check API, 10k+ customers - YouTube
 https://arxiv.org/abs/1912.10824 | [1912.10824] Differentiable Reasoning on Large Knowledge Bases and Natural Language
@@ -731,36 +584,21 @@ https://openreview.net/forum?id=r1eBeyHFDH | A Theory of Usable Information unde
 
 https://arxiv.org/abs/1911.08585.pdf | Contrastive Learning of Structured World Models
 https://arxiv.org/abs/1911.10500.pdf | Causality for Machine Learning
-
-
 http://www.montreal.ai/aidebate.pdf | aidebate.pdf
 https://www.google.com/search?safe=active&sxsrf=ACYBGNQbpEbNYdzzRHwz9sVhZJ7TnOHh7w:1575434114541&q=Free+energy+principle&stick=H4sIAAAAAAAAAOPgE-LSz9U3yMizNE0rUgKzy4ozqgwLtOQzyq30k_NzclKTSzLz8_QLUvMLclKtsvPyy_MU0vKLFrGKuhWlpiqk5qUWpVcqFBRl5iVnAlUAAIWt0MlTAAAA&sa=X&ved=2ahUKEwirqI62lZvmAhXGyzgGHVY2C0gQmxMoBDAhegQIDRAW&biw=1309&bih=647 | Free energy principle - Google Search
 https://www.youtube.com/watch?v=G_sQZeFRjR8 | YouTube
 
----
-
-
 https://arxiv.org/abs/1902.08438.pdf | Online Meta-Learning
 https://arxiv.org/abs/1812.07671.pdf | Deep Online Learning via Meta-Learning: Continual Adaptation for Model-Based RL
-
-
-
 https://arxiv.org/abs/1911.13071v1.pdf | Procedural Content Generation: From Automatically Generating Game Levels to Increasing Generality in Machine Learning
-
 https://arxiv.org/abs/1911.13024v1.pdf | Abstract Argumentation and the Rational Man
-
-
-
 https://arxiv.org/abs/1707.06347.pdf | 1707.06347.pdf
 https://arxiv.org/abs/1911.12247v1.pdf | 1911.12247v1.pdf
-
 https://arxiv.org/abs/1911.12200v1.pdf | Learning Neural Search Policies for Classical Planning
 https://arxiv.org/abs/1911.12247v1.pdf | 1911.12247v1.pdf
-
 https://arxiv.org/abs/1707.06347.pdf | 1707.06347.pdf
 https://openai.com/blog/openai-baselines-ppo/ | Proximal Policy Optimization
 https://medium.com/@jonathan_hui/rl-proximal-policy-optimization-ppo-explained-77f014ec3f12 | RL — Proximal Policy Optimization (PPO) Explained - Jonathan Hui - Medium
-
 https://arxiv.org/abs/1909.11715.pdf | 1909.11715.pdf
 https://arxiv.org/abs/1911.08585.pdf | 1911.08585.pdf
 https://arxiv.org/abs/1911.08265.pdf | 1911.08265.pdf
@@ -768,12 +606,8 @@ https://openreview.net/forum?id=SJl7tREFvr | pdf
 http://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning.pdf | Differentiable Learning of Logical Rules for Knowledge Base Reasoning
 https://arxiv.org/abs/1811.00497.pdf | 1811.00497.pdf
 https://arxiv.org/abs/1809.02193.pdf | 1809.02193.pdf
-
-
-
 https://www.arxival.org/papers/1911.06643v1 | Arxival - Forgetting to learn logic programs
 https://www.arxival.org/papers/1911.06747v1 | Arxival - Towards Personalized Dialog Policies for Conversational Skill Discovery
-
 https://arxiv.org/abs/1707.06347.pdf | 1707.06347.pdf
 https://github.com/phecy/SSL-FEW-SHOT | phecy/SSL-FEW-SHOT: SSL-FEW-SHOT
 https://arxiv.org/abs/1909.10893.pdf | 1909.10893.pdf
@@ -797,47 +631,6 @@ http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Learning_and_Using_CVP
 https://openreview.net/forum?id=B1lKS2AqtX | pdf
 http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_What_Makes_a_CVPR_2018_paper.pdf | What Makes a Video a Video: Analyzing Temporal Information in Video Understanding Models and Datasets
 http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Disentangling_Propagation_and_Generation_for_Video_Prediction_ICCV_2019_paper.pdf | Disentangling Propagation and Generation for Video Prediction
-
-
-
----
-
----
-
-#### Neural Consciousness
-
-
-
-
-
-
----
-
-### Video Dynamics 
-
-
-
-
----
-
-### Video Understanding
-
-
-https://arxiv.org/abs/1904.02912v2.pdf | Point-to-Point Video Generation
-https://arxiv.org/abs/1912.05523v1.pdf | G3AN : This video does not exist. Disentangling motion and appearance for video generation
-http://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf | Learning to Decompose and Disentangle Representations for Video Prediction
-https://paperswithcode.com/paper/non-adversarial-video-synthesis-with-learned | - Non-Adversarial Video Synthesis with Learned Priors
-
-
-
-
-
-
-
-
-
-
----
 
 ### Awesome Papers
 
@@ -891,9 +684,6 @@ https://arxiv.org/abs/1805.06370 | [1805.06370] Progress & Compress: A scalable 
 http://openaccess.thecvf.com/content_ECCV_2018/html/Arslan_Chaudhry__Riemannian_Walk_ECCV_2018_paper.html | ECCV 2018 Open Access Repository
 http://openaccess.thecvf.com/content_ECCV_2018/html/Francisco_M._Castro_End-to-End_Incremental_Learning_ECCV_2018_paper.html | ECCV 2018 Open Access Repository
 https://www.morganclaypool.com/doi/abs/10.2200/S00832ED1V01Y201802AIM037 | Lifelong Machine Learning, Second Edition | Synthesis Lectures on Artificial Intelligence and Machine Learning
-
----
-
 https://vsitzmann.github.io/srns/ | Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations
 https://www.youtube.com/watch?v=6vMEBWD8O20 | Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations - YouTube
 https://arxiv.org/abs/1911.01547.pdf | On the Measure of Intelligence
@@ -956,8 +746,6 @@ https://arxiv.org/abs/2004.12919v1.pdf | First return then explore
 https://arxiv.org/abs/2004.12974v1.pdf | Emergent Real-World Robotic Skills via Unsupervised Off-Policy Reinforcement Learning
 https://arxiv.org/abs/2004.14545v1.pdf | Explainable Deep Learning: A Field Guide for the Uninitiated
 http://proceedings.mlr.press/v80/ganin18a.html | Synthesizing Programs for Images using Reinforced Adversarial Learning
-
-
 
 https://arxiv.org/abs/1907.05931.pdf | An Exploratory Study of Live-Streamed Programming
 https://reader.elsevier.com/reader/sd/pii/S0747563217304971?token=31F9AE5B6F1143F50CFC24ADB114009F40B08C69C2EFEECF7325C4CA628E68B4D79222877D812112FF77809612B36853 | Examining the learning effects of live streaming video game instruction over Twitch | Elsevier Enhanced Reader

@@ -86,3 +86,42 @@ https://arxiv.org/abs/1709.02349.pdf | A Deep Reinforcement Learning Chatbot
 https://www.aclweb.org/anthology/D19-6607.pdf | Scalable Knowledge Graph Construction from Text Collections
 https://arxiv.org/abs/1912.02164v2.pdf | Plug and Play Language Models: A Simple Approach to Controlled Text Generation
 https://arxiv.org/abs/1910.13607v2.pdf | Mathematical decisions and non-causal elements of explainable AI
+
+
+
+
+
+
+
+
+
+
+
+
+https://scholar.google.com/scholar?safe=active&rlz=1C1CHBF_enUS858US858&sxsrf=ACYBGNSAPKh-P1RHf4kuZ0Ciw-tc4coy7A:1578892703748&uact=5&um=1&ie=UTF-8&lr&cites=10392085391906571188 | Katti: Chargrid: Towards understanding 2d documents - Google Scholar
+http://proceedings.mlr.press/v97/chu19b.html | MeanSum: A Neural Model for Unsupervised Multi-Document Abstractive Summarization
+https://github.com/sosuperic/MeanSum | sosuperic/MeanSum
+https://arxiv.org/abs/1906.01749.pdf | 1906.01749.pdf
+https://arxiv.org/abs/1910.11411.pdf | 1910.11411.pdf
+https://www.aclweb.org/anthology/D18-1476.pdf | Chargrid: Towards Understanding 2D Documents
+https://arxiv.org/abs/1909.03186.pdf | AAAI Press Formatting Instructions for Authors Using LaTeX -- A Guide
+https://arxiv.org/abs/1706.06681.pdf | 1706.06681.pdf
+https://scholar.google.com/scholar?start=10&hl=en&as_sdt=2005&sciodt=0,5&cites=6702357170880053318&scipsc= | Gehrmann: Bottom-up abstractive summarization - Google Scholar
+https://www.sciencedirect.com/science/article/pii/S0957417418307735 | Abstractive summarization: An overview of the state of the art - ScienceDirect
+https://www.techbooky.com/wp-content/uploads/2019/02/Better-Language-Models-and-Their-Implications.pdf | Language Models are Unsupervised Multitask Learners
+https://arxiv.org/abs/1908.08345 | [1908.08345] Text Summarization with Pretrained Encoders
+https://arxiv.org/abs/1908.08960 | [1908.08960] Neural Text Summarization: A Critical Evaluation
+https://arxiv.org/abs/1910.08435.pdf | 1910.08435.pdf
+https://paperswithcode.com/task/dialogue-generation | : Dialogue Generation
+https://paperswithcode.com/sota | Browse the State-of-the-Art in Machine Learning
+https://paperswithcode.com/task/knowledge-base-population/latest#code | : Knowledge Base Population
+https://paperswithcode.com/task/recommendation-systems/latest#code | : Recommendation Systems
+https://paperswithcode.com/task/causal-inference | : Causal Inference
+https://paperswithcode.com/task/neural-network-compression/latest#code | : Neural Network Compression
+https://paperswithcode.com/task/knowledge-graphs/latest#code | : Knowledge Graphs
+https://paperswithcode.com/task/knowledge-base-completion | : Knowledge Base Completion
+https://paperswithcode.com/task/extractive-document-summarization/latest#code | : Extractive Document Summarization
+https://paperswithcode.com/task/abstractive-text-summarization/latest#code | : Abstractive Text Summarization
+https://paperswithcode.com/task/document-summarization | : Document Summarization
+https://paperswithcode.com/task/relation-extraction/latest#code | : Relation Extraction
+https://paperswithcode.com/task/dialogue-generation/latest#code | : Dialogue Generation
