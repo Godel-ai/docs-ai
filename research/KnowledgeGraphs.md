@@ -31,3 +31,4 @@ https://academic.microsoft.com/topics | Home | Microsoft Academic
 https://medium.com/@francesco.murdaca91/automatic-knowledge-construction-of-a-grakn-knowledge-graph-4cb62a71a1ea | Automatic Knowledge Construction of a Grakn Knowledge Graph
 https://github.com/Azure-Samples/academic-knowledge-analytics-visualization | Azure-Samples/academic-knowledge-analytics-visualization: Various examples to perform big data analytics over Microsoft Academic Graph and visualize the results.
 https://en.wikipedia.org/wiki/Portal:Science/Categories_and_Main_topics
+https://arxiv.org/abs/1908.07465.pdf | Delineating Knowledge Domains in the Scientific Literature Using Visual Information

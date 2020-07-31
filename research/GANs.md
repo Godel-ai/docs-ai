@@ -3,9 +3,13 @@
 https://arxiv.org/abs/2004.02546 | [2004.02546] GANSpace: Discovering Interpretable GAN Controls
 https://github.com/harskish/ganspace | harskish/ganspace: Discovering Interpretable GAN Controls
 https://paperswithcode.com/paper/improved-techniques-for-training-single-image | - Improved Techniques for Training Single-Image GANs
+https://arxiv.org/abs/1907.07171.pdf | On the "steerability" of generative adversarial networks
+https://github.com/facebookresearch/GAN-optimization-landscape | facebookresearch/GAN-optimization-landscape: code to reproduce the empirical results in the research paper
+https://arxiv.org/abs/1906.10112.pdf | GANalyze: Toward Visual Definitions of Cognitive Image Properties
 
 ### Training and Stability of Gans
 
+https://github.com/tamarott/SinGAN | tamarott/SinGAN: Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
 https://arxiv.org/abs/1609.07152.pdf | Input Convex Neural Networks
 http://www.jmlr.org/papers/volume20/18-444/18-444.pdf | Tunability: Importance of Hyperparameters of Machine Learning Algorithms
 https://arxiv.org/abs/2004.13344 | [2004.13344] Robust Generative Adversarial Network
@@ -39,12 +43,32 @@ http://proceedings.mlr.press/v97/zhang19d.html | Self-Attention Generative Adver
 http://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.html | Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing
 http://openaccess.thecvf.com/content_CVPR_2020/html/Karnewar_MSG-GAN_Multi-Scale_Gradients_for_Generative_Adversarial_Networks_CVPR_2020_paper.html | CVPR 2020 Open Access Repository
 https://arxiv.org/abs/1906.04848.pdf | A Closer Look at the Optimization Landscapes of Generative Adversarial Networks
-https://github.com/facebookresearch/GAN-optimization-landscape | facebookresearch/GAN-optimization-landscape: code to reproduce the empirical results in the research paper
-
-
+https://arxiv.org/abs/1910.13540v1.pdf |Small-GAN: Speeding Up GAN Training Using Core-sets
+https://www.google.com/search?safe=active&sxsrf=ACYBGNRdeNkjXLyKnFPprGxJDVUmhbAkSw%3A1568476766141&ei=Xg59XZOiCMXevgSpyoXICw&q=common+mistakes+in+training+gans&oq=common+mistakes+in+training+gans&gs_l=psy-ab.3..33i22i29i30.11244.15333..15478...3.2..0.317.2580.0j15j0j1......0....1..gws-wiz.......0i71j35i39j0i67j0j0i22i30j33i21j33i160.b4czx-_BCKg&ved=0ahUKEwiTye-j19DkAhVFr48KHSllAbkQ4dUDCAs&uact=5 | common mistakes in training gans - Google Search
+https://medium.com/@utk.is.here/keep-calm-and-train-a-gan-pitfalls-and-tips-on-training-generative-adversarial-networks-edd529764aa9 | Keep Calm and train a GAN. Pitfalls and Tips on training Generative Adversarial Networks
+https://medium.com/intel-student-ambassadors/tips-on-training-your-gans-faster-and-achieve-better-results-9200354acaa5 | Tips On Training Your GANs Faster and Achieve Better Results
+https://machinelearningmastery.com/how-to-code-generative-adversarial-network-hacks/ | How to Implement GAN Hacks in Keras to Train Stable Models
+https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf | Improved Techniques for Training GANs
+https://towardsdatascience.com/10-lessons-i-learned-training-generative-adversarial-networks-gans-for-a-year-c9071159628 | 10 Lessons I Learned Training GANs for one Year - Towards Data Science
+https://machinelearningmastery.com/how-to-code-generative-adversarial-network-hacks/ | How to Implement GAN Hacks in Keras to Train Stable Models
+https://machinelearningmastery.com/how-to-train-stable-generative-adversarial-networks/ | Tips for Training Stable Generative Adversarial Networks
+https://machinelearningmastery.com/generative_adversarial_networks/ | Generative Adversarial Networks with Python
 
 ### GANs
 
+https://www.google.com/search?q=faster+training+of+gans+with+high+fidelity+synthesis&rlz=1C1CHBF_enUS858US858&oq=faster+training+of+gans+with+high+fidelity+synthesis&aqs=chrome..69i57.21806j0j7&sourceid=chrome&ie=UTF-8 | faster training of gans with high fidelity synthesis - Google Search
+https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&sciodt=0,5&as_ylo=2020&cites=11486098150916361186&scipsc= | Karras: Progressive growing of gans for improved... - Google Scholar
+https://arxiv.org/abs/2002.08988.pdf | BlockGAN Learning 3D Object-aware Scene Representations from Unlabelled Images
+https://arxiv.org/abs/2004.10634v1.pdf | Unpaired Photo-to-manga Translation Based on The Methodology of Manga Drawing
+http://openaccess.thecvf.com/content_ECCV_2018/papers/Bo_Zhao_Modular_Generative_Adversarial_ECCV_2018_paper.pdf | Modular Generative Adversarial Networks
+https://people.eecs.berkeley.edu/~ke.li/projects/imle/scene_layouts/ | Diverse Image Synthesis from Semantic Layouts via Conditional IMLE
+https://arxiv.org/abs/1811.07441.pdf | CompoNet: Learning to Generate the Unseen by Part Synthesis and Composition
+https://www.google.com/search?q=how+to+view+gan+output&oq=how+to+view+gan+output&aqs=chrome..69i57.5406j0j7&sourceid=chrome&ie=UTF-8 | how to view gan output - Google Search
+https://towardsdatascience.com/a-new-way-to-look-at-gans-7c6b6e6e9737 | A New Way to look at GANs - Towards Data Science
+https://towardsdatascience.com/graduating-in-gans-going-from-understanding-generative-adversarial-networks-to-running-your-own-39804c283399 | Graduating in GANs: Going from understanding generative adversarial networks to running your own
+https://medium.com/comet-ml/this-machine-learning-medium-post-does-not-exist-c4705215b4a0 | This Machine Learning Medium post does not exist - Comet.ml - Medium
+https://towardsdatascience.com/gan-objective-functions-gans-and-their-variations-ad77340bce3c | GAN Objective Functions: GANs and Their Variations - Towards Data Science
+https://papers.nips.cc/paper/8315-the-point-where-reality-meets-fantasy-mixed-adversarial-generators-for-image-splice-detection.pdf | The Point Where Reality Meets Fantasy: Mixed Adversarial Generators for Image Splice Detection
 https://arxiv.org/abs/1809.11096.pdf | Large Scale GAN Training for High Fidelity Natural Image Synthesis
 https://arxiv.org/abs/1610.07629.pdf | Modulating early visual processing by language
 https://arxiv.org/abs/1707.00683.pdf | A Learned Representation For Artistic Style

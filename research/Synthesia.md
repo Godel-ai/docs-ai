@@ -70,12 +70,34 @@ https://github.com/shunsukesaito/PIFu | shunsukesaito/PIFu: This repository cont
 https://paperswithcode.com/paper/meddialog-a-large-scale-medical-dialogue | - MedDialog: A Large-scale Medical Dialogue Dataset
 https://paperswithcode.com/task/video-generation | - Video Generation
 https://arxiv.org/abs/2004.00626.pdf | Background Matting: The World is Your Green Screen
+https://arxiv.org/abs/1908.04781.pdf | Predicting 3D Human Dynamics from Video
+https://arxiv.org/abs/1907.02499.pdf | Sim2real transfer learning for 3D human pose estimation: motion to the rescue
+
+https://github.com/hubert0527/COCO-GAN | hubert0527/COCO-GAN: COCO-GAN: Generation by Parts via Conditional Coordinating (ICCV 2019 oral)
+https://arxiv.org/abs/1904.00284.pdf | COCO-GAN: Generation by Parts via Conditional Coordinating
+https://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3340254 | Sci-Hub | Efficient Neural Networks for Real-time Motion Style Transfer. Proceedings of the ACM on Computer Graphics and Interactive Techniques, 2(2), 1–17 | 10.1145/3340254
+http://www.diva-portal.org/smash/get/diva2:1098480/FULLTEXT01.pdf | CMSY10
+https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8460608 | Sci-Hub | Text2Action: Generative Adversarial Synthesis from Language to Action. 2018 IEEE International Conference on Robotics and Automation (ICRA) | 10.1109/ICRA.2018.8460608
+https://arxiv.org/abs/1804.10652.pdf | Human Motion Modeling using DVGANs
+https://arxiv.org/abs/1907.01108.pdf | Language2Pose: Natural Language Grounded Pose Forecasting
+https://arxiv.org/abs/1911.04069.pdf | Generative Autoregressive Networks for 3D Dancing Move Synthesis from Music
+https://sci-hub.tw/https://dl.acm.org/citation.cfm?id=1531365 | Sci-Hub | Dextrous manipulation from a grasping pose. ACM Transactions on Graphics, 28(3), 1 | 10.1145/1531326.1531365
+https://www.politesi.polimi.it/bitstream/10589/108749/1/Real-Time%20Grasp%20Pose%20Generation%20for%20Virtual%20Hand%20-%20Paolo%20Caputo.pdf | Real-Time Grasp Pose Generation for Virtual Hand - Paolo Caputo.pdf
+https://arxiv.org/abs/1911.02001.pdf | Dancing to Music
 
 ---
 
 ### Scene Graph Generation 
 
-
+https://3dscenegraph.stanford.edu/Albertville.html | 3D Scene Graph
+http://vipl.ict.ac.cn/resources/codes/code/Exploring%20Context%20and%20Visual%20Pattern%20of%20Relationship%20for%20Scene%20Graph%20Generation_CVPR2019.pdf | Exploring Context and Visual Pattern of Relationship for Scene Graph Generation
+https://arxiv.org/abs/1903.03326.pdf | 1903.03326.pdf
+https://arxiv.org/abs/1909.05379.pdf | 1909.05379.pdf
+https://arxiv.org/abs/1806.11538.pdf | 1806.11538.pdf
+https://github.com/applied-ai-lab/genesis | applied-ai-lab/genesis: Official PyTorch implementation of "GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations"
+https://github.com/ashual/scene_generation | ashual/scene_generation: A PyTorch implementation of the paper: Specifying Object Attributes and Relations in Interactive Scene Generation
+https://github.com/yzhou359/3DIndoor-SceneGraphNet | yzhou359/3DIndoor-SceneGraphNet: PyTorch implementation of 'SceneGraphNet: Neural Message Passing for 3D Indoor Scene Augmentation' ICCV 2019
+https://github.com/yuweihao/KERN | yuweihao/KERN: Code for Knowledge-Embedded Routing Network for Scene Graph Generation (CVPR 2019)
 https://paperswithcode.com/paper/stillleben-realistic-scene-synthesis-for-deep | Stillleben: Realistic Scene Synthesis for Deep Learning in Robotics |
 https://paperswithcode.com/task/scene-generation/latest#code | : Scene Generation
 https://paperswithcode.com/paper/specifying-object-attributes-and-relations-in#code | : Specifying Object Attributes and Relations in Interactive Scene Generation
@@ -110,3 +132,4 @@ https://arxiv.org/abs/1909.01815.pdf | 3D Morphable Face Models - Past, Present 
 https://paperswithcode.com/task/3d-face-reconstruction | : 3D Face Reconstruction
 https://www.supasorn.com/eccv14_totalmoving.pdf | eccv14_totalmoving.pdf
 https://github.com/kwotsin/mimicry | kwotsin/mimicry: A PyTorch library for the reproducibility of GAN research.
+https://github.com/microsoft/Deep3DFaceReconstruction | microsoft/Deep3DFaceReconstruction: Deep3DFaceReconstruction

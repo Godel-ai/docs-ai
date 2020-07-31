@@ -43,3 +43,9 @@ http://papers.nips.cc/paper/6951-a-disentangled-recognition-and-nonlinear-dynami
 http://papers.nips.cc/paper/7040-visual-interaction-networks-learning-a-physics-simulator-from-video.pdf | papers.nips.cc/paper/7040-visual-interaction-networks-learning-a-physics-simulator-from-video.pdf
 https://arxiv.org/abs/1802.04687.pdf | Neural Relational Inference for Interacting Systems
 https://scholar.google.co.in/scholar?start=0&hl=en&as_sdt=2005&sciodt=0,5&cites=9706972547667418204&scipsc= | Chang: A compositional object-based approach to learning... - Google Scholar
+https://paperswithcode.com/paper/deepgs-deep-representation-learning-of-graphs | - DeepGS: Deep Representation Learning of Graphs and Sequences for Drug-Target Binding Affinity Prediction
+https://github.com/PhyllisH/NMMP | PhyllisH/NMMP: Code for "Collaborative Motion Prediction via Neural Motion Message Passing", CVPR 2020 Oral
+https://arxiv.org/abs/1710.10903.pdf | Graph Attention Networks
+https://arxiv.org/abs/1911.11763.pdf | SuperGlue: Learning Feature Matching with Graph Neural Networks
+https://github.com/RexYing/gnn-model-explainer | RexYing/gnn-model-explainer: gnn explainer
+https://github.com/thunlp/GNNPapers | thunlp/GNNPapers: Must-read papers on graph neural networks (GNN)

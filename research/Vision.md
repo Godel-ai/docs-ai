@@ -6,6 +6,15 @@
 ## SPADE 
 
 
+https://github.com/guoyongcs/DRN | guoyongcs/DRN: Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution
+https://arxiv.org/abs/2003.07018.pdf | Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution
+https://paperswithcode.com/task/image-generation | : Image Generation
+https://paperswithcode.com/area/computer-vision | Browse state-of-the-art in ML
+https://paperswithcode.com/paper/semantic-image-synthesis-with-spatially#code | : Semantic Image Synthesis with Spatially-Adaptive Normalization
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix | junyanz/pytorch-CycleGAN-and-pix2pix: Image-to-Image Translation in PyTorch
+https://github.com/NVlabs/SPADE | NVlabs/SPADE: Semantic Image Synthesis with SPADE
+
+
 ![](2020-07-22-01-11-48.png)
 
 ![](2020-07-22-01-12-18.png)

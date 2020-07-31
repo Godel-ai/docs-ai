@@ -137,7 +137,6 @@ https://paperswithcode.com/paper/restricting-the-flow-information-bottlenecks-1 
 https://paperswithcode.com/paper/understanding-and-mitigating-gradient | : Understanding and mitigating gradient pathologies in physics-informed neural networks
 https://arxiv.org/abs/2001.04536v1.pdf | Understanding and mitigating gradient pathologies in physics-informed neural networks
 https://arxiv.org/abs/2001.04451v1.pdf | Reformer: The Efficient Transformer
-
 https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI | Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI | DeepMind
 https://arxiv.org/abs/1906.00190v1.pdf | Neural Replicator Dynamics
 https://arxiv.org/abs/1903.05614v3.pdf | Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent
@@ -163,3 +162,14 @@ https://www.nature.com/nathumbehav/ | Nature Human Behaviour
 https://www.google.com/search?q=Learning+to+decompose+neural+computation.&rlz=1C1CHBF_enUS858US858&oq=Learning+to+decompose+neural++computation.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Learning to decompose neural computation. - Google Search
 https://www.google.com/search?q=Routing+networks+and+the+challenges+of+modular+and+compositional+computation&rlz=1C1CHBF_enUS858US858&oq=Routing+networks+and+the++challenges+of+modular+and+compositional+computation&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Routing networks and the challenges of modular and compositional computation - Google Search
 https://www.google.com/search?q=challenging+common+assumptions+in+the+unsupervised+learning+of+disentangled+representations&rlz=1C1CHBF_enUS858US858&oq=challen&aqs=chrome.1.69i57j35i39j0l2j69i60l2.4878j0j7&sourceid=chrome&ie=UTF-8 | challenging common assumptions in the unsupervised learning of disentangled representations - Google Search
+https://github.com/rail-berkeley/softlearning | rail-berkeley/softlearning: Softlearning is a reinforcement learning framework for training maximum entropy policies in continuous domains. Includes the official implementation of the Soft Actor-Critic algorithm
+https://github.com/thu-ml/tianshou | thu-ml/tianshou: An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform.
+https://github.com/deepmind/bsuite | deepmind/bsuite: bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
+https://arxiv.org/abs/1911.12247 | [1911.12247] Contrastive Learning of Structured World Models
+https://arxiv.org/abs/1909.12271.pdf | RLBench: The Robot Learning Benchmark & Learning Environment
+http://proceedings.mlr.press/v97/kipf19a/kipf19a.pdf | CompILE: Compositional Imitation Learning and Execution
+https://arxiv.org/abs/1910.08264.pdf | Learning Compositional Koopman Operators for Model-Based Control
+https://arxiv.org/abs/1803.10122.pdf | World Models
+https://arxiv.org/abs/1810.06284 | CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning
+https://pathak22.github.io/zeroshot-imitation/ | Zero-Shot Visual Imitation
+http://proceedings.mlr.press/v78/finn17a/finn17a.pdf?source=post_page--------------------------- | finn17a.pdf

@@ -42,7 +42,7 @@ http://cs-people.bu.edu/evimaria/papers/Social-net.pdf | Social-net.pdf
 ---
 
 ### Storytelling
-
+https://arxiv.org/abs/1902.01109.pdf | Strategies for Structuring Story Generation
 https://www.aclweb.org/anthology/W19-3405.pdf | Guided Neural Language Generation for Automated Storytelling
 https://www.google.com/search?q=Guided+Neural+Language+Generation+for+Automated+Storytelling&oq=Guided+Neural+Language+Generation+for+Automated+Storytelling&aqs=chrome..69i57j69i59j69i61l3&sourceid=chrome&ie=UTF-8 | Guided Neural Language Generation for Automated Storytelling - Google Search
 https://paperswithcode.com/search?q_meta=&q=story+generation | - Papers With Code : Search for story generation
@@ -86,16 +86,9 @@ https://arxiv.org/abs/1709.02349.pdf | A Deep Reinforcement Learning Chatbot
 https://www.aclweb.org/anthology/D19-6607.pdf | Scalable Knowledge Graph Construction from Text Collections
 https://arxiv.org/abs/1912.02164v2.pdf | Plug and Play Language Models: A Simple Approach to Controlled Text Generation
 
+---
 
-
-
-
-
-
-
-
-
-
+### Random
 
 https://scholar.google.com/scholar?safe=active&rlz=1C1CHBF_enUS858US858&sxsrf=ACYBGNSAPKh-P1RHf4kuZ0Ciw-tc4coy7A:1578892703748&uact=5&um=1&ie=UTF-8&lr&cites=10392085391906571188 | Katti: Chargrid: Towards understanding 2d documents - Google Scholar
 http://proceedings.mlr.press/v97/chu19b.html | MeanSum: A Neural Model for Unsupervised Multi-Document Abstractive Summarization
@@ -124,3 +117,47 @@ https://paperswithcode.com/task/abstractive-text-summarization/latest#code | : A
 https://paperswithcode.com/task/document-summarization | : Document Summarization
 https://paperswithcode.com/task/relation-extraction/latest#code | : Relation Extraction
 https://paperswithcode.com/task/dialogue-generation/latest#code | : Dialogue Generation
+https://arxiv.org/abs/2004.03844v1 | [2004.03844v1] Poor Man's BERT: Smaller and Faster Transformer Models
+https://language-play.github.io/ | https://language-play.github.io
+
+
+
+
+https://scholar.google.co.in/scholar?cites=10202908905437352262&as_sdt=2005&sciodt=0,5&hl=en | Yasunaga: Graph-based neural multi-document summarization - Google Scholar
+https://paperswithcode.com/task/multi-document-summarization | : Multi-Document Summarization
+https://arxiv.org/abs/1910.11411 | [1910.11411] Multi-Document Summarization with Determinantal Point Processes and Contextualized Representations
+https://arxiv.org/abs/1906.01749 | [1906.01749] Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model
+http://proceedings.mlr.press/v97/chu19b.html | MeanSum: A Neural Model for Unsupervised Multi-Document Abstractive Summarization
+https://arxiv.org/abs/1910.08435 | [1910.08435] Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs
+https://arxiv.org/abs/1706.06681 | [1706.06681] Graph-based Neural Multi-Document Summarization
+https://scholar.google.co.in/scholar?cites=748046702805969208&as_sdt=2005&sciodt=0,5&hl=en | Li: Deep recurrent generative decoder for abstractive... - Google Scholar
+https://arxiv.org/abs/1909.13717 | [1909.13717] Retrieval-based Goal-Oriented Dialogue Generation
+https://arxiv.org/abs/1909.03186.pdf | AAAI Press Formatting Instructions for Authors Using LaTeX -- A Guide
+https://scholar.google.com/scholar?safe=active&rlz=1C1CHBF_enUS858US858&sxsrf=ACYBGNSAPKh-P1RHf4kuZ0Ciw-tc4coy7A:1578892703748&uact=5&um=1&ie=UTF-8&lr&cites=10392085391906571188 | Katti: Chargrid: Towards understanding 2d documents - Google Scholar
+https://arxiv.org/abs/1910.03678.pdf | 1910.03678.pdf
+https://www.aclweb.org/anthology/D18-1476.pdf | Chargrid: Towards Understanding 2D Documents
+https://arxiv.org/abs/1806.00069 | [1806.00069] Explaining Explanations: An Overview of Interpretability of Machine Learning
+
+https://paperswithcode.com/task/knowledge-base-population | : Knowledge Base Population
+https://paperswithcode.com/paper/position-aware-attention-and-supervised-data | : Position-aware Attention and Supervised Data Improve Slot Filling
+https://github.com/Bread-and-Code/Text-Summarization | Bread-and-Code/Text-Summarization: A text document will be provided and it'll produce it's summary
+https://www.aclweb.org/anthology/D19-6607.pdf | Scalable Knowledge Graph Construction from Text Collections
+https://medium.com/@mgalkin/knowledge-graphs-nlp-emnlp-2019-part-i-e4e69fd7957c#e17a | Knowledge Graphs & NLP @ EMNLP 2019 Part I - Michael Galkin - Medium
+https://arxiv.org/abs/1910.08435.pdf | 1910.08435.pdf
+https://github.com/dstlry/dstlr/commits/master | Commits · dstlry/dstlr
+https://dstlry.github.io/ | What is dstlr? | dstlr
+
+https://github.com/TensorSpeech/TensorflowTTS | TensorSpeech/TensorflowTTS: TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2
+https://github.com/TensorSpeech/TensorflowTTS | TensorSpeech/TensorflowTTS: TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2
+
+https://arxiv.org/abs/1912.10824 | [1912.10824] Differentiable Reasoning on Large Knowledge Bases and Natural Language
+https://github.com/uclnlp/gntp | uclnlp/gntp
+
+https://scholar.google.com/scholar?rlz=1C1CHBF_enUS858US858&um=1&ie=UTF-8&lr&cites=3530396919946840784 | Wu: Transferable Multi-Domain State Generator for... - Google Scholar
+https://arxiv.org/abs/1907.01669 | [1907.01669] MultiWOZ 2.1: A Consolidated Multi-Domain Dialogue Dataset with State Corrections and State Tracking Baselines
+https://arxiv.org/abs/1908.01946 | [1908.01946] Dialog State Tracking: A Neural Reading Comprehension Approach
+https://arxiv.org/abs/1905.08743.pdf | 1905.08743.pdf
+https://github.com/jasonwu0731/trade-dst | jasonwu0731/trade-dst: Source code for transferable dialogue state generator (TRADE, Wu et al., 2019). https://arxiv.org/abs/1905.08743
+https://arxiv.org/abs/1906.02361 | [1906.02361] Explain Yourself! Leveraging Language Models for Commonsense Reasoning
+https://arxiv.org/abs/1808.01400 | [1808.01400] code2seq: Generating Sequences from Structured Representations of Code
+https://arxiv.org/abs/1811.12359 | [1811.12359] Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations

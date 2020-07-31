@@ -86,3 +86,4 @@ https://arxiv.org/abs/1906.07343.pdf | Language as an Abstraction for Hierarchic
 https://arxiv.org/abs/1812.00568.pdf | Visual Foresight: Model-Based Deep Reinforcement Learning for Vision-Based Robotic Control
 https://arxiv.org/abs/1903.01599.pdf | Learning Dynamics Model in Reinforcement Learning by Incorporating the Long Term Future
 https://arxiv.org/abs/1702.05068.pdf | Discovering objects and their relations from entangled scene representations
+https://arxiv.org/abs/1910.01442.pdf | CLEVRER: CoLlision Events for Video REpresentation and Reasoning

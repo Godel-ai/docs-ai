@@ -107,5 +107,12 @@ http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Visual_Semantic_Reasoni
 https://arxiv.org/abs/1710.00453.pdf | Visual Reasoning with Natural Language
 https://arxiv.org/abs/1803.08896.pdf | Explicit Reasoning over End-to-End Neural Architectures for Visual Question Answering
 https://paperswithcode.com/paper/190807836 | PubLayNet: largest dataset ever for document layout analysis - Papers With Code
-https://arxiv.org/abs/1911.12247 | [1911.12247] Contrastive Learning of Structured World Models
 https://arxiv.org/abs/1911.05978v1.pdf | HUSE: Hierarchical Universal Semantic Embeddings
+http://openaccess.thecvf.com/content_WACV_2020/html/Wang_Cross-modal_Scene_Graph_Matching_for_Relationship-aware_Image-Text_Retrieval_WACV_2020_paper.html | WACV 2020 Open Access Repository
+https://ieeexplore.ieee.org/abstract/document/8994196 | Cross-Modal Attention With Semantic Consistence for Image-Text Matching - IEEE Journals & Magazine
+https://arxiv.org/abs/2002.08510 | [2002.08510] Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching
+https://link.springer.com/article/10.1007/s00500-019-03973-w | Novel model to integrate word embeddings and syntactic trees for automatic caption generation from images | SpringerLink
+https://arxiv.org/abs/2003.03772 | [2003.03772] IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval
+https://ieeexplore.ieee.org/abstract/document/9006782 | Multi-Modal Memory Enhancement Attention Network for Image-Text Matching - IEEE Journals & Magazine
+https://arxiv.org/abs/1906.02890 | [1906.02890] Visually Grounded Neural Syntax Acquisition
+https://arxiv.org/abs/1911.09826 | [1911.09826] Factorized Multimodal Transformer for Multimodal Sequential Learning
