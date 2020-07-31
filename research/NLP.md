@@ -85,7 +85,6 @@ https://arxiv.org/abs/1709.02349.pdf | A Deep Reinforcement Learning Chatbot
 
 https://www.aclweb.org/anthology/D19-6607.pdf | Scalable Knowledge Graph Construction from Text Collections
 https://arxiv.org/abs/1912.02164v2.pdf | Plug and Play Language Models: A Simple Approach to Controlled Text Generation
-https://arxiv.org/abs/1910.13607v2.pdf | Mathematical decisions and non-causal elements of explainable AI
 
 
 
