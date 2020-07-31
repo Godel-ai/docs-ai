@@ -9,7 +9,7 @@
     - [Image/Video Synthesis](research/Synthesia.md)
     - [Video Dynamics](research/VideoDynamics.md)
 
-- [Casual](research/Research.md)
+- [Casual](research/Casual.md)
   - [AbstractIdeas](research/AbstractIdeas.md)
   - [AGI](research/AGI.md)
   - [AutomatedResearch](research/AutomatedResearch.md)
