@@ -50,14 +50,9 @@ https://ai.googleblog.com/2019/02/introducing-planet-deep-planning.html? | Googl
 ### Meta-induction and AI-Cognitive Sciences
 
 https://papers.nips.cc/paper/6803-neural-program-meta-induction.pdf | Neural Program Meta-Induction
-https://openreview.net/forum?id=H1gfOiAqYm | pdf
-https://arxiv.org/abs/1905.12941.pdf | 1905.12941.pdf
-https://arxiv.org/abs/1904.01766.pdf | 1904.01766.pdf
-https://arxiv.org/abs/1908.02265.pdf | 1908.02265.pdf
-https://arxiv.org/abs/1909.11059.pdf | 1909.11059.pdf
-https://arxiv.org/abs/1910.06764.pdf | 1910.06764.pdf
-
-https://arxiv.org/abs/1812.02784.pdf | StoryGAN: A Sequential Conditional GAN for Story Visualization
+https://openreview.net/forum?id=H1gfOiAqYm |Execution-Guided Neural Program Synthesis
+https://arxiv.org/abs/1905.12941.pdf | Learning Compositional Neural Programs with Recursive Tree Search and Planning
+https://arxiv.org/abs/1910.06764.pdf | Stabilizing Transformers for Reinforcement Learning
 http://delivery.acm.org/10.1145/3360000/3351094/p1543-duan.pdf?ip=196.207.120.77&id=3351094&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572177329_8e0602267436eaebaa93882eaf22b0f5 | Watch, Reason and Code: Learning to Represent Videos Using Program
 https://arxiv.org/abs/1901.02875.pdf | Learning to Infer and Execute 3D Shape Programs
 https://arxiv.org/abs/1904.11694.pdf | Neural Logic Machines
@@ -91,3 +86,4 @@ https://arxiv.org/abs/1910.01075v1.pdf | Learning Neural Causal Models from Unkn
 https://arxiv.org/abs/1909.10893v2.pdf | Recurrent Independent Mechanisms
 http://keg.cs.tsinghua.edu.cn/jietang/publications/ACL19-Yu-et-al-MOOC_Concept_Expansion.pdf | ACL19-Yu-et-al-MOOC_Concept_Expansion.pdf
 https://arxiv.org/abs/1906.03717.pdf | Argument Generation with Retrieval, Planning, and Realization
+https://arxiv.org/abs/1912.07544v1.pdf | Planning with Abstract Learned Models While Learning Transferable Subtasks

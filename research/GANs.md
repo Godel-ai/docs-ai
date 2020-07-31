@@ -9,6 +9,9 @@ https://arxiv.org/abs/1906.10112.pdf | GANalyze: Toward Visual Definitions of Co
 
 ### Training and Stability of Gans
 
+https://arxiv.org/abs/1701.04862.pdf | Towards Principled Methods for Training Generative Adversarial Networks
+https://arxiv.org/abs/1704.00028.pdf | Improved Training of Wasserstein GANs
+https://arxiv.org/abs/1705.07761.pdf | VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning
 https://github.com/tamarott/SinGAN | tamarott/SinGAN: Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
 https://arxiv.org/abs/1609.07152.pdf | Input Convex Neural Networks
 http://www.jmlr.org/papers/volume20/18-444/18-444.pdf | Tunability: Importance of Hyperparameters of Machine Learning Algorithms

@@ -17,3 +17,4 @@ such games, the agents are trained to communicate with each other and jointly so
 Such setup opens a plethora of possibilities in studying emergent language and the impact of the nature of task being solved, the agents' models, etc. This subject is a vibrant area of research often considered as a prerequisite for general AI. The purpose of EGG is to offer researchers an easy and fast entry point into this research area.
 
 https://deepmind.com/research/open-source/openspiel | OpenSpiel: A Framework For Reinforcement Learning in Games | DeepMind
+https://arxiv.org/abs/1912.09729v1.pdf | Mastering Complex Control in MOBA Games with Deep Reinforcement Learning

@@ -161,3 +161,4 @@ https://github.com/jasonwu0731/trade-dst | jasonwu0731/trade-dst: Source code fo
 https://arxiv.org/abs/1906.02361 | [1906.02361] Explain Yourself! Leveraging Language Models for Commonsense Reasoning
 https://arxiv.org/abs/1808.01400 | [1808.01400] code2seq: Generating Sequences from Structured Representations of Code
 https://arxiv.org/abs/1811.12359 | [1811.12359] Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations
+https://github.com/facebookresearch/LAMA | facebookresearch/LAMA: LAnguage Model Analysis

@@ -40,6 +40,7 @@ https://github.com/NVlabs/SPADE | NVlabs/SPADE: Semantic Image Synthesis with SP
 
 ![](2020-07-22-02-02-54.png)
 
+https://github.com/facebookresearch/detr | facebookresearch/detr: End-to-End Object Detection with Transformers
 
 https://books.google.co.in/books?hl=en&lr=&id=Kq_dU65kngUC&oi=fnd&pg=PP2&ots=vEmD9Rjr3i&sig=LXVandqs4l0nLWDwDaNgSwa3XjY&redir_esc=y#v=onepage&q&f=false | Non-Photorealistic Computer Graphics: Modeling, Rendering, and Animation - Thomas Strothotte, Stefan Schlechtweg - Google Books
 https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=1538375253694513701 | Lin: Video stylization: painterly rendering and optimizat... - Google Scholar

@@ -1,4 +1,4 @@
-# Reasoning, Neural Logic and Neural Physics 
+# Neural Reasoning 
 
 ---
 [Link](https://arxiv.org/pdf/1612.00341.pdf)

@@ -49,3 +49,10 @@ http://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-represent
 https://paperswithcode.com/paper/non-adversarial-video-synthesis-with-learned | - Non-Adversarial Video Synthesis with Learned Priors
 https://abhishekaich27.github.io/navsynth.html | Navsynth
 https://github.com/abhishekaich27/Navsynth | abhishekaich27/Navsynth
+https://arxiv.org/abs/1904.01766.pdf | VideoBERT: A Joint Model for Video and Language Representation Learning
+https://arxiv.org/abs/1908.02265.pdf | ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks
+https://arxiv.org/abs/1909.11059.pdf | Unified Vision-Language Pre-Training for Image Captioning and VQA
+https://arxiv.org/abs/1903.01434.pdf | VideoFlow: A Flow-Based Generative Model for Video
+https://papers.nips.cc/paper/6194-generating-videos-with-scene-dynamics.pdf | Generating Videos with Scene Dynamics
+http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_What_Makes_a_CVPR_2018_paper.pdf | What Makes a Video a Video: Analyzing Temporal Information in Video Understanding Models and Datasets
+http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Disentangling_Propagation_and_Generation_for_Video_Prediction_ICCV_2019_paper.pdf | Disentangling Propagation and Generation for Video Prediction

@@ -2,6 +2,7 @@
 
 ---
 ### StoryGAN 
+https://arxiv.org/abs/1812.02784.pdf | StoryGAN: A Sequential Conditional GAN for Story Visualization
 
 
 ![](2020-07-22-00-51-46.png)
@@ -56,6 +57,43 @@ https://openreview.net/forum?id=SyezSCNYPB | Disentangled GANs for Controllable 
 https://www.youtube.com/watch?v=MPdj8KGZHa0 | Neural Network Dreams About Beautiful Natural Scenes - YouTube
 https://arxiv.org/abs/2003.00696.pdf | Deep Image Spatial Transformation for Person Image Generation
 
+https://github.com/grey-eye/talking-heads | grey-eye/talking-heads: Our implementation of "Few-Shot Adversarial Learning of Realistic Neural Talking Head Models" (Egor Zakharov et al.)
+http://openaccess.thecvf.com/content_ECCV_2018/papers/Aayush_Bansal_Recycle-GAN_Unsupervised_Video_ECCV_2018_paper.pdf | Recycle-GAN: Unsupervised Video Retargeting
+https://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3073640 | Sci-Hub | Synthesizing Obama. ACM Transactions on Graphics, 36(4), 1–13 | 10.1145/3072959.3073640
+https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf | Synthesizing Obama: Learning Lip Sync from Audio
+https://scholar.google.com/scholar?rlz=1C1CHBF_enUS858US858&um=1&ie=UTF-8&lr&cites=17501792064365815213 | Suwajanakorn: Synthesizing obama: learning lip sync... - Google Scholar
+https://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3201283 | Sci-Hub | Deep video portraits. ACM Transactions on Graphics, 37(4), 1–14 | 10.1145/3197517.3201283
+https://scholar.google.com/scholar?rlz=1C1CHBF_enUS858US858&um=1&ie=UTF-8&lr&cites=12568957979354957566 | Cudeiro: Capture, Learning, and Synthesis of 3D Speaking... - Google Scholar
+https://dl.acm.org/citation.cfm?id=3360067 | Animation Synthesis Triggered by Vocal Mimics
+https://arxiv.org/abs/1910.00726.pdf | 1910.00726.pdf
+https://www.google.com/search?safe=active&rlz=1C1CHBF_enUS858US858&sxsrf=ACYBGNQTF0PBxZytQngrwzKejd69-ZakcQ%3A1575861133946&ei=jbvtXeuzOeKE4-EPmbec8As&q=Animating+Face+using+Disentangled+Audio+Representations+github&oq=Animating+Face+using+Disentangled+Audio+Representations+github&gs_l=psy-ab.3...5584.8033..8284...0.5..0.177.920.0j7......0....1..gws-wiz.......0i71j33i160.TeoB3AP6FZA&ved=0ahUKEwirruqYzKfmAhViwjgGHZkbB74Q4dUDCAs&uact=5 | Animating Face using Disentangled Audio Representations github - Google Search
+https://arxiv.org/abs/1804.04121.pdf | 1804.04121.pdf
+https://arxiv.org/abs/1807.07860.pdf | 1807.07860.pdf
+https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS | Hangz-nju-cuhk/Talking-Face-Generation-DAVS: Code for Talking Face Generation by Adversarially Disentangled Audio-Visual Representation (AAAI 2019)
+https://arxiv.org/abs/1909.01815.pdf | 3D Morphable Face Models - Past, Present and Future
+https://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3360076 | Sci-Hub | A Robust Interactive Facial Animation Editing System. Motion, Interaction and Games on - MIG ’19 | 10.1145/3359566.3360076
+https://www.google.com/search?q=PRNet+Obama&rlz=1C1CHBF_enUS858US858&oq=PRNet+Obama&aqs=chrome..69i57.4835j0j7&sourceid=chrome&ie=UTF-8 | PRNet Obama - Google Search
+https://github.com/cleardusk/3DDFA | cleardusk/3DDFA: The PyTorch improved version of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
+https://arxiv.org/abs/1804.01005 | [1804.01005] Face Alignment in Full Pose Range: A 3D Total Solution
+https://www.google.com/search?q=Face+Alignment+in+Full+Pose+Range%3A+A+3D+Total+Solution&rlz=1C1CHBF_enUS858US858&oq=Face+Alignment+in+Full+Pose+Range%3A+A+3D+Total+Solution&aqs=chrome..69i57j69i64j69i60l2&sourceid=chrome&ie=UTF-8 | Face Alignment in Full Pose Range: A 3D Total Solution - Google Search
+https://github.com/TimoBolkart/voca | TimoBolkart/voca: Voice Operated Character Animation
+https://voca.is.tue.mpg.de/ | Voice Operated Character Animation
+https://ps.is.tuebingen.mpg.de/publications/voca2019 | Capture, Learning, and Synthesis of 3D Speaking Styles | Perceiving Systems - Max Planck Institute for Intelligent Systems
+https://www.youtube.com/watch?v=XceCxf_GyW4 | VOCA: Capture, Learning, and Synthesis of 3D Speaking Styles - YouTube
+
+https://github.com/google/neural-tangents | google/neural-tangents: Fast and Easy Infinite Neural Networks in Python
+http://gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/content/main.pdf | gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/content/main.pdf
+https://github.com/facebookresearch/QuaterNet | facebookresearch/QuaterNet: Proposes neural networks that can generate animation of virtual characters for different actions.
+http://openaccess.thecvf.com/content_ICCV_2019/papers/Aksan_Structured_Prediction_Helps_3D_Human_Motion_Modelling_ICCV_2019_paper.pdf | Structured Prediction Helps 3D Human Motion Modelling
+https://research.birmingham.ac.uk/portal/files/71180007/PMnet_Learning.pdf | PMnet_Learning.pdf
+https://amds123.github.io/2019/05/05/Neural-Rendering-and-Reenactment-of-Human-Actor-Videos/ | Neural Rendering and Reenactment of Human Actor Videos
+https://arxiv.org/abs/1806.07179 | [1806.07179] FrankenGAN: Guided Detail Synthesis for Building Mass-Models Using Style-Synchonized GANs
+https://arxiv.org/abs/1806.06098v1.pdf | 1806.06098v1.pdf
+https://github.com/lei65537/Visual_Driven_Mesh_Repair | lei65537/Visual_Driven_Mesh_Repair: Repairing Man-Made Meshes via Visual Driven Global Optimization with Minimum Intrusion
+https://arxiv.org/abs/1712.05083v2.pdf | 1712.05083v2.pdf
+https://arxiv.org/abs/1803.07835v1.pdf | 1803.07835v1.pdf
+https://paperswithcode.com/paper/learning-to-regress-3d-face-shape-and | : Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision
+
 ---
 
 ### Talking Heads/Artificial Humans 
@@ -84,6 +122,7 @@ https://arxiv.org/abs/1911.04069.pdf | Generative Autoregressive Networks for 3D
 https://sci-hub.tw/https://dl.acm.org/citation.cfm?id=1531365 | Sci-Hub | Dextrous manipulation from a grasping pose. ACM Transactions on Graphics, 28(3), 1 | 10.1145/1531326.1531365
 https://www.politesi.polimi.it/bitstream/10589/108749/1/Real-Time%20Grasp%20Pose%20Generation%20for%20Virtual%20Hand%20-%20Paolo%20Caputo.pdf | Real-Time Grasp Pose Generation for Virtual Hand - Paolo Caputo.pdf
 https://arxiv.org/abs/1911.02001.pdf | Dancing to Music
+https://github.com/limaosen0/DMGNN | limaosen0/DMGNN: The implementation of DMGNN
 
 ---
 
@@ -123,6 +162,8 @@ https://arxiv.org/abs/1902.00671.pdf | A Layer-Based Sequential Framework for Sc
 https://arxiv.org/abs/1907.09358.pdf | Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Image_Generation_From_Layout_CVPR_2019_paper.pdf | Image Generation From Layout
 http://papers.nips.cc/paper/7951-mapping-images-to-scene-graphs-with-permutation-invariant-structured-prediction.pdf | Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction
+http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Graphical_Contrastive_Losses_for_Scene_Graph_Parsing_CVPR_2019_paper.pdf | Graphical Contrastive Losses for Scene Graph Parsing
+https://arxiv.org/abs/1910.02527.pdf | 3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera
 
 ---
 

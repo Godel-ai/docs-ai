@@ -150,6 +150,8 @@ https://arxiv.org/abs/1806.02813.pdf | Self-Consistent Trajectory Autoencoder: H
 
 ### PPO and RL algorithms
 
+https://openai.com/blog/openai-baselines-ppo/ | Proximal Policy Optimization
+https://medium.com/@jonathan_hui/rl-proximal-policy-optimization-ppo-explained-77f014ec3f12 | RL — Proximal Policy Optimization (PPO) Explained - Jonathan Hui - Medium
 https://arxiv.org/abs/1707.06347.pdf | Proximal Policy Optimization Algorithms
 https://github.com/phecy/SSL-FEW-SHOT | phecy/SSL-FEW-SHOT: SSL-FEW-SHOT
 https://www.ncbi.nlm.nih.gov/pubmed/20345247 | Neural mechanisms for interacting with a world full of action choices. - PubMed - NCBI
@@ -173,3 +175,5 @@ https://arxiv.org/abs/1803.10122.pdf | World Models
 https://arxiv.org/abs/1810.06284 | CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning
 https://pathak22.github.io/zeroshot-imitation/ | Zero-Shot Visual Imitation
 http://proceedings.mlr.press/v78/finn17a/finn17a.pdf?source=post_page--------------------------- | finn17a.pdf
+https://arxiv.org/abs/1906.10667.pdf | Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives
+https://github.com/google-research/dads | google-research/dads: Code for 'Dynamics-Aware Unsupervised Discovery of Skills' (DADS). Enables skill discovery without supervision, which can be combined with model-based control.

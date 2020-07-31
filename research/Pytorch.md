@@ -6,3 +6,5 @@ https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/03-advanced/gen
 https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html | Deep Learning with PyTorch: A 60 Minute Blitz — PyTorch Tutorials 1.2.0 documentation
 https://github.com/agoila/pytorch-practice/blob/master/PyTorch%20Tutorials.ipynb | pytorch-practice/PyTorch Tutorials.ipynb at master · agoila/pytorch-practice
 https://github.com/ahkarami/Deep-Learning-in-Production | ahkarami/Deep-Learning-in-Production: In this repository, I will share some useful notes and references about deploying deep learning-based models in production.
+https://github.com/vahidk/EffectivePyTorch#broadcast | vahidk/EffectivePyTorch: PyTorch tutorials and best practices.
+https://github.com/bharathgs/Awesome-pytorch-list | bharathgs/Awesome-pytorch-list: A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
