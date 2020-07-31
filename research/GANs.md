@@ -6,6 +6,8 @@ https://paperswithcode.com/paper/improved-techniques-for-training-single-image |
 https://arxiv.org/abs/1907.07171.pdf | On the "steerability" of generative adversarial networks
 https://github.com/facebookresearch/GAN-optimization-landscape | facebookresearch/GAN-optimization-landscape: code to reproduce the empirical results in the research paper
 https://arxiv.org/abs/1906.10112.pdf | GANalyze: Toward Visual Definitions of Cognitive Image Properties
+https://paperswithcode.com/paper/mimicry-towards-the-reproducibility-of-gan-1 | Mimicry: Towards the Reproducibility of GAN Research
+https://paperswithcode.com/paper/token-manipulation-generative-adversarial | Token Manipulation Generative Adversarial Network for Text Generation
 
 ### Training and Stability of Gans
 
@@ -167,9 +169,6 @@ https://arxiv.org/abs/1809.11096.pdf | 1809.11096.pdf
 http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Generative_Image_Inpainting_CVPR_2018_paper.pdf | Generative Image Inpainting With Contextual Attention
 https://arxiv.org/abs/1811.10597.pdf | 1811.10597.pdf
 https://arxiv.org/abs/1909.05829.pdf | 1909.05829.pdf
-https://github.com/learnables/learn2learn/tree/master | learnables/learn2learn: PyTorch Meta-learning Framework for Researchers
-http://learn2learn.net/docs/learn2learn.algorithms/ | learn2learn.algorithms - learn2learn
-http://learn2learn.net/docs/learn2learn/ | learn2learn - learn2learn
 
 https://arxiv.org/abs/1812.02734.pdf | 1812.02734.pdf
 

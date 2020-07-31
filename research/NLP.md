@@ -108,7 +108,6 @@ https://paperswithcode.com/task/dialogue-generation | : Dialogue Generation
 https://paperswithcode.com/sota | Browse the State-of-the-Art in Machine Learning
 https://paperswithcode.com/task/knowledge-base-population/latest#code | : Knowledge Base Population
 https://paperswithcode.com/task/recommendation-systems/latest#code | : Recommendation Systems
-https://paperswithcode.com/task/causal-inference | : Causal Inference
 https://paperswithcode.com/task/neural-network-compression/latest#code | : Neural Network Compression
 https://paperswithcode.com/task/knowledge-graphs/latest#code | : Knowledge Graphs
 https://paperswithcode.com/task/knowledge-base-completion | : Knowledge Base Completion

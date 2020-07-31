@@ -31,7 +31,6 @@ https://arxiv.org/abs/1610.05182 | [1610.05182] Learning and Transfer of Modulat
 https://arxiv.org/abs/1805.08296 | [1805.08296] Data-Efficient Hierarchical Reinforcement Learning
 https://arxiv.org/abs/1906.07343 | [1906.07343] Language as an Abstraction for Hierarchical Deep Reinforcement Learning
 https://www.biorxiv.org/content/10.1101/295964v2 | Prefrontal Cortex as a Meta-Reinforcement Learning System | bioRxiv
-https://arxiv.org/abs/1901.08162 | [1901.08162] Causal Reasoning from Meta-reinforcement Learning
 https://arxiv.org/abs/1710.03748 | [1710.03748] Emergent Complexity via Multi-Agent Competition
 https://arxiv.org/abs/1711.00482 | [1711.00482] Learning with Latent Language
 http://cs330.stanford.edu/#topics | CS 330 Deep Multi-Task and Meta Learning
@@ -55,12 +54,7 @@ https://arxiv.org/abs/1905.12941.pdf | Learning Compositional Neural Programs wi
 https://arxiv.org/abs/1910.06764.pdf | Stabilizing Transformers for Reinforcement Learning
 http://delivery.acm.org/10.1145/3360000/3351094/p1543-duan.pdf?ip=196.207.120.77&id=3351094&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572177329_8e0602267436eaebaa93882eaf22b0f5 | Watch, Reason and Code: Learning to Represent Videos Using Program
 https://arxiv.org/abs/1901.02875.pdf | Learning to Infer and Execute 3D Shape Programs
-https://arxiv.org/abs/1904.11694.pdf | Neural Logic Machines
-https://arxiv.org/abs/1909.00668.pdf | Logic and the Simplicial Transformer
-https://arxiv.org/abs/1910.08629.pdf | Neural Logic Networks
-https://link.springer.com/article/10.1023/A:1008328630915 | The Connectionist Inductive Learning and Logic Programming System | SpringerLink
-https://arxiv.org/abs/1906.06805.pdf | Neural Theorem Provers Do Not Learn Rules Without Exploration
-https://arxiv.org/abs/1904.10729.pdf | Neural Logic Reinforcement Learning
+
 
 
 https://openreview.net/forum?id=S1sqHMZCb
@@ -87,3 +81,6 @@ https://arxiv.org/abs/1909.10893v2.pdf | Recurrent Independent Mechanisms
 http://keg.cs.tsinghua.edu.cn/jietang/publications/ACL19-Yu-et-al-MOOC_Concept_Expansion.pdf | ACL19-Yu-et-al-MOOC_Concept_Expansion.pdf
 https://arxiv.org/abs/1906.03717.pdf | Argument Generation with Retrieval, Planning, and Realization
 https://arxiv.org/abs/1912.07544v1.pdf | Planning with Abstract Learned Models While Learning Transferable Subtasks
+https://github.com/learnables/learn2learn/tree/master | learnables/learn2learn: PyTorch Meta-learning Framework for Researchers
+http://learn2learn.net/docs/learn2learn.algorithms/ | learn2learn.algorithms - learn2learn
+http://learn2learn.net/docs/learn2learn/ | learn2learn - learn2learn

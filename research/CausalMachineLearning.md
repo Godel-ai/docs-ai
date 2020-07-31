@@ -29,7 +29,6 @@ We propose to meta-learn causal structures based on how fast a learner adapts to
 https://arxiv.org/abs/1905.13049.pdf | Neural Consciousness Flow
 https://arxiv.org/abs/1811.00497.pdf | Modeling Attention Flow on Graphs
 http://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning.pdf | Differentiable Learning of Logical Rules for Knowledge Base Reasoning
-https://arxiv.org/abs/1809.02193.pdf | Logical Rule Induction and Theory Learning Using Neural Theorem Proving
 https://arxiv.org/abs/1907.05008.pdf | Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology
 https://icml.cc/2012/papers/625.pdf | On Causal and Anticausal Learning
 
@@ -43,3 +42,12 @@ https://arxiv.org/abs/1801.08214 | [1801.08214] Active Neural Localization
 http://openaccess.thecvf.com/content_CVPR_2019/html/Tung_Learning_Spatial_Common_Sense_With_Geometry-Aware_Recurrent_Networks_CVPR_2019_paper.html | CVPR 2019 Open Access Repository
 https://openreview.net/forum?id=H1gN6kSFwS | Learning Neural Causal Models from Unknown Interventions
 https://arxiv.org/abs/1911.10496.pdf | Two Causal Principles for Improving Visual Dialog
+https://arxiv.org/abs/1801.04016.pdf | Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution
+https://arxiv.org/abs/1901.08162 | [1901.08162] Causal Reasoning from Meta-reinforcement Learning
+https://paperswithcode.com/task/causal-inference | : Causal Inference
+https://openreview.net/forum?id=ryxWIgBFPS | A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms
+https://arxiv.org/abs/1807.09341.pdf | Learning Plannable Representations with Causal InfoGAN
+https://arxiv.org/abs/1911.10500.pdf | Causality for Machine Learning
+https://arxiv.org/abs/1709.05321.pdf | Learning Functional Causal Models with Generative Neural Networks
+https://arxiv.org/abs/1912.07538v1.pdf | Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing
+https://openreview.net/forum?id=S1g2skStPB | Causal Discovery with Reinforcement Learning | OpenReview

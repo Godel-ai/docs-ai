@@ -134,8 +134,6 @@ Adapting the AlphaZero algorithm  to remove the need of execution traces to trai
 https://paperswithcode.com/paper/represented-value-function-approach-for-large | : Represented Value Function Approach for Large Scale Multi Agent Reinforcement Learning
 https://paperswithcode.com/paper/biologically-motivated-deep-learning-method | : Biologically-Motivated Deep Learning Method using Hierarchical Competitive Learning
 https://paperswithcode.com/paper/restricting-the-flow-information-bottlenecks-1 | : Restricting the Flow: Information Bottlenecks for Attribution
-https://paperswithcode.com/paper/understanding-and-mitigating-gradient | : Understanding and mitigating gradient pathologies in physics-informed neural networks
-https://arxiv.org/abs/2001.04536v1.pdf | Understanding and mitigating gradient pathologies in physics-informed neural networks
 https://arxiv.org/abs/2001.04451v1.pdf | Reformer: The Efficient Transformer
 https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI | Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI | DeepMind
 https://arxiv.org/abs/1906.00190v1.pdf | Neural Replicator Dynamics
@@ -146,6 +144,7 @@ https://arxiv.org/abs/2001.05140v1.pdf | Graph-Bert: Only Attention is Needed fo
 https://arxiv.org/abs/2001.05016v1.pdf | Neural Arithmetic Units
 https://arxiv.org/abs/1912.12740v1.pdf | Practice of Streaming and Dynamic Graphs: Concepts, Models, Systems, and Parallelism
 https://arxiv.org/abs/1806.02813.pdf | Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings
+https://arxiv.org/abs/1810.10593.pdf | Inverse reinforcement learning for video games
 
 
 ### PPO and RL algorithms

@@ -116,3 +116,5 @@ https://arxiv.org/abs/2003.03772 | [2003.03772] IMRAM: Iterative Matching with R
 https://ieeexplore.ieee.org/abstract/document/9006782 | Multi-Modal Memory Enhancement Attention Network for Image-Text Matching - IEEE Journals & Magazine
 https://arxiv.org/abs/1906.02890 | [1906.02890] Visually Grounded Neural Syntax Acquisition
 https://arxiv.org/abs/1911.09826 | [1911.09826] Factorized Multimodal Transformer for Multimodal Sequential Learning
+https://arxiv.org/abs/1902.09487.pdf | MUREL: Multimodal Relational Reasoning for Visual Question Answering
+https://arxiv.org/abs/1903.12314.pdf | Relation-Aware Graph Attention Network for Visual Question Answering

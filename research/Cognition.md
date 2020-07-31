@@ -4,13 +4,12 @@
 
 https://arxiv.org/abs/1806.01261.pdf | Relational inductive biases, deep learning, and graph networks
 https://science.sciencemag.org/content/331/6022/1279 | How to Grow a Mind: Statistics, Structure, and Abstraction | Science
-https://arxiv.org/abs/1801.04016.pdf | Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution
 https://www.biorxiv.org/content/biorxiv/early/2019/05/20/644534.full.pdf | A theory of learning to infer
 https://deepai.org/publication/small-brain-neural-networks-rapidly-solve-inverse-problems-with-vortex-fourier-encoders | Small-brain neural networks rapidly solve inverse problems with vortex Fourier encoders | DeepAI
+https://www.nature.com/articles/s41467-019-09664-2.pdf | The neural dynamics of hierarchical Bayesian causal inference in multisensory perception
 
 ---
 
-https://arxiv.org/abs/1806.01242.pdf | Graph Networks as Learnable Physics Engines for Inference and Control
 https://arxiv.org/abs/1905.03030.pdf | 1905.03030.pdf
 https://arxiv.org/abs/1909.05862.pdf | 1909.05862.pdf
 https://arxiv.org/abs/1901.08162.pdf | 1901.08162.pdf

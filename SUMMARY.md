@@ -18,6 +18,8 @@
   - [KnowledgeGraphs](research/KnowledgeGraphs.md)
   - [MetaLearning](research/MetaLearning.md)
   - [NLP](research/NLP.md)
+  - [NeuralLogic](research/NeuralLogic.md)
+  - [Physics](research/Physics.md)
   - [Reasoning](research/Reasoning.md)
   - [Random](research/Random.md)
   - [RL&EmbodiedAI](research/RL&EmbodiedAI.md)
