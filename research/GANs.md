@@ -11,6 +11,9 @@ https://paperswithcode.com/paper/token-manipulation-generative-adversarial | Tok
 
 ### Training and Stability of Gans
 
+https://www.google.com/search?q=why+wgan+does+not+converge&oq=why+wgan+does+not+&aqs=chrome.1.69i57j33.4870j0j7&sourceid=chrome&ie=UTF-8 | why wgan does not converge - Google Search
+https://arxiv.org/abs/1801.04406.pdf | Which Training Methods for GANs do actually Converge?
+https://scholar.google.com/scholar?cites=7681139046925332139&as_sdt=2005&sciodt=0,5&hl=en | Odena: Open questions about generative adversarial networks - Google Scholar
 https://arxiv.org/abs/1701.04862.pdf | Towards Principled Methods for Training Generative Adversarial Networks
 https://arxiv.org/abs/1704.00028.pdf | Improved Training of Wasserstein GANs
 https://arxiv.org/abs/1705.07761.pdf | VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning
@@ -101,17 +104,15 @@ http://openaccess.thecvf.com/content_CVPR_2019/papers/Nam_End-To-End_Time-Lapse_
 https://arxiv.org/abs/1808.06601.pdf | 1808.06601.pdf
 https://arxiv.org/abs/1905.08233.pdf | 1905.08233.pdf
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Rhodin_Neural_Scene_Decomposition_for_Multi-Person_Motion_Capture_CVPR_2019_paper.pdf | Neural Scene Decomposition for Multi-Person Motion Capture
-https://arxiv.org/abs/1904.10247.pdf | 1904.10247.pdf
-https://arxiv.org/abs/1904.08379.pdf | https://arxiv.org/abs/1904.08379.pdf
+https://arxiv.org/abs/1904.08379.pdf | Vid2Game: Controllable Characters Extracted from Real-World Videos
 https://arxiv.org/abs/1907.06571.pdf | https://arxiv.org/abs/1907.06571.pdf
-https://arxiv.org/abs/1906.01292.pdf | https://arxiv.org/abs/1906.01292.pdf
-https://arxiv.org/abs/1906.07889.pdf | https://arxiv.org/abs/1906.07889.pdf
-https://arxiv.org/abs/1904.10247.pdf | 1904.10247.pdf
+https://arxiv.org/abs/1906.01292.pdf | Optimal Unsupervised Domain Translation
+https://arxiv.org/abs/1906.07889.pdf | Unsupervised Learning of Object Structure and Dynamics from Videos
+https://arxiv.org/abs/1904.10247.pdf | Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN
 https://www.citi.sinica.edu.tw/papers/yylin/6497-F.pdf | Deep Video Frame Interpolation using Cyclic Frame Generation
 http://openaccess.thecvf.com/content_ECCV_2018/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf | SDC-Net: Video prediction using spatially-displaced convolution
-https://arxiv.org/abs/1712.00080.pdf | https://arxiv.org/abs/1712.00080.pdf
+https://arxiv.org/abs/1712.00080.pdf | Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation
 https://openreview.net/forum?id=rylgEULtdN | FVD: A new Metric for Video Generation | OpenReview
-https://openreview.net/forum?id=rylgEULtdN | pdf
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Inserting_Videos_Into_Videos_CVPR_2019_paper.pdf | Inserting Videos Into Videos
 https://arxiv.org/abs/1805.01934.pdf | Learning to See in the Dark
 https://arxiv.org/abs/1805.08318.pdf | Self-Attention Generative Adversarial Networks
@@ -120,7 +121,6 @@ https://web.stanford.edu/~zollhoef/papers/EG18_RecoSTAR/paper.pdf | State of the
 http://people.csail.mit.edu/sumner/research/deftransfer/Sumner2004DTF.pdf | Sumner2004DTF.pdf
 https://web.stanford.edu/~zollhoef/papers/CVPR2016_Face2Face/paper.pdf | Face2Face: Real-time Face Capture and Reenactment of RGB Videos
 http://kunzhou.net/2012/facewarehouse-tr.pdf | facewarehouse-tr.pdf
-https://web.stanford.edu/~zollhoef/papers/CVPR2016_Face2Face/supple.pdf | supple.pdf
 https://www.google.com/search?safe=active&rlz=1C1CHBF_enUS858US858&sxsrf=ACYBGNQnqyOClsDOWxo8ySwkTiLt_X3gQg%3A1568994509704&ei=zfSEXanFKv_bz7sP49ajoAU&q=face2face%3A+real-time+face+capture+and+reenactment+of+rgb+videos+github&oq=Face2Face%3A+Real-time+Face+Capture+and+Reenactment+of+RGB+Videos&gs_l=psy-ab.1.0.0i71l8.0.0..2611...0.2..0.0.0.......0......gws-wiz.39Vgoctz3ZA | face2face: real-time face capture and reenactment of rgb videos github - Google Search
 https://gist.github.com/iwanao731 | iwanao731’s gists
 https://google.github.io/tacotron/publications/uncovering_latent_style_factors_for_expressive_speech_synthesis/index.html | Audio samples from "Uncovering Latent Style Factors for Expressive Speech Synthesis"
@@ -129,7 +129,7 @@ https://github.com/datitran/face2face-demo | datitran/face2face-demo: pix2pix de
 https://github.com/GordonRen/pose2pose | GordonRen/pose2pose: This is a pix2pix demo that learns from pose and translates this into a human. A webcam-enabled application is also provided that translates your pose to the trained pose. Everybody dance now !
 https://github.com/ESanchezLozano/GANnotation | ESanchezLozano/GANnotation: GANnotation (PyTorch): Landmark-guided face to face synthesis using GANs (And a triple consistency loss!)
 https://github.com/ESanchezLozano/StarGAN-with-Triple-Consistency-Loss | ESanchezLozano/StarGAN-with-Triple-Consistency-Loss: StarGAN with a triple consistency loss
-https://arxiv.org/abs/1811.03492.pdf | 1811.03492.pdf
+https://arxiv.org/abs/1811.03492.pdf | Triple consistency loss for pairing distributions in GAN-based face synthesis
 https://github.com/datitran/face2face-demo | datitran/face2face-demo: pix2pix demo that learns from facial landmarks and translates this into a face
 https://towardsdatascience.com/face2face-a-pix2pix-demo-that-mimics-the-facial-expression-of-the-german-chancellor-b6771d65bf66 | Face2face — A Pix2Pix demo that mimics the facial expression of the German chancellor
 https://arxiv.org/abs/1805.11729.pdf | HeadOn: Real-time Reenactment of Human Portrait Videos
@@ -141,7 +141,7 @@ http://openaccess.thecvf.com/content_cvpr_2017/html/Shu_Neural_Face_Editing_CVPR
 https://dl.acm.org/citation.cfm?id=3201283 | Deep video portraits
 http://openaccess.thecvf.com/content_cvpr_2018/html/Sengupta_SfSNet_Learning_Shape_CVPR_2018_paper.html | CVPR 2018 Open Access Repository
 https://dl.acm.org/citation.cfm?id=3130818 | Bringing portraits to life
-https://arxiv.org/abs/1812.01874.pdf | 1812.01874.pdf
+https://arxiv.org/abs/1812.01874.pdf | Learning to Take Directions One Step at a Time
 
 https://www.google.com/search?safe=active&rlz=1C1CHBF_enUS858US858&sxsrf=ACYBGNQnqyOClsDOWxo8ySwkTiLt_X3gQg%3A1568994509704&ei=zfSEXanFKv_bz7sP49ajoAU&q=face2face%3A+real-time+face+capture+and+reenactment+of+rgb+videos+github&oq=Face2Face%3A+Real-time+Face+Capture+and+Reenactment+of+RGB+Videos&gs_l=psy-ab.1.0.0i71l8.0.0..2611...0.2..0.0.0.......0......gws-wiz.39Vgoctz3ZA | face2face: real-time face capture and reenactment of rgb videos github - Google Search
 https://google.github.io/tacotron/publications/uncovering_latent_style_factors_for_expressive_speech_synthesis/index.html | Audio samples from "Uncovering Latent Style Factors for Expressive Speech Synthesis"

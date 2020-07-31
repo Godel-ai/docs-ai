@@ -12,3 +12,4 @@ https://openreview.net/forum?id=r1lZ7AEKvB | The Logical Expressiveness of Graph
 https://arxiv.org/abs/1911.06643v1.pdf | Forgetting to learn logic programs
 https://openreview.net/forum?id=BJxiqxSYPB | Learning to Prove Theorems by Learning to Generate Theorems
 https://openreview.net/forum?id=S1eZYeHFDS | Deep Learning For Symbolic Mathematics
+https://arxiv.org/abs/2001.05016v1.pdf | Neural Arithmetic Units

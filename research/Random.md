@@ -3,8 +3,6 @@
 http://www.math.le.ac.uk/people/ag153/homepage/sepulchre.pdf | Optimization on manifolds and data processing
 https://web.math.princeton.edu/~nboumal/papers/boumal_optimization_and_estimation_on_manifolds_phd_thesis.pdf | boumal_optimization_and_estimation_on_manifolds_phd_thesis.pdf
 https://arxiv.org/abs/2004.05631v1.pdf | At the Interface of Algebra and Statistics
-
-
 https://arxiv.org/abs/1902.03245.pdf | Ask Not What AI Can Do, But What AI Should Do: Towards a Framework of Task Delegability
 http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf | turing.pdf
 https://arxiv.org/abs/2003.10536v1.pdf | ProGraML: Graph-based Deep Learning for Program Optimization and Analysis
@@ -22,7 +20,6 @@ https://arxiv.org/abs/1905.13049 | [1905.13049] Neural Consciousness Flow
 https://nlp.stanford.edu/pubs/emnlp2015_2_jiwei.pdf | When Are Tree Structures Necessary for Deep Learning of Representations?
 https://scholar.google.com/scholar?start=20&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2016&cites=6568395747360267252&scipsc= | Rolnick: Experience replay for continual learning - Google Scholar
 https://openreview.net/forum?id=HJllSVBgLH | Cross-channel Communication Networks
-
 https://scholar.google.com/scholar?safe=active&sxsrf=ALeKk018TpsnXwJtn_lO0482qyrbdU0f1w:1585041270402&uact=5&um=1&ie=UTF-8&lr&cites=16122983999526866358 | Rios: Closed-loop memory GAN for continual learning - Google Scholar
 https://arxiv.org/abs/1811.01146.pdf | 1811.01146.pdf
 https://www.sciencedirect.com/science/article/pii/S0092867419306403 | Human Replay Spontaneously Reorganizes Experience - ScienceDirect
@@ -68,12 +65,8 @@ https://arxiv.org/abs/1912.05783.pdf |Learning from Learning Machines: Optimisat
 https://arxiv.org/abs/1912.00444.pdf | Automated curriculum generation for Policy Gradients from Demonstrations
 http://www.faculty.idc.ac.il/arik/site/writeVideo.asp | Ariel Shamir's Homepage
 https://github.com/dianchen96/LearningByCheating | dianchen96/LearningByCheating: Driving in CARLA using waypoints and two-stage imitation learning
-
-### Awesome Papers
-
 https://pdfs.semanticscholar.org/7416/6384ad391513e8e8bf48cbeaff2516b8c332.pdf | Learning Multimodal Representations with Factorized Deep Generative Models
 https://arxiv.org/abs/1909.10893.pdf | 1909.10893.pdf
-
 https://openreview.net/forum?id=HJgzt2VKPB | CATER: A diagnostic dataset for Compositional Actions & TEmporal Reasoning | OpenReview
 https://github.com/openai/multi-agent-emergence-environments | openai/multi-agent-emergence-environments: Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
 https://github.com/ixaxaar/pytorch-dnc | ixaxaar/pytorch-dnc: Differentiable Neural Computers, Sparse Access Memory and Sparse Differentiable Neural Computers, for Pytorch
@@ -88,7 +81,6 @@ https://arxiv.org/abs/1907.01470.pdf | Augmenting Self-attention with Persistent
 https://arxiv.org/abs/1907.05242.pdf | Large Memory Layers with Product Keys
 http://lolita.unice.fr/~scheer/cogsci/Smolensky%2087%20-%20Connectionist%20AI,%20symbolic%20AI,%20and%20the%20brain.pdf | Connectionist AI, symbolic AI, and the brain
 https://arxiv.org/abs/1910.11424v1.pdf | Capacity, Bandwidth, and Compositionality in Emergent Language Learning
-
 https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf | Predicting Scene Parsing and Motion Dynamics in the Future
 http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Optical_Flow_Guided_CVPR_2018_paper.pdf | Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition
 https://github.com/kevin-ssy/Optical-Flow-Guided-Feature | kevin-ssy/Optical-Flow-Guided-Feature: Implementation Code of the paper Optical Flow Guided Feature, CVPR 2018
@@ -135,11 +127,8 @@ https://arxiv.org/abs/1805.04276.pdf | 1805.04276.pdf
 https://arxiv.org/abs/1703.06868.pdf | 1703.06868.pdf
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Normalized_Diversification_CVPR_2019_paper.pdf | Normalized Diversification
 https://arxiv.org/abs/1903.02225.pdf | 1903.02225.pdf
-
-
 https://scholar.google.com/citations?hl=en&user=PjEHjPEAAAAJ&view_op=list_works&sortby=pubdate | Azalia Mirhoseini - Google Scholar Citations
 https://arxiv.org/abs/1706.04972.pdf | Device Placement Optimization with Reinforcement Learning
-https://papers.nips.cc/paper/7836-memory-replay-gans-learning-to-generate-new-categories-without-forgetting.pdf | Memory Replay GANs: Learning to Generate New Categories without Forgetting
 https://acmccs.github.io/papers/p603-hitajA.pdf | Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning
 https://arxiv.org/abs/1906.04604.pdf | Write, Execute, Assess: Program Synthesis with a REPL
 https://invertibleworkshop.github.io/accepted_papers/pdfs/INNF_2019_paper_26.pdf | Invertible Convolutional Networks
@@ -149,7 +138,6 @@ https://arxiv.org/abs/1911.04690.pdf | 1911.04690.pdf
 https://www.youtube.com/watch?v=UzdwAyfvcfY | Sorting Networks Part 1 - Intro to Parallel Programming - YouTube
 https://arxiv.org/abs/1906.08253.pdf | 1906.08253.pdf
 https://www.google.com/search?q=stanford+Ignite+2019&rlz=1C1CHBF_enUS858US858&oq=stanford+Ignite+2019&aqs=chrome..69i57j69i64&sourceid=chrome&ie=UTF-8 | stanford Ignite 2019 - Google Search
-
 https://arxiv.org/abs/1910.12713.pdf | 1910.12713.pdf
 https://arxiv.org/abs/1711.03902 | [1711.03902] Neural-Symbolic Learning and Reasoning: A Survey and Interpretation
 https://arxiv.org/abs/1812.05433.pdf | 1812.05433.pdf
@@ -158,7 +146,6 @@ https://arxiv.org/abs/1909.05862v2.pdf | 1909.05862v2.pdf
 https://arxiv.org/abs/1910.04302 | [1910.04302] Prescribed Generative Adversarial Networks
 https://arxiv.org/ftp/arxiv/papers/1507/1507.05679.pdf | 1507.05679.pdf
 https://invertibleworkshop.github.io/accepted_papers/pdfs/INNF_2019_paper_26.pdf | Invertible Convolutional Networks
-
 https://arxiv.org/abs/1905.07553.pdf | 1905.07553.pdf
 https://arxiv.org/abs/1906.01470.pdf | 1906.01470.pdf
 https://arxiv.org/abs/1904.05866.pdf | 1904.05866.pdf
@@ -166,7 +153,6 @@ https://arxiv.org/abs/1910.06764.pdf | 1910.06764.pdf
 http://acsweb.ucsd.edu/~wfedus/pdf/replay.pdf | Revisiting Fundamentals of Experience Replay
 https://arxiv.org/abs/2003.03919.pdf | 2003.03919.pdf
 https://arxiv.org/abs/2005.14165.pdf | 2005.14165.pdf
-
 https://arxiv.org/abs/2004.12974.pdf | 2004.12974.pdf
 https://arxiv.org/abs/2004.14404.pdf | 2004.14404.pdf
 https://arxiv.org/abs/2004.12570.pdf | 2004.12570.pdf
@@ -210,7 +196,6 @@ https://mbio.asm.org/content/mbio/11/1/e02780-19.full.pdf | Gut Feelings Begin i
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Fang_Scene_Memory_Transformer_for_Embodied_Agents_in_Long-Horizon_Tasks_CVPR_2019_paper.pdf | Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks
 https://grakn.ai/ | Grakn: The Knowledge Graph
 https://arxiv.org/abs/1906.08253.pdf | 1906.08253.pdf
-
 https://arxiv.org/abs/1912.04977.pdf | 1912.04977.pdf
 http://proceedings.mlr.press/v97/cortes19a/cortes19a.pdf | cortes19a.pdf
 http://proceedings.mlr.press/v97/cortes19b/cortes19b.pdf | Active Learning with Disagreement Graphs
@@ -312,7 +297,6 @@ https://github.com/facebookresearch/agem | facebookresearch/agem: Official imple
 https://arxiv.org/abs/1812.00420.pdf | Efficient Lifelong Learning with A-GEM
 https://arxiv.org/abs/1902.10486.pdf | On Tiny Episodic Memories in Continual Learning
 https://papers.nips.cc/paper/7225-gradient-episodic-memory-for-continual-learning.pdf | Gradient Episodic Memory for Continual Learning
-http://papers.nips.cc/paper/7836-memory-replay-gans-learning-to-generate-new-categories-without-forgetting.pdf | Memory Replay GANs: Learning to Generate New Categories without Forgetting
 https://www.sciencedirect.com/science/article/pii/S0893608019300231 | Continual lifelong learning with neural networks: A review - ScienceDirect
 http://openaccess.thecvf.com/content_ECCV_2018/html/Rahaf_Aljundi_Memory_Aware_Synapses_ECCV_2018_paper.html | ECCV 2018 Open Access Repository
 https://arxiv.org/abs/1805.06370 | [1805.06370] Progress & Compress: A scalable framework for continual learning
@@ -333,9 +317,7 @@ https://github.com/facebookresearch/EGG | facebookresearch/EGG: EGG: Emergence o
 
 https://www.google.com/search?q=adamw&oq=adamw&aqs=chrome.0.0l8.3103j0j7&sourceid=chrome&ie=UTF-8 | adamw - Google Search
 https://www.fast.ai/2018/07/02/adam-weight-decay/ | AdamW and Super-convergence is now the fastest way to train neural nets · fast.ai
-https://www.google.com/search?q=why+wgan+does+not+converge&oq=why+wgan+does+not+&aqs=chrome.1.69i57j33.4870j0j7&sourceid=chrome&ie=UTF-8 | why wgan does not converge - Google Search
-https://arxiv.org/abs/1801.04406.pdf | Which Training Methods for GANs do actually Converge?
-https://scholar.google.com/scholar?cites=7681139046925332139&as_sdt=2005&sciodt=0,5&hl=en | Odena: Open questions about generative adversarial networks - Google Scholar
+
 https://distill.pub/2019/gan-open-problems/?utm_campaign=piqcy&utm_medium=email&utm_source=Revue%20newsletter#advx | Open Questions about Generative Adversarial Networks
 https://github.com/facebookresearch/detectron2/blob/master/projects/DensePose/README.md | detectron2/README.md at master · facebookresearch/detectron2
 https://arxiv.org/abs/2001.07685 | [2001.07685] FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence
@@ -348,7 +330,6 @@ https://paperswithcode.com/paper/local-self-attention-over-long-text-for | Local
 https://paperswithcode.com/paper/epipolar-transformers | Epipolar Transformers |
 
 https://arxiv.org/abs/1911.03350v1.pdf | Ask to Learn: A Study on Curiosity-driven Question Generation
-https://github.com/ali-design/gan_steerability | ali-design/gan_steerability: On the "steerability" of generative adversarial networks
 https://arxiv.org/abs/1905.13192.pdf | Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels
 https://arxiv.org/abs/1809.02670.pdf | RetGK: Graph Kernels based on Return Probabilities of Random Walks
 https://openreview.net/forum?id=HJgySxSKvB | Deep Relational Factorization Machines | OpenReview

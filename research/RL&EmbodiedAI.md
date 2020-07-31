@@ -141,7 +141,6 @@ https://arxiv.org/abs/1903.05614v3.pdf | Computing Approximate Equilibria in Seq
 https://arxiv.org/abs/2001.04959v1.pdf | High–Dimensional Brain in a High-Dimensional World: Blessing of Dimensionality
 https://arxiv.org/abs/2001.04947v1.pdf | Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation
 https://arxiv.org/abs/2001.05140v1.pdf | Graph-Bert: Only Attention is Needed for Learning Graph Representations
-https://arxiv.org/abs/2001.05016v1.pdf | Neural Arithmetic Units
 https://arxiv.org/abs/1912.12740v1.pdf | Practice of Streaming and Dynamic Graphs: Concepts, Models, Systems, and Parallelism
 https://arxiv.org/abs/1806.02813.pdf | Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings
 https://arxiv.org/abs/1810.10593.pdf | Inverse reinforcement learning for video games
@@ -159,7 +158,6 @@ https://www.google.com/search?q=A+framework+for+the+cooperation+of+learning+algo
 https://www.google.com/search?q=Motivation+and+cognitive+control%3A+from+behavior+to+neural+mechanism&rlz=1C1CHBF_enUS858US858&oq=Motivation+and+cognitive+control%3A+from+behavior+to+neural++mechanism&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Motivation and cognitive control: from behavior to neural mechanism - Google Search
 https://www.google.com/search?q=Neural+module+networks&rlz=1C1CHBF_enUS858US858&oq=Neural+module+networks&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Neural module networks - Google Search
 https://arxiv.org/abs/1709.08568 | [1709.08568] The Consciousness Prior
-https://www.nature.com/nathumbehav/ | Nature Human Behaviour
 https://www.google.com/search?q=Learning+to+decompose+neural+computation.&rlz=1C1CHBF_enUS858US858&oq=Learning+to+decompose+neural++computation.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Learning to decompose neural computation. - Google Search
 https://www.google.com/search?q=Routing+networks+and+the+challenges+of+modular+and+compositional+computation&rlz=1C1CHBF_enUS858US858&oq=Routing+networks+and+the++challenges+of+modular+and+compositional+computation&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Routing networks and the challenges of modular and compositional computation - Google Search
 https://www.google.com/search?q=challenging+common+assumptions+in+the+unsupervised+learning+of+disentangled+representations&rlz=1C1CHBF_enUS858US858&oq=challen&aqs=chrome.1.69i57j35i39j0l2j69i60l2.4878j0j7&sourceid=chrome&ie=UTF-8 | challenging common assumptions in the unsupervised learning of disentangled representations - Google Search
