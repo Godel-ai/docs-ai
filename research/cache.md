@@ -983,6 +983,8 @@ https://github.com/ICLR20/STOVE | ICLR20/STOVE: Anonymous ICLR 2020 Submission: 
 
 ---
 
+### Meta-induction and AI-Cognitive Sciences
+
 https://papers.nips.cc/paper/6803-neural-program-meta-induction.pdf | Neural Program Meta-Induction
 https://openreview.net/pdf?id=H1gfOiAqYm | pdf
 https://arxiv.org/pdf/1905.12941.pdf | 1905.12941.pdf
@@ -1036,6 +1038,8 @@ https://arxiv.org/pdf/1902.01109.pdf | 1902.01109.pdf
 
 ---
 
+### Cognitive Science
+
 https://arxiv.org/pdf/1806.01261.pdf | 1806.01261.pdf
 https://arxiv.org/pdf/1806.01261.pdf | 1806.01261.pdf
 https://science.sciencemag.org/content/331/6022/1279 | How to Grow a Mind: Statistics, Structure, and Abstraction | Science
@@ -1063,6 +1067,8 @@ https://arxiv.org/pdf/1901.10912.pdf | 1901.10912.pdf
 http://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs.pdf | GLoMo: Unsupervised Learning of Transferable Relational Graphs
 
 ---
+
+### Relational Networks, Decompose and Disentangle
 
 http://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf | Learning to Decompose and Disentangle Representations for Video Prediction
 https://arxiv.org/pdf/1612.00341.pdf | 1612.00341.pdf
@@ -1095,6 +1101,8 @@ https://www.draw.io/?state=%7B%22ids%22:%5B%221FMaEdF6Rpulur91juHiopazEv2Zw-T1T%
 
 ---
 
+### Graph and Interaction Networks
+
 https://arxiv.org/pdf/1908.08522.pdf | 1908.08522.pdf
 https://arxiv.org/pdf/1612.00341.pdf | 1612.00341.pdf
 http://papers.nips.cc/paper/6418-interaction-networks-for-learning-about-objects-relations-and-physics.pdf | Interaction Networks for Learning about Objects, Relations and Physics
@@ -1123,18 +1131,14 @@ https://arxiv.org/pdf/1910.01578.pdf | 1910.01578.pdf
 https://is.mpg.de/uploads_file/attachment/attachment/543/zhu_gcpr2019_physvidpred.pdf | zhu_gcpr2019_physvidpred.pdf
 https://arxiv.org/pdf/1909.12271.pdf | 1909.12271.pdf
 https://arxiv.org/pdf/1909.03749.pdf | 1909.03749.pdf
-https://ieeexplore.ieee.org/abstract/document/8824797 | Automatic GDSII Generator for On-Chip Voltage Regulator for Easy Integration in Digital SoCs - IEEE Conference Publication
 http://news.mit.edu/2019/image-proteins-synapses-0926 | Technique can image individual proteins within synapses | MIT News
 
 ---
 
-http://www.arxiv-sanity.com/toptwtr?timefilter=week | Arxiv Sanity Preserver
 https://arxiv.org/ftp/arxiv/papers/1910/1910.02060.pdf | 1910.02060.pdf
 https://arxiv.org/pdf/1910.01075v1.pdf | 1910.01075v1.pdf
 https://arxiv.org/pdf/1910.01727v2.pdf | 1910.01727v2.pdf
 https://arxiv.org/pdf/1907.02544v1.pdf | 1907.02544v1.pdf
-https://drive.google.com/drive/my-drive | My Drive - Google Drive
-https://docs.google.com/presentation/d/1x0ids1QJEXyWUoS-eI1rF7bypsePUC-ZglMlae15CLg/edit#slide=id.g64ed2416a7_0_0 | Copy of HUL 290 PPT - Google Slides
 
 ---
 
@@ -1242,7 +1246,6 @@ http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Deep_Flow-Guided_Video_
 https://arxiv.org/pdf/1905.11833.pdf | https://arxiv.org/pdf/1905.11833.pdf
 https://arxiv.org/pdf/1904.11955.pdf | 1904.11955.pdf
 
-https://github.com/missionfission?tab=stars | Your Stars
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiao_MirrorGAN_Learning_Text-To-Image_Generation_by_Redescription_CVPR_2019_paper.pdf | MirrorGAN: Learning Text-To-Image Generation by Redescription
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Inserting_Videos_Into_Videos_CVPR_2019_paper.pdf | Inserting Videos Into Videos
 https://arxiv.org/pdf/1606.03126.pdf | 1606.03126.pdf
@@ -1253,10 +1256,11 @@ https://aws.amazon.com/machine-learning/containers/?nc2=h_ql_prod_ml_con | Docke
 https://aws.amazon.com/machine-learning/amis/?nc2=h_ql_prod_ml_amis | Amazon Deep Learning AMIs
 https://aws.amazon.com/blogs/machine-learning/get-started-with-deep-learning-using-the-aws-deep-learning-ami/ | Get Started with Deep Learning Using the AWS Deep Learning AMI | AWS Machine Learning Blog
 
-https://www.overleaf.com/project | Your Projects - Overleaf, Online LaTeX Editor
 https://arxiv.org/pdf/1903.07754.pdf | 1903.07754.pdf
 
 ---
+
+### CVPR 2019 Papers
 
 https://dblp1.uni-trier.de/db/conf/cvpr/ | dblp: Computer Vision and Pattern Recognition
 http://openaccess.thecvf.com/CVPR2019.py | CVPR 2019 Open Access Repository
@@ -1307,7 +1311,6 @@ https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA | CodeEmporium - YouTub
 ---
 
 https://arxiv.org/pdf/1802.05098.pdf | DiCE: The Infinitely Differentiable Monte Carlo Estimator
-https://arxiv.org/pdf/1907.10515.pdf | BagNet: Berkeley Analog Generator with Layout Optimizer Boosted with Deep Neural Networks
 https://arxiv.org/pdf/1901.08162.pdf | 1901.08162.pdf
 https://arxiv.org/pdf/1710.03748.pdf | 1710.03748.pdf
 https://arxiv.org/pdf/1909.09148v1.pdf | 1909.09148v1.pdf
@@ -1325,6 +1328,8 @@ https://arxiv.org/pdf/1810.04805.pdf | 1810.04805.pdf
 https://arxiv.org/pdf/1906.07343.pdf | 1906.07343.pdf
 
 ---
+
+### Meta-Learning
 
 http://cs330.stanford.edu/ | CS 330 Deep Multi-Task and Meta Learning
 http://web.stanford.edu/class/cs330/material/homework_1_final.pdf | homework_1_final.pdf
@@ -1360,8 +1365,10 @@ https://arxiv.org/abs/1711.04043 | [1711.04043] Few-Shot Learning with Graph Neu
 https://ai.googleblog.com/2019/02/introducing-planet-deep-planning.html? | Google AI Blog: Introducing PlaNet: A Deep Planning Network for Reinforcement Learning
 https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=en | Sergey Levine - Google Scholar Citations
 
-https://drive.google.com/drive/folders/1RzVDPtJJpDZ1gQz3KisYeQfpsqEqCIy7 | Draw - Google Drive
-https://www.draw.io/?state=%7B%22folderId%22:%221RzVDPtJJpDZ1gQz3KisYeQfpsqEqCIy7%22,%22action%22:%22create%22,%22userId%22:%22108022590165011159501%22%7D#G1FMaEdF6Rpulur91juHiopazEv2Zw-T1T | Video Synthesis.drawio - draw.io
+---
+
+### GANs
+
 https://arxiv.org/pdf/1907.06571.pdf | 1907.06571.pdf
 https://arxiv.org/pdf/1809.11096.pdf | 1809.11096.pdf
 https://arxiv.org/pdf/1610.07629.pdf | 1610.07629.pdf
@@ -1372,6 +1379,11 @@ http://www.arxiv-sanity.com/toptwtr?timefilter=month | Arxiv Sanity Preserver
 https://arxiv.org/pdf/1909.03186v1.pdf | AAAI Press Formatting Instructions for Authors Using LaTeX -- A Guide
 https://arxiv.org/pdf/1909.05483v1.pdf | 1909.05483v1.pdf
 https://moodle.iitd.ac.in/question/category.php?courseid=8502 | Edit categories
+
+---
+
+### GANs
+
 
 http://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf | MoCoGAN: Decomposing Motion and Content for Video Generation
 https://github.com/sergeytulyakov/mocogan | sergeytulyakov/mocogan: MoCoGAN: Decomposing Motion and Content for Video Generation
@@ -1393,6 +1405,11 @@ http://openaccess.thecvf.com/content_CVPRW_2019/html/MBCCV/Sidorov_Changing_the_
 https://arxiv.org/abs/1909.07957 | [1909.07957] An Internal Learning Approach to Video Inpainting
 https://arxiv.org/abs/1901.02212 | [1901.02212] FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals
 
+---
+
+### GANs
+
+
 https://arxiv.org/pdf/1908.09514.pdf | https://arxiv.org/pdf/1908.09514.pdf
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Nam_End-To-End_Time-Lapse_Video_Synthesis_From_a_Single_Outdoor_Image_CVPR_2019_paper.pdf | End-To-End Time-Lapse Video Synthesis From a Single Outdoor Image
 https://arxiv.org/pdf/1808.06601.pdf | 1808.06601.pdf
@@ -1413,6 +1430,10 @@ http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Inserting_Videos_Into_
 http://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf | MoCoGAN: Decomposing Motion and Content for Video Generation
 https://arxiv.org/pdf/1805.01934.pdf |
 https://arxiv.org/pdf/1812.02734.pdf |
+
+---
+
+### GANs
 
 https://arxiv.org/pdf/1805.08318.pdf | Self-Attention Generative Adversarial Networks
 http://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3073640 | Sci-Hub | Synthesizing Obama. ACM Transactions on Graphics, 36(4), 1–13 | 10.1145/3072959.3073640
@@ -1443,7 +1464,6 @@ http://openaccess.thecvf.com/content_cvpr_2018/html/Sengupta_SfSNet_Learning_Sha
 https://dl.acm.org/citation.cfm?id=3130818 | Bringing portraits to life
 https://arxiv.org/pdf/1812.01874.pdf | 1812.01874.pdf
 
-https://www.youtube.com/watch?v=ZQryUvMpGk8 | Bean SWIMMING | Mr Bean Full Episodes | Mr Bean Official - YouTube
 https://www.google.com/search?safe=active&rlz=1C1CHBF_enUS858US858&sxsrf=ACYBGNQnqyOClsDOWxo8ySwkTiLt_X3gQg%3A1568994509704&ei=zfSEXanFKv_bz7sP49ajoAU&q=face2face%3A+real-time+face+capture+and+reenactment+of+rgb+videos+github&oq=Face2Face%3A+Real-time+Face+Capture+and+Reenactment+of+RGB+Videos&gs_l=psy-ab.1.0.0i71l8.0.0..2611...0.2..0.0.0.......0......gws-wiz.39Vgoctz3ZA | face2face: real-time face capture and reenactment of rgb videos github - Google Search
 https://google.github.io/tacotron/publications/uncovering_latent_style_factors_for_expressive_speech_synthesis/index.html | Audio samples from "Uncovering Latent Style Factors for Expressive Speech Synthesis"
 https://github.com/GordonRen/pose2pose | GordonRen/pose2pose: This is a pix2pix demo that learns from pose and translates this into a human. A webcam-enabled application is also provided that translates your pose to the trained pose. Everybody dance now !
@@ -1458,8 +1478,11 @@ https://dl.acm.org/citation.cfm?id=3201283 | Deep video portraits
 https://arxiv.org/pdf/1812.01874.pdf | 1812.01874.pdf
 https://arxiv.org/pdf/1802.05957.pdf | 1802.05957.pdf
 
-https://www.youtube.com/watch?v=PV4LMYstfnI&list=RDrxMmistOjCA&index=2 | Prada (Duro Duro)- The Doorbeen | Alia Bhatt | Shreya Sharma | Latest Hits 2019 - YouTube
-https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox | Inbox - iaskhushal@gmail.com - Gmail
+
+---
+### GANs
+
+
 https://arxiv.org/pdf/1812.01874.pdf | 1812.01874.pdf
 https://arxiv.org/pdf/1802.05957.pdf | 1802.05957.pdf
 https://arxiv.org/pdf/1803.04477.pdf | 1803.04477.pdf
@@ -1481,20 +1504,8 @@ https://github.com/learnables/learn2learn/tree/master | learnables/learn2learn: 
 http://learn2learn.net/docs/learn2learn.algorithms/ | learn2learn.algorithms - learn2learn
 http://learn2learn.net/docs/learn2learn/ | learn2learn - learn2learn
 
-https://www.google.com/search?q=Nicolai+Meinshausen&rlz=1C1CHBF_enUS858US858&oq=Nicolai+Meinshausen&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Nicolai Meinshausen - Google Search
-https://www.google.com/search?q=Mihaela+van+der+Schaar&rlz=1C1CHBF_enUS858US858&oq=Mihaela+van+der+Schaar&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Mihaela van der Schaar - Google Search
-https://scholar.google.com/citations?user=_koixUEAAAAJ&hl=en | Stefan Wager - Google Scholar Citations
-https://scholar.google.com/citations?hl=en&user=ZyKrSZcAAAAJ&view_op=list_works&sortby=pubdate | Ilya Shpitser - Google Scholar Citations
-https://scholar.google.com/citations?hl=en&user=dIJFcaoAAAAJ&view_op=list_works&sortby=pubdate | Caroline Uhler - Google Scholar Citations
-https://scholar.google.co.in/citations?hl=en&user=fkDxJxcAAAAJ&view_op=list_works&sortby=pubdate | Tor Lattimore - Google Scholar Citations
-
 https://arxiv.org/pdf/1812.02734.pdf | 1812.02734.pdf
 
-https://github.com/ucb-art | ucb-art
-https://github.com/ucb-art/BAG_framework | ucb-art/BAG_framework
-https://github.com/HazyResearch/learning-circuits | HazyResearch/learning-circuits: Learning Fast Algorithms for Linear Transforms Using Butterfly Factorizations
-
-https://www.youtube.com/watch?v=rXoJzj-s0DM&list=PL_bDvITUYucD54Ym5XKGqTv9xNsrOX0aS&index=27 | CVPR18: Tutorial: Part 4: Generative Adversarial Networks - YouTube
 https://dblp1.uni-trier.de/db/conf/siggraph/siggraph2019posters.html | dblp: SIGGRAPH 2019 Posters
 https://scholar.google.com/scholar?as_ylo=2019&hl=en&as_sdt=2005&sciodt=0,5&cites=3120460092236365926&scipsc= | Wang: Video-to-video synthesis - Google Scholar
 https://arxiv.org/pdf/1808.06601.pdf | 1808.06601.pdf
@@ -1791,25 +1802,5 @@ https://arxiv.org/pdf/1906.04604.pdf | 1906.04604.pdf
 https://arxiv.org/pdf/1906.08495.pdf | 1906.08495.pdf
 https://invertibleworkshop.github.io/accepted_papers/pdfs/INNF_2019_paper_26.pdf | Invertible Convolutional Networks
 https://arxiv.org/pdf/1906.02773.pdf | 1906.02773.pdf
-
----
-
-## From Bookmarks
-
----
-
-### Vision
-
----
-
-### NLP
-
----
-
-### RL & EmbodiedAI
-
----
-
-### Others
 
 ---
