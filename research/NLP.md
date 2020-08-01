@@ -161,3 +161,38 @@ https://arxiv.org/abs/1808.01400 | [1808.01400] code2seq: Generating Sequences f
 https://arxiv.org/abs/1811.12359 | [1811.12359] Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations
 https://github.com/facebookresearch/LAMA | facebookresearch/LAMA: LAnguage Model Analysis
 https://arxiv.org/abs/1909.01066v2.pdf | Language Models as Knowledge Bases
+
+https://github.com/IBM/build-knowledge-base-with-domain-specific-documents/blob/master/README.md | build-knowledge-base-with-domain-specific-documents/README.md at master · IBM/build-knowledge-base-with-domain-specific-documents
+https://www.google.com/search?q=extract+explanatory+graph+from+documents&oq=extract+explanatory+graph+from+documents&aqs=chrome..69i57j33l2.9350j1j7&sourceid=chrome&ie=UTF-8 | extract explanatory graph from documents - Google Search
+http://www.cs.cmu.edu/~jure/pubs/nlpspo-msrtr05.pdf | Microsoft Word - SummaryExtraction-MSR-TR-2005-07\_\_2.doc
+https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=8846276665737588875 | Leskovec: Extracting summary sentences based on the... - Google Scholar
+https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=7405906790041713880 | Leskovec: Learning sub-structures of document semantic... - Google Scholar
+https://paperswithcode.com/paper/longformer-the-long-document-transformer#code | Papers with Code - Longformer: The Long-Document Transformer
+https://paperswithcode.com/area/natural-language-processing | Papers with Code - Natural Language Processing
+https://paperswithcode.com/task/extractive-document-summarization | Papers with Code - Extractive Document Summarization
+https://www.google.com/search?q=Extractive+Document+Summarization&oq=Extractive+Document+Summarization&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8 | Extractive Document Summarization - Google Search
+https://github.com/nlpyang/BertSum | nlpyang/BertSum: Code for paper Fine-tune BERT for Extractive Summarization
+https://arxiv.org/pdf/1903.10318.pdf | 1903.10318.pdf
+http://nlpprogress.com/ | Tracking Progress in Natural Language Processing | NLP-progress
+http://nlpprogress.com/english/summarization.html | Summarization | NLP-progress
+https://github.com/sebastianruder/NLP-progress/pull/443 | Vision and Language tasks by shubhamagarwal92 · Pull Request #443 · sebastianruder/NLP-progress
+https://www.aclweb.org/anthology/S18-1116/ | CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym Discovery - ACL Anthology
+http://nlpprogress.com/english/information_extraction.html | Information Extraction | NLP-progress
+https://github.com/cchen156/Learning-to-See-in-the-Dark | cchen156/Learning-to-See-in-the-Dark: Learning to See in the Dark. CVPR 2018
+https://www.google.com/search?q=scientific+paper+summarisation&oq=scientific+paper+summarisation&aqs=chrome..69i57.7566j1j7&sourceid=chrome&ie=UTF-8 | scientific paper summarisation - Google Search
+https://github.com/EdCo95/scientific-paper-summarisation | EdCo95/scientific-paper-summarisation: Machine learning models to automatically summarise scientific papers
+https://www.aclweb.org/anthology/C08-1087.pdf | Scientific Paper Summarization Using Citation Summary Networks
+https://www.aclweb.org/anthology/K17-1021.pdf | A Supervised Approach to Extractive Summarisation of Scientific Papers
+https://arxiv.org/abs/1804.08875 | [1804.08875] Data-driven Summarization of Scientific Articles
+https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=7654808976333693401 | Nikolov: Data-driven summarization of scientific articles - Google Scholar
+https://domains.google.com/m/registrar/search?searchTerm=scienceprogress&tab=1 | Google Domains - Get a new domain
+https://sedo.com/search/details/?partnerid=324709&domain=scienceprogress.com | scienceprogress.com is available for purchase - Sedo.com
+https://sedo.com/us/sell-domains/?session=44edbecb8609ff282099c45776a6e3a0&cHash=79710dc79f4bc6aafb8050ca818cb048 | Sell domains on the world's largest domain marketplace | Sedo
+https://www.google.com/search?q=medical+paper+summarization&oq=medical+paper+summarization&aqs=chrome..69i57.8270j0j7&sourceid=chrome&ie=UTF-8 | medical paper summarization - Google Search
+https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=10967747195293141086 | Afantenos: Summarization from medical documents: a survey - Google Scholar
+https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=3847593311716640613 | Mishra: Text summarization in the biomedical domain:... - Google Scholar
+https://www.google.com/search?q=biomedical+extractive+summarization&oq=biomedical+extractive+summarization&aqs=chrome..69i57j33.7366j0j7&sourceid=chrome&ie=UTF-8 | biomedical extractive summarization - Google Search
+https://www.sciencedirect.com/science/article/pii/S1532046418301114 | Graph-based biomedical text summarization: An itemset mining and sentence clustering approach - ScienceDirect
+https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=15135904294354033961 | Azadani: Graph-based biomedical text summarization:... - Google Scholar
+https://www.aclweb.org/anthology/W17-2307.pdf | Tackling Biomedical Text Summarization: OAQA at BioASQ 5B
+http://phrma-docs.phrma.org/files/dmfile/MID_Cell_and_Gene_Therapy_2018_FINAL.pdf | MID_Cell_and_Gene_Therapy_2018_FINAL.pdf
