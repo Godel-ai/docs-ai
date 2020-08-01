@@ -1,9 +1,10 @@
 ## Synthesia
 
 ---
-### StoryGAN 
-https://arxiv.org/abs/1812.02784.pdf | StoryGAN: A Sequential Conditional GAN for Story Visualization
 
+### StoryGAN
+
+https://arxiv.org/abs/1812.02784.pdf | StoryGAN: A Sequential Conditional GAN for Story Visualization
 
 ![](2020-07-22-00-51-46.png)
 
@@ -18,12 +19,10 @@ https://arxiv.org/abs/1812.02784.pdf | StoryGAN: A Sequential Conditional GAN fo
 ---
 
 ## Spatial Transformers
+
 ---
 
 ## Video synthesis
-
-
-
 
 ---
 
@@ -84,7 +83,7 @@ https://paperswithcode.com/paper/learning-to-regress-3d-face-shape-and | : Learn
 
 ---
 
-### Talking Heads/Artificial Humans 
+### Talking Heads/Artificial Humans
 
 https://github.com/facebookresearch/TalkingWithHands32M | facebookresearch/TalkingWithHands32M: Talking with Hands
 http://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Talking_With_Hands_16.2M_A_Large-Scale_Dataset_of_Synchronized_Body-Finger_ICCV_2019_paper.pdf | Talking With Hands 16.2M: A Large-Scale Dataset of Synchronized Body-Finger Motion and Audio for Conversational Motion Analysis and Synthesis
@@ -113,8 +112,9 @@ https://github.com/limaosen0/DMGNN | limaosen0/DMGNN: The implementation of DMGN
 
 ---
 
-### Scene Graph Generation 
+### Scene Graph Generation
 
+https://openreview.net/forum?id=Bylp4EHx8r | Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations
 https://3dscenegraph.stanford.edu/Albertville.html | 3D Scene Graph
 http://vipl.ict.ac.cn/resources/codes/code/Exploring%20Context%20and%20Visual%20Pattern%20of%20Relationship%20for%20Scene%20Graph%20Generation_CVPR2019.pdf | Exploring Context and Visual Pattern of Relationship for Scene Graph Generation
 https://arxiv.org/abs/1903.03326.pdf | Knowledge-Embedded Routing Network for Scene Graph Generation
@@ -148,6 +148,7 @@ http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Graphical_Contrastiv
 https://arxiv.org/abs/1910.02527.pdf | 3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera
 http://openaccess.thecvf.com/content_WACV_2020/papers/Raboh_Differentiable_Scene_Graphs_WACV_2020_paper.pdf | Differentiable Scene Graphs
 https://github.com/shikorab/DSG | shikorab/DSG
+
 ---
 
 ### 3D Morphable Models

@@ -11,6 +11,7 @@ https://paperswithcode.com/paper/token-manipulation-generative-adversarial | Tok
 http://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.html | Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing
 https://arxiv.org/abs/1902.03984 | [1902.03984] Improving Generalization and Stability of Generative Adversarial Networks
 https://arxiv.org/abs/1811.10597.pdf | GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
+https://arxiv.org/abs/1912.00953 | [1912.00953] LOGAN: Latent Optimisation for Generative Adversarial Networks
 
 ### Training and Stability of Gans
 

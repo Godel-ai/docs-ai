@@ -3,10 +3,11 @@
 - Model Predictive Control: Models a PID controller? where Integral is the memory of the previous errors (keep track of past mistakes), Differential predicts the trajectory of the current work.
 
 ---
+
 - World Models
-- Embodied AI 
+- Embodied AI
 - Sim2Real
-  
+
 Modular control strategies, multi-task control : using control as a reward
 
 what is the meaning of reinforcement learning → on Gecco creatures → does it transfer to the real world → what does it mean control such a creature in the fake world → if we build its real world counterpart, will it work as good?
@@ -29,13 +30,13 @@ How do we add constraints to the actions the agent can take ?
 
 ---
 
-## Self-Supervised Exploration via Disagreement ##
+## Self-Supervised Exploration via Disagreement
 
 #### [[Project Website]](https://pathak22.github.io/exploration-by-disagreement/) [[Demo Video]](https://youtu.be/POlrWt32_ec)
 
 ---
 
-## Zero-Shot Visual Imitation ##
+## Zero-Shot Visual Imitation
 
 #### In ICLR 2018 [[Project Website]](https://pathak22.github.io/zeroshot-imitation/) [[Videos]](http://pathak22.github.io/zeroshot-imitation/index.html#demoVideos)
 
@@ -57,14 +58,13 @@ Please see [blog post](http://blog.otoro.net//2018/06/09/world-models-experiment
 
 Soft actor-critic is a deep reinforcement learning framework for training maximum entropy policies in continous domains. The algorithm is based on the paper [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://drive.google.com/file/d/0Bxz3x8U2LH_2QllDZVlUQ1BJVEJHeER2YU5mODNaeFZmc3dz/view) presented at the [Deep Reinforcement Learning Symposium](https://sites.google.com/view/deeprl-symposium-nips2017/), NIPS 2017.
 
---- 
+---
 
 ## RoboNet: Large-Scale Multi-Robot Learning
 
 Code for loading and manipulating the RoboNet dataset, as well as for training supervised inverse models and video prediction models on the dataset.
 
 ---
-
 
 ## ReQueST — (Re)ward (Que)ry (S)ynthesis via (T)rajectory Optimization
 
@@ -79,10 +79,9 @@ a partially-trained agent in the environment. Compared to
 2.  learning about unsafe states without visiting them, and
 3.  better query-efficiency through the use of active learning.
 
+---
 
---- 
-
-## Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller ##
+## Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller
 
 #### [[Project Website]](https://pathak22.github.io/hierarchical-imitation/) [[Demo Video]](https://youtu.be/eWBkDuNFEKA)
 
@@ -92,10 +91,10 @@ a partially-trained agent in the environment. Compared to
 
 This repository contains reference implementation for IC3Net paper (accepted to ICLR 2019), **Learning when to communicate at scale in multiagent cooperative and competitive tasks**, available at [https://arxiv.org/abs/1812.09755](https://arxiv.org/abs/1812.09755)
 
-
 ---
 
 ## PlaNet
+
 ======
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
@@ -106,12 +105,9 @@ PlaNet: A Deep Planning Network for Reinforcement Learning [[1]](#references). S
 
 ## AlphaNPI
 
-Adapting the AlphaZero algorithm  to remove the need of execution traces to train NPI.
-
+Adapting the AlphaZero algorithm to remove the need of execution traces to train NPI.
 
 ---
-
-
 
 ## Hierarchical Visual Foresight
 
@@ -126,8 +122,6 @@ Adapting the AlphaZero algorithm  to remove the need of execution traces to trai
 ![](2020-07-21-14-16-32.png)
 
 ![](2020-07-21-14-17-08.png)
-
-
 
 ### RL
 
@@ -144,7 +138,6 @@ https://arxiv.org/abs/2001.05140v1.pdf | Graph-Bert: Only Attention is Needed fo
 https://arxiv.org/abs/1912.12740v1.pdf | Practice of Streaming and Dynamic Graphs: Concepts, Models, Systems, and Parallelism
 https://arxiv.org/abs/1806.02813.pdf | Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings
 https://arxiv.org/abs/1810.10593.pdf | Inverse reinforcement learning for video games
-
 
 ### PPO and RL algorithms
 
@@ -193,7 +186,7 @@ https://arxiv.org/abs/1809.02670.pdf | RetGK: Graph Kernels based on Return Prob
 https://openreview.net/forum?id=HJgySxSKvB | Deep Relational Factorization Machines | OpenReview
 https://arxiv.org/abs/1906.01827.pdf | Coresets for Data-efficient Training of Machine Learning Models
 http://papers.nips.cc/paper/8836-comparing-unsupervised-word-translation-methods-step-by-step.pdf | Comparing Unsupervised Word Translation Methods Step by Step
-https://arxiv.org/abs/2002.08014v1.pdf | Communication-Efficient Distributed SVD via Local Power Iterations
 https://adversarialpolicies.github.io/ | Adversarial Policies
 https://paperswithcode.com/paper/plan2vec-unsupervised-representation-learning-1 | Plan2Vec: Unsupervised Representation Learning by Latent Plans
 https://arxiv.org/abs/1702.08360 | [1702.08360] Neural Map: Structured Memory for Deep Reinforcement Learning
+https://github.com/Kaixhin/PlaNet | Kaixhin/PlaNet: Deep Planning Network: Control from pixels by latent planning with learned dynamics

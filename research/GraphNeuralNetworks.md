@@ -5,6 +5,7 @@
 ![](2020-07-21-04-49-16.png)
 
 ---
+
 [Link](https://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs.pdf)
 
 ![](2020-07-23-01-11-22.png)
@@ -24,11 +25,10 @@
 ![](2020-07-22-00-31-24.png)
 
 ---
+
 [Link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Graph-Based_Global_Reasoning_Networks_CVPR_2019_paper.pdf)
 
 ![](2020-07-22-01-58-53.png)
-
-
 
 ### Graph and Interaction Networks
 
@@ -49,3 +49,4 @@ https://arxiv.org/abs/1911.11763.pdf | SuperGlue: Learning Feature Matching with
 https://github.com/RexYing/gnn-model-explainer | RexYing/gnn-model-explainer: gnn explainer
 https://github.com/thunlp/GNNPapers | thunlp/GNNPapers: Must-read papers on graph neural networks (GNN)
 https://paperswithcode.com/paper/deep-graph-library-towards-efficient-and | - Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs
+https://github.com/weihua916 | weihua916 (Weihua Hu)

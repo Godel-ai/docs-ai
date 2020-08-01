@@ -2,11 +2,18 @@
 
 ---
 
+https://arxiv.org/abs/2005.00571v1 | [2005.00571v1] Learning Collaborative Agents with Rule Guidance for Knowledge Graph Reasoning
+https://arxiv.org/abs/2005.00782v1 | [2005.00782v1] Can BERT Reason? Logically Equivalent Probes for Evaluating the Inference Capabilities of Language Models
+https://paperswithcode.com/paper/common-knowledge-concept-recognition-for-seva | Common-Knowledge Concept Recognition for SEVA |
+https://arxiv.org/abs/2003.04881v2.pdf | Neural Networks are Surprisingly Modular
+https://arxiv.org/abs/1912.13283v1 | [1912.13283v1] oLMpics -- On what Language Model Pre-training Captures
+https://github.com/shenweichen/DeepCTR | shenweichen/DeepCTR: Easy-to-use,Modular and Extendible package of deep-learning based CTR models.
+
 ## Extractive Summarization of Scientific Documents
+
 https://arxiv.org/abs/2002.10640.pdf | Differentiable Reasoning over a Virtual Knowledge Base
 https://arxiv.org/abs/1912.10824 | [1912.10824] Differentiable Reasoning on Large Knowledge Bases and Natural Language
 https://github.com/uclnlp/gntp | uclnlp/gntp
-
 
 ---
 
@@ -43,6 +50,7 @@ https://github.com/google-research/electra | google-research/electra: ELECTRA: P
 ---
 
 ### Storytelling
+
 https://arxiv.org/abs/1902.01109.pdf | Strategies for Structuring Story Generation
 https://www.aclweb.org/anthology/W19-3405.pdf | Guided Neural Language Generation for Automated Storytelling
 https://www.google.com/search?q=Guided+Neural+Language+Generation+for+Automated+Storytelling&oq=Guided+Neural+Language+Generation+for+Automated+Storytelling&aqs=chrome..69i57j69i59j69i61l3&sourceid=chrome&ie=UTF-8 | Guided Neural Language Generation for Automated Storytelling - Google Search
@@ -55,8 +63,6 @@ https://github.com/thu-coai/CommonsenseStoryGen | thu-coai/CommonsenseStoryGen: 
 https://arxiv.org/abs/2004.10151v1.pdf | Experience Grounds Language
 https://arxiv.org/abs/2004.07780v1.pdf | Shortcut Learning in Deep Neural Networks
 https://arxiv.org/abs/1908.05646.pdf | SenseBERT: Driving Some Sense into BERT
-
-
 
 ### NLP
 
@@ -73,13 +79,12 @@ https://github.com/allenai/scitldr | allenai/scitldr
 ---
 
 #### Chatbots
+
 https://arxiv.org/abs/1804.08217.pdf | Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems
 https://www.aclweb.org/anthology/W16-6603.pdf | Generating English from Abstract Meaning Representations
-https://arxiv.org/abs/1801.07736 | [1801.07736] MaskGAN: Better Text Generation via Filling in the______
+https://arxiv.org/abs/1801.07736 | [1801.07736] MaskGAN: Better Text Generation via Filling in the**\_\_**
 https://arxiv.org/abs/1909.03186.pdf |On Extractive and Abstractive Neural Document Summarization with Transformer Language Models
 https://arxiv.org/abs/1709.02349.pdf | A Deep Reinforcement Learning Chatbot
-
-
 
 ### Knowledge graph
 
@@ -119,9 +124,6 @@ https://paperswithcode.com/task/dialogue-generation/latest#code | : Dialogue Gen
 https://arxiv.org/abs/2004.03844v1 | [2004.03844v1] Poor Man's BERT: Smaller and Faster Transformer Models
 https://language-play.github.io/ | https://language-play.github.io
 
-
-
-
 https://scholar.google.co.in/scholar?cites=10202908905437352262&as_sdt=2005&sciodt=0,5&hl=en | Yasunaga: Graph-based neural multi-document summarization - Google Scholar
 https://paperswithcode.com/task/multi-document-summarization | : Multi-Document Summarization
 https://arxiv.org/abs/1910.11411 | [1910.11411] Multi-Document Summarization with Determinantal Point Processes and Contextualized Representations
@@ -148,7 +150,6 @@ https://dstlry.github.io/ | What is dstlr? | dstlr
 
 https://github.com/TensorSpeech/TensorflowTTS | TensorSpeech/TensorflowTTS: TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2
 https://github.com/TensorSpeech/TensorflowTTS | TensorSpeech/TensorflowTTS: TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2
-
 
 https://scholar.google.com/scholar?rlz=1C1CHBF_enUS858US858&um=1&ie=UTF-8&lr&cites=3530396919946840784 | Wu: Transferable Multi-Domain State Generator for... - Google Scholar
 https://arxiv.org/abs/1907.01669 | [1907.01669] MultiWOZ 2.1: A Consolidated Multi-Domain Dialogue Dataset with State Corrections and State Tracking Baselines
