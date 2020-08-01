@@ -16,12 +16,12 @@
 
 http://cs330.stanford.edu/ | CS 330 Deep Multi-Task and Meta Learning
 http://web.stanford.edu/class/cs330/material/homework_1_final.pdf | homework_1_final.pdf
-https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf | 1332 1332..1338
+https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf | Human-level concept learning
+through probabilistic program induction
 http://proceedings.mlr.press/v48/santoro16.pdf | santoro16.pdf
 https://arxiv.org/abs/1802.05098 | [1802.05098] DiCE: The Infinitely Differentiable Monte-Carlo Estimator
 https://arxiv.org/abs/1611.04201 | [1611.04201] CAD2RL: Real Single-Image Flight without a Single Real Image
 https://arxiv.org/abs/1810.06544 | [1810.06544] Deep Imitative Models for Flexible Inference, Planning, and Control
-https://arxiv.org/abs/1810.04805 | [1810.04805] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 https://arxiv.org/abs/1710.02298 | [1710.02298] Rainbow: Combining Improvements in Deep Reinforcement Learning
 https://arxiv.org/abs/1907.00953 | [1907.00953] Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model
 http://roboticsproceedings.org/rss10/p19.pdf | p19.pdf

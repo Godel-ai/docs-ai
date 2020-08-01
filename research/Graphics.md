@@ -19,6 +19,5 @@ https://github.com/thmoa/smpl_viewer | thmoa/smpl_viewer: A simple tool for rend
 
 https://paperswithcode.com/paper/stargan-v2-diverse-image-synthesis-for | StarGAN v2: Diverse Image Synthesis for Multiple Domains |
 https://mixedreality.cs.cornell.edu/workshop/2020/papers | CV4ARVR 2020 Papers — Mixed Reality @ Cornell CIS
-https://github.com/rmlin/CoMHE | rmlin/CoMHE: Implementation for <Regularizing Neural Networks via Minimizing Hyperspherical Energy> in CVPR'20.
-https://arxiv.org/abs/1705.08664.pdf | 1705.08664.pdf
+https://arxiv.org/abs/1705.08664.pdf | Towards Understanding the Invertibility of Convolutional Neural Networks
 http://www.matthewtancik.com/nerf | NeRF: Neural Radiance Fields

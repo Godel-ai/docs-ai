@@ -174,6 +174,28 @@ https://pathak22.github.io/zeroshot-imitation/ | Zero-Shot Visual Imitation
 http://proceedings.mlr.press/v78/finn17a/finn17a.pdf?source=post_page--------------------------- | finn17a.pdf
 https://arxiv.org/abs/1906.10667.pdf | Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives
 https://github.com/google-research/dads | google-research/dads: Code for 'Dynamics-Aware Unsupervised Discovery of Skills' (DADS). Enables skill discovery without supervision, which can be combined with model-based control.
-
+https://arxiv.org/abs/1910.12827.pdf | Entity Abstraction in Visual Model-Based Reinforcement Learning
 https://arxiv.org/abs/2003.06417.pdf | Sparse Graphical Memory for Robust Planning
 https://github.com/scottemmons/sgm | scottemmons/sgm: Sparse Graphical Memory for Robust Planning
+https://arxiv.org/abs/2004.12919v1.pdf | First return then explore
+https://arxiv.org/abs/2004.12974v1.pdf | Emergent Real-World Robotic Skills via Unsupervised Off-Policy Reinforcement Learning
+https://arxiv.org/abs/1909.12434.pdf | Learning the Difference that Makes a Difference with Counterfactually-Augmented Data
+
+https://arxiv.org/abs/2001.07685 | [2001.07685] FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence
+https://yorb.itp.io/ | YORB 2020
+https://paperswithcode.com/paper/context-aware-dynamics-model-for | Context-aware Dynamics Model for Generalization in Model-Based Reinforcement Learning |
+https://paperswithcode.com/paper/novelty-search-makes-evolvability-inevitable | Novelty Search makes Evolvability Inevitable |
+https://paperswithcode.com/paper/dense-caption-matching-and-frame-selection | Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA |
+https://paperswithcode.com/paper/unpaired-motion-style-transfer-from-video-to | Unpaired Motion Style Transfer from Video to Animation |
+https://paperswithcode.com/paper/local-self-attention-over-long-text-for | Local Self-Attention over Long Text for Efficient Document Retrieval |
+https://paperswithcode.com/paper/epipolar-transformers | Epipolar Transformers |
+
+https://arxiv.org/abs/1911.03350v1.pdf | Ask to Learn: A Study on Curiosity-driven Question Generation
+https://arxiv.org/abs/1905.13192.pdf | Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels
+https://arxiv.org/abs/1809.02670.pdf | RetGK: Graph Kernels based on Return Probabilities of Random Walks
+https://openreview.net/forum?id=HJgySxSKvB | Deep Relational Factorization Machines | OpenReview
+https://arxiv.org/abs/1906.01827.pdf | Coresets for Data-efficient Training of Machine Learning Models
+http://papers.nips.cc/paper/8836-comparing-unsupervised-word-translation-methods-step-by-step.pdf | Comparing Unsupervised Word Translation Methods Step by Step
+https://arxiv.org/abs/2002.08014v1.pdf | Communication-Efficient Distributed SVD via Local Power Iterations
+https://adversarialpolicies.github.io/ | Adversarial Policies
+https://paperswithcode.com/paper/plan2vec-unsupervised-representation-learning-1 | Plan2Vec: Unsupervised Representation Learning by Latent Plans

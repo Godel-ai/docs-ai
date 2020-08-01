@@ -14,3 +14,4 @@ https://openreview.net/forum?id=BJxiqxSYPB | Learning to Prove Theorems by Learn
 https://openreview.net/forum?id=S1eZYeHFDS | Deep Learning For Symbolic Mathematics
 https://arxiv.org/abs/2001.05016v1.pdf | Neural Arithmetic Units
 https://github.com/mtensor/rulesynthesis | mtensor/rulesynthesis: Code for "Learning Compositional Rules via Neural Program Synthesis"
+http://proceedings.mlr.press/v80/ganin18a.html | Synthesizing Programs for Images using Reinforced Adversarial Learning

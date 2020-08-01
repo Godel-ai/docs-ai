@@ -88,3 +88,4 @@ https://arxiv.org/abs/1903.01599.pdf | Learning Dynamics Model in Reinforcement 
 https://arxiv.org/abs/1702.05068.pdf | Discovering objects and their relations from entangled scene representations
 https://arxiv.org/abs/1910.01442.pdf | CLEVRER: CoLlision Events for Video REpresentation and Reasoning
 https://openreview.net/forum?id=rJxbJeHFPS | What Can Neural Networks Reason About? | OpenReview
+http://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding.pdf | Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding

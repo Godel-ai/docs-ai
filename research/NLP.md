@@ -22,7 +22,6 @@ https://paperswithcode.com/paper/text-summarization-with-pretrained-encoders | -
 https://paperswithcode.com/paper/at-which-level-should-we-extract-an-empirical | - At Which Level Should We Extract? An Empirical Study on Extractive Document Summarization
 https://paperswithcode.com/paper/language-model-pre-training-for-hierarchical | - Language Model Pre-training for Hierarchical Document Representations
 https://paperswithcode.com/paper/neural-latent-extractive-document-1 | - Neural Latent Extractive Document Summarization
-https://arxiv.org/abs/1810.02338v2.pdf | Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding
 https://github.com/the-Quert/iNLPfun | the-Quert/inlpfun: Tensorflow code , pre-trained models, and papers of Natural Language Processing
 https://scholar.google.com/scholar?safe=active&sxsrf=ALeKk02hxnKrtc4YY-qeMhGArujSOR-D8Q:1587720646144&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoCCAA6BggAEBYQHjoFCCEQoAE6BwghEAoQoAE6BAghEBU6CAghEBYQHRAeUKI0WPe2AWDMuAFoBHACeACAAbsBiAHDJpIBBDAuMzOYAQCgAQGqAQdnd3Mtd2l6&uact=5&um=1&ie=UTF-8&lr&cites=3309430449122454281 | Liu: Graph summarization methods and applications: A survey - Google Scholar
 https://scholar.google.co.in/scholar?q=prerequisite+graph+generation+for+summarization&hl=en&as_sdt=0&as_vis=1&oi=scholart | prerequisite graph generation for summarization - Google Scholar
@@ -38,6 +37,7 @@ https://arxiv.org/abs/2004.02843 | [2004.02843] Improved Code Summarization via 
 https://www.aclweb.org/anthology/C10-1039.pdf | Opinosis: A Graph Based Approach to Abstractive Summarization of Highly Redundant Opinions
 https://tsafavi.github.io/assets/pdf/liu-2018-graph-summarization.pdf | CSUR5103-62
 http://cs-people.bu.edu/evimaria/papers/Social-net.pdf | Social-net.pdf
+https://github.com/google-research/electra | google-research/electra: ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
 
 ---
 
@@ -131,7 +131,7 @@ https://arxiv.org/abs/1910.08435 | [1910.08435] Using Local Knowledge Graph Cons
 https://arxiv.org/abs/1706.06681 | [1706.06681] Graph-based Neural Multi-Document Summarization
 https://scholar.google.co.in/scholar?cites=748046702805969208&as_sdt=2005&sciodt=0,5&hl=en | Li: Deep recurrent generative decoder for abstractive... - Google Scholar
 https://arxiv.org/abs/1909.13717 | [1909.13717] Retrieval-based Goal-Oriented Dialogue Generation
-https://arxiv.org/abs/1909.03186.pdf | AAAI Press Formatting Instructions for Authors Using LaTeX -- A Guide
+https://arxiv.org/abs/1909.03186.pdf | On Extractive and Abstractive Neural Document Summarization with Transformer Language Models
 https://scholar.google.com/scholar?safe=active&rlz=1C1CHBF_enUS858US858&sxsrf=ACYBGNSAPKh-P1RHf4kuZ0Ciw-tc4coy7A:1578892703748&uact=5&um=1&ie=UTF-8&lr&cites=10392085391906571188 | Katti: Chargrid: Towards understanding 2d documents - Google Scholar
 https://arxiv.org/abs/1910.03678.pdf | 1910.03678.pdf
 https://www.aclweb.org/anthology/D18-1476.pdf | Chargrid: Towards Understanding 2D Documents
@@ -161,3 +161,4 @@ https://arxiv.org/abs/1906.02361 | [1906.02361] Explain Yourself! Leveraging Lan
 https://arxiv.org/abs/1808.01400 | [1808.01400] code2seq: Generating Sequences from Structured Representations of Code
 https://arxiv.org/abs/1811.12359 | [1811.12359] Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations
 https://github.com/facebookresearch/LAMA | facebookresearch/LAMA: LAnguage Model Analysis
+https://arxiv.org/abs/1909.01066v2.pdf | Language Models as Knowledge Bases
