@@ -186,9 +186,6 @@ https://yorb.itp.io/ | YORB 2020
 https://paperswithcode.com/paper/context-aware-dynamics-model-for | Context-aware Dynamics Model for Generalization in Model-Based Reinforcement Learning |
 https://paperswithcode.com/paper/novelty-search-makes-evolvability-inevitable | Novelty Search makes Evolvability Inevitable |
 https://paperswithcode.com/paper/dense-caption-matching-and-frame-selection | Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA |
-https://paperswithcode.com/paper/unpaired-motion-style-transfer-from-video-to | Unpaired Motion Style Transfer from Video to Animation |
-https://paperswithcode.com/paper/local-self-attention-over-long-text-for | Local Self-Attention over Long Text for Efficient Document Retrieval |
-https://paperswithcode.com/paper/epipolar-transformers | Epipolar Transformers |
 
 https://arxiv.org/abs/1911.03350v1.pdf | Ask to Learn: A Study on Curiosity-driven Question Generation
 https://arxiv.org/abs/1905.13192.pdf | Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels
@@ -199,3 +196,4 @@ http://papers.nips.cc/paper/8836-comparing-unsupervised-word-translation-methods
 https://arxiv.org/abs/2002.08014v1.pdf | Communication-Efficient Distributed SVD via Local Power Iterations
 https://adversarialpolicies.github.io/ | Adversarial Policies
 https://paperswithcode.com/paper/plan2vec-unsupervised-representation-learning-1 | Plan2Vec: Unsupervised Representation Learning by Latent Plans
+https://arxiv.org/abs/1702.08360 | [1702.08360] Neural Map: Structured Memory for Deep Reinforcement Learning

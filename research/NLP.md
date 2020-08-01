@@ -3,8 +3,9 @@
 ---
 
 ## Extractive Summarization of Scientific Documents
-
-- Differential Reasoning over Text
+https://arxiv.org/abs/2002.10640.pdf | Differentiable Reasoning over a Virtual Knowledge Base
+https://arxiv.org/abs/1912.10824 | [1912.10824] Differentiable Reasoning on Large Knowledge Bases and Natural Language
+https://github.com/uclnlp/gntp | uclnlp/gntp
 
 
 ---
@@ -61,7 +62,6 @@ https://arxiv.org/abs/1908.05646.pdf | SenseBERT: Driving Some Sense into BERT
 
 https://arxiv.org/abs/2005.07647.pdf | Finding Experts in Transformer Models
 https://arxiv.org/abs/2005.07648.pdf | Grounding Language in Play
-https://arxiv.org/abs/2002.10640.pdf | Differentiable Reasoning over a Virtual Knowledge Base
 https://arxiv.org/abs/2004.14373.pdf | ToTTo: A Controlled Table-To-Text Generation Dataset
 https://homes.cs.washington.edu/~msap/pdfs/sap2020recollectionImagination.pdf | Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models
 https://arxiv.org/abs/1911.12753v1.pdf |Inducing Relational Knowledge from BERT
@@ -149,8 +149,6 @@ https://dstlry.github.io/ | What is dstlr? | dstlr
 https://github.com/TensorSpeech/TensorflowTTS | TensorSpeech/TensorflowTTS: TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2
 https://github.com/TensorSpeech/TensorflowTTS | TensorSpeech/TensorflowTTS: TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2
 
-https://arxiv.org/abs/1912.10824 | [1912.10824] Differentiable Reasoning on Large Knowledge Bases and Natural Language
-https://github.com/uclnlp/gntp | uclnlp/gntp
 
 https://scholar.google.com/scholar?rlz=1C1CHBF_enUS858US858&um=1&ie=UTF-8&lr&cites=3530396919946840784 | Wu: Transferable Multi-Domain State Generator for... - Google Scholar
 https://arxiv.org/abs/1907.01669 | [1907.01669] MultiWOZ 2.1: A Consolidated Multi-Domain Dialogue Dataset with State Corrections and State Tracking Baselines

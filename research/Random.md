@@ -61,15 +61,14 @@ https://arxiv.org/abs/1907.01470.pdf | Augmenting Self-attention with Persistent
 https://arxiv.org/abs/1907.05242.pdf | Large Memory Layers with Product Keys
 http://lolita.unice.fr/~scheer/cogsci/Smolensky%2087%20-%20Connectionist%20AI,%20symbolic%20AI,%20and%20the%20brain.pdf | Connectionist AI, symbolic AI, and the brain
 https://arxiv.org/abs/1910.11424v1.pdf | Capacity, Bandwidth, and Compositionality in Emergent Language Learning
-https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf | Predicting Scene Parsing and Motion Dynamics in the Future
+
 https://www.youtube.com/watch?v=Y6feXBY6_XQ&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=5 | CS294-112 Fa18 10/31/18 - YouTube
 https://arxiv.org/abs/1906.11315.pdf | Generalization to Novel Objects using Prior Relational Knowledge
 https://papers.nips.cc/paper/6971-infogail-interpretable-imitation-learning-from-visual-demonstrations.pdf | InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations
 https://arxiv.org/abs/1802.04687.pdf | Neural Relational Inference for Interacting Systems
 https://www.ijcai.org/proceedings/2018/0643.pdf | Commonsense Knowledge Aware Conversation Generation with Graph Attention
 https://arxiv.org/abs/1906.11315.pdf | Generalization to Novel Objects using Prior Relational Knowledge
-https://github.com/TsuTikgiau/DisentPhys4VidPredict | TsuTikgiau/DisentPhys4VidPredict: GCPR 2019: Learning to Disentangle Latent Physical Factors for Video Prediction
-https://sites.google.com/view/dynamicsmodels/home | Home
+
 https://arxiv.org/abs/1910.01727v2.pdf | Generalized Inner Loop Meta-Learning
 https://arxiv.org/abs/1910.01007.pdf | Unsupervised Doodling and Painting with Improved SPIRAL
 http://news.mit.edu/2019/image-proteins-synapses-0926 | Technique can image individual proteins within synapses | MIT News
@@ -123,20 +122,13 @@ https://deepmind.com/research/open-source/streetlearn-code | StreetLearn - Code 
 https://www.youtube.com/watch?v=hUCg0O00Eew&list=PL24nOpPUQlbaSXgf3YwlcPrpsdaj5949o | E971 The Next Unicorns, E1: Checkr CEO Daniel Yanisse built 1st background check API, 10k+ customers - YouTube
 https://arxiv.org/ftp/arxiv/papers/1912/1912.08964.pdf | Exploring AI Futures Through Role Play
 https://www.google.com/search?q=Grounding+the+neurobiology+of+language+in+first+principles%3A+The+necessity+of+non-language-centric+explanations+for+language+comprehension&rlz=1C1CHBF_enUS858US858&oq=Grounding+the+neurobiology+of+language++in+first+principles%3A+The+necessity+of+non-language-centric+explanations+for+language+comprehension&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Grounding the neurobiology of language in first principles: The necessity of non-language-centric explanations for language comprehension - Google Search
-https://arxiv.org/abs/1905.08233.pdf |Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
 
 
 https://arxiv.org/abs/1912.00953 | [1912.00953] LOGAN: Latent Optimisation for Generative Adversarial Networks
 https://arxiv.org/abs/1912.01172.pdf | Value-laden Disciplinary Shifts in Machine Learning
-https://arxiv.org/abs/1912.02178.pdf | 1912.02178.pdf
-
-https://www.benzevgreen.com/wp-content/uploads/2019/11/19-ai4sg.pdf | 19-ai4sg.pdf
-https://arxiv.org/abs/1912.01412 | [1912.01412] Deep Learning for Symbolic Mathematics
+https://arxiv.org/abs/1912.02178.pdf | Fantastic Generalization Measures and Where to Find Them
 https://github.com/shaohua0116/ICLR2020-OpenReviewData | shaohua0116/ICLR2020-OpenReviewData: Script that crawls meta data from ICLR OpenReview webpage. Tutorials on installing and using Selenium and ChromeDriver on Ubuntu.
-https://openreview.net/forum?id=SJxstlHFPH | Differentiable Reasoning over a Virtual Knowledge Base | OpenReview
 https://openreview.net/forum?id=Ske31kBtPr | Mathematical Reasoning in Latent Space | OpenReview
-https://openreview.net/forum?id=BkgzMCVtPB | Optimal Strategies Against Generative Attacks | OpenReview
-https://openreview.net/forum?id=S1eZYeHFDS | Deep Learning For Symbolic Mathematics | OpenReview
 https://openreview.net/forum?id=r1eBeyHFDH | A Theory of Usable Information under Computational Constraints | OpenReview
 http://www.montreal.ai/aidebate.pdf | aidebate.pdf
 https://www.google.com/search?safe=active&sxsrf=ACYBGNQbpEbNYdzzRHwz9sVhZJ7TnOHh7w:1575434114541&q=Free+energy+principle&stick=H4sIAAAAAAAAAOPgE-LSz9U3yMizNE0rUgKzy4ozqgwLtOQzyq30k_NzclKTSzLz8_QLUvMLclKtsvPyy_MU0vKLFrGKuhWlpiqk5qUWpVcqFBRl5iVnAlUAAIWt0MlTAAAA&sa=X&ved=2ahUKEwirqI62lZvmAhXGyzgGHVY2C0gQmxMoBDAhegQIDRAW&biw=1309&bih=647 | Free energy principle - Google Search

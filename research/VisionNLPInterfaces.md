@@ -84,8 +84,6 @@ https://arxiv.org/abs/1906.12120.pdf | One Embedding To Do Them All
 https://arxiv.org/abs/1906.02390 | [1906.02390] Multi-view Knowledge Graph Embedding for Entity Alignment
 https://arxiv.org/abs/1612.00222 | [1612.00222] Interaction Networks for Learning about Objects, Relations and Physics
 https://arxiv.org/abs/1706.01433 | [1706.01433] Visual Interaction Networks
-https://scholar.google.com/scholar?start=20&q=unified+embedding&hl=en&as_sdt=0,5&as_ylo=2019 | unified embedding - Google Scholar
-https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=5649908015913062760 | Watters: Visual interaction networks: Learning a... - Google Scholar
 
 ---
 
@@ -96,13 +94,11 @@ https://www.sciencedirect.com/science/article/abs/pii/S0031320319304650 | Discri
 http://openaccess.thecvf.com/content_WACV_2020/papers/Raboh_Differentiable_Scene_Graphs_WACV_2020_paper.pdf | Differentiable Scene Graphs
 https://arxiv.org/abs/2002.08510.pdf | Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching
 http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_ACMM_Aligned_Cross-Modal_Memory_for_Few-Shot_Image_and_Sentence_Matching_ICCV_2019_paper.pdf | ACMM: Aligned Cross-Modal Memory for Few-Shot Image and Sentence Matching
-https://arxiv.org/abs/1411.2539.pdf | 1411.2539.pdf
+https://arxiv.org/abs/1411.2539.pdf | Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models
 https://ieeexplore.ieee.org/abstract/document/8994196 | Cross-Modal Attention With Semantic Consistence for Image-Text Matching - IEEE Journals & Magazine
-http://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding | Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding
-https://scholar.google.com/scholar?as_ylo=2020&hl=en&as_sdt=0,5&sciodt=0,5&cites=10941421330777237042&scipsc= | Yi: Neural-symbolic vqa: Disentangling reasoning... - Google Scholar
-https://arxiv.org/abs/2003.13962.pdf | 2003.13962.pdf
-http://openaccess.thecvf.com/content_WACV_2020/papers/Raboh_Differentiable_Scene_Graphs_WACV_2020_paper.pdf | Differentiable Scene Graphs
-https://github.com/shikorab/DSG | shikorab/DSG
+https://arxiv.org/abs/2003.13962.pdf | Multi-Modal Graph Neural Network for Joint Reasoning on Vision and Scene Text
+
+
 http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Visual_Semantic_Reasoning_for_Image-Text_Matching_ICCV_2019_paper.pdf | Visual Semantic Reasoning for Image-Text Matching
 https://arxiv.org/abs/1710.00453.pdf | Visual Reasoning with Natural Language
 https://arxiv.org/abs/1803.08896.pdf | Explicit Reasoning over End-to-End Neural Architectures for Visual Question Answering

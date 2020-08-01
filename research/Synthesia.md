@@ -41,41 +41,31 @@ https://github.com/lelechen63/talking-head-generation-survey | lelechen63/talkin
 
 https://github.com/AliaksandrSiarohin/first-order-model | AliaksandrSiarohin/first-order-model: This repository contains the source code for the paper First Order Motion Model for Image Animation
 https://aliaksandrsiarohin.github.io/first-order-model-website/ | First order model
-https://scholar.google.com/scholar?start=0&q=high+fidelity+synthesis+using+pose&hl=en&as_sdt=0,5&as_ylo=2020 | high fidelity synthesis using pose - Google Scholar
 http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation.pdf | First Order Motion Model for Image Animation
 https://arxiv.org/abs/1811.11459.pdf | Coordinate-based Texture Inpainting for Pose-Guided Image Generation
 https://arxiv.org/abs/1801.00055.pdf | Deformable GANs for Pose-based Human Image Generation
-http://openaccess.thecvf.com/content_ECCV_2018/papers/Natalia_Neverova_Two_Stream__ECCV_2018_paper.pdf | Two Stream Pose Transfer Guided by Dense Pose Estimation
 https://arxiv.org/abs/2001.09518.pdf | Unsupervised Disentanglement of Pose, Appearance and Background from Images and Videos
 https://arxiv.org/abs/2003.03756.pdf | Perceptual Image Super-Resolution with Progressive Adversarial Network
-https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=3043558815618961635 | Siarohin: Deformable gans for pose-based human image... - Google Scholar
-https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2020&q=high+fidelity+synthesis+using+pose&oq= | high fidelity synthesis using pose - Google Scholar
-https://scholar.google.com/scholar?start=10&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2019&cites=12479535951654162053&scipsc= | Park: Semantic image synthesis with spatially-adaptive... - Google Scholar
 https://arxiv.org/abs/2004.01823.pdf | Multi-Variate Temporal GAN for Large Scale Video Generation
 https://arxiv.org/abs/2001.04296.pdf | High-Fidelity Synthesis with Disentangled Representation
 https://openreview.net/forum?id=SyezSCNYPB | Disentangled GANs for Controllable Generation of High-Resolution Images | OpenReview
 https://www.youtube.com/watch?v=MPdj8KGZHa0 | Neural Network Dreams About Beautiful Natural Scenes - YouTube
 https://arxiv.org/abs/2003.00696.pdf | Deep Image Spatial Transformation for Person Image Generation
+https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf | Predicting Scene Parsing and Motion Dynamics in the Future
 
 https://github.com/grey-eye/talking-heads | grey-eye/talking-heads: Our implementation of "Few-Shot Adversarial Learning of Realistic Neural Talking Head Models" (Egor Zakharov et al.)
 http://openaccess.thecvf.com/content_ECCV_2018/papers/Aayush_Bansal_Recycle-GAN_Unsupervised_Video_ECCV_2018_paper.pdf | Recycle-GAN: Unsupervised Video Retargeting
-https://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3073640 | Sci-Hub | Synthesizing Obama. ACM Transactions on Graphics, 36(4), 1–13 | 10.1145/3072959.3073640
 https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf | Synthesizing Obama: Learning Lip Sync from Audio
-https://scholar.google.com/scholar?rlz=1C1CHBF_enUS858US858&um=1&ie=UTF-8&lr&cites=17501792064365815213 | Suwajanakorn: Synthesizing obama: learning lip sync... - Google Scholar
 https://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3201283 | Sci-Hub | Deep video portraits. ACM Transactions on Graphics, 37(4), 1–14 | 10.1145/3197517.3201283
 https://scholar.google.com/scholar?rlz=1C1CHBF_enUS858US858&um=1&ie=UTF-8&lr&cites=12568957979354957566 | Cudeiro: Capture, Learning, and Synthesis of 3D Speaking... - Google Scholar
 https://dl.acm.org/citation.cfm?id=3360067 | Animation Synthesis Triggered by Vocal Mimics
-https://arxiv.org/abs/1910.00726.pdf | 1910.00726.pdf
-https://www.google.com/search?safe=active&rlz=1C1CHBF_enUS858US858&sxsrf=ACYBGNQTF0PBxZytQngrwzKejd69-ZakcQ%3A1575861133946&ei=jbvtXeuzOeKE4-EPmbec8As&q=Animating+Face+using+Disentangled+Audio+Representations+github&oq=Animating+Face+using+Disentangled+Audio+Representations+github&gs_l=psy-ab.3...5584.8033..8284...0.5..0.177.920.0j7......0....1..gws-wiz.......0i71j33i160.TeoB3AP6FZA&ved=0ahUKEwirruqYzKfmAhViwjgGHZkbB74Q4dUDCAs&uact=5 | Animating Face using Disentangled Audio Representations github - Google Search
-https://arxiv.org/abs/1804.04121.pdf | 1804.04121.pdf
-https://arxiv.org/abs/1807.07860.pdf | 1807.07860.pdf
+https://arxiv.org/abs/1910.00726.pdf | Animating Face using Disentangled Audio Representations
 https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS | Hangz-nju-cuhk/Talking-Face-Generation-DAVS: Code for Talking Face Generation by Adversarially Disentangled Audio-Visual Representation (AAAI 2019)
 https://arxiv.org/abs/1909.01815.pdf | 3D Morphable Face Models - Past, Present and Future
 https://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3360076 | Sci-Hub | A Robust Interactive Facial Animation Editing System. Motion, Interaction and Games on - MIG ’19 | 10.1145/3359566.3360076
-https://www.google.com/search?q=PRNet+Obama&rlz=1C1CHBF_enUS858US858&oq=PRNet+Obama&aqs=chrome..69i57.4835j0j7&sourceid=chrome&ie=UTF-8 | PRNet Obama - Google Search
 https://github.com/cleardusk/3DDFA | cleardusk/3DDFA: The PyTorch improved version of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
 https://arxiv.org/abs/1804.01005 | [1804.01005] Face Alignment in Full Pose Range: A 3D Total Solution
-https://www.google.com/search?q=Face+Alignment+in+Full+Pose+Range%3A+A+3D+Total+Solution&rlz=1C1CHBF_enUS858US858&oq=Face+Alignment+in+Full+Pose+Range%3A+A+3D+Total+Solution&aqs=chrome..69i57j69i64j69i60l2&sourceid=chrome&ie=UTF-8 | Face Alignment in Full Pose Range: A 3D Total Solution - Google Search
+
 https://github.com/TimoBolkart/voca | TimoBolkart/voca: Voice Operated Character Animation
 https://voca.is.tue.mpg.de/ | Voice Operated Character Animation
 https://ps.is.tuebingen.mpg.de/publications/voca2019 | Capture, Learning, and Synthesis of 3D Speaking Styles | Perceiving Systems - Max Planck Institute for Intelligent Systems
@@ -88,10 +78,8 @@ http://openaccess.thecvf.com/content_ICCV_2019/papers/Aksan_Structured_Predictio
 https://research.birmingham.ac.uk/portal/files/71180007/PMnet_Learning.pdf | PMnet_Learning.pdf
 https://amds123.github.io/2019/05/05/Neural-Rendering-and-Reenactment-of-Human-Actor-Videos/ | Neural Rendering and Reenactment of Human Actor Videos
 https://arxiv.org/abs/1806.07179 | [1806.07179] FrankenGAN: Guided Detail Synthesis for Building Mass-Models Using Style-Synchonized GANs
-https://arxiv.org/abs/1806.06098v1.pdf | 1806.06098v1.pdf
 https://github.com/lei65537/Visual_Driven_Mesh_Repair | lei65537/Visual_Driven_Mesh_Repair: Repairing Man-Made Meshes via Visual Driven Global Optimization with Minimum Intrusion
-https://arxiv.org/abs/1712.05083v2.pdf | 1712.05083v2.pdf
-https://arxiv.org/abs/1803.07835v1.pdf | 1803.07835v1.pdf
+https://arxiv.org/abs/1712.05083v2.pdf | Extreme 3D Face Reconstruction: Seeing Through Occlusions
 https://paperswithcode.com/paper/learning-to-regress-3d-face-shape-and | : Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision
 
 ---
@@ -100,7 +88,6 @@ https://paperswithcode.com/paper/learning-to-regress-3d-face-shape-and | : Learn
 
 https://github.com/facebookresearch/TalkingWithHands32M | facebookresearch/TalkingWithHands32M: Talking with Hands
 http://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Talking_With_Hands_16.2M_A_Large-Scale_Dataset_of_Synchronized_Body-Finger_ICCV_2019_paper.pdf | Talking With Hands 16.2M: A Large-Scale Dataset of Synchronized Body-Finger Motion and Audio for Conversational Motion Analysis and Synthesis
-https://scholar.google.com/scholar?start=10&hl=en&as_sdt=0,5&sciodt=0,5&cites=9067526876528752401&scipsc= | Li: Storygan: A sequential conditional gan for story... - Google Scholar
 https://arxiv.org/abs/2003.00397.pdf | Intelligent Home 3D: Automatic 3D-House Design from Linguistic Descriptions Only
 https://arxiv.org/abs/2003.07449.pdf | Object-Centric Image Generation from Layouts
 https://arxiv.org/abs/2004.04572v2.pdf | ARCH: Animatable Reconstruction of Clothed Humans
@@ -130,13 +117,14 @@ https://github.com/limaosen0/DMGNN | limaosen0/DMGNN: The implementation of DMGN
 
 https://3dscenegraph.stanford.edu/Albertville.html | 3D Scene Graph
 http://vipl.ict.ac.cn/resources/codes/code/Exploring%20Context%20and%20Visual%20Pattern%20of%20Relationship%20for%20Scene%20Graph%20Generation_CVPR2019.pdf | Exploring Context and Visual Pattern of Relationship for Scene Graph Generation
-https://arxiv.org/abs/1903.03326.pdf | 1903.03326.pdf
-https://arxiv.org/abs/1909.05379.pdf | 1909.05379.pdf
-https://arxiv.org/abs/1806.11538.pdf | 1806.11538.pdf
+https://arxiv.org/abs/1903.03326.pdf | Knowledge-Embedded Routing Network for Scene Graph Generation
+https://arxiv.org/abs/1909.05379.pdf | Specifying Object Attributes and Relations in Interactive Scene Generation
+https://arxiv.org/abs/1806.11538.pdf | Factorizable Net: An Efficient Subgraph-based Framework for Scene Graph Generation
+https://github.com/yuweihao/KERN | yuweihao/KERN: Code for Knowledge-Embedded Routing Network for Scene Graph Generation (CVPR 2019)
+
 https://github.com/applied-ai-lab/genesis | applied-ai-lab/genesis: Official PyTorch implementation of "GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations"
 https://github.com/ashual/scene_generation | ashual/scene_generation: A PyTorch implementation of the paper: Specifying Object Attributes and Relations in Interactive Scene Generation
 https://github.com/yzhou359/3DIndoor-SceneGraphNet | yzhou359/3DIndoor-SceneGraphNet: PyTorch implementation of 'SceneGraphNet: Neural Message Passing for 3D Indoor Scene Augmentation' ICCV 2019
-https://github.com/yuweihao/KERN | yuweihao/KERN: Code for Knowledge-Embedded Routing Network for Scene Graph Generation (CVPR 2019)
 https://paperswithcode.com/paper/stillleben-realistic-scene-synthesis-for-deep | Stillleben: Realistic Scene Synthesis for Deep Learning in Robotics |
 https://paperswithcode.com/task/scene-generation/latest#code | : Scene Generation
 https://paperswithcode.com/paper/specifying-object-attributes-and-relations-in#code | : Specifying Object Attributes and Relations in Interactive Scene Generation
@@ -146,15 +134,9 @@ https://paperswithcode.com/paper/specifying-object-attributes-and-relations-in#c
 https://arxiv.org/abs/1909.03749.pdf | Learning Visual Dynamics Models of Rigid Objects using Relational Inductive Biases
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_Text2Scene_Generating_Compositional_Scenes_From_Textual_Descriptions_CVPR_2019_paper.pdf | Text2Scene: Generating Compositional Scenes From Textual Descriptions
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Qi_Attentive_Relational_Networks_for_Mapping_Images_to_Scene_Graphs_CVPR_2019_paper.pdf | Attentive Relational Networks for Mapping Images to Scene Graphs
-https://github.com/DeepGraphLearning/LiteratureDL4Graph | DeepGraphLearning/LiteratureDL4Graph: A comprehensive collection of recent papers on graph deep learning
-https://github.com/alisure-ml/awesome-visual-relationship-detection | alisure-ml/awesome-visual-relationship-detection: A curated list of visual relationship detection and related area resources
 https://paperswithcode.com/paper/exploring-context-and-visual-pattern-of | : Exploring Context and Visual Pattern of Relationship for Scene Graph Generation
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Image_Generation_From_Layout_CVPR_2019_paper.pdf | Image Generation From Layout
 https://arxiv.org/abs/1907.09358.pdf | 1907.09358.pdf
-https://github.com/yuweihao/KERN | yuweihao/KERN: Code for Knowledge-Embedded Routing Network for Scene Graph Generation (CVPR 2019)
-https://arxiv.org/abs/1903.03326 | [1903.03326] Knowledge-Embedded Routing Network for Scene Graph Generation
-http://openaccess.thecvf.com/content_ECCV_2018/papers/Yikang_LI_Factorizable_Net_An_ECCV_2018_paper.pdf | Factorizable Net: An Efficient Subgraph-based Framework for Scene Graph Generation
-https://github.com/yikang-li/FactorizableNet | yikang-li/FactorizableNet: Factorizable Net (Multi-GPU version): An Efficient Subgraph-based Framework for Scene Graph Generation
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_Text2Scene_Generating_Compositional_Scenes_From_Textual_Descriptions_CVPR_2019_paper.pdf | Text2Scene: Generating Compositional Scenes From Textual Descriptions
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Gu_Scene_Graph_Generation_With_External_Knowledge_and_Image_Reconstruction_CVPR_2019_paper.pdf | Scene Graph Generation With External Knowledge and Image Reconstruction
 https://arxiv.org/abs/1807.03877.pdf | Deep Structured Generative Models
@@ -164,7 +146,8 @@ http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Image_Generation_From
 http://papers.nips.cc/paper/7951-mapping-images-to-scene-graphs-with-permutation-invariant-structured-prediction.pdf | Mapping Images to Scene Graphs with Permutation-Invariant Structured Prediction
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Graphical_Contrastive_Losses_for_Scene_Graph_Parsing_CVPR_2019_paper.pdf | Graphical Contrastive Losses for Scene Graph Parsing
 https://arxiv.org/abs/1910.02527.pdf | 3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera
-
+http://openaccess.thecvf.com/content_WACV_2020/papers/Raboh_Differentiable_Scene_Graphs_WACV_2020_paper.pdf | Differentiable Scene Graphs
+https://github.com/shikorab/DSG | shikorab/DSG
 ---
 
 ### 3D Morphable Models

@@ -9,3 +9,4 @@ https://arxiv.org/abs/2005.05021v3.pdf | Prescribing Deep Attentive Score Predic
 https://github.com/github/CodeSearchNet | github/CodeSearchNet: Datasets, tools, and benchmarks for representation learning of code.
 https://github.com/MPI-IS/CityGraph | MPI-IS/CityGraph: Framework for representing a city (real or virtual) and moving around it.
 https://arxiv.org/abs/2004.12169.pdf | Learning to Update Natural Language Comments Based on Code Changes
+https://paperswithcode.com/paper/unpaired-motion-style-transfer-from-video-to | Unpaired Motion Style Transfer from Video to Animation |

@@ -49,7 +49,6 @@ http://www.eecs.umich.edu/courses/eecs498-2/papers/meier96.pdf
 https://arxiv.org/abs/1903.09781.pdf | What Synthesis is Missing: Depth Adaptation Integrated with Weak Supervision for Indoor Scene Parsing
 https://arxiv.org/abs/1908.09514.pdf | Mocycle-GAN: Unpaired Video-to-Video Translation
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Nam_End-To-End_Time-Lapse_Video_Synthesis_From_a_Single_Outdoor_Image_CVPR_2019_paper.pdf | End-To-End Time-Lapse Video Synthesis From a Single Outdoor Image
-https://arxiv.org/abs/1905.08233.pdf | Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
 https://www.citi.sinica.edu.tw/papers/yylin/6497-F.pdf | Deep Video Frame Interpolation using Cyclic Frame Generation
 https://openreview.net/forum?id=rylgEULtdN | FVD: A new Metric for Video Generation | OpenReview
 https://arxiv.org/abs/1903.07291.pdf | Semantic Image Synthesis with Spatially-Adaptive Normalization

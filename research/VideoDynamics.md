@@ -56,3 +56,9 @@ https://arxiv.org/abs/1903.01434.pdf | VideoFlow: A Flow-Based Generative Model 
 https://papers.nips.cc/paper/6194-generating-videos-with-scene-dynamics.pdf | Generating Videos with Scene Dynamics
 http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_What_Makes_a_CVPR_2018_paper.pdf | What Makes a Video a Video: Analyzing Temporal Information in Video Understanding Models and Datasets
 http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Disentangling_Propagation_and_Generation_for_Video_Prediction_ICCV_2019_paper.pdf | Disentangling Propagation and Generation for Video Prediction
+http://openaccess.thecvf.com/content_CVPR_2019/html/Nam_End-To-End_Time-Lapse_Video_Synthesis_From_a_Single_Outdoor_Image_CVPR_2019_paper.html | CVPR 2019 Open Access Repository
+https://arxiv.org/abs/1907.06571 | [1907.06571] Efficient Video Generation on Complex Datasets
+https://link.springer.com/article/10.1007/s11263-019-01210-3 | GANimation: One-Shot Anatomically Consistent Facial Animation | SpringerLink
+https://arxiv.org/abs/1908.06607 | [1908.06607] Video synthesis of human upper body with realistic face
+https://scholar.google.com/scholar?cites=13583776322979873311&as_sdt=2005&sciodt=0,5&hl=en | Liu: Video synthesis of human upper body with realistic face - Google Scholar
+https://www.sciencedirect.com/science/article/abs/pii/S0097849319300147 | Cartoonish sketch-based face editing in videos using identity deformation transfer - ScienceDirect

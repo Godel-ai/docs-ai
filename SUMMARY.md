@@ -3,8 +3,8 @@
   - [GANs](research/GANs.md)
   - [Graphics](research/Graphics.md)
   - [NLP](research/NLP.md)
-  - [KnowledgeGraphs](research/KnowledgeGraphs.md)
-  - [StoryGeneration](research/StoryGeneration.md)
+    - [KnowledgeGraphs](research/KnowledgeGraphs.md)
+    - [StoryGeneration](research/StoryGeneration.md)`
   - [Computer Vision](research/Vision.md)
     - [Image/Video Synthesis](research/Synthesia.md)
     - [Video Dynamics](research/VideoDynamics.md)
