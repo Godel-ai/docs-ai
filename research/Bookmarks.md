@@ -48,6 +48,20 @@ http://virtual-home.org/ | VirtualHome
 
 ---
 
+### Github
+
+https://github.com/shreshthtuli/AlphaGoZero | shreshthtuli/AlphaGoZero: A pytorch implementation of DeepMind's Alpha Go Zero
+https://github.com/xavierpuigf/virtualhome | xavierpuigf/virtualhome: API to run VirtualHome, a simulator to generate videos of human activities
+https://github.com/facebookresearch/impact-driven-exploration | facebookresearch/impact-driven-exploration: impact-driven-exploration
+https://colab.research.google.com/drive/1GnyIypicdLf2g--tej3yZguLDkHUgEsk#scrollTo=MbGXO1TURVf- | SoRB.ipynb - Colaboratory
+https://github.com/cjy1992/interp-e2e-driving | cjy1992/interp-e2e-driving: Interpretable End-to-end Urban Autonomous Driving with Latent Deep Reinforcement Learning
+https://github.com/JindongJiang/SCALOR | JindongJiang/SCALOR: Official PyTorch implementation of "SCALOR: Generative World Models with Scalable Object Representations"
+https://biases-invariances-generalization.github.io/ | Inductive Biases, Invariances and Generalization in RL (BIG)
+https://github.com/TonghanWang/ROMA | TonghanWang/ROMA: Codes accompanying the paper "ROMA: Multi-Agent Reinforcement Learning with Emergent Roles" (ICML 2020 https://arxiv.org/abs/2003.08039)
+https://github.com/TensorSwarm/TensorSwarm | TensorSwarm/TensorSwarm: TensorSwarm: A framework for reinforcement learning of robot swarms.
+
+---
+
 ## NLP
 
 https://arxiv.org/abs/2001.08868 | [2001.08868] Exploration Based Language Learning for Text-Based Games
@@ -82,6 +96,23 @@ https://blog.einstein.ai/provis/ | (Re)Discovering Protein Structure and Functio
 
 ---
 
+### Github
+https://github.com/salesforce/cos-e | salesforce/cos-e: Commonsense Explanations Dataset and Code
+https://github.com/google-research/fixmatch | google-research/fixmatch: A simple method to perform semi-supervised learning with limited data.
+https://github.com/Alex-Fabbri/Multi-News | Alex-Fabbri/Multi-News: Large-scale multi-document summarization dataset and code
+https://github.com/google-research/lasertagger | google-research/lasertagger
+https://github.com/harvardnlp/pytorch-struct | harvardnlp/pytorch-struct: Fast, general, and tested differentiable structured prediction in PyTorch
+https://github.com/facebookresearch/LASER | facebookresearch/LASER: Language-Agnostic SEntence Representations
+https://github.com/sannawag/autotuner | sannawag/autotuner
+https://github.com/NVIDIA/NeMo | NVIDIA/NeMo: NeMo: a toolkit for conversational AI
+https://github.com/salesforce/ctrl | salesforce/ctrl: Conditional Transformer Language Model for Controllable Generation
+https://github.com/microsoft/nlp-recipes | microsoft/nlp-recipes: Natural Language Processing Best Practices & Examples
+https://github.com/minimaxir/aitextgen | minimaxir/aitextgen: A robust Python tool for text-based AI training and generation using GPT-2.
+https://github.com/Nealcly/MuTual | Nealcly/MuTual: A Dataset for Multi-Turn Dialogue Reasoning
+https://github.com/marcotcr/checklist | marcotcr/checklist: Beyond Accuracy: Behavioral Testing of NLP models with CheckList
+https://github.com/allenai/longformer | allenai/longformer: Longformer: The Long-Document Transformer
+https://github.com/wenhuchen/Table-Fact-Checking | wenhuchen/Table-Fact-Checking: Data and Code for ICLR2020 Paper "TabFact: A Large-scale Dataset for Table-based Fact Verification"
+---
 ## RL & EmbodiedAI
 
 https://montreal.ubisoft.com/en/drecon-data-driven-responsive-control-of-physics-based-characters/ | DReCon: Data-Driven responsive Control of Physics-Based Characters - Ubisoft Montréal
@@ -113,6 +144,10 @@ https://openai.com/blog/procgen-minerl-competitions/ | Procgen and MineRL Compet
 https://www.microsoft.com/en-us/research/blog/teaching-a-robot-to-see-and-navigate-with-simulation/?OCID=msr_blog_SLAM_CVPR_fb | Teaching a robot to see and navigate with simulation - Microsoft Research
 http://kuanfang.github.io/apt-gen/ | Adaptive Procedural Task Generation for Hard-Exploration Problems
 https://inventec-ai-center.github.io/projects/CARL/index.html | CARL: Controllable Agent with Reinforcement Learning for Quadruped Locomotion
+
+---
+
+### Github
 
 ---
 
