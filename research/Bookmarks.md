@@ -2,7 +2,7 @@
 
 ---
 
-### Vision
+## Vision
 
 https://arxiv.org/abs/2001.07966 | [2001.07966] ImageBERT: Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data
 https://arxiv.org/abs/2001.09518 | [2001.09518] Unsupervised Disentanglement of Pose, Appearance and Background from Images and Videos
@@ -48,7 +48,7 @@ http://virtual-home.org/ | VirtualHome
 
 ---
 
-### NLP
+## NLP
 
 https://arxiv.org/abs/2001.08868 | [2001.08868] Exploration Based Language Learning for Text-Based Games
 https://arxiv.org/abs/1909.00512 | [1909.00512] How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings
@@ -82,7 +82,7 @@ https://blog.einstein.ai/provis/ | (Re)Discovering Protein Structure and Functio
 
 ---
 
-### RL & EmbodiedAI
+## RL & EmbodiedAI
 
 https://montreal.ubisoft.com/en/drecon-data-driven-responsive-control-of-physics-based-characters/ | DReCon: Data-Driven responsive Control of Physics-Based Characters - Ubisoft Montréal
 https://arxiv.org/abs/1908.03568v2 | [1908.03568v2] Behaviour Suite for Reinforcement Learning
@@ -93,7 +93,7 @@ https://openaccess.thecvf.com/content_CVPR_2019/papers/Fang_Scene_Memory_Transfo
 https://arxiv.org/abs/2002.02836 | [2002.02836] Causally Correct Partial Models for Reinforcement Learning
 https://ai.facebook.com/blog/read-to-fight-monsters-using-rl-to-teach-agents-to-generalize-to-new-settings/ | Read to Fight Monsters: Using RL to teach agents to generalize to new settings
 https://sites.google.com/view/badgr | BADGR
-https://jsuarez5341.github.io/neural-mmo/build/html/overview.html | 
+https://jsuarez5341.github.io/neural-mmo/build/html/overview.html |
 https://arxiv.org/abs/2002.02693 | [2002.02693] Ready Policy One: World Building Through Active Learning
 https://arxiv.org/abs/2002.06038 | [2002.06038] Never Give Up: Learning Directed Exploration Strategies
 https://arxiv.org/abs/2002.05229 | [2002.05229] Data Efficient Training for Reinforcement Learning with Adaptive Behavior Policy Sharing
@@ -114,10 +114,9 @@ https://www.microsoft.com/en-us/research/blog/teaching-a-robot-to-see-and-naviga
 http://kuanfang.github.io/apt-gen/ | Adaptive Procedural Task Generation for Hard-Exploration Problems
 https://inventec-ai-center.github.io/projects/CARL/index.html | CARL: Controllable Agent with Reinforcement Learning for Quadruped Locomotion
 
-
 ---
 
-### Others
+## Others
 
 https://arxiv.org/abs/2001.08328 | [2001.08328] A Deep Learning Approach to Behavior-Based Learner Modeling
 https://arxiv.org/abs/2001.08349v2 | [2001.08349v2] Investigating naturalistic hand movements by behavior mining in long-term video and neural recordings
@@ -165,5 +164,34 @@ https://github.com/deepmind/reverb | deepmind/reverb: Reverb is an efficient and
 https://yunzhuli.github.io/V-CDN/ | V-CDN
 https://arxiv.org/abs/2002.08871v1 | [2002.08871v1] Fast Differentiable Sorting and Ranking
 
+---
+
+### Github
+
+https://github.com/facebookresearch/habitat-api | facebookresearch/habitat-api: A modular high-level library to train embodied AI agents across a variety of tasks, environments, and simulators.
+https://github.com/grahamjenson/list_of_recommender_systems | grahamjenson/list_of_recommender_systems: A List of Recommender Systems and Resources
+https://github.com/EpistasisLab/tpot | EpistasisLab/tpot: A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
+https://github.com/snap-stanford/pretrain-gnns | snap-stanford/pretrain-gnns: Strategies for Pre-training Graph Neural Networks
+https://github.com/microsoft/ailab | microsoft/ailab: Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
+https://github.com/apple/ml-capsules-inverted-attention-routing | apple/ml-capsules-inverted-attention-routing
+https://github.com/locuslab/SATNet | locuslab/SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver.
+https://github.com/k-han/AutoNovel | k-han/AutoNovel: Automatically Discovering and Learning New Visual Categories with Ranking Statistics (ICLR 2020)
+https://github.com/phanein/deepwalk | phanein/deepwalk: DeepWalk - Deep Learning for Graphs
+https://github.com/dsgiitr/graph_nets | dsgiitr/graph_nets: PyTorch Implementation and Explanation of Graph Representation Learning papers involving DeepWalk, GCN, GraphSAGE, ChebNet & GAT.
+https://github.com/mdiephuis/SimCLR | mdiephuis/SimCLR: Pytorch implementation of "A Simple Framework for Contrastive Learning of Visual Representations"
+https://github.com/quantumblacklabs/causalnex | quantumblacklabs/causalnex: A Python library that helps data scientists to infer causation rather than observing correlation.
+https://github.com/google/neural-tangents | google/neural-tangents: Fast and Easy Infinite Neural Networks in Python
+https://github.com/thunlp/GNNPapers | thunlp/GNNPapers: Must-read papers on graph neural networks (GNN)
+https://paperswithcode.com/paper/deep-graph-library-towards-efficient-and | Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs | Papers With Code
+https://github.com/facebookresearch/dlrm | facebookresearch/dlrm: An implementation of a deep learning recommendation model (DLRM)
+https://github.com/clvcooke/virtual-fluorescence | clvcooke/virtual-fluorescence: Code for: "Physics-enhanced machine learning for virtualfluorescence microscopy"
+https://github.com/microsoft/Relation-Aware-Global-Attention-Networks | microsoft/Relation-Aware-Global-Attention-Networks: We design an effective Relation-Aware Global Attention (RGA) module for CNNs to globally infer the attention.
+https://github.com/bulletphysics/bullet3 | bulletphysics/bullet3: Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+https://github.com/magicleap/SuperGluePretrainedNetwork | magicleap/SuperGluePretrainedNetwork: SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020, Oral)
+https://github.com/castorini/covidex | castorini/covidex: A multi-stage neural search engine for the COVID-19 Open Research Dataset
+https://github.com/NVlabs/6dof-graspnet | NVlabs/6dof-graspnet: Implementation of 6-DoF GraspNet with tensorflow and python. This repo has been tested with python 2.7 and tensorflow 1.12.
+https://adversarial-ml-tutorial.org/ | Adversarial Robustness - Theory and Practice
+https://deep.ghost.io/ | Alta Cognita
+https://github.com/streamlit/streamlit | streamlit/streamlit: Streamlit — The fastest way to build data apps in Python
 
 ---
