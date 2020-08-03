@@ -144,7 +144,7 @@ https://arxiv.org/abs/1810.10593.pdf | Inverse reinforcement learning for video 
 https://openai.com/blog/openai-baselines-ppo/ | Proximal Policy Optimization
 https://medium.com/@jonathan_hui/rl-proximal-policy-optimization-ppo-explained-77f014ec3f12 | RL — Proximal Policy Optimization (PPO) Explained - Jonathan Hui - Medium
 https://arxiv.org/abs/1707.06347.pdf | Proximal Policy Optimization Algorithms
-https://github.com/phecy/SSL-FEW-SHOT | phecy/SSL-FEW-SHOT: SSL-FEW-SHOT
+https://github.com/phecy/SSL-FEW-SHOT | Self-Supervised Learning For Few-shot Image Classification
 https://www.ncbi.nlm.nih.gov/pubmed/20345247 | Neural mechanisms for interacting with a world full of action choices. - PubMed - NCBI
 https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1985.0010 | Actions and habits: the development of behavioural autonomy | Philosophical Transactions of the Royal Society of London. B, Biological Sciences
 https://www.google.com/search?q=A+framework+for+the+cooperation+of+learning+algorithms.&rlz=1C1CHBF_enUS858US858&oq=A+framework+for+the+cooperation+of+learning+algorithms.&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8 | A framework for the cooperation of learning algorithms. - Google Search

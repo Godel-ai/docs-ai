@@ -89,7 +89,7 @@ https://arxiv.org/abs/1706.01433 | [1706.01433] Visual Interaction Networks
 
 ### Unified Embedding Project
 
-https://github.com/GemsLab/KGist | GemsLab/KGist
+https://github.com/GemsLab/KGist | Knowledge Graph summarization for anomaly/error detection & completion
 https://www.sciencedirect.com/science/article/abs/pii/S0031320319304650 | Discriminative distribution alignment: A unified framework for heterogeneous domain adaptation - ScienceDirect
 http://openaccess.thecvf.com/content_WACV_2020/papers/Raboh_Differentiable_Scene_Graphs_WACV_2020_paper.pdf | Differentiable Scene Graphs
 https://arxiv.org/abs/2002.08510.pdf | Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching

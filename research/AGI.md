@@ -39,7 +39,6 @@ https://dl.acm.org/doi/abs/10.1145/3336191.3371854 | Knowledge-aware Complementa
 https://dl.acm.org/doi/abs/10.1145/3351095.3372866 | Recommendations and user agency | Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency
 https://dl.acm.org/doi/abs/10.1145/3351095.3372879 | Auditing radicalization pathways on YouTube | Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency
 https://www.nowpublishers.com/article/Details/INR-066 | now publishers - Explainable Recommendation: A Survey and New Perspectives
-https://github.com/facebookresearch/dlrm | facebookresearch/dlrm: An implementation of a deep learning recommendation model (DLRM)
 
 ### AGI
 

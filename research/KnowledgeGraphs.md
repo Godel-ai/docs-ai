@@ -4,7 +4,6 @@ RDDL Graph Patterns : Entity, Link Relationships, Can be accessed in SQL-like La
 
 ### Knowledge Graph
 
-https://github.com/WING-NUS?page=1 | Web IR / NLP Group @ NUS
 https://www.openacademic.ai/ | Open Academic Society
 https://www.aminer.cn/ | AMiner-Discover the driving force behind technological innovation
 https://open.aminer.cn/ | Welcome to the AMinerOpen
