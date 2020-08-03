@@ -70,7 +70,6 @@ https://voca.is.tue.mpg.de/ | Voice Operated Character Animation
 https://ps.is.tuebingen.mpg.de/publications/voca2019 | Capture, Learning, and Synthesis of 3D Speaking Styles | Perceiving Systems - Max Planck Institute for Intelligent Systems
 https://www.youtube.com/watch?v=XceCxf_GyW4 | VOCA: Capture, Learning, and Synthesis of 3D Speaking Styles - YouTube
 
-https://github.com/google/neural-tangents | google/neural-tangents: Fast and Easy Infinite Neural Networks in Python
 http://gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/content/main.pdf | gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/content/main.pdf
 https://github.com/facebookresearch/QuaterNet | facebookresearch/QuaterNet: Proposes neural networks that can generate animation of virtual characters for different actions.
 http://openaccess.thecvf.com/content_ICCV_2019/papers/Aksan_Structured_Prediction_Helps_3D_Human_Motion_Modelling_ICCV_2019_paper.pdf | Structured Prediction Helps 3D Human Motion Modelling

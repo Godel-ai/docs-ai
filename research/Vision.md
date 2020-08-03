@@ -45,6 +45,8 @@ http://www.faculty.idc.ac.il/arik/site/writeVideo.asp | Ariel Shamir's Homepage
 https://books.google.co.in/books?hl=en&lr=&id=Kq_dU65kngUC&oi=fnd&pg=PP2&ots=vEmD9Rjr3i&sig=LXVandqs4l0nLWDwDaNgSwa3XjY&redir_esc=y#v=onepage&q&f=false | Non-Photorealistic Computer Graphics: Modeling, Rendering, and Animation - Thomas Strothotte, Stefan Schlechtweg - Google Books
 https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=1538375253694513701 | Lin: Video stylization: painterly rendering and optimizat... - Google Scholar
 http://www.eecs.umich.edu/courses/eecs498-2/papers/meier96.pdf
+https://github.com/mfinzi/LieConv | Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data
+
 
 https://arxiv.org/abs/1903.09781.pdf | What Synthesis is Missing: Depth Adaptation Integrated with Weak Supervision for Indoor Scene Parsing
 https://arxiv.org/abs/1908.09514.pdf | Mocycle-GAN: Unpaired Video-to-Video Translation

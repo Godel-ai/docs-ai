@@ -11,3 +11,4 @@ https://arxiv.org/abs/2001.04536v1.pdf | Understanding and mitigating gradient p
 https://arxiv.org/abs/1806.01242.pdf | Graph Networks as Learnable Physics Engines for Inference and Control
 https://is.mpg.de/uploads_file/attachment/attachment/543/zhu_gcpr2019_physvidpred.pdf | zhu_gcpr2019_physvidpred.pdf
 https://arxiv.org/abs/1910.00935.pdf | DiffTaichi: Differentiable Programming for Physical Simulation
+https://github.com/JerryLingjieMei/ADEPT-Model-Release | PyTorch implementation of Approximate Derenderer, Extended Physics, and Tracking (ADEPT)
