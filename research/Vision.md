@@ -15,30 +15,30 @@ https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix | junyanz/pytorch-CycleG
 https://github.com/NVlabs/SPADE | NVlabs/SPADE: Semantic Image Synthesis with SPADE
 
 
-![](2020-07-22-01-11-48.png)
+![](images/2020-07-22-01-11-48.png)
 
-![](2020-07-22-01-12-18.png)
+![](images/2020-07-22-01-12-18.png)
 
-![](2020-07-22-01-13-07.png)
+![](images/2020-07-22-01-13-07.png)
 
-![](2020-07-22-01-13-30.png)
+![](images/2020-07-22-01-13-30.png)
 
-![](2020-07-22-01-14-19.png)
+![](images/2020-07-22-01-14-19.png)
 
 
 ---
 
-![](2020-07-22-01-16-12.png)
+![](images/2020-07-22-01-16-12.png)
 
-![](2020-07-22-01-17-57.png)
+![](images/2020-07-22-01-17-57.png)
 
 ---
 
 [Link](https://arxiv.org/pdf/1711.07971.pdf)
 
-![](2020-07-22-02-02-42.png)
+![](images/2020-07-22-02-02-42.png)
 
-![](2020-07-22-02-02-54.png)
+![](images/2020-07-22-02-02-54.png)
 
 https://github.com/facebookresearch/detr | facebookresearch/detr: End-to-End Object Detection with Transformers
 http://www.faculty.idc.ac.il/arik/site/writeVideo.asp | Ariel Shamir's Homepage

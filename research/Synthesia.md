@@ -6,15 +6,15 @@
 
 https://arxiv.org/abs/1812.02784.pdf | StoryGAN: A Sequential Conditional GAN for Story Visualization
 
-![](2020-07-22-00-51-46.png)
+![](images/2020-07-22-00-51-46.png)
 
-![](2020-07-22-00-53-06.png)
+![](images/2020-07-22-00-53-06.png)
 
 ---
 
-![](2020-07-22-01-46-01.png)
+![](images/2020-07-22-01-46-01.png)
 
-![](2020-07-22-01-46-31.png)
+![](images/2020-07-22-01-46-31.png)
 
 ---
 

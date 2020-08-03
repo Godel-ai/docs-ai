@@ -159,7 +159,7 @@ https://www.google.com/search?q=Grounding+the+neurobiology+of+language+in+first+
 
 https://arxiv.org/abs/1912.01172.pdf | Value-laden Disciplinary Shifts in Machine Learning
 https://arxiv.org/abs/1912.02178.pdf | Fantastic Generalization Measures and Where to Find Them
-https://github.com/shaohua0116/ICLR2020-OpenReviewData | shaohua0116/ICLR2020-OpenReviewData: Script that crawls meta data from ICLR OpenReview webpage. Tutorials on installing and using Selenium and ChromeDriver on Ubuntu.
+https://github.com/shaohua0116/ICLR2020-OpenReviewData | Script that crawls meta data from ICLR OpenReview webpage. Tutorials on installing and using Selenium and ChromeDriver on Ubuntu.
 https://openreview.net/forum?id=Ske31kBtPr | Mathematical Reasoning in Latent Space | OpenReview
 https://openreview.net/forum?id=r1eBeyHFDH | A Theory of Usable Information under Computational Constraints | OpenReview
 http://www.montreal.ai/aidebate.pdf | aidebate.pdf

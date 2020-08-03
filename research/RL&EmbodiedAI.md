@@ -113,15 +113,15 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 
 [Link](https://arxiv.org/abs/1909.05829)
 
-![](2020-07-21-14-14-22.png)
+![](images/2020-07-21-14-14-22.png)
 
-![](2020-07-21-14-15-01.png)
+![](images/2020-07-21-14-15-01.png)
 
-![](2020-07-21-14-15-55.png)
+![](images/2020-07-21-14-15-55.png)
 
-![](2020-07-21-14-16-32.png)
+![](images/2020-07-21-14-16-32.png)
 
-![](2020-07-21-14-17-08.png)
+![](images/2020-07-21-14-17-08.png)
 
 ### RL
 
