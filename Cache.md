@@ -87,19 +87,21 @@ deep.png
 NeurIPS_2019_CODA.pdf
 https://arxiv.org/abs/1711.03902.pdf
 https://arxiv.org/abs/1909.10893.pdf
+https://arxiv.org/abs/1903.05136.pdf
+https://arxiv.org/abs/1910.01075v1.pdf
+https://arxiv.org/abs/1905.06088.pdf
+https://arxiv.org/abs/1910.01751.pdf
+https://arxiv.org/abs/1907.00878.pdf
+https://arxiv.org/abs/2005.13407v2.pdf
+
 7082-a-simple-neural-network-module-for-relational-reasoning.pdf
 Differentiable Neural Computer.pdf
 reasoning.pdf
-https://arxiv.org/abs/1903.05136.pdf
-https://arxiv.org/abs/1910.01075v1.pdf
 7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf
 DL_symbolic_processing.pdf
 robust perception.pdf
-https://arxiv.org/abs/1905.06088.pdf
-https://arxiv.org/abs/1910.01751.pdf
 7960-relational-recurrent-neural-networks.pdf Learning Factorized Multimodal Representations.pdf
-https://arxiv.org/abs/1907.00878.pdf
-https://arxiv.org/abs/2005.13407v2.pdf
+
 Chen_Graph-Based_Global_Reasoning_Networks_CVPR_2019_paper.pdf Model-free, Model-based, and General Intelligence.pdf
 
 Representation Learning/:
