@@ -1,19 +1,15 @@
 # Computer Vision
 
-# AI Movie Project
+---
+
+## AI as a Movie Maker
 
 ---
-## SPADE 
 
+### SPADE
 
-https://github.com/guoyongcs/DRN | guoyongcs/DRN: Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution
-https://arxiv.org/abs/2003.07018.pdf | Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution
-https://paperswithcode.com/task/image-generation | : Image Generation
-https://paperswithcode.com/area/computer-vision | Browse state-of-the-art in ML
-https://paperswithcode.com/paper/semantic-image-synthesis-with-spatially#code | : Semantic Image Synthesis with Spatially-Adaptive Normalization
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix | junyanz/pytorch-CycleGAN-and-pix2pix: Image-to-Image Translation in PyTorch
 https://github.com/NVlabs/SPADE | NVlabs/SPADE: Semantic Image Synthesis with SPADE
-
 
 ![](images/2020-07-22-01-11-48.png)
 
@@ -25,7 +21,6 @@ https://github.com/NVlabs/SPADE | NVlabs/SPADE: Semantic Image Synthesis with SP
 
 ![](images/2020-07-22-01-14-19.png)
 
-
 ---
 
 ![](images/2020-07-22-01-16-12.png)
@@ -34,19 +29,29 @@ https://github.com/NVlabs/SPADE | NVlabs/SPADE: Semantic Image Synthesis with SP
 
 ---
 
-[Link](https://arxiv.org/pdf/1711.07971.pdf)
-
 ![](images/2020-07-22-02-02-42.png)
+
+[Link](https://arxiv.org/pdf/1711.07971.pdf)
 
 ![](images/2020-07-22-02-02-54.png)
 
-https://github.com/facebookresearch/detr | facebookresearch/detr: End-to-End Object Detection with Transformers
+---
+
+### End-to-End Object Detection with Transformers
+
+https://github.com/facebookresearch/detr
+
+---
+
+https://github.com/guoyongcs/DRN | guoyongcs/DRN: Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution
+https://arxiv.org/abs/2003.07018.pdf | Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution
 http://www.faculty.idc.ac.il/arik/site/writeVideo.asp | Ariel Shamir's Homepage
 https://books.google.co.in/books?hl=en&lr=&id=Kq_dU65kngUC&oi=fnd&pg=PP2&ots=vEmD9Rjr3i&sig=LXVandqs4l0nLWDwDaNgSwa3XjY&redir_esc=y#v=onepage&q&f=false | Non-Photorealistic Computer Graphics: Modeling, Rendering, and Animation - Thomas Strothotte, Stefan Schlechtweg - Google Books
 https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=1538375253694513701 | Lin: Video stylization: painterly rendering and optimizat... - Google Scholar
 http://www.eecs.umich.edu/courses/eecs498-2/papers/meier96.pdf
 https://github.com/mfinzi/LieConv | Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data
 
+---
 
 https://arxiv.org/abs/1903.09781.pdf | What Synthesis is Missing: Depth Adaptation Integrated with Weak Supervision for Indoor Scene Parsing
 https://arxiv.org/abs/1908.09514.pdf | Mocycle-GAN: Unpaired Video-to-Video Translation
@@ -61,6 +66,8 @@ https://deeplearn.org/ | Deep Learning Monitor - Find new Arxiv papers, tweets a
 https://arxiv.org/abs/1908.07500.pdf | https://arxiv.org/abs/1908.07500.pdf
 http://www.eecs.harvard.edu/~htk/publication/2019-aaai-cha-gwon-kung.pdf | Adversarial Learning of Semantic Relevance in Text to Image Synthesis
 https://www.google.com/search?q=Convolutional+Sequence+Generation+for+Skeleton-Based+Action+Synthesis&rlz=1C1CHBF_enUS858US858&oq=Convolutional+Sequence+Generation+for+Skeleton-Based+Action+Synthesis&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Convolutional Sequence Generation for Skeleton-Based Action Synthesis - Google Search
+
+---
 
 http://graphics.pixar.com/library/sigAsia2018Course/paper.pdf | paper.pdf
 https://www.youtube.com/watch?v=7hUH92xwODg | OpenVDB: An Open Source Data Structure and Toolkit for High-Resolution Volumes - YouTube
