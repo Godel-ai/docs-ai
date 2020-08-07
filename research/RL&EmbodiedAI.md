@@ -145,18 +145,7 @@ https://openai.com/blog/openai-baselines-ppo/ | Proximal Policy Optimization
 https://medium.com/@jonathan_hui/rl-proximal-policy-optimization-ppo-explained-77f014ec3f12 | RL — Proximal Policy Optimization (PPO) Explained - Jonathan Hui - Medium
 https://arxiv.org/abs/1707.06347.pdf | Proximal Policy Optimization Algorithms
 https://github.com/phecy/SSL-FEW-SHOT | Self-Supervised Learning For Few-shot Image Classification
-https://www.ncbi.nlm.nih.gov/pubmed/20345247 | Neural mechanisms for interacting with a world full of action choices. - PubMed - NCBI
-https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1985.0010 | Actions and habits: the development of behavioural autonomy | Philosophical Transactions of the Royal Society of London. B, Biological Sciences
-https://www.google.com/search?q=A+framework+for+the+cooperation+of+learning+algorithms.&rlz=1C1CHBF_enUS858US858&oq=A+framework+for+the+cooperation+of+learning+algorithms.&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8 | A framework for the cooperation of learning algorithms. - Google Search
-https://www.google.com/search?q=Motivation+and+cognitive+control%3A+from+behavior+to+neural+mechanism&rlz=1C1CHBF_enUS858US858&oq=Motivation+and+cognitive+control%3A+from+behavior+to+neural++mechanism&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Motivation and cognitive control: from behavior to neural mechanism - Google Search
-https://www.google.com/search?q=Neural+module+networks&rlz=1C1CHBF_enUS858US858&oq=Neural+module+networks&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Neural module networks - Google Search
-https://arxiv.org/abs/1709.08568 | [1709.08568] The Consciousness Prior
-https://www.google.com/search?q=Learning+to+decompose+neural+computation.&rlz=1C1CHBF_enUS858US858&oq=Learning+to+decompose+neural++computation.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Learning to decompose neural computation. - Google Search
-https://www.google.com/search?q=Routing+networks+and+the+challenges+of+modular+and+compositional+computation&rlz=1C1CHBF_enUS858US858&oq=Routing+networks+and+the++challenges+of+modular+and+compositional+computation&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Routing networks and the challenges of modular and compositional computation - Google Search
-https://www.google.com/search?q=challenging+common+assumptions+in+the+unsupervised+learning+of+disentangled+representations&rlz=1C1CHBF_enUS858US858&oq=challen&aqs=chrome.1.69i57j35i39j0l2j69i60l2.4878j0j7&sourceid=chrome&ie=UTF-8 | challenging common assumptions in the unsupervised learning of disentangled representations - Google Search
-https://github.com/rail-berkeley/softlearning | rail-berkeley/softlearning: Softlearning is a reinforcement learning framework for training maximum entropy policies in continuous domains. Includes the official implementation of the Soft Actor-Critic algorithm
-https://github.com/thu-ml/tianshou | thu-ml/tianshou: An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform.
-https://github.com/deepmind/bsuite | deepmind/bsuite: bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
+
 https://arxiv.org/abs/1911.12247 | [1911.12247] Contrastive Learning of Structured World Models
 https://arxiv.org/abs/1909.12271.pdf | RLBench: The Robot Learning Benchmark & Learning Environment
 http://proceedings.mlr.press/v97/kipf19a/kipf19a.pdf | CompILE: Compositional Imitation Learning and Execution
@@ -164,12 +153,10 @@ https://arxiv.org/abs/1910.08264.pdf | Learning Compositional Koopman Operators 
 https://arxiv.org/abs/1803.10122.pdf | World Models
 https://arxiv.org/abs/1810.06284 | CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning
 https://pathak22.github.io/zeroshot-imitation/ | Zero-Shot Visual Imitation
-http://proceedings.mlr.press/v78/finn17a/finn17a.pdf?source=post_page--------------------------- | finn17a.pdf
 https://arxiv.org/abs/1906.10667.pdf | Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives
 https://github.com/google-research/dads | google-research/dads: Code for 'Dynamics-Aware Unsupervised Discovery of Skills' (DADS). Enables skill discovery without supervision, which can be combined with model-based control.
 https://arxiv.org/abs/1910.12827.pdf | Entity Abstraction in Visual Model-Based Reinforcement Learning
 https://arxiv.org/abs/2003.06417.pdf | Sparse Graphical Memory for Robust Planning
-https://github.com/scottemmons/sgm | scottemmons/sgm: Sparse Graphical Memory for Robust Planning
 https://arxiv.org/abs/2004.12919v1.pdf | First return then explore
 https://arxiv.org/abs/2004.12974v1.pdf | Emergent Real-World Robotic Skills via Unsupervised Off-Policy Reinforcement Learning
 https://arxiv.org/abs/1909.12434.pdf | Learning the Difference that Makes a Difference with Counterfactually-Augmented Data
@@ -189,4 +176,25 @@ http://papers.nips.cc/paper/8836-comparing-unsupervised-word-translation-methods
 https://adversarialpolicies.github.io/ | Adversarial Policies
 https://paperswithcode.com/paper/plan2vec-unsupervised-representation-learning-1 | Plan2Vec: Unsupervised Representation Learning by Latent Plans
 https://arxiv.org/abs/1702.08360 | [1702.08360] Neural Map: Structured Memory for Deep Reinforcement Learning
+
+---
+
 https://github.com/Kaixhin/PlaNet | Kaixhin/PlaNet: Deep Planning Network: Control from pixels by latent planning with learned dynamics
+https://github.com/rail-berkeley/softlearning | rail-berkeley/softlearning: Softlearning is a reinforcement learning framework for training maximum entropy policies in continuous domains. Includes the official implementation of the Soft Actor-Critic algorithm
+https://github.com/thu-ml/tianshou | thu-ml/tianshou: An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform.
+https://github.com/deepmind/bsuite | deepmind/bsuite: bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
+
+---
+
+https://arxiv.org/abs/1909.03368.pdf | Designing and Interpreting Probes with Control Tasks
+http://papers.nips.cc/paper/6391-generative-adversarial-imitation-learning.pdf | 6391-generative-adversarial-imitation-learning.pdf
+https://arxiv.org/abs/1706.02416.pdf | Generalized Value Iteration Networks:Life Beyond Lattices
+https://arxiv.org/abs/1711.00832.pdf | A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning
+https://arxiv.org/abs/1806.10166.pdf | Modular meta-learning
+https://arxiv.org/abs/1906.04161.pdf | Self-Supervised Exploration via Disagreement
+https://arxiv.org/abs/1901.08004.pdf | Hierarchical Reinforcement Learning for Multi-agent MOBA Game
+https://arxiv.org/abs/1808.00177.pdf | Learning Dexterous In-Hand Manipulation
+https://arxiv.org/abs/1906.10667.pdf | Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives
+https://arxiv.org/abs/1710.09767.pdf | Meta Learning Shared Hierarchies
+http://acsweb.ucsd.edu/~wfedus/pdf/replay.pdf | Revisiting Fundamentals of Experience Replay
+https://arxiv.org/abs/2004.12570.pdf | The Ingredients of Real-World Robotic Reinforcement Learning

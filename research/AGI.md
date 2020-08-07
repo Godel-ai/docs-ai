@@ -136,15 +136,12 @@ https://arxiv.org/abs/1812.05433.pdf |Lenia - Biology of Artificial Life
 https://github.com/limaosen0/DMGNN | limaosen0/DMGNN: The implementation of DMGNN
 https://arxiv.org/abs/1910.04302 | [1910.04302] Prescribed Generative Adversarial Networks
 https://arxiv.org/ftp/arxiv/papers/1507/1507.05679.pdf | 1507.05679.pdf
-https://invertibleworkshop.github.io/accepted_papers/pdfs/INNF_2019_paper_26.pdf | Invertible Convolutional Networks
 https://arxiv.org/abs/1904.05866.pdf | Expressive Body Capture: 3D Hands, Face, and Body from a Single Image
-http://acsweb.ucsd.edu/~wfedus/pdf/replay.pdf | Revisiting Fundamentals of Experience Replay
-https://arxiv.org/abs/2004.12570.pdf | The Ingredients of Real-World Robotic Reinforcement Learning
+
 https://arxiv.org/abs/2005.01819v1.pdf | Neural Subdivision
 https://arxiv.org/abs/2005.03632v1 | [2005.03632v1] Visualisation and knowledge discovery from interpretable models
 
 https://arxiv.org/abs/1905.12389.pdf | A Boxology of Design Patterns for Hybrid Learning and Reasoning Systems
-https://paperswithcode.com/paper/grounding-conversations-with-improvised | Grounding Conversations with Improvised Dialogues - Papers With Code
 
 https://arxiv.org/abs/1912.08998v1.pdf | Understanding Human Judgments of Causality
 https://mbio.asm.org/content/mbio/11/1/e02780-19.full.pdf | Gut Feelings Begin in Childhood: the Gut Metagenome Correlates with Early Environment, Caregiving, and Behavior
@@ -180,19 +177,14 @@ https://www.google.com/search?q=challenging+common+assumptions+in+the+unsupervis
 http://papers.nips.cc/paper/6552-visual-dynamics-probabilistic-future-frame-synthesis-via-cross-convolutional-networks.pdf | Probabilistic Modeling of Future Frames from a Single Image
 http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Learning_and_Using_CVPR_2018_paper.pdf | Learning and Using the Arrow of Time
 https://arxiv.org/abs/1904.12774.pdf | Routing Networks and the Challenges of Modular and Compositional Computation
-https://arxiv.org/abs/1906.10667.pdf | Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives
-https://arxiv.org/abs/1710.09767.pdf | Meta Learning Shared Hierarchies
-https://arxiv.org/abs/1806.10166.pdf | Modular meta-learning
+
 https://openreview.net/forum?id=BJOFETxR- | Learning to Represent Programs with Graphs
-https://arxiv.org/abs/1906.04161.pdf | Self-Supervised Exploration via Disagreement
-https://arxiv.org/abs/1901.08004.pdf | Hierarchical Reinforcement Learning for Multi-agent MOBA Game
-https://arxiv.org/abs/1808.00177.pdf | Learning Dexterous In-Hand Manipulation
 https://arxiv.org/abs/1509.06113 | [1509.06113] Deep Spatial Autoencoders for Visuomotor Learning
 https://arxiv.org/abs/1511.08228.pdf | Neural GPUs Learn Algorithms
 http://openaccess.thecvf.com/content_cvpr_2016/papers/Andreas_Neural_Module_Networks_CVPR_2016_paper.pdf | Neural Module Networks
 https://arxiv.org/abs/1703.03864.pdf | Evolution Strategies as a Scalable Alternative to Reinforcement Learning
 https://arxiv.org/abs/1901.01753.pdf | Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions
-https://arxiv.org/abs/1711.00832.pdf | A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning
+
 https://arxiv.org/abs/1904.09019.pdf | Graph Element Networks: adaptive, structured computation and memory
 https://arxiv.org/abs/1907.03950.pdf | Learning by Abstraction: The Neural State Machine
 https://arxiv.org/abs/1709.08568.pdf | The Consciousness Prior
@@ -215,9 +207,7 @@ https://arxiv.org/abs/1911.00172.pdf | Generalization through Memorization: Near
 https://arxiv.org/abs/1704.01212.pdf | Neural Message Passing for Quantum Chemistry
 https://arxiv.org/abs/1911.00997.pdf | Multiple Futures Prediction
 https://arxiv.org/abs/1910.00163.pdf | Specializing Word Embeddings (for Parsing) by Information Bottleneck
-https://arxiv.org/abs/1909.03368.pdf | Designing and Interpreting Probes with Control Tasks
-http://papers.nips.cc/paper/6391-generative-adversarial-imitation-learning.pdf | 6391-generative-adversarial-imitation-learning.pdf
-https://arxiv.org/abs/1706.02416.pdf | Generalized Value Iteration Networks:Life Beyond Lattices
+
 https://www.google.com/search?q=adamw&oq=adamw&aqs=chrome.0.0l8.3103j0j7&sourceid=chrome&ie=UTF-8 | adamw - Google Search
 https://www.fast.ai/2018/07/02/adam-weight-decay/ | AdamW and Super-convergence is now the fastest way to train neural nets · fast.ai
 https://distill.pub/2019/gan-open-problems/?utm_campaign=piqcy&utm_medium=email&utm_source=Revue%20newsletter#advx | Open Questions about Generative Adversarial Networks
@@ -238,3 +228,12 @@ https://arxiv.org/abs/1905.11833.pdf | Interpreting and improving natural-langua
 https://arxiv.org/abs/1904.11955.pdf | On Exact Computation with an Infinitely Wide Neural Net
 https://arxiv.org/abs/1606.03126.pdf | Key-Value Memory Networks for Directly Reading Documents
 https://openreview.net/references/pdf?id=Sy2fzU9gl | β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK
+
+https://www.ncbi.nlm.nih.gov/pubmed/20345247 | Neural mechanisms for interacting with a world full of action choices. - PubMed - NCBI
+https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1985.0010 | Actions and habits: the development of behavioural autonomy | Philosophical Transactions of the Royal Society of London. B, Biological Sciences
+https://www.google.com/search?q=A+framework+for+the+cooperation+of+learning+algorithms.&rlz=1C1CHBF_enUS858US858&oq=A+framework+for+the+cooperation+of+learning+algorithms.&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8 | A framework for the cooperation of learning algorithms. - Google Search
+https://www.google.com/search?q=Motivation+and+cognitive+control%3A+from+behavior+to+neural+mechanism&rlz=1C1CHBF_enUS858US858&oq=Motivation+and+cognitive+control%3A+from+behavior+to+neural++mechanism&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Motivation and cognitive control: from behavior to neural mechanism - Google Search
+https://www.google.com/search?q=Neural+module+networks&rlz=1C1CHBF_enUS858US858&oq=Neural+module+networks&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Neural module networks - Google Search
+https://www.google.com/search?q=Learning+to+decompose+neural+computation.&rlz=1C1CHBF_enUS858US858&oq=Learning+to+decompose+neural++computation.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Learning to decompose neural computation. - Google Search
+https://www.google.com/search?q=Routing+networks+and+the+challenges+of+modular+and+compositional+computation&rlz=1C1CHBF_enUS858US858&oq=Routing+networks+and+the++challenges+of+modular+and+compositional+computation&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Routing networks and the challenges of modular and compositional computation - Google Search
+https://www.google.com/search?q=challenging+common+assumptions+in+the+unsupervised+learning+of+disentangled+representations&rlz=1C1CHBF_enUS858US858&oq=challen&aqs=chrome.1.69i57j35i39j0l2j69i60l2.4878j0j7&sourceid=chrome&ie=UTF-8 | challenging common assumptions in the unsupervised learning of disentangled representations - Google Search
