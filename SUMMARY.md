@@ -1,5 +1,6 @@
 - [Projects](Projects.md)
 - [Research](research/Research.md)
+
   - [GANs](research/GANs.md)
   - [Graphics](research/Graphics.md)
   - [NLP](research/NLP.md)
@@ -9,7 +10,7 @@
     - [Image/Video Synthesis](research/Synthesia.md)
     - [Video Dynamics](research/VideoDynamics.md)
 
-- [Casual](research/Casual.md)
+- [Casual](research/Cache.md)
   - [AbstractIdeas](research/AbstractIdeas.md)
   - [AGI](research/AGI.md)
   - [AutomatedResearch](research/AutomatedResearch.md)
