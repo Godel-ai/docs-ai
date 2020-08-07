@@ -4,24 +4,22 @@ Basic/:
 08364645.pdf
 https://arxiv.org/abs/1801.03924.pdf
 https://arxiv.org/abs/2003.13678v1.pdf
-common sense.pdf
-piantadosi2018one.pdf
-Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf
 https://arxiv.org/abs/1503.02531.pdf
 https://arxiv.org/abs/1803.01271.pdf
+common sense.pdf
+piantadosi2018one.pdf
 5542-recurrent-models-of-visual-attention.pdf
 lecun-20180419-icassp.pdf
 relational networks.pdf
 https://arxiv.org/abs/1506.02025.pdf
 https://arxiv.org/abs/1806.07366.pdf
-7181-attention-is-all-you-need.pdf Mask RCNN.pdf Survey on Image Captioning.pdf
 https://arxiv.org/abs/1602.07868.pdf
 https://arxiv.org/abs/1809.10756.pdf
+https://arxiv.org/abs/1612.00222.pdf
+https://arxiv.org/abs/1905.10307.pdf
 AM5_Deep Learning - From Theory to Practice_01.pdf
 one model to learn them all.pdf
 SuttonBartoIPRLBook2ndEd.pdf
-https://arxiv.org/abs/1612.00222.pdf
-https://arxiv.org/abs/1905.10307.pdf
 Binary NN.pdf
 parallel hyperparameter tuning.pdf
 tensorly.pdf
