@@ -198,3 +198,6 @@ https://arxiv.org/abs/1906.10667.pdf | Reinforcement Learning with Competitive E
 https://arxiv.org/abs/1710.09767.pdf | Meta Learning Shared Hierarchies
 http://acsweb.ucsd.edu/~wfedus/pdf/replay.pdf | Revisiting Fundamentals of Experience Replay
 https://arxiv.org/abs/2004.12570.pdf | The Ingredients of Real-World Robotic Reinforcement Learning
+
+![](images/2020-08-09-01-32-25.png)
+![](images/2020-08-09-01-35-34.png)
