@@ -65,7 +65,7 @@ http://www.eecs.umich.edu/courses/eecs498-2/papers/meier96.pdf
 
 - [**Unsupervised Doodling and Painting with Improved SPIRAL**](https://learning-to-paint.github.io/)
 - [**Deep Learning Monitor - Find new Arxiv papers, tweets and Reddit posts for you**](https://deeplearn.org/)
-- [**https://arxiv.org/abs/1908.07500.pdf**](https://arxiv.org/abs/1908.07500.pdf)
+- [**Image Synthesis From Reconfigurable Layout and Style**](https://arxiv.org/abs/1908.07500.pdf)
 - [**Adversarial Learning of Semantic Relevance in Text to Image Synthesis**](http://www.eecs.harvard.edu/~htk/publication/2019-aaai-cha-gwon-kung.pdf)
 - [**Convolutional Sequence Generation for Skeleton-Based Action Synthesis - Google Search**](https://www.google.com/search?q=Convolutional+Sequence+Generation+for+Skeleton-Based+Action+Synthesis&rlz=1C1CHBF_enUS858US858&oq=Convolutional+Sequence+Generation+for+Skeleton-Based+Action+Synthesis&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 
