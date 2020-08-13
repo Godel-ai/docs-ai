@@ -84,5 +84,5 @@
 - [**Learning Dynamics Model in Reinforcement Learning by Incorporating the Long Term Future**](https://arxiv.org/abs/1903.01599.pdf)
 - [**Discovering objects and their relations from entangled scene representations**](https://arxiv.org/abs/1702.05068.pdf)
 - [**CLEVRER: CoLlision Events for Video REpresentation and Reasoning**](https://arxiv.org/abs/1910.01442.pdf)
-- [**OpenReview**](https://openreview.net/forum?id=rJxbJeHFPS | What Can Neural Networks Reason About? )
+- [**What Can Neural Networks Reason About?**](https://openreview.net/forum?id=rJxbJeHFPS)
 - [**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**](http://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding.pdf)

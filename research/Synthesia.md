@@ -51,7 +51,6 @@
 - [**Neural Network Dreams About Beautiful Natural Scenes - YouTube**](https://www.youtube.com/watch?v=MPdj8KGZHa0)
 - [**Deep Image Spatial Transformation for Person Image Generation**](https://arxiv.org/abs/2003.00696.pdf)
 - [**Predicting Scene Parsing and Motion Dynamics in the Future**](https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf)
-
 - [**grey-eye/talking-heads: Our implementation of "Few-Shot Adversarial Learning of Realistic Neural Talking Head Models" (Egor Zakharov et al.)**](https://github.com/grey-eye/talking-heads)
 - [**Recycle-GAN: Unsupervised Video Retargeting**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Aayush_Bansal_Recycle-GAN_Unsupervised_Video_ECCV_2018_paper.pdf)
 - [**Synthesizing Obama: Learning Lip Sync from Audio**](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)
@@ -69,8 +68,7 @@
 - [**Voice Operated Character Animation**](https://voca.is.tue.mpg.de/)
 - [**Perceiving Systems - Max Planck Institute for Intelligent Systems**](https://ps.is.tuebingen.mpg.de/publications/voca2019 | Capture, Learning, and Synthesis of 3D Speaking Styles )
 - [**VOCA: Capture, Learning, and Synthesis of 3D Speaking Styles - YouTube**](https://www.youtube.com/watch?v=XceCxf_GyW4)
-
-- [**gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/content/main.pdf**](http://gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/content/main.pdf)
+- [**Neural Rendering and Reenactment of Human Actor Videos**](http://gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/content/main.pdf)
 - [**facebookresearch/QuaterNet: Proposes neural networks that can generate animation of virtual characters for different actions.**](https://github.com/facebookresearch/QuaterNet)
 - [**Structured Prediction Helps 3D Human Motion Modelling**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Aksan_Structured_Prediction_Helps_3D_Human_Motion_Modelling_ICCV_2019_paper.pdf)
 - [**PMnet_Learning.pdf**](https://research.birmingham.ac.uk/portal/files/71180007/PMnet_Learning.pdf)
@@ -78,7 +76,7 @@
 - [**[1806.07179] FrankenGAN: Guided Detail Synthesis for Building Mass-Models Using Style-Synchonized GANs**](https://arxiv.org/abs/1806.07179)
 - [**lei65537/Visual_Driven_Mesh_Repair: Repairing Man-Made Meshes via Visual Driven Global Optimization with Minimum Intrusion**](https://github.com/lei65537/Visual_Driven_Mesh_Repair)
 - [**Extreme 3D Face Reconstruction: Seeing Through Occlusions**](https://arxiv.org/abs/1712.05083v2.pdf)
-- [**: Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision**](https://paperswithcode.com/paper/learning-to-regress-3d-face-shape-and)
+- [**Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision**](https://paperswithcode.com/paper/learning-to-regress-3d-face-shape-and)
 
 ---
 
@@ -90,7 +88,7 @@
 - [**Object-Centric Image Generation from Layouts**](https://arxiv.org/abs/2003.07449.pdf)
 - [**ARCH: Animatable Reconstruction of Clothed Humans**](https://arxiv.org/abs/2004.04572v2.pdf)
 - [**shunsukesaito/PIFu: This repository contains the code for the paper "PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization"**](https://github.com/shunsukesaito/PIFu)
-- [**- MedDialog: A Large-scale Medical Dialogue Dataset**](https://paperswithcode.com/paper/meddialog-a-large-scale-medical-dialogue)
+- [**MedDialog: A Large-scale Medical Dialogue Dataset**](https://paperswithcode.com/paper/meddialog-a-large-scale-medical-dialogue)
 - [**- Video Generation**](https://paperswithcode.com/task/video-generation)
 - [**Background Matting: The World is Your Green Screen**](https://arxiv.org/abs/2004.00626.pdf)
 - [**Predicting 3D Human Dynamics from Video**](https://arxiv.org/abs/1908.04781.pdf)
