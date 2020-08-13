@@ -159,7 +159,7 @@
 - [**FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models**](https://arxiv.org/abs/1810.01367.pdf)
 - [**User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks**](https://arxiv.org/abs/1808.03240.pdf)
 - [**Generative Adversarial Text to Image Synthesis**](http://proceedings.mlr.press/v48/reed16.pdf)
-- [**CVPR 2017 Open Access Repository**](http://openaccess.thecvf.com/content_cvpr_2017/html/Huang_Stacked_Generative_Adversarial_CVPR_2017_paper.html)
+- [**Stacked_Generative_Adversarial Networks**](http://openaccess.thecvf.com/content_cvpr_2017/html/Huang_Stacked_Generative_Adversarial_CVPR_2017_paper.html)
 - [**Neural Photo Editing with Introspective Adversarial Networks**](https://arxiv.org/abs/1609.07093.pdf)
 - [**LumièreNet: Lecture Video Synthesis from Audio**](https://arxiv.org/abs/1907.02253v1.pdf)
 - [**pix2pixHD_ntire2018**](http://www.vision.ee.ethz.ch/ntire18/talks/Ming-YuLiu_pix2pixHD_NTIRE2018talk.pdf)
