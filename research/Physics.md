@@ -8,7 +8,7 @@
 - [**Structured Object-Aware Physics Prediction for Video Modeling and Planning**](https://arxiv.org/abs/1910.02425.pdf)
 - [**Occlusion resistant learning of intuitive physics from videos**](https://openreview.net/forum?id=HylfPgHYvr)
 - [**Learning Symbolic Physics with Graph Networks**](https://arxiv.org/abs/1909.05862v1.pdf)
-- [**OpenReview**](https://openreview.net/forum?id=r1gelyrtwH | Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics )
+- [**Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics **](https://openreview.net/forum?id=r1gelyrtwH)
 - [**Understanding and mitigating gradient pathologies in physics-informed neural networks**](https://arxiv.org/abs/2001.04536v1.pdf)
 - [**Graph Networks as Learnable Physics Engines for Inference and Control**](https://arxiv.org/abs/1806.01242.pdf)
 - [**zhu_gcpr2019_physvidpred.pdf**](https://is.mpg.de/uploads_file/attachment/attachment/543/zhu_gcpr2019_physvidpred.pdf)

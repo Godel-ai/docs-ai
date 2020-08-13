@@ -8,7 +8,7 @@
 - [**Neural Theorem Provers Do Not Learn Rules Without Exploration**](https://arxiv.org/abs/1906.06805.pdf)
 - [**Neural Logic Reinforcement Learning**](https://arxiv.org/abs/1904.10729.pdf)
 - [**Probabilistic Logic Neural Networks for Reasoning**](https://arxiv.org/abs/1906.08495.pdf)
-- [**OpenReview**](https://openreview.net/forum?id=r1lZ7AEKvB | The Logical Expressiveness of Graph Neural Networks )
+- [**The Logical Expressiveness of Graph Neural Networks**](https://openreview.net/forum?id=r1lZ7AEKvB)
 - [**Forgetting to learn logic programs**](https://arxiv.org/abs/1911.06643v1.pdf)
 - [**Learning to Prove Theorems by Learning to Generate Theorems**](https://openreview.net/forum?id=BJxiqxSYPB)
 - [**Deep Learning For Symbolic Mathematics**](https://openreview.net/forum?id=S1eZYeHFDS)
