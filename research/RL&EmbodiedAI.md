@@ -161,7 +161,6 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**Learning the Difference that Makes a Difference with Counterfactually-Augmented Data**](https://arxiv.org/abs/1909.12434.pdf)
 
 - [**[2001.07685] FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence**](https://arxiv.org/abs/2001.07685)
-- [**YORB 2020**](https://yorb.itp.io/)
 - [**Context-aware Dynamics Model for Generalization in Model-Based Reinforcement Learning**](https://paperswithcode.com/paper/context-aware-dynamics-model-for)
 - [**Novelty Search makes Evolvability Inevitable **](https://paperswithcode.com/paper/novelty-search-makes-evolvability-inevitable)
 - [**Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA**](https://paperswithcode.com/paper/dense-caption-matching-and-frame-selection)

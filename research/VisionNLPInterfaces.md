@@ -100,7 +100,7 @@
 - [**Explicit Reasoning over End-to-End Neural Architectures for Visual Question Answering**](https://arxiv.org/abs/1803.08896.pdf )
 - [**PubLayNet: largest dataset ever for document layout analysis - Papers With Code**](https://paperswithcode.com/paper/190807836 )
 - [**HUSE: Hierarchical Universal Semantic Embeddings**](https://arxiv.org/abs/1911.05978v1.pdf )
-- [**WACV 2020 Open Access Repository**](http://openaccess.thecvf.com/content_WACV_2020/html/Wang_Cross-modal_Scene_Graph_Matching_for_Relationship-aware_Image-Text_Retrieval_WACV_2020_paper.html )
+- [**Cross-modal_Scene_Graph_Matching_for_Relationship-aware_Image-Text_Retrieval**](http://openaccess.thecvf.com/content_WACV_2020/html/Wang_Cross-modal_Scene_Graph_Matching_for_Relationship-aware_Image-Text_Retrieval_WACV_2020_paper.html )
 - [**Cross-Modal Attention With Semantic Consistence for Image-Text Matching - IEEE Journals & Magazine**](https://ieeexplore.ieee.org/abstract/document/8994196 )
 - [**[2002.08510] Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching**](https://arxiv.org/abs/2002.08510 )
 - [**Novel model to integrate word embeddings and syntactic trees for automatic caption generation from images**](https://link.springer.com/article/10.1007/s00500-019-03973-w)
