@@ -29,7 +29,6 @@ http://csxstatic.ist.psu.edu/about/scholarly-information-extraction
 - [**world knowledge graph of topics in json - Google Search**](https://www.google.com/search?q=world+knowledge+graph+of+topics+in+json&oq=world+knowledge+graph+of+topics+in+json&aqs=chrome..69i57.26878j0j7&sourceid=chrome&ie=UTF-8)
   [**  Google Knowledge Graph Search API  **](https://developers.google.com/knowledge-graph)
 - [**totogo/awesome-knowledge-graph: A curated list of Knowledge Graph related learning materials, databases, tools and other resources**](https://github.com/totogo/awesome-knowledge-graph)
-- [**Microsoft Academic**](https://academic.microsoft.com/topics | Home )
 - [**Automatic Knowledge Construction of a Grakn Knowledge Graph**](https://medium.com/@francesco.murdaca91/automatic-knowledge-construction-of-a-grakn-knowledge-graph-4cb62a71a1ea)
 - [**Azure-Samples/academic-knowledge-analytics-visualization: Various examples to perform big data analytics over Microsoft Academic Graph and visualize the results.**](https://github.com/Azure-Samples/academic-knowledge-analytics-visualization)
   https://en.wikipedia.org/wiki/Portal:Science/Categories_and_Main_topics
