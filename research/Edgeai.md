@@ -1,6 +1,6 @@
 ## Edge AI Infrastructure
 
-[**https://dl.acm.org/doi/pdf/10.1145/3197517.3201383**](https://dl.acm.org/doi/pdf/10.1145/3197517.3201383)
+[**Differentiable Programming for Image Processing and Deep Learning in Halide**](https://dl.acm.org/doi/pdf/10.1145/3197517.3201383)
 
 - Automating Hardware Design by Extracting Generalization from Data-Flow Graphs
 - High-Performance Differential Processor for Edge Training
