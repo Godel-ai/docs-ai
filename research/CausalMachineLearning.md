@@ -1,10 +1,9 @@
-
 ## Causal Machine Learning
 
 - Using counterfactuals to solve problems, Recurrent Independent Mechanisms
 - Model based Causality and Disentanglement : Causality and Anti-Causal by injecting interference
 
-[https://arxiv.org/abs/1901.10912](https://arxiv.org/abs/1901.10912)
+[- https://arxiv.org/abs/1901.10912](- https://arxiv.org/abs/1901.10912)
 
 We propose to meta-learn causal structures based on how fast a learner adapts to new distributions arising from sparse distributional changes, e.g. due to interventions, actions of agents and other sources of non-stationarities. We show that under this assumption, the correct causal structural choices lead to faster adaptation to modified distributions because the changes are concentrated in one or just a few mechanisms when the learned knowledge is modularized appropriately. This leads to sparse expected gradients and a lower effective number of degrees of freedom needing to be relearned while adapting to the change. It motivates using the speed of adaptation to a modified distribution as a meta-learning objective. .
 
@@ -20,31 +19,29 @@ We propose to meta-learn causal structures based on how fast a learner adapts to
 
 ![](images/2020-07-21-05-39-44.png)
 
-
 ---
-
 
 ### Causality
 
-https://arxiv.org/abs/1905.13049.pdf | Neural Consciousness Flow
-https://arxiv.org/abs/1811.00497.pdf | Modeling Attention Flow on Graphs
-http://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning.pdf | Differentiable Learning of Logical Rules for Knowledge Base Reasoning
-https://icml.cc/2012/papers/625.pdf | On Causal and Anticausal Learning
+- https://arxiv.org/abs/1905.13049.pdf | Neural Consciousness Flow
+- https://arxiv.org/abs/1811.00497.pdf | Modeling Attention Flow on Graphs
+- http://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning.pdf | Differentiable Learning of Logical Rules for Knowledge Base Reasoning
+- https://icml.cc/2012/papers/625.pdf | On Causal and Anticausal Learning
 
-https://scholar.google.com/scholar?cites=9758707731169438744&as_sdt=2005&sciodt=0,5&hl=en | Mirowski: Learning to navigate in cities without a map - Google Scholar
-https://openreview.net/forum?id=BkxWJnC9tX | Diversity and Depth in Per-Example Routing Models
-https://arxiv.org/abs/1804.00645.pdf | Universal Planning Networks
-https://arxiv.org/abs/1801.08214 | [1801.08214] Active Neural Localization
-http://openaccess.thecvf.com/content_CVPR_2019/html/Tung_Learning_Spatial_Common_Sense_With_Geometry-Aware_Recurrent_Networks_CVPR_2019_paper.html | CVPR 2019 Open Access Repository
-https://openreview.net/forum?id=H1gN6kSFwS | Learning Neural Causal Models from Unknown Interventions
-https://arxiv.org/abs/1911.10496.pdf | Two Causal Principles for Improving Visual Dialog
-https://arxiv.org/abs/1801.04016.pdf | Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution
-https://arxiv.org/abs/1901.08162 | [1901.08162] Causal Reasoning from Meta-reinforcement Learning
-https://paperswithcode.com/task/causal-inference | : Causal Inference
-https://openreview.net/forum?id=ryxWIgBFPS | A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms
-https://arxiv.org/abs/1807.09341.pdf | Learning Plannable Representations with Causal InfoGAN
-https://arxiv.org/abs/1911.10500.pdf | Causality for Machine Learning
-https://arxiv.org/abs/1709.05321.pdf | Learning Functional Causal Models with Generative Neural Networks
-https://arxiv.org/abs/1912.07538v1.pdf | Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing
-https://openreview.net/forum?id=S1g2skStPB | Causal Discovery with Reinforcement Learning | OpenReview
-https://github.com/acmi-lab/counterfactually-augmented-data | acmi-lab/counterfactually-augmented-data: Learning the Difference that Makes a Difference with Counterfactually-Augmented Data
+- https://scholar.google.com/scholar?cites=9758707731169438744&as_sdt=2005&sciodt=0,5&hl=en | Mirowski: Learning to navigate in cities without a map - Google Scholar
+- https://openreview.net/forum?id=BkxWJnC9tX | Diversity and Depth in Per-Example Routing Models
+- https://arxiv.org/abs/1804.00645.pdf | Universal Planning Networks
+- https://arxiv.org/abs/1801.08214 | [1801.08214] Active Neural Localization
+- http://openaccess.thecvf.com/content_CVPR_2019/html/Tung_Learning_Spatial_Common_Sense_With_Geometry-Aware_Recurrent_Networks_CVPR_2019_paper.html | CVPR 2019 Open Access Repository
+- https://openreview.net/forum?id=H1gN6kSFwS | Learning Neural Causal Models from Unknown Interventions
+- https://arxiv.org/abs/1911.10496.pdf | Two Causal Principles for Improving Visual Dialog
+- https://arxiv.org/abs/1801.04016.pdf | Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution
+- https://arxiv.org/abs/1901.08162 | [1901.08162] Causal Reasoning from Meta-reinforcement Learning
+- https://paperswithcode.com/task/causal-inference | : Causal Inference
+- https://openreview.net/forum?id=ryxWIgBFPS | A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms
+- https://arxiv.org/abs/1807.09341.pdf | Learning Plannable Representations with Causal InfoGAN
+- https://arxiv.org/abs/1911.10500.pdf | Causality for Machine Learning
+- https://arxiv.org/abs/1709.05321.pdf | Learning Functional Causal Models with Generative Neural Networks
+- https://arxiv.org/abs/1912.07538v1.pdf | Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing
+- https://openreview.net/forum?id=S1g2skStPB | Causal Discovery with Reinforcement Learning | OpenReview
+- https://github.com/acmi-lab/counterfactually-augmented-data | acmi-lab/counterfactually-augmented-data: Learning the Difference that Makes a Difference with Counterfactually-Augmented Data

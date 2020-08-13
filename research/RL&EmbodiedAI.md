@@ -125,79 +125,79 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 
 ### RL
 
-https://paperswithcode.com/paper/represented-value-function-approach-for-large | : Represented Value Function Approach for Large Scale Multi Agent Reinforcement Learning
-https://paperswithcode.com/paper/biologically-motivated-deep-learning-method | : Biologically-Motivated Deep Learning Method using Hierarchical Competitive Learning
-https://paperswithcode.com/paper/restricting-the-flow-information-bottlenecks-1 | : Restricting the Flow: Information Bottlenecks for Attribution
-https://arxiv.org/abs/2001.04451v1.pdf | Reformer: The Efficient Transformer
-https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI | Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI | DeepMind
-https://arxiv.org/abs/1906.00190v1.pdf | Neural Replicator Dynamics
-https://arxiv.org/abs/1903.05614v3.pdf | Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent
-https://arxiv.org/abs/2001.04959v1.pdf | High–Dimensional Brain in a High-Dimensional World: Blessing of Dimensionality
-https://arxiv.org/abs/2001.04947v1.pdf | Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation
-https://arxiv.org/abs/2001.05140v1.pdf | Graph-Bert: Only Attention is Needed for Learning Graph Representations
-https://arxiv.org/abs/1912.12740v1.pdf | Practice of Streaming and Dynamic Graphs: Concepts, Models, Systems, and Parallelism
-https://arxiv.org/abs/1806.02813.pdf | Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings
-https://arxiv.org/abs/1810.10593.pdf | Inverse reinforcement learning for video games
+- https://paperswithcode.com/paper/represented-value-function-approach-for-large | : Represented Value Function Approach for Large Scale Multi Agent Reinforcement Learning
+- https://paperswithcode.com/paper/biologically-motivated-deep-learning-method | : Biologically-Motivated Deep Learning Method using Hierarchical Competitive Learning
+- https://paperswithcode.com/paper/restricting-the-flow-information-bottlenecks-1 | : Restricting the Flow: Information Bottlenecks for Attribution
+- https://arxiv.org/abs/2001.04451v1.pdf | Reformer: The Efficient Transformer
+- https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI | Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI | DeepMind
+- https://arxiv.org/abs/1906.00190v1.pdf | Neural Replicator Dynamics
+- https://arxiv.org/abs/1903.05614v3.pdf | Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent
+- https://arxiv.org/abs/2001.04959v1.pdf | High–Dimensional Brain in a High-Dimensional World: Blessing of Dimensionality
+- https://arxiv.org/abs/2001.04947v1.pdf | Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation
+- https://arxiv.org/abs/2001.05140v1.pdf | Graph-Bert: Only Attention is Needed for Learning Graph Representations
+- https://arxiv.org/abs/1912.12740v1.pdf | Practice of Streaming and Dynamic Graphs: Concepts, Models, Systems, and Parallelism
+- https://arxiv.org/abs/1806.02813.pdf | Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings
+- https://arxiv.org/abs/1810.10593.pdf | Inverse reinforcement learning for video games
 
 ### PPO and RL algorithms
 
-https://openai.com/blog/openai-baselines-ppo/ | Proximal Policy Optimization
-https://medium.com/@jonathan_hui/rl-proximal-policy-optimization-ppo-explained-77f014ec3f12 | RL — Proximal Policy Optimization (PPO) Explained - Jonathan Hui - Medium
-https://arxiv.org/abs/1707.06347.pdf | Proximal Policy Optimization Algorithms
-https://github.com/phecy/SSL-FEW-SHOT | Self-Supervised Learning For Few-shot Image Classification
+- https://openai.com/blog/openai-baselines-ppo/ | Proximal Policy Optimization
+- https://medium.com/@jonathan_hui/rl-proximal-policy-optimization-ppo-explained-77f014ec3f12 | RL — Proximal Policy Optimization (PPO) Explained - Jonathan Hui - Medium
+- https://arxiv.org/abs/1707.06347.pdf | Proximal Policy Optimization Algorithms
+- https://github.com/phecy/SSL-FEW-SHOT | Self-Supervised Learning For Few-shot Image Classification
 
-https://arxiv.org/abs/1911.12247 | [1911.12247] Contrastive Learning of Structured World Models
-https://arxiv.org/abs/1909.12271.pdf | RLBench: The Robot Learning Benchmark & Learning Environment
-http://proceedings.mlr.press/v97/kipf19a/kipf19a.pdf | CompILE: Compositional Imitation Learning and Execution
-https://arxiv.org/abs/1910.08264.pdf | Learning Compositional Koopman Operators for Model-Based Control
-https://arxiv.org/abs/1803.10122.pdf | World Models
-https://arxiv.org/abs/1810.06284 | CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning
-https://pathak22.github.io/zeroshot-imitation/ | Zero-Shot Visual Imitation
-https://arxiv.org/abs/1906.10667.pdf | Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives
-https://github.com/google-research/dads | google-research/dads: Code for 'Dynamics-Aware Unsupervised Discovery of Skills' (DADS). Enables skill discovery without supervision, which can be combined with model-based control.
-https://arxiv.org/abs/1910.12827.pdf | Entity Abstraction in Visual Model-Based Reinforcement Learning
-https://arxiv.org/abs/2003.06417.pdf | Sparse Graphical Memory for Robust Planning
-https://arxiv.org/abs/2004.12919v1.pdf | First return then explore
-https://arxiv.org/abs/2004.12974v1.pdf | Emergent Real-World Robotic Skills via Unsupervised Off-Policy Reinforcement Learning
-https://arxiv.org/abs/1909.12434.pdf | Learning the Difference that Makes a Difference with Counterfactually-Augmented Data
+- https://arxiv.org/abs/1911.12247 | [1911.12247] Contrastive Learning of Structured World Models
+- https://arxiv.org/abs/1909.12271.pdf | RLBench: The Robot Learning Benchmark & Learning Environment
+- http://proceedings.mlr.press/v97/kipf19a/kipf19a.pdf | CompILE: Compositional Imitation Learning and Execution
+- https://arxiv.org/abs/1910.08264.pdf | Learning Compositional Koopman Operators for Model-Based Control
+- https://arxiv.org/abs/1803.10122.pdf | World Models
+- https://arxiv.org/abs/1810.06284 | CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning
+- https://pathak22.github.io/zeroshot-imitation/ | Zero-Shot Visual Imitation
+- https://arxiv.org/abs/1906.10667.pdf | Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives
+- https://github.com/google-research/dads | google-research/dads: Code for 'Dynamics-Aware Unsupervised Discovery of Skills' (DADS). Enables skill discovery without supervision, which can be combined with model-based control.
+- https://arxiv.org/abs/1910.12827.pdf | Entity Abstraction in Visual Model-Based Reinforcement Learning
+- https://arxiv.org/abs/2003.06417.pdf | Sparse Graphical Memory for Robust Planning
+- https://arxiv.org/abs/2004.12919v1.pdf | First return then explore
+- https://arxiv.org/abs/2004.12974v1.pdf | Emergent Real-World Robotic Skills via Unsupervised Off-Policy Reinforcement Learning
+- https://arxiv.org/abs/1909.12434.pdf | Learning the Difference that Makes a Difference with Counterfactually-Augmented Data
 
-https://arxiv.org/abs/2001.07685 | [2001.07685] FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence
-https://yorb.itp.io/ | YORB 2020
-https://paperswithcode.com/paper/context-aware-dynamics-model-for | Context-aware Dynamics Model for Generalization in Model-Based Reinforcement Learning |
-https://paperswithcode.com/paper/novelty-search-makes-evolvability-inevitable | Novelty Search makes Evolvability Inevitable |
-https://paperswithcode.com/paper/dense-caption-matching-and-frame-selection | Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA |
+- https://arxiv.org/abs/2001.07685 | [2001.07685] FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence
+- https://yorb.itp.io/ | YORB 2020
+- https://paperswithcode.com/paper/context-aware-dynamics-model-for | Context-aware Dynamics Model for Generalization in Model-Based Reinforcement Learning |
+- https://paperswithcode.com/paper/novelty-search-makes-evolvability-inevitable | Novelty Search makes Evolvability Inevitable |
+- https://paperswithcode.com/paper/dense-caption-matching-and-frame-selection | Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA |
 
-https://arxiv.org/abs/1911.03350v1.pdf | Ask to Learn: A Study on Curiosity-driven Question Generation
-https://arxiv.org/abs/1905.13192.pdf | Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels
-https://arxiv.org/abs/1809.02670.pdf | RetGK: Graph Kernels based on Return Probabilities of Random Walks
-https://openreview.net/forum?id=HJgySxSKvB | Deep Relational Factorization Machines | OpenReview
-https://arxiv.org/abs/1906.01827.pdf | Coresets for Data-efficient Training of Machine Learning Models
-http://papers.nips.cc/paper/8836-comparing-unsupervised-word-translation-methods-step-by-step.pdf | Comparing Unsupervised Word Translation Methods Step by Step
-https://adversarialpolicies.github.io/ | Adversarial Policies
-https://paperswithcode.com/paper/plan2vec-unsupervised-representation-learning-1 | Plan2Vec: Unsupervised Representation Learning by Latent Plans
-https://arxiv.org/abs/1702.08360 | [1702.08360] Neural Map: Structured Memory for Deep Reinforcement Learning
-
----
-
-https://github.com/Kaixhin/PlaNet | Kaixhin/PlaNet: Deep Planning Network: Control from pixels by latent planning with learned dynamics
-https://github.com/rail-berkeley/softlearning | rail-berkeley/softlearning: Softlearning is a reinforcement learning framework for training maximum entropy policies in continuous domains. Includes the official implementation of the Soft Actor-Critic algorithm
-https://github.com/thu-ml/tianshou | thu-ml/tianshou: An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform.
-https://github.com/deepmind/bsuite | deepmind/bsuite: bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
+- https://arxiv.org/abs/1911.03350v1.pdf | Ask to Learn: A Study on Curiosity-driven Question Generation
+- https://arxiv.org/abs/1905.13192.pdf | Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels
+- https://arxiv.org/abs/1809.02670.pdf | RetGK: Graph Kernels based on Return Probabilities of Random Walks
+- https://openreview.net/forum?id=HJgySxSKvB | Deep Relational Factorization Machines | OpenReview
+- https://arxiv.org/abs/1906.01827.pdf | Coresets for Data-efficient Training of Machine Learning Models
+- http://papers.nips.cc/paper/8836-comparing-unsupervised-word-translation-methods-step-by-step.pdf | Comparing Unsupervised Word Translation Methods Step by Step
+- https://adversarialpolicies.github.io/ | Adversarial Policies
+- https://paperswithcode.com/paper/plan2vec-unsupervised-representation-learning-1 | Plan2Vec: Unsupervised Representation Learning by Latent Plans
+- https://arxiv.org/abs/1702.08360 | [1702.08360] Neural Map: Structured Memory for Deep Reinforcement Learning
 
 ---
 
-https://arxiv.org/abs/1909.03368.pdf | Designing and Interpreting Probes with Control Tasks
-http://papers.nips.cc/paper/6391-generative-adversarial-imitation-learning.pdf | 6391-generative-adversarial-imitation-learning.pdf
-https://arxiv.org/abs/1706.02416.pdf | Generalized Value Iteration Networks:Life Beyond Lattices
-https://arxiv.org/abs/1711.00832.pdf | A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning
-https://arxiv.org/abs/1806.10166.pdf | Modular meta-learning
-https://arxiv.org/abs/1906.04161.pdf | Self-Supervised Exploration via Disagreement
-https://arxiv.org/abs/1901.08004.pdf | Hierarchical Reinforcement Learning for Multi-agent MOBA Game
-https://arxiv.org/abs/1808.00177.pdf | Learning Dexterous In-Hand Manipulation
-https://arxiv.org/abs/1906.10667.pdf | Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives
-https://arxiv.org/abs/1710.09767.pdf | Meta Learning Shared Hierarchies
-http://acsweb.ucsd.edu/~wfedus/pdf/replay.pdf | Revisiting Fundamentals of Experience Replay
-https://arxiv.org/abs/2004.12570.pdf | The Ingredients of Real-World Robotic Reinforcement Learning
+- https://github.com/Kaixhin/PlaNet | Kaixhin/PlaNet: Deep Planning Network: Control from pixels by latent planning with learned dynamics
+- https://github.com/rail-berkeley/softlearning | rail-berkeley/softlearning: Softlearning is a reinforcement learning framework for training maximum entropy policies in continuous domains. Includes the official implementation of the Soft Actor-Critic algorithm
+- https://github.com/thu-ml/tianshou | thu-ml/tianshou: An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform.
+- https://github.com/deepmind/bsuite | deepmind/bsuite: bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
+
+---
+
+- https://arxiv.org/abs/1909.03368.pdf | Designing and Interpreting Probes with Control Tasks
+- http://papers.nips.cc/paper/6391-generative-adversarial-imitation-learning.pdf | 6391-generative-adversarial-imitation-learning.pdf
+- https://arxiv.org/abs/1706.02416.pdf | Generalized Value Iteration Networks:Life Beyond Lattices
+- https://arxiv.org/abs/1711.00832.pdf | A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning
+- https://arxiv.org/abs/1806.10166.pdf | Modular meta-learning
+- https://arxiv.org/abs/1906.04161.pdf | Self-Supervised Exploration via Disagreement
+- https://arxiv.org/abs/1901.08004.pdf | Hierarchical Reinforcement Learning for Multi-agent MOBA Game
+- https://arxiv.org/abs/1808.00177.pdf | Learning Dexterous In-Hand Manipulation
+- https://arxiv.org/abs/1906.10667.pdf | Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives
+- https://arxiv.org/abs/1710.09767.pdf | Meta Learning Shared Hierarchies
+- http://acsweb.ucsd.edu/~wfedus/pdf/replay.pdf | Revisiting Fundamentals of Experience Replay
+- https://arxiv.org/abs/2004.12570.pdf | The Ingredients of Real-World Robotic Reinforcement Learning
 
 ![](images/2020-08-09-01-32-25.png)
 ![](images/2020-08-09-01-35-34.png)

@@ -1,6 +1,6 @@
 ## Edge AI Infrastructure
 
-[https://dl.acm.org/doi/pdf/10.1145/3197517.3201383](https://dl.acm.org/doi/pdf/10.1145/3197517.3201383)
+[- https://dl.acm.org/doi/pdf/10.1145/3197517.3201383](- https://dl.acm.org/doi/pdf/10.1145/3197517.3201383)
 
 - Automating Hardware Design by Extracting Generalization from Data-Flow Graphs
 - High-Performance Differential Processor for Edge Training
@@ -19,6 +19,6 @@ That is your pass only what is important and don't pass any extra information.
 
 ## AR Hardware Chips / Video-Analytics + Video Compression Chips
 
-https://ieeexplore.ieee.org/document/8875669
+- https://ieeexplore.ieee.org/document/8875669
 
-https://ieeexplore.ieee.org/document/8640235
+- https://ieeexplore.ieee.org/document/8640235
