@@ -7,7 +7,7 @@
 - [**Chichilnisky-Lab/shah-neurips-2019: Code for paper "Efficient characterization of electrically evoked responses for neural interfaces. Shah, Nishal; Madugula, S.; Hottowy, P.; Sher, A.; Litke, A.; Paninski, L.; Chichilnisky, EJ. NeurIPS, 2019"**](https://github.com/Chichilnisky-Lab/shah-neurips-2019)
 - [**Mills: Electronic retinal implants and artificial... - Google Scholar**](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&sciodt=0,5&cites=832138810182254554&scipsc=)
   [**Cellular regeneration strategies for macular degeneration: past, present and future**](https://www.nature.com/articles/s41433-018-0061-z)
-  [**Restoring vision**](https://www.nature.com/articles/s41586-018-0076-4 | )
+  [**Restoring vision**](https://www.nature.com/articles/s41586-018-0076-4)
 - [**E.J. Chichilnisky - Google Scholar Citations**](https://scholar.google.co.in/citations?hl=en&user=PMM9J2AAAAAJ&view_op=list_works&sortby=pubdate)
 - [**Learning a neural response metric for retinal prosthesis**](https://www.biorxiv.org/content/biorxiv/early/2018/01/30/226530.full.pdf)
 - [**Inference of Nonlinear Spatial Subunits by Spike-Triggered Clustering in Primate Retina**](https://www.biorxiv.org/content/biorxiv/early/2018/12/13/496422.full.pdf)
