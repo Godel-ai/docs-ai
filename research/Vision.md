@@ -71,9 +71,9 @@ http://www.eecs.umich.edu/courses/eecs498-2/papers/meier96.pdf
 
 ---
 
-- [**paper.pdf**](http://graphics.pixar.com/library/sigAsia2018Course/paper.pdf)
+- [**Art and Technology at Pixar**](http://graphics.pixar.com/library/sigAsia2018Course/paper.pdf)
 - [**OpenVDB: An Open Source Data Structure and Toolkit for High-Resolution Volumes - YouTube**](https://www.youtube.com/watch?v=7hUH92xwODg)
-- [**2017-3-11-7483.dvi**](https://users.cs.cf.ac.uk/Yukun.Lai/papers/PerformanceSurveyJCST.pdf)
+- [**A Survey on Human Performance Capture and Animation**](https://users.cs.cf.ac.uk/Yukun.Lai/papers/PerformanceSurveyJCST.pdf)
 - [**Text-based Editing of Talking-head Video**](https://arxiv.org/abs/1906.01524.pdf)
 - [**Incremental Scene Synthesis**](https://arxiv.org/abs/1811.12297.pdf)
 - [**Unsupervised Person Image Generation With Semantic Parsing Transformation**](http://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Unsupervised_Person_Image_Generation_With_Semantic_Parsing_Transformation_CVPR_2019_paper.pdf)
