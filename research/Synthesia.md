@@ -47,7 +47,7 @@
 - [**Perceptual Image Super-Resolution with Progressive Adversarial Network**](https://arxiv.org/abs/2003.03756.pdf)
 - [**Multi-Variate Temporal GAN for Large Scale Video Generation**](https://arxiv.org/abs/2004.01823.pdf)
 - [**High-Fidelity Synthesis with Disentangled Representation**](https://arxiv.org/abs/2001.04296.pdf)
-- [**OpenReview**](https://openreview.net/forum?id=SyezSCNYPB | Disentangled GANs for Controllable Generation of High-Resolution Images )
+- [**Disentangled GANs for Controllable Generation of High-Resolution Images**](https://openreview.net/forum?id=SyezSCNYPB)
 - [**Neural Network Dreams About Beautiful Natural Scenes - YouTube**](https://www.youtube.com/watch?v=MPdj8KGZHa0)
 - [**Deep Image Spatial Transformation for Person Image Generation**](https://arxiv.org/abs/2003.00696.pdf)
 - [**Predicting Scene Parsing and Motion Dynamics in the Future**](https://papers.nips.cc/paper/7267-predicting-scene-parsing-and-motion-dynamics-in-the-future.pdf)
