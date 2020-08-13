@@ -4,7 +4,7 @@
 - [**Neural Logic Machines**](https://arxiv.org/abs/1904.11694.pdf)
 - [**Logic and the Simplicial Transformer**](https://arxiv.org/abs/1909.00668.pdf)
 - [**Neural Logic Networks**](https://arxiv.org/abs/1910.08629.pdf)
-- [**SpringerLink**](https://link.springer.com/article/10.1023/A:1008328630915 | The Connectionist Inductive Learning and Logic Programming System )
+- [**The Connectionist Inductive Learning and Logic Programming System **](https://link.springer.com/article/10.1023/A:1008328630915)
 - [**Neural Theorem Provers Do Not Learn Rules Without Exploration**](https://arxiv.org/abs/1906.06805.pdf)
 - [**Neural Logic Reinforcement Learning**](https://arxiv.org/abs/1904.10729.pdf)
 - [**Probabilistic Logic Neural Networks for Reasoning**](https://arxiv.org/abs/1906.08495.pdf)
