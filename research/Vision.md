@@ -59,7 +59,7 @@ http://www.eecs.umich.edu/courses/eecs498-2/papers/meier96.pdf
 - [**Mocycle-GAN: Unpaired Video-to-Video Translation**](https://arxiv.org/abs/1908.09514.pdf)
 - [**End-To-End Time-Lapse Video Synthesis From a Single Outdoor Image**](http://openaccess.thecvf.com/content_CVPR_2019/papers/Nam_End-To-End_Time-Lapse_Video_Synthesis_From_a_Single_Outdoor_Image_CVPR_2019_paper.pdf)
 - [**Deep Video Frame Interpolation using Cyclic Frame Generation**](https://www.citi.sinica.edu.tw/papers/yylin/6497-F.pdf)
-- [**OpenReview**](https://openreview.net/forum?id=rylgEULtdN | FVD: A new Metric for Video Generation )
+- [**FVD: A new Metric for Video Generation**](https://openreview.net/forum?id=rylgEULtdN)
 - [**Semantic Image Synthesis with Spatially-Adaptive Normalization**](https://arxiv.org/abs/1903.07291.pdf)
 - [**Modular Generative Adversarial Networks**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bo_Zhao_Modular_Generative_Adversarial_ECCV_2018_paper.pdf)
 
