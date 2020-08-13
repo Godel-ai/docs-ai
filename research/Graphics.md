@@ -15,7 +15,7 @@ Feedback driven adversarial learning
 - [**[1812.10766] SMPLR: Deep SMPL reverse for 3D human pose and shape recovery**](https://arxiv.org/abs/1812.10766)
 - [**thmoa/smpl_viewer: A simple tool for rendering and manipulation of the parameteric 3D human body model SMPL.**](https://github.com/thmoa/smpl_viewer)
 
-[****](https://paperswithcode.com/paper/stargan-v2-diverse-image-synthesis-for | StarGAN v2: Diverse Image Synthesis for Multiple Domains )
+- [**StarGAN v2: Diverse Image Synthesis for Multiple Domains**](https://paperswithcode.com/paper/stargan-v2-diverse-image-synthesis-for)
 
 - [**CV4ARVR 2020 Papers — Mixed Reality @ Cornell CIS**](https://mixedreality.cs.cornell.edu/workshop/2020/papers)
 - [**Towards Understanding the Invertibility of Convolutional Neural Networks**](https://arxiv.org/abs/1705.08664.pdf)
