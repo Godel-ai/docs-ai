@@ -14,5 +14,5 @@ EGG is a toolkit that allows researchers to quickly implement multi-agent games 
 such games, the agents are trained to communicate with each other and jointly solve a task. Often, the way they communicate is not explicitly determined, allowing agents to come up with their own 'language' in order to solve the task.
 Such setup opens a plethora of possibilities in studying emergent language and the impact of the nature of task being solved, the agents' models, etc. This subject is a vibrant area of research often considered as a prerequisite for general AI. The purpose of EGG is to offer researchers an easy and fast entry point into this research area.
 
-- https://deepmind.com/research/open-source/openspiel | OpenSpiel: A Framework For Reinforcement Learning in Games | DeepMind
-- https://arxiv.org/abs/1912.09729v1.pdf | Mastering Complex Control in MOBA Games with Deep Reinforcement Learning
+- [**DeepMind**](https://deepmind.com/research/open-source/openspiel | OpenSpiel: A Framework For Reinforcement Learning in Games )
+- [**Mastering Complex Control in MOBA Games with Deep Reinforcement Learning**](https://arxiv.org/abs/1912.09729v1.pdf)
