@@ -21,4 +21,4 @@
 - [**bioRxiv**](https://www.biorxiv.org/content/10.1101/830273v1 | ProSPr: Democratized Implementation of Alphafold Protein Distance Prediction Network )
 - [**DeepMind**](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery | AlphaFold: Using AI for scientific discovery )
 - [**DeepMind**](https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI | Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI )
-- [**Nature Medicine**](https://www.nature.com/articles/s41591-018-0107-6 | Clinically applicable deep learning for diagnosis and referral in retinal disease )
+- [**Clinically applicable deep learning for diagnosis and referral in retinal disease**](https://www.nature.com/articles/s41591-018-0107-6)

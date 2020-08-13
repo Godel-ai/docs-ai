@@ -59,7 +59,7 @@
 - [**Generating Videos with Scene Dynamics**](https://papers.nips.cc/paper/6194-generating-videos-with-scene-dynamics.pdf)
 - [**What Makes a Video a Video: Analyzing Temporal Information in Video Understanding Models and Datasets**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_What_Makes_a_CVPR_2018_paper.pdf)
 - [**Disentangling Propagation and Generation for Video Prediction**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Disentangling_Propagation_and_Generation_for_Video_Prediction_ICCV_2019_paper.pdf)
-- [**CVPR 2019 Open Access Repository**](http://openaccess.thecvf.com/content_CVPR_2019/html/Nam_End-To-End_Time-Lapse_Video_Synthesis_From_a_Single_Outdoor_Image_CVPR_2019_paper.html)
+- [**End-To-End Time-Lapse Video Synthesis From a Single Outdoor Image**](http://openaccess.thecvf.com/content_CVPR_2019/html/Nam_End-To-End_Time-Lapse_Video_Synthesis_From_a_Single_Outdoor_Image_CVPR_2019_paper.html)
 - [**[1907.06571] Efficient Video Generation on Complex Datasets**](https://arxiv.org/abs/1907.06571)
 - [**SpringerLink**](https://link.springer.com/article/10.1007/s11263-019-01210-3 | GANimation: One-Shot Anatomically Consistent Facial Animation )
 - [**[1908.06607] Video synthesis of human upper body with realistic face**](https://arxiv.org/abs/1908.06607)

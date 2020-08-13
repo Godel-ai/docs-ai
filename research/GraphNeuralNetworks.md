@@ -40,7 +40,7 @@
 - [**Learning to Decompose and Disentangle Representations for Video Prediction**](http://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf)
 - [**Relational inductive bias for physical construction in humans and machines**](https://arxiv.org/abs/1806.01203.pdf)
 - [**A Disentangled Recognition and Nonlinear Dynamics Model for Unsupervised Learning**](http://papers.nips.cc/paper/6951-a-disentangled-recognition-and-nonlinear-dynamics-model-for-unsupervised-learning.pdf)
-- [**papers.nips.cc/paper/7040-visual-interaction-networks-learning-a-physics-simulator-from-video.pdf**](http://papers.nips.cc/paper/7040-visual-interaction-networks-learning-a-physics-simulator-from-video.pdf)
+- [**visual-interaction-networks-learning-a-physics-simulator-from-video.pdf**](http://papers.nips.cc/paper/7040-visual-interaction-networks-learning-a-physics-simulator-from-video.pdf)
 - [**Neural Relational Inference for Interacting Systems**](https://arxiv.org/abs/1802.04687.pdf)
 - [**Chang: A compositional object-based approach to learning... - Google Scholar**](https://scholar.google.co.in/scholar?start=0&hl=en&as_sdt=2005&sciodt=0,5&cites=9706972547667418204&scipsc=)
 - [**- DeepGS: Deep Representation Learning of Graphs and Sequences for Drug-Target Binding Affinity Prediction**](https://paperswithcode.com/paper/deepgs-deep-representation-learning-of-graphs)

@@ -163,9 +163,9 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 
 - [**[2001.07685] FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence**](https://arxiv.org/abs/2001.07685)
 - [**YORB 2020**](https://yorb.itp.io/)
-  [****](https://paperswithcode.com/paper/context-aware-dynamics-model-for | Context-aware Dynamics Model for Generalization in Model-Based Reinforcement Learning )
-  [****](https://paperswithcode.com/paper/novelty-search-makes-evolvability-inevitable | Novelty Search makes Evolvability Inevitable )
-  [****](https://paperswithcode.com/paper/dense-caption-matching-and-frame-selection | Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA )
+- [**Context-aware Dynamics Model for Generalization in Model-Based Reinforcement Learning**](https://paperswithcode.com/paper/context-aware-dynamics-model-for)
+- [**Novelty Search makes Evolvability Inevitable **](https://paperswithcode.com/paper/novelty-search-makes-evolvability-inevitable)
+- [**Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA**](https://paperswithcode.com/paper/dense-caption-matching-and-frame-selection)
 
 - [**Ask to Learn: A Study on Curiosity-driven Question Generation**](https://arxiv.org/abs/1911.03350v1.pdf)
 - [**Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels**](https://arxiv.org/abs/1905.13192.pdf)
