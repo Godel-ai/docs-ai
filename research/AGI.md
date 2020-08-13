@@ -5,7 +5,6 @@
 ### Compositionality
 
 - [**Visually Grounded Neural Syntax Acquisition**](https://arxiv.org/abs/1906.02890.pdf)
-- [**[2003.00392] Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning**](https://arxiv.org/abs/2003.00392)
 - [**Jiayuan Mao - Neuro-Symbolic Frameworks for Visual Concept Learning and Language Acquisition-YouTube**](https://www.youtube.com/watch?v=5Zk8eHxmql8)
 - [**Building Neural Network Models That Can Reason - YouTube**](https://www.youtube.com/watch?v=-2JRiv3Mycs)
 - [**[1803.03067] Compositional Attention Networks for Machine Reasoning**](https://arxiv.org/abs/1803.03067)
