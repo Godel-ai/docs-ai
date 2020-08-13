@@ -1,4 +1,4 @@
-## Video Dynamics
+## Video Synthesis
 
 ---
 

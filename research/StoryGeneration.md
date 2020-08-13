@@ -59,14 +59,11 @@
 ### Story Generation
 
 - [**[2001.08764] Fine-Tuning a Transformer-Based Language Model to Avoid Generating Non-Normative Text**](https://arxiv.org/abs/2001.08764)
-- [**AAAI-20 Accepted Paper List**](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
 - [**Reinforcing an Image Caption Generator Using Off-Line Human Feedback**](https://arxiv.org/abs/1911.09753.pdf)
-- [**1911.09194.pdf**](https://arxiv.org/abs/1911.09194.pdf)
+- [**Generating Interactive Worlds with Text**](https://arxiv.org/abs/1911.09194.pdf)
 - [**A Character-Centric Neural Model for Automatic Story Generation - Google Search**](https://www.google.com/search?safe=active&sxsrf=ALeKk00oNWDCHjejL8PTZcvTIynln7a6tw:1582211968735&q=A+Character-Centric+Neural+Model+for+Automatic+Story+Generation&spell=1&sa=X&ved=2ahUKEwia_evytuDnAhVd7XMBHThdBoEQBSgAegQICxAn&biw=1745&bih=865)
 - [**CoCoX: Generating Conceptual and Counterfactual Explanations via Fault-Lines**](https://pdfs.semanticscholar.org/d03e/66a84b92f520235079083d3c0947b2c910e0.pdf)
-- [**Causality_Cognitive_Science_2013.pdf**](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Causality_Cognitive_Science_2013.pdf)
 - [**Corpus-Level End-to-End Exploration for Interactive Systems**](https://arxiv.org/abs/1912.00753.pdf)
-- [**Learning to Optimize Computational Resources: Frugal Training with Generalization Guarantees**](https://arxiv.org/abs/1905.10819.pdf)
 - [**On the interaction between supervision and self-play in emergent communication**](https://arxiv.org/abs/2002.01093v1.pdf)
 - [**Dynamic Parameter Allocation in Parameter Servers**](https://arxiv.org/abs/2002.00655v1.pdf)
 - [**Torch-Struct: Deep Structured Prediction Library**](https://arxiv.org/abs/2002.00876v1.pdf)
@@ -78,14 +75,10 @@
 - [**Controllable Neural Story Plot Generation via Reward Shaping**](https://www.ijcai.org/Proceedings/2019/0829.pdf)
 - [**HobbitLong/CMC: pytorch implementation of "Contrastive Multiview Coding", "Momentum Contrast for Unsupervised Visual Representation Learning", and "Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination"**](https://github.com/HobbitLong/CMC)
 - [**timediv/metagenrl: MetaGenRL, a novel meta reinforcement learning algorithm. Unlike prior work, MetaGenRL can generalize to new environments that are entirely different from those used for meta-training.**](https://github.com/timediv/metagenrl)
-- [**Mao: The neuro-symbolic concept learner: Interpreting... - Google Scholar**](https://scholar.google.com/scholar?cluster=8837128214653317831&hl=en&as_sdt=0,5&sciodt=0,5)
-- [**Neural-Symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning**](https://arxiv.org/abs/1905.06088.pdf)
 - [**Language-Conditioned Graph Networks for Relational Reasoning**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Hu_Language-Conditioned_Graph_Networks_for_Relational_Reasoning_ICCV_2019_paper.pdf)
 - [**Towards Automatically Extracting Story Graphs from Natural Language Stories**](https://www.aaai.org/ocs/index.php/WS/AAAIW17/paper/viewFile/15067/14772)
 
 ---
-
-### Story Generation
 
 - [**Bringing Stories Alive: Generating Interactive Fiction Worlds**](https://arxiv.org/abs/2001.10161.pdf)
 - [**Yao: Plan-and-write: Towards better automatic storytelling - Google Scholar**](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=7790864211221027670)

@@ -30,6 +30,5 @@
   - [Reasoning](research/Reasoning.md)
   - [Random](research/Random.md)
   - [RL&EmbodiedAI](research/RL&EmbodiedAI.md)
-  - [SelfDriving](research/SelfDriving.md)
   - [UnsupervisedLearning](research/UnsupervisedLearning.md)
   - [VisionNLPInterfaces](research/VisionNLPInterfaces.md)

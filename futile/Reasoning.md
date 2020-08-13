@@ -86,3 +86,4 @@
 - [**CLEVRER: CoLlision Events for Video REpresentation and Reasoning**](https://arxiv.org/abs/1910.01442.pdf)
 - [**What Can Neural Networks Reason About?**](https://openreview.net/forum?id=rJxbJeHFPS)
 - [**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**](http://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding.pdf)
+- [**Neural-Symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning**](https://arxiv.org/abs/1905.06088.pdf)

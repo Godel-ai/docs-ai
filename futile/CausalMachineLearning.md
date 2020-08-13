@@ -44,3 +44,4 @@ We propose to meta-learn causal structures based on how fast a learner adapts to
 - [**Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing**](https://arxiv.org/abs/1912.07538v1.pdf)
 - [**Causal Discovery with Reinforcement Learning**](https://openreview.net/forum?id=S1g2skStPB)
 - [**acmi-lab/counterfactually-augmented-data: Learning the Difference that Makes a Difference with Counterfactually-Augmented Data**](https://github.com/acmi-lab/counterfactually-augmented-data)
+- [**Causality_Cognitive_Science_2013.pdf**](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Causality_Cognitive_Science_2013.pdf)
