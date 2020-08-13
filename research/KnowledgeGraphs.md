@@ -25,7 +25,7 @@ http://wing.comp.nus.edu.sg/
 
 http://csxstatic.ist.psu.edu/about/scholarly-information-extraction
 
-- [**Microsoft Docs**](https://docs.microsoft.com/en-in/academic-services/project-academic-knowledge/introduction | What is Project Academic Knowledge? - Microsoft Academic Services )
+- [**What is Project Academic Knowledge? - Microsoft Academic Services **](https://docs.microsoft.com/en-in/academic-services/project-academic-knowledge/introduction)
 - [**world knowledge graph of topics in json - Google Search**](https://www.google.com/search?q=world+knowledge+graph+of+topics+in+json&oq=world+knowledge+graph+of+topics+in+json&aqs=chrome..69i57.26878j0j7&sourceid=chrome&ie=UTF-8)
   [**  Google Knowledge Graph Search API  **](https://developers.google.com/knowledge-graph)
 - [**totogo/awesome-knowledge-graph: A curated list of Knowledge Graph related learning materials, databases, tools and other resources**](https://github.com/totogo/awesome-knowledge-graph)
