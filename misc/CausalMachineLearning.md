@@ -45,3 +45,4 @@ We propose to meta-learn causal structures based on how fast a learner adapts to
 - [**Causal Discovery with Reinforcement Learning**](https://openreview.net/forum?id=S1g2skStPB)
 - [**acmi-lab/counterfactually-augmented-data: Learning the Difference that Makes a Difference with Counterfactually-Augmented Data**](https://github.com/acmi-lab/counterfactually-augmented-data)
 - [**Causality_Cognitive_Science_2013.pdf**](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Causality_Cognitive_Science_2013.pdf)
+- [**[2005.11736] Efficient Intervention Design for Causal Discovery with Latents**](https://arxiv.org/abs/2005.11736)

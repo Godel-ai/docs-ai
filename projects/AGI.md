@@ -51,14 +51,14 @@ https://www.youtube.com/watch?v=TJyy_qz_qII&pbjreload=10
 - [**Possible Paths to Artificial General Intelligence - YouTube**](https://www.youtube.com/watch?v=c8-OeGYRFpI)
   https://www.youtube.com/watch?v=7ROelYvo8f0
   https://www.google.com/search?q=Nick+Bostrom&rlz=1C1CHBF_enUS858US858&oq=Nick+Bostrom&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
-- [**Yoshua Bengio - YouTube**](https://www.youtube.com/watch?v=IU9cQ1JdC7Y | Building AGI: Promising Approaches, Remaining Milestones, and Likely Obstacles )
+- [**Building AGI: Promising Approaches, Remaining Milestones, and Likely Obstacles **](https://www.youtube.com/watch?v=IU9cQ1JdC7Y)
 - [**ixaxaar/pytorch-dnc: Differentiable Neural Computers, Sparse Access Memory and Sparse Differentiable Neural Computers, for Pytorch**](https://github.com/ixaxaar/pytorch-dnc)
 
 ### Communication and Modular Networks
 
 - [**At the Interface of Algebra and Statistics**](https://arxiv.org/abs/2004.05631v1.pdf)
 - [**Ask Not What AI Can Do, But What AI Should Do: Towards a Framework of Task Delegability**](https://arxiv.org/abs/1902.03245.pdf)
-- [**turing.pdf**](http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf)
+- [**The Chemical Basis of Morphogenesis**](http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf)
 - [**[1811.09737] Frustrated with Replicating Claims of a Shared Model? A Solution**](https://arxiv.org/abs/1811.09737)
 - [**dcmocanu/sparse-evolutionary-artificial-neural-networks: Always sparse. Never dense. But never say never. A repository for the Adaptive Sparse Connectivity concept and its algorithmic instantiation, i.e. Sparse Evolutionary Training, to boost Deep Learning scalability on various aspects (e.g. memory and computational time efficiency, representation and generalization power).**](https://github.com/dcmocanu/sparse-evolutionary-artificial-neural-networks)
 - [**[1911.05722] Momentum Contrast for Unsupervised Visual Representation Learning**](https://arxiv.org/abs/1911.05722)
@@ -229,7 +229,7 @@ https://www.youtube.com/watch?v=TJyy_qz_qII&pbjreload=10
 - [**β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK**](https://openreview.net/references/pdf?id=Sy2fzU9gl)
 
 - [**Neural mechanisms for interacting with a world full of action choices. - PubMed - NCBI**](https://www.ncbi.nlm.nih.gov/pubmed/20345247)
-- [**Philosophical Transactions of the Royal Society of London. B, Biological Sciences**](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1985.0010 | Actions and habits: the development of behavioural autonomy )
+- [**Philosophical Transactions of the Royal Society of London. B, Biological Sciences : Actions and habits: the development of behavioural autonomy **](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1985.0010)
 - [**A framework for the cooperation of learning algorithms. - Google Search**](https://www.google.com/search?q=A+framework+for+the+cooperation+of+learning+algorithms.&rlz=1C1CHBF_enUS858US858&oq=A+framework+for+the+cooperation+of+learning+algorithms.&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
 - [**Motivation and cognitive control: from behavior to neural mechanism - Google Search**](https://www.google.com/search?q=Motivation+and+cognitive+control%3A+from+behavior+to+neural+mechanism&rlz=1C1CHBF_enUS858US858&oq=Motivation+and+cognitive+control%3A+from+behavior+to+neural++mechanism&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 - [**Neural module networks - Google Search**](https://www.google.com/search?q=Neural+module+networks&rlz=1C1CHBF_enUS858US858&oq=Neural+module+networks&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
