@@ -37,13 +37,13 @@ Roadmap-White-Paper-Version1-7Nov.pdf
 1-s2.0-S1878929314000516-main.pdf
 eliasmith2012.pdf
 Scalable training of artificial neural networks with adaptive sparse connectivity inspired by network science.pdf
-https://arxiv.org/abs/18243.full.pdf
-https://arxiv.org/abs/2001.04959v1.pdf
+18243.full.pdf
+High--Dimensional Brain in a High-Dimensional World: Blessing of Dimensionality https://arxiv.org/abs/2001.04959v1.pdf
 fpsyg-09-00585.pdf whatever_next_predictive_brains_situated_agents_and_the_future_of_cognitive_science.pdf
-https://arxiv.org/abs/1905.11515.pdf
+Abstraction Mechanisms Predict Generalization in Deep Neural Networks https://arxiv.org/abs/1905.11515.pdf
 8399.full.pdf
 friston2010.pdf
-https://arxiv.org/abs/1906.09012.pdf
+Learning as the Unsupervised Alignment of Conceptual Systems https://arxiv.org/abs/1906.09012.pdf
 bullmore2012.pdf
 hahn2018.pdf
 
