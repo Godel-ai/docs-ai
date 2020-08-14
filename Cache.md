@@ -4,23 +4,17 @@ Basic/:
 08364645.pdf
 The Unreasonable Effectiveness of Deep Features as a Perceptual Metric https://arxiv.org/abs/1801.03924.pdf
 Designing Network Design Spaces https://arxiv.org/abs/2003.13678v1.pdf
-https://arxiv.org/abs/1503.02531.pdf
-https://arxiv.org/abs/1803.01271.pdf
+Distilling the Knowledge in a Neural Network https://arxiv.org/abs/1503.02531.pdf
+An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling https://arxiv.org/abs/1803.01271.pdf
 common sense.pdf
 piantadosi2018one.pdf
 5542-recurrent-models-of-visual-attention.pdf
-lecun-20180419-icassp.pdf
 relational networks.pdf
-https://arxiv.org/abs/1506.02025.pdf
-https://arxiv.org/abs/1806.07366.pdf
-https://arxiv.org/abs/1602.07868.pdf
-https://arxiv.org/abs/1809.10756.pdf
-https://arxiv.org/abs/1612.00222.pdf
-https://arxiv.org/abs/1905.10307.pdf
-AM5_Deep Learning - From Theory to Practice_01.pdf
+Spatial Transformer Networks https://arxiv.org/abs/1506.02025.pdf
+Neural Ordinary Differential Equations https://arxiv.org/abs/1806.07366.pdf
+An Introduction to Probabilistic Programming https://arxiv.org/abs/1809.10756.pdf
 one model to learn them all.pdf
 SuttonBartoIPRLBook2ndEd.pdf
-Binary NN.pdf
 parallel hyperparameter tuning.pdf
 tensorly.pdf
 
