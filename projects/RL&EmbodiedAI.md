@@ -185,7 +185,6 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**6391-generative-adversarial-imitation-learning.pdf**](http://papers.nips.cc/paper/6391-generative-adversarial-imitation-learning.pdf)
 - [**Generalized Value Iteration Networks:Life Beyond Lattices**](https://arxiv.org/abs/1706.02416.pdf)
 - [**A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning**](https://arxiv.org/abs/1711.00832.pdf)
-- [**Modular meta-learning**](https://arxiv.org/abs/1806.10166.pdf)
 - [**Self-Supervised Exploration via Disagreement**](https://arxiv.org/abs/1906.04161.pdf)
 - [**Hierarchical Reinforcement Learning for Multi-agent MOBA Game**](https://arxiv.org/abs/1901.08004.pdf)
 - [**Learning Dexterous In-Hand Manipulation**](https://arxiv.org/abs/1808.00177.pdf)

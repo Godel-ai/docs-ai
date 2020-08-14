@@ -73,3 +73,4 @@ https://openreview.net/forum?id=S1sqHMZCb
 - [**learnables/learn2learn: PyTorch Meta-learning Framework for Researchers**](https://github.com/learnables/learn2learn/tree/master)
 - [**learn2learn.algorithms - learn2learn**](http://learn2learn.net/docs/learn2learn.algorithms/)
 - [**learn2learn - learn2learn**](http://learn2learn.net/docs/learn2learn/)
+- [**Modular meta-learning**](https://arxiv.org/abs/1806.10166.pdf)
