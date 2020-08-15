@@ -6,13 +6,17 @@
 
 ## ICML
 
-## ACL 
+## ACL
 
 ## EMNLP
 
 ## KDD
 
-## CoRL 
+## CoRL
+
+## IROS
+
+## CHI
 
 ## ICCV
 
@@ -20,3 +24,4 @@
 
 ## SIGGRAPH
 
+## NAACL
