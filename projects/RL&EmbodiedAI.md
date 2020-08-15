@@ -178,6 +178,7 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**rail-berkeley/softlearning: Softlearning is a reinforcement learning framework for training maximum entropy policies in continuous domains. Includes the official implementation of the Soft Actor-Critic algorithm**](https://github.com/rail-berkeley/softlearning)
 - [**thu-ml/tianshou: An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform.**](https://github.com/thu-ml/tianshou)
 - [**deepmind/bsuite: bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent**](https://github.com/deepmind/bsuite)
+- DEEP REINFORCEMENT LEARNING Yuxi Li
 
 ---
 

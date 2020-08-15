@@ -11,3 +11,7 @@
 - [**Continual Learning for Robotics: Definition, Framework, Learning Strategies, Opportunities and Challenges**](https://arxiv.org/abs/1907.00182.pdf)
 - [**- Lifelong Learning with Searchable Extension Units**](https://paperswithcode.com/paper/lifelong-learning-with-searchable-extension)
 - [**ElementAI/osaka: Codebase for "Online Fast Adaptation and Knowledge Accumulation: a New Approach to Continual Learning"**](https://github.com/ElementAI/osaka)
+
+- Incremental Learning with Pre-Trained Convolutional Neural Networks and Binary Associative Memories.pdf
+- Artificial Quantum Neural Network: quantum neurons, logical elements and tests of convolutional nets : Quantum Neural Network.pdf
+- Incremental Learning of Object Detectors without Catastrophic Forgetting
