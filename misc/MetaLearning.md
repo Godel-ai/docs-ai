@@ -74,6 +74,6 @@ https://openreview.net/forum?id=S1sqHMZCb
 - [**learn2learn.algorithms - learn2learn**](http://learn2learn.net/docs/learn2learn.algorithms/)
 - [**learn2learn - learn2learn**](http://learn2learn.net/docs/learn2learn/)
 - [**Modular meta-learning**](https://arxiv.org/abs/1806.10166.pdf)
-  Meta_learning_curiosity_algorithms.pdf
-  MetaLearningStructure_Oct01.pdf
-  Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.pdf
+- Meta_learning_curiosity_algorithms.pdf
+- MetaLearningStructure_Oct01.pdf
+- Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.pdf
