@@ -12,8 +12,7 @@
 
 - [**CS 330 Deep Multi-Task and Meta Learning**](http://cs330.stanford.edu/)
 - [**homework_1_final.pdf**](http://web.stanford.edu/class/cs330/material/homework_1_final.pdf)
-- [**Human-level concept learning**](https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)
-  through probabilistic program induction
+- [**Human-level concept learning through probabilistic program induction**](https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)
 - [**[1802.05098] DiCE: The Infinitely Differentiable Monte-Carlo Estimator**](https://arxiv.org/abs/1802.05098)
 - [**[1611.04201] CAD2RL: Real Single-Image Flight without a Single Real Image**](https://arxiv.org/abs/1611.04201)
 - [**[1810.06544] Deep Imitative Models for Flexible Inference, Planning, and Control**](https://arxiv.org/abs/1810.06544)
