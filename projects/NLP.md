@@ -3,6 +3,19 @@
 - [**NLP-progress**](http://nlpprogress.com/ | Tracking Progress in Natural Language Processing )
 - [**Vision and Language tasks by shubhamagarwal92 · Pull Request #443 · sebastianruder/NLP-progress**](https://github.com/sebastianruder/NLP-progress/pull/443)
 
+- [**Experience Grounds Language**](https://arxiv.org/abs/2004.10151v1.pdf)
+- [**Shortcut Learning in Deep Neural Networks**](https://arxiv.org/abs/2004.07780v1.pdf)
+- [**SenseBERT: Driving Some Sense into BERT**](https://arxiv.org/abs/1908.05646.pdf)
+- [**Finding Experts in Transformer Models**](https://arxiv.org/abs/2005.07647.pdf)
+- [**Grounding Language in Play**](https://arxiv.org/abs/2005.07648.pdf)
+- [**ToTTo: A Controlled Table-To-Text Generation Dataset**](https://arxiv.org/abs/2004.14373.pdf)
+- [**Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models**](https://homes.cs.washington.edu/~msap/pdfs/sap2020recollectionImagination.pdf)
+  [**Inducing Relational Knowledge from BERT**](https://arxiv.org/abs/1911.12753v1.pdf)
+- [**Do Neural Dialog Systems Use the Conversation History Effectively? An Empirical Study**](https://arxiv.org/abs/1906.01603.pdf)
+- [**TLDR: Extreme Summarization of Scientific Documents**](https://arxiv.org/abs/2004.15011v1.pdf)
+- [**Open Questions about Generative Adversarial Networks**](https://distill.pub/2019/gan-open-problems/)
+- [**allenai/scitldr**](https://github.com/allenai/scitldr)
+
 ---
 
 - [**[2005.00571v1] Learning Collaborative Agents with Rule Guidance for Knowledge Graph Reasoning**](https://arxiv.org/abs/2005.00571v1)
@@ -60,24 +73,6 @@
 - [**- Papers With Code : Search for story generation**](https://paperswithcode.com/search?q_meta=&q=story+generation)
 - [**- A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation**](https://paperswithcode.com/paper/a-knowledge-enhanced-pretraining-model-for)
 - [**thu-coai/CommonsenseStoryGen: Implementation for paper "A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation"**](https://github.com/thu-coai/CommonsenseStoryGen)
-
----
-
-- [**Experience Grounds Language**](https://arxiv.org/abs/2004.10151v1.pdf)
-- [**Shortcut Learning in Deep Neural Networks**](https://arxiv.org/abs/2004.07780v1.pdf)
-- [**SenseBERT: Driving Some Sense into BERT**](https://arxiv.org/abs/1908.05646.pdf)
-
-### NLP
-
-- [**Finding Experts in Transformer Models**](https://arxiv.org/abs/2005.07647.pdf)
-- [**Grounding Language in Play**](https://arxiv.org/abs/2005.07648.pdf)
-- [**ToTTo: A Controlled Table-To-Text Generation Dataset**](https://arxiv.org/abs/2004.14373.pdf)
-- [**Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models**](https://homes.cs.washington.edu/~msap/pdfs/sap2020recollectionImagination.pdf)
-  [**Inducing Relational Knowledge from BERT**](https://arxiv.org/abs/1911.12753v1.pdf)
-- [**Do Neural Dialog Systems Use the Conversation History Effectively? An Empirical Study**](https://arxiv.org/abs/1906.01603.pdf)
-- [**TLDR: Extreme Summarization of Scientific Documents**](https://arxiv.org/abs/2004.15011v1.pdf)
-- [**Open Questions about Generative Adversarial Networks**](https://distill.pub/2019/gan-open-problems/)
-- [**allenai/scitldr**](https://github.com/allenai/scitldr)
 
 ---
 

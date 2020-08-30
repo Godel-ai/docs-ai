@@ -15,16 +15,12 @@ RDDL Graph Patterns : Entity, Link Relationships, Can be accessed in SQL-like La
 - [**AI2**](https://github.com/allenai)
 - [**scholarly · PyPI**](https://pypi.org/project/scholarly/)
 - [**Microsoft Academic Graph - Microsoft Research**](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/?from=http%3A%2F%2Fresearch.microsoft.com%2Fmag)
-- [**Microsoft Academic**](https://academic.microsoft.com/topics/205649164,166957645 | ETAP - Topics )
+- [**Microsoft Academic | ETAP - Topics**](https://academic.microsoft.com/topics/205649164,166957645)
 
 ---
 
-- [**Open Academic Society**](https://www.openacademic.ai/data-tools/ | Data & Tools )
-
-http://wing.comp.nus.edu.sg/
-
-http://csxstatic.ist.psu.edu/about/scholarly-information-extraction
-
+- [**Open Academic Society | Data & Tools **](https://www.openacademic.ai/data-tools/)
+- [**CiteSeerX**](https://csxstatic.ist.psu.edu/)
 - [**What is Project Academic Knowledge? - Microsoft Academic Services **](https://docs.microsoft.com/en-in/academic-services/project-academic-knowledge/introduction)
 - [**world knowledge graph of topics in json - Google Search**](https://www.google.com/search?q=world+knowledge+graph+of+topics+in+json&oq=world+knowledge+graph+of+topics+in+json&aqs=chrome..69i57.26878j0j7&sourceid=chrome&ie=UTF-8)
   [**  Google Knowledge Graph Search API  **](https://developers.google.com/knowledge-graph)
