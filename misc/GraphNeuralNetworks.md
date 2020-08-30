@@ -40,7 +40,7 @@
 - [**weihua916 (Weihua Hu)**](https://github.com/weihua916)
 - [**DeepGS: Deep Representation Learning of Graphs and Sequences for Drug-Target Binding Affinity Prediction**](https://paperswithcode.com/paper/deepgs-deep-representation-learning-of-graphs)
 
-- GNNExplainer: Generating Explanations for Graph Neural Networks https://arxiv.org/abs/1903.03894.pdf
+- [GNNExplainer: Generating Explanations for Graph Neural Networks](https://arxiv.org/abs/1903.03894.pdf)
 - Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey https://arxiv.org/abs/2005.07496.pdf
 - XAI for Graphs: Explaining Graph Neural Network Predictions by Identifying Relevant Walks https://arxiv.org/abs/2006.03589v1.pdf
   composition_based_multi_relational_graph_convolutional_networks.pdf

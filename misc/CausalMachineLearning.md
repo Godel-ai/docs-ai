@@ -23,6 +23,7 @@ We propose to meta-learn causal structures based on how fast a learner adapts to
 
 ### Causality
 
+- [**Papers with Code : Causal Inference**](https://paperswithcode.com/task/causal-inference)
 - [**Neural Consciousness Flow**](https://arxiv.org/abs/1905.13049.pdf)
 - [**Modeling Attention Flow on Graphs**](https://arxiv.org/abs/1811.00497.pdf)
 - [**Differentiable Learning of Logical Rules for Knowledge Base Reasoning**](http://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning.pdf)
@@ -36,7 +37,6 @@ We propose to meta-learn causal structures based on how fast a learner adapts to
 - [**Two Causal Principles for Improving Visual Dialog**](https://arxiv.org/abs/1911.10496.pdf)
 - [**Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution**](https://arxiv.org/abs/1801.04016.pdf)
 - [**[1901.08162] Causal Reasoning from Meta-reinforcement Learning**](https://arxiv.org/abs/1901.08162)
-- [**: Causal Inference**](https://paperswithcode.com/task/causal-inference)
 - [**A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms**](https://openreview.net/forum?id=ryxWIgBFPS)
 - [**Learning Plannable Representations with Causal InfoGAN**](https://arxiv.org/abs/1807.09341.pdf)
 - [**Causality for Machine Learning**](https://arxiv.org/abs/1911.10500.pdf)
