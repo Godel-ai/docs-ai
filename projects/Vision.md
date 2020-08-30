@@ -49,8 +49,6 @@ https://github.com/facebookresearch/detr
 - [**Non-Photorealistic Computer Graphics: Modeling, Rendering, and Animation - Thomas Strothotte, Stefan Schlechtweg - Google Books**](https://books.google.co.in/books?hl=en&lr=&id=Kq_dU65kngUC&oi=fnd&pg=PP2&ots=vEmD9Rjr3i&sig=LXVandqs4l0nLWDwDaNgSwa3XjY&redir_esc=y#v=onepage&q&f=false)
 - [**Lin: Video stylization: painterly rendering and optimizat... - Google Scholar**](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=1538375253694513701)
 
-http://www.eecs.umich.edu/courses/eecs498-2/papers/meier96.pdf
-
 - [**Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data**](https://github.com/mfinzi/LieConv)
 
 ---
@@ -74,6 +72,8 @@ http://www.eecs.umich.edu/courses/eecs498-2/papers/meier96.pdf
 - [**Art and Technology at Pixar**](http://graphics.pixar.com/library/sigAsia2018Course/paper.pdf)
 - [**Film Prodcution Pipeline**](https://www.youtube.com/watch?v=7hUH92xwODg)
 - [**A Survey on Human Performance Capture and Animation**](https://users.cs.cf.ac.uk/Yukun.Lai/papers/PerformanceSurveyJCST.pdf)
+- [**Painterly Rendering for Animation**](http://www.eecs.umich.edu/courses/eecs498-2/papers/meier96.pdf)
+
 - [**Text-based Editing of Talking-head Video**](https://arxiv.org/abs/1906.01524.pdf)
 - [**Incremental Scene Synthesis**](https://arxiv.org/abs/1811.12297.pdf)
 - [**Unsupervised Person Image Generation With Semantic Parsing Transformation**](http://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Unsupervised_Person_Image_Generation_With_Semantic_Parsing_Transformation_CVPR_2019_paper.pdf)

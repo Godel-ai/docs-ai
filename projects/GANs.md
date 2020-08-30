@@ -110,7 +110,7 @@
 - [**HeadOn: Real-time Reenactment of Human Portrait Videos**](https://arxiv.org/abs/1805.11729.pdf)
 - [**Learning to Take Directions One Step at a Time**](https://arxiv.org/abs/1812.01874.pdf)
 - [**Spectral Normalization for Generative Adversarial Networks**](https://arxiv.org/abs/1802.05957.pdf)
-- [**byrd19a.pdf**](http://proceedings.mlr.press/v97/byrd19a/byrd19a.pdf)
+- [**What is the Effect of Importance Weighting in Deep Learning?**](http://proceedings.mlr.press/v97/byrd19a/byrd19a.pdf)
 - [**How Much Reading Does Reading Comprehension Require? A Critical Investigation of Popular Benchmarks**](https://arxiv.org/abs/1808.04926.pdf)
 - [**What is the Effect of Importance Weighting in Deep Learning?**](https://arxiv.org/abs/1803.04477.pdf)
 - [**Generative Image Inpainting With Contextual Attention**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Generative_Image_Inpainting_CVPR_2018_paper.pdf)
