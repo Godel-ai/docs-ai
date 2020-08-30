@@ -122,6 +122,13 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 
 ![](images/2020-07-21-14-17-08.png)
 
+---
+
+![](images/2020-08-09-01-32-25.png)
+![](images/2020-08-09-01-35-34.png)
+
+---
+
 ### RL
 
 - [**: Represented Value Function Approach for Large Scale Multi Agent Reinforcement Learning**](https://paperswithcode.com/paper/represented-value-function-approach-for-large)
@@ -165,7 +172,7 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**Ask to Learn: A Study on Curiosity-driven Question Generation**](https://arxiv.org/abs/1911.03350v1.pdf)
 - [**Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels**](https://arxiv.org/abs/1905.13192.pdf)
 - [**RetGK: Graph Kernels based on Return Probabilities of Random Walks**](https://arxiv.org/abs/1809.02670.pdf)
-- [**OpenReview**](https://openreview.net/forum?id=HJgySxSKvB | Deep Relational Factorization Machines )
+- [**Deep Relational Factorization Machines**](https://openreview.net/forum?id=HJgySxSKvB)
 - [**Coresets for Data-efficient Training of Machine Learning Models**](https://arxiv.org/abs/1906.01827.pdf)
 - [**Comparing Unsupervised Word Translation Methods Step by Step**](http://papers.nips.cc/paper/8836-comparing-unsupervised-word-translation-methods-step-by-step.pdf)
 - [**Adversarial Policies**](https://adversarialpolicies.github.io/)
@@ -193,9 +200,6 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**Meta Learning Shared Hierarchies**](https://arxiv.org/abs/1710.09767.pdf)
 - [**Revisiting Fundamentals of Experience Replay**](http://acsweb.ucsd.edu/~wfedus/pdf/replay.pdf)
 - [**The Ingredients of Real-World Robotic Reinforcement Learning**](https://arxiv.org/abs/2004.12570.pdf)
-
-![](images/2020-08-09-01-32-25.png)
-![](images/2020-08-09-01-35-34.png)
 
 ## RL & EmbodiedAI
 
