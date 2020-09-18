@@ -9,3 +9,4 @@
     - [Image/Video Synthesis](projects/Synthesia.md)
     - [Video Synthesis](projects/VideoDynamics.md)
   - [CoolApplications](projects/CoolApplications.md)
+- [Miscellaneous](misc.md)
