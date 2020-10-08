@@ -64,7 +64,6 @@ https://openreview.net/forum?id=S1sqHMZCb
 - [**Generalization to Novel Objects using Prior Relational Knowledge**](https://arxiv.org/abs/1906.11315.pdf)
 - [**Learning Neural Causal Models from Unknown Interventions**](https://arxiv.org/abs/1910.01075v1.pdf)
 - [**Recurrent Independent Mechanisms**](https://arxiv.org/abs/1909.10893v2.pdf)
-- [**ACL19-Yu-et-al-MOOC_Concept_Expansion.pdf**](http://keg.cs.tsinghua.edu.cn/jietang/publications/ACL19-Yu-et-al-MOOC_Concept_Expansion.pdf)
 - [**Argument Generation with Retrieval, Planning, and Realization**](https://arxiv.org/abs/1906.03717.pdf)
 - [**Planning with Abstract Learned Models While Learning Transferable Subtasks**](https://arxiv.org/abs/1912.07544v1.pdf)
 - [**learnables/learn2learn: PyTorch Meta-learning Framework for Researchers**](https://github.com/learnables/learn2learn/tree/master)
