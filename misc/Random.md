@@ -50,5 +50,6 @@
 - [**Alta Cognita**](https://deep.ghost.io/)
 - [**streamlit/streamlit: Streamlit — The fastest way to build data apps in Python**](https://github.com/streamlit/streamlit)
 - [**[2007.03629] Strong Generalization and Efficiency in Neural Programs**](https://arxiv.org/abs/2007.03629)
+- [**Coresets for Data-efficient Training of Machine Learning Models**](https://arxiv.org/abs/1906.01827.pdf)
 
 ---
