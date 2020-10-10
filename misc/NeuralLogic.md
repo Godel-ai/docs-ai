@@ -22,3 +22,4 @@
 - Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis
 https://arxiv.org/abs/1805.04276
 - Neural Sketch Learning for Conditional Program Generation https://arxiv.org/abs/1703.05698
+- Parametrized Hierarchical Procedures for Neural Programming https://openreview.net/forum?id=rJl63fZRb
