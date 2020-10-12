@@ -92,7 +92,6 @@
 - 7040-visual-interaction-networks-learning-a-physics-simulator-from-video.pdf
 - Compositional De-Attention Networks
 - Neural-Symbolic Learning and Reasoning: A Survey and Interpretation https://arxiv.org/abs/1711.03902.pdf
-- https://arxiv.org/abs/1903.05136.pdf Unsupervised Discovery of Parts, Structure, and Dynamics
 - https://arxiv.org/abs/1910.01075v1.pdf Learning Neural Causal Models from Unknown Interventions
 - https://arxiv.org/abs/1910.01751.pdf Causal Induction from Visual Observations for Goal Directed Tasks
 - https://arxiv.org/abs/1907.00878.pdf Neural Logic Rule Layers
@@ -106,3 +105,4 @@
 - 7960-relational-recurrent-neural-networks.pdf
 - Learning Factorized Multimodal Representations.pdf
 - Chen_Graph-Based_Global_Reasoning_Networks_CVPR_2019_paper.pdf Model-free, Model-based, and General Intelligence.pdf
+- [**Neural Reasoning, Fast and Slow, for Video Question Answering**](https://arxiv.org/abs/1907.04553.pdf)

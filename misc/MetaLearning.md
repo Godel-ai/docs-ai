@@ -11,7 +11,6 @@
 ### Meta-Learning
 
 - [**CS 330 Deep Multi-Task and Meta Learning**](http://cs330.stanford.edu/)
-- [**homework_1_final.pdf**](http://web.stanford.edu/class/cs330/material/homework_1_final.pdf)
 - [**Human-level concept learning through probabilistic program induction**](https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)
 - [**[1802.05098] DiCE: The Infinitely Differentiable Monte-Carlo Estimator**](https://arxiv.org/abs/1802.05098)
 - [**[1611.04201] CAD2RL: Real Single-Image Flight without a Single Real Image**](https://arxiv.org/abs/1611.04201)
@@ -58,7 +57,6 @@ https://openreview.net/forum?id=S1sqHMZCb
 - [**Learning Compositional Neural Programs with Recursive Tree Search and Planning**](https://arxiv.org/abs/1905.12941.pdf)
 
 - [**Prefrontal cortex exhibits multi-dimensional dynamic encoding during decision-making**](https://www.biorxiv.org/content/biorxiv/early/2019/10/21/808584.full.pdf)
-- [**Neural Reasoning, Fast and Slow, for Video Question Answering**](https://arxiv.org/abs/1907.04553.pdf)
 - [**Learning First-Order Symbolic Representations for Planning from the Structure of the State Space**](https://arxiv.org/abs/1909.05546.pdf)
 - [**Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution**](https://arxiv.org/abs/1801.04016.pdf)
 - [**Reinforcement Learning, Fast and Slow**](file:///C:/Users/khush/AppData/Roaming/Microsoft/Windows/Network%20Shortcuts/RL,%20%20fast%20and%20slow.pdf)
@@ -66,7 +64,6 @@ https://openreview.net/forum?id=S1sqHMZCb
 - [**Generalization to Novel Objects using Prior Relational Knowledge**](https://arxiv.org/abs/1906.11315.pdf)
 - [**Learning Neural Causal Models from Unknown Interventions**](https://arxiv.org/abs/1910.01075v1.pdf)
 - [**Recurrent Independent Mechanisms**](https://arxiv.org/abs/1909.10893v2.pdf)
-- [**ACL19-Yu-et-al-MOOC_Concept_Expansion.pdf**](http://keg.cs.tsinghua.edu.cn/jietang/publications/ACL19-Yu-et-al-MOOC_Concept_Expansion.pdf)
 - [**Argument Generation with Retrieval, Planning, and Realization**](https://arxiv.org/abs/1906.03717.pdf)
 - [**Planning with Abstract Learned Models While Learning Transferable Subtasks**](https://arxiv.org/abs/1912.07544v1.pdf)
 - [**learnables/learn2learn: PyTorch Meta-learning Framework for Researchers**](https://github.com/learnables/learn2learn/tree/master)
@@ -76,3 +73,4 @@ https://openreview.net/forum?id=S1sqHMZCb
 - Meta_learning_curiosity_algorithms.pdf
 - MetaLearningStructure_Oct01.pdf
 - Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.pdf
+- [**Meta Learning Shared Hierarchies**](https://arxiv.org/abs/1710.09767.pdf)

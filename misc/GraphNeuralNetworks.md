@@ -39,7 +39,8 @@
 - [**- Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs**](https://paperswithcode.com/paper/deep-graph-library-towards-efficient-and)
 - [**weihua916 (Weihua Hu)**](https://github.com/weihua916)
 - [**DeepGS: Deep Representation Learning of Graphs and Sequences for Drug-Target Binding Affinity Prediction**](https://paperswithcode.com/paper/deepgs-deep-representation-learning-of-graphs)
-
+- [**Graph-Bert: Only Attention is Needed for Learning Graph Representations**](https://arxiv.org/abs/2001.05140v1.pdf)
+- [**Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels**](https://arxiv.org/abs/1905.13192.pdf)
 - [GNNExplainer: Generating Explanations for Graph Neural Networks](https://arxiv.org/abs/1903.03894.pdf)
 - Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey https://arxiv.org/abs/2005.07496.pdf
 - XAI for Graphs: Explaining Graph Neural Network Predictions by Identifying Relevant Walks https://arxiv.org/abs/2006.03589v1.pdf
