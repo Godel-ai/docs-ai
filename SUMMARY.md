@@ -9,7 +9,7 @@
     - [Image/Video Synthesis](projects/Synthesia.md)
     - [Video Synthesis](projects/VideoDynamics.md)
   - [CoolApplications](projects/CoolApplications.md)
-- [Miscellaneous]
+- [Miscellaneous](misc.md)
   - [AbstractIdeas](misc/AbstractIdeas.md)
   - [AGI](misc/AGI.md)
   - [AutomatedResearch](misc/AutomatedResearch.md)
