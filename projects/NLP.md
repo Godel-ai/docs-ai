@@ -1,10 +1,9 @@
 # NLP
 
-- [**NLP-progress**](http://nlpprogress.com/ | Tracking Progress in Natural Language Processing )
+- [**NLP-progress**](http://nlpprogress.com/)
 - [**Vision and Language tasks by shubhamagarwal92 · Pull Request #443 · sebastianruder/NLP-progress**](https://github.com/sebastianruder/NLP-progress/pull/443)
 
 - [**Experience Grounds Language**](https://arxiv.org/abs/2004.10151v1.pdf)
-- [**Shortcut Learning in Deep Neural Networks**](https://arxiv.org/abs/2004.07780v1.pdf)
 - [**SenseBERT: Driving Some Sense into BERT**](https://arxiv.org/abs/1908.05646.pdf)
 - [**Finding Experts in Transformer Models**](https://arxiv.org/abs/2005.07647.pdf)
 - [**Grounding Language in Play**](https://arxiv.org/abs/2005.07648.pdf)
@@ -12,9 +11,10 @@
 - [**Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models**](https://homes.cs.washington.edu/~msap/pdfs/sap2020recollectionImagination.pdf)
   [**Inducing Relational Knowledge from BERT**](https://arxiv.org/abs/1911.12753v1.pdf)
 - [**Do Neural Dialog Systems Use the Conversation History Effectively? An Empirical Study**](https://arxiv.org/abs/1906.01603.pdf)
-- [**TLDR: Extreme Summarization of Scientific Documents**](https://arxiv.org/abs/2004.15011v1.pdf)
 - [**Open Questions about Generative Adversarial Networks**](https://distill.pub/2019/gan-open-problems/)
-- [**allenai/scitldr**](https://github.com/allenai/scitldr)
+- [**Papers with Code - Longformer: The Long-Document Transformer**](https://paperswithcode.com/paper/longformer-the-long-document-transformer#code)
+- [**Papers with Code - Natural Language Processing**](https://paperswithcode.com/area/natural-language-processing)
+- [**Papers with Code - Extractive Document Summarization**](https://paperswithcode.com/task/extractive-document-summarization)
 
 ---
 
@@ -27,6 +27,8 @@
 
 ## Extractive Summarization of Scientific Documents
 
+- [**allenai/scitldr**](https://github.com/allenai/scitldr)
+- [**TLDR: Extreme Summarization of Scientific Documents**](https://arxiv.org/abs/2004.15011v1.pdf)
 - [**Differentiable Reasoning over a Virtual Knowledge Base**](https://arxiv.org/abs/2002.10640.pdf)
 - [**[1912.10824] Differentiable Reasoning on Large Knowledge Bases and Natural Language**](https://arxiv.org/abs/1912.10824)
 - [**uclnlp/gntp**](https://github.com/uclnlp/gntp)
@@ -53,13 +55,13 @@
 - [**TutorialBank: A Manually-Collected Corpus for Prerequisite Chains, Survey Extraction and Resource Recommendation**](https://arxiv.org/abs/1805.04617.pdf)
 - [**AAN: About**](http://aan.how/about/)
 - [**Abu-Jbara: Coherent citation-based summarization... - Google Scholar**](https://scholar.google.com/scholar?as_ylo=2019&hl=en&as_sdt=0,5&sciodt=0,5&cites=1289960751808453189&scipsc=)
-- [**Daraksha_Thesis.pdf**](http://archiv.ub.uni-heidelberg.de/volltextserver/27924/1/Daraksha_Thesis.pdf)
+- [**A Graph-Based Approach for the Summarization of Scientific Articles**](http://archiv.ub.uni-heidelberg.de/volltextserver/27924/1/Daraksha_Thesis.pdf)
 - [**[1906.01351] TalkSumm: A Dataset and Scalable Annotation Method for Scientific Paper Summarization Based on Conference Talks**](https://arxiv.org/abs/1906.01351)
 - [**Automatic paper summary generation from visual and textual information**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11041/110410U/Automatic-paper-summary-generation-from-visual-and-textual-information/10.1117/12.2522789.short?SSO=1)
 - [**ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks**](https://arxiv.org/abs/1909.01716.pdf)
 - [**[2004.02843] Improved Code Summarization via a Graph Neural Network**](https://arxiv.org/abs/2004.02843)
 - [**Opinosis: A Graph Based Approach to Abstractive Summarization of Highly Redundant Opinions**](https://www.aclweb.org/anthology/C10-1039.pdf)
-- [**CSUR5103-62**](https://tsafavi.github.io/assets/pdf/liu-2018-graph-summarization.pdf)
+- [**graph-summarization**](https://gemslab.github.io/papers/liu-2018-graph-summarization.pdf)
 - [**Social-net.pdf**](http://cs-people.bu.edu/evimaria/papers/Social-net.pdf)
 - [**google-research/electra: ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators**](https://github.com/google-research/electra)
 
@@ -162,9 +164,7 @@
 - [**Microsoft Word - SummaryExtraction-MSR-TR-2005-07\_\_2.doc**](http://www.cs.cmu.edu/~jure/pubs/nlpspo-msrtr05.pdf)
 - [**Leskovec: Extracting summary sentences based on the... - Google Scholar**](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=8846276665737588875)
 - [**Leskovec: Learning sub-structures of document semantic... - Google Scholar**](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=7405906790041713880)
-- [**Papers with Code - Longformer: The Long-Document Transformer**](https://paperswithcode.com/paper/longformer-the-long-document-transformer#code)
-- [**Papers with Code - Natural Language Processing**](https://paperswithcode.com/area/natural-language-processing)
-- [**Papers with Code - Extractive Document Summarization**](https://paperswithcode.com/task/extractive-document-summarization)
+
 - [**Extractive Document Summarization - Google Search**](https://www.google.com/search?q=Extractive+Document+Summarization&oq=Extractive+Document+Summarization&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
 - [**Fine-tune BERT for Extractive Summarization**](https://arxiv.org/pdf/1903.10318.pdf)
 

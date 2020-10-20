@@ -9,6 +9,7 @@
 - [**Building Neural Network Models That Can Reason - YouTube**](https://www.youtube.com/watch?v=-2JRiv3Mycs)
 - [**[1803.03067] Compositional Attention Networks for Machine Reasoning**](https://arxiv.org/abs/1803.03067)
 - [**Compositionality decomposed: how do neural networks generalise?**](https://arxiv.org/abs/1908.08351.pdf)
+- [**Shortcut Learning in Deep Neural Networks**](https://arxiv.org/abs/2004.07780v1.pdf)
 
 ### Relational Networks, Decompose and Disentangle
 
