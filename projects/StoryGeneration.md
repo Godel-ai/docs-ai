@@ -1,5 +1,15 @@
 ## Story Generation
 
+**Where is State-of-the-are Story Generation today**
+
+**What are the remaining big challenges in Story Generation**
+
+**What are the various subdomains in Story Generation : for publication**
+
+**What are the different kinds of approaches for these subdomains in Story Generation**
+
+**Story Generation : Monetization, Use Cases in Industry**
+
 ---
 
 ![](images/2020-07-22-00-48-41.png)
