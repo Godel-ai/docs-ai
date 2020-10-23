@@ -12,49 +12,55 @@
 
 ---
 
+## Full automated story telling pipeline
+
 ![](images/2020-07-22-00-48-41.png)
+
+- [**Yao: Plan-and-write: Towards better automatic storytelling - Google Scholar**](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=7790864211221027670)
+
+---
+
+### Story Generation
 
 ![](images/2020-07-22-00-49-06.png)
 
 ![](images/2020-07-22-00-49-23.png)
 
+![](images/2020-07-23-01-18-38.png)
+
+### Plot Generation
+
 ![](images/2020-07-22-00-49-42.png)
-
-![](images/2020-07-23-01-17-10.png)
-
-![](images/2020-07-23-01-17-43.png)
-
-![](images/2020-07-22-00-50-01.png)
-
-![](images/2020-07-22-00-50-16.png)
-
-![](images/2020-07-22-00-51-00.png)
 
 ![](images/2020-07-23-01-18-04.png)
 
-![](images/2020-07-23-01-18-15.png)
+### Explainable Plots
+
+![](images/2020-07-23-01-17-43.png)
+
+### Event Representation
+
+![](images/2020-07-23-01-17-10.png)
 
 ---
 
-## Full automated story telling pipeline
-
-![](images/2020-07-23-01-18-38.png)
-
----
+### Story Represenation
 
 ![](images/2020-07-23-01-20-31.png)
 
-## Props Morphology
+---
+
+### Props Morphology
 
 ---
 
-![](images/2020-07-23-01-21-32.png)
-
----
+### Visual Story
 
 ![](images/2020-07-23-01-22-02.png)
 
 ---
+
+## Fictional Worlds
 
 ![](images/2020-07-23-01-23-13.png)
 
@@ -62,11 +68,27 @@
 
 ---
 
+### Quest Generation
+
 ![](images/2020-07-23-01-23-33.png)
 
 ![](images/2020-07-23-01-23-46.png)
 
-### Story Generation
+---
+
+### Normative Generation
+
+![](images/2020-07-22-00-50-01.png)
+
+![](images/2020-07-22-00-50-16.png)
+
+![](images/2020-07-22-00-51-00.png)
+
+### Misc
+
+![](images/2020-07-23-01-21-32.png)
+
+![](images/2020-07-23-01-18-15.png)
 
 - [**[2001.08764] Fine-Tuning a Transformer-Based Language Model to Avoid Generating Non-Normative Text**](https://arxiv.org/abs/2001.08764)
 - [**Reinforcing an Image Caption Generator Using Off-Line Human Feedback**](https://arxiv.org/abs/1911.09753.pdf)
@@ -86,7 +108,6 @@
 ---
 
 - [**Bringing Stories Alive: Generating Interactive Fiction Worlds**](https://arxiv.org/abs/2001.10161.pdf)
-- [**Yao: Plan-and-write: Towards better automatic storytelling - Google Scholar**](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=7790864211221027670)
 - [**[1912.03553] Learning Norms from Stories: A Prior for Value Aligned Agents**](https://arxiv.org/abs/1912.03553)
 - [**Fan: Strategies for structuring story generation - Google Scholar**](https://scholar.google.com/scholar?cites=9520507552551087003&as_sdt=2005&sciodt=0,5&hl=en)
 - [**Learning to Predict Explainable Plots for Neural Story Generation**](https://arxiv.org/abs/1912.02395.pdf)
