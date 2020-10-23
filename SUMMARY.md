@@ -1,4 +1,4 @@
-- [Projects](Projects.md)
+- [Projects](projects/Projects.md)
 
   - [GANs](projects/GANs.md)
   - [Graphics](projects/Graphics.md)
@@ -10,9 +10,9 @@
     - [Video Synthesis](projects/VideoDynamics.md)
   - [CoolApplications](projects/CoolApplications.md)
 
-- [Research](projects/Research.md)
+- [Research](research/Research.md)
 
-  - [VisionNLPInterfaces](misc/VisionNLPInterfaces.md)
+  - [VisionNLPInterfaces](research/VisionNLPInterfaces.md)
 
 - [Miscellaneous](misc.md)
   - [AbstractIdeas](misc/AbstractIdeas.md)
