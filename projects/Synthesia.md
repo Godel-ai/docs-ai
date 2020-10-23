@@ -2,31 +2,11 @@
 
 ---
 
-### StoryGAN
-
-- [**StoryGAN: A Sequential Conditional GAN for Story Visualization**](https://arxiv.org/abs/1812.02784.pdf)
-
-![](images/2020-07-22-00-51-46.png)
-
-![](images/2020-07-22-00-53-06.png)
-
----
+### Talking Head and GANs
 
 ![](images/2020-07-22-01-46-01.png)
 
 ![](images/2020-07-22-01-46-31.png)
-
----
-
-## Spatial Transformers
-
----
-
-## Video synthesis
-
----
-
-### Talking Head and GANs
 
 - [**What comprises a good talking-head video generation?: A Survey and Benchmark**](https://arxiv.org/abs/2005.03201.pdf)
 - [**Hierarchical Cross-Modal Talking Face Generation With Dynamic Pixel-Wise Loss**](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Hierarchical_Cross-Modal_Talking_Face_Generation_With_Dynamic_Pixel-Wise_Loss_CVPR_2019_paper.pdf)
@@ -66,7 +46,7 @@
 
 - [**TimoBolkart/voca: Voice Operated Character Animation**](https://github.com/TimoBolkart/voca)
 - [**Voice Operated Character Animation**](https://voca.is.tue.mpg.de/)
-- [**Capture, Learning, and Synthesis of 3D Speaking Styles | Perceiving Systems - Max Planck Institute for Intelligent Systems**](https://ps.is.tuebingen.mpg.de/publications/voca2019 )
+- [**Capture, Learning, and Synthesis of 3D Speaking Styles | Perceiving Systems - Max Planck Institute for Intelligent Systems**](https://ps.is.tuebingen.mpg.de/publications/voca2019)
 - [**VOCA: Capture, Learning, and Synthesis of 3D Speaking Styles - YouTube**](https://www.youtube.com/watch?v=XceCxf_GyW4)
 - [**Neural Rendering and Reenactment of Human Actor Videos**](http://gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/content/main.pdf)
 - [**facebookresearch/QuaterNet: Proposes neural networks that can generate animation of virtual characters for different actions.**](https://github.com/facebookresearch/QuaterNet)

@@ -2,10 +2,6 @@
 
 ---
 
-### Neuro Symbolic VQA (: Using different Neural Modules for VQA)
-
----
-
 ![](images/2020-07-24-01-01-03.png)
 
 ![](images/2020-07-24-01-01-21.png)
@@ -95,18 +91,18 @@
 - [**Cross-Modal Attention With Semantic Consistence for Image-Text Matching - IEEE Journals & Magazine**](https://ieeexplore.ieee.org/abstract/document/8994196)
 - [**Multi-Modal Graph Neural Network for Joint Reasoning on Vision and Scene Text**](https://arxiv.org/abs/2003.13962.pdf)
 
-- [**Visual Semantic Reasoning for Image-Text Matching**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Visual_Semantic_Reasoning_for_Image-Text_Matching_ICCV_2019_paper.pdf )
-- [**Visual Reasoning with Natural Language**](https://arxiv.org/abs/1710.00453.pdf )
-- [**Explicit Reasoning over End-to-End Neural Architectures for Visual Question Answering**](https://arxiv.org/abs/1803.08896.pdf )
-- [**PubLayNet: largest dataset ever for document layout analysis - Papers With Code**](https://paperswithcode.com/paper/190807836 )
-- [**HUSE: Hierarchical Universal Semantic Embeddings**](https://arxiv.org/abs/1911.05978v1.pdf )
-- [**Cross-modal_Scene_Graph_Matching_for_Relationship-aware_Image-Text_Retrieval**](http://openaccess.thecvf.com/content_WACV_2020/html/Wang_Cross-modal_Scene_Graph_Matching_for_Relationship-aware_Image-Text_Retrieval_WACV_2020_paper.html )
-- [**Cross-Modal Attention With Semantic Consistence for Image-Text Matching - IEEE Journals & Magazine**](https://ieeexplore.ieee.org/abstract/document/8994196 )
-- [**[2002.08510] Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching**](https://arxiv.org/abs/2002.08510 )
+- [**Visual Semantic Reasoning for Image-Text Matching**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Visual_Semantic_Reasoning_for_Image-Text_Matching_ICCV_2019_paper.pdf)
+- [**Visual Reasoning with Natural Language**](https://arxiv.org/abs/1710.00453.pdf)
+- [**Explicit Reasoning over End-to-End Neural Architectures for Visual Question Answering**](https://arxiv.org/abs/1803.08896.pdf)
+- [**PubLayNet: largest dataset ever for document layout analysis - Papers With Code**](https://paperswithcode.com/paper/190807836)
+- [**HUSE: Hierarchical Universal Semantic Embeddings**](https://arxiv.org/abs/1911.05978v1.pdf)
+- [**Cross-modal_Scene_Graph_Matching_for_Relationship-aware_Image-Text_Retrieval**](http://openaccess.thecvf.com/content_WACV_2020/html/Wang_Cross-modal_Scene_Graph_Matching_for_Relationship-aware_Image-Text_Retrieval_WACV_2020_paper.html)
+- [**Cross-Modal Attention With Semantic Consistence for Image-Text Matching - IEEE Journals & Magazine**](https://ieeexplore.ieee.org/abstract/document/8994196)
+- [**[2002.08510] Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching**](https://arxiv.org/abs/2002.08510)
 - [**Novel model to integrate word embeddings and syntactic trees for automatic caption generation from images**](https://link.springer.com/article/10.1007/s00500-019-03973-w)
-- [**[2003.03772] IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval**](https://arxiv.org/abs/2003.03772 )
-- [**Multi-Modal Memory Enhancement Attention Network for Image-Text Matching - IEEE Journals & Magazine**](https://ieeexplore.ieee.org/abstract/document/9006782 )
-- [**[1906.02890] Visually Grounded Neural Syntax Acquisition**](https://arxiv.org/abs/1906.02890 )
-- [**[1911.09826] Factorized Multimodal Transformer for Multimodal Sequential Learning**](https://arxiv.org/abs/1911.09826 )
-- [**MUREL: Multimodal Relational Reasoning for Visual Question Answering**](https://arxiv.org/abs/1902.09487.pdf )
+- [**[2003.03772] IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval**](https://arxiv.org/abs/2003.03772)
+- [**Multi-Modal Memory Enhancement Attention Network for Image-Text Matching - IEEE Journals & Magazine**](https://ieeexplore.ieee.org/abstract/document/9006782)
+- [**[1906.02890] Visually Grounded Neural Syntax Acquisition**](https://arxiv.org/abs/1906.02890)
+- [**[1911.09826] Factorized Multimodal Transformer for Multimodal Sequential Learning**](https://arxiv.org/abs/1911.09826)
+- [**MUREL: Multimodal Relational Reasoning for Visual Question Answering**](https://arxiv.org/abs/1902.09487.pdf)
 - [**Relation-Aware Graph Attention Network for Visual Question Answering**](https://arxiv.org/abs/1903.12314.pdf)
