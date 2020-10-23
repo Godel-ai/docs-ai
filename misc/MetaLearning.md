@@ -2,11 +2,11 @@
 
 ---
 
-![](images/2020-07-21-06-05-42.png)
+![](../projects/images/2020-07-21-06-05-42.png)
 
-![](images/2020-07-21-06-05-56.png)
+![](../projects/images/2020-07-21-06-05-56.png)
 
-![](images/2020-07-21-06-06-07.png)
+![](../projects/images/2020-07-21-06-06-07.png)
 
 ### Meta-Learning
 

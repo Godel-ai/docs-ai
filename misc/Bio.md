@@ -1,6 +1,6 @@
 # Bio
 
-![](../research/images/2020-07-21-04-46-24.png)
+![](../projects/images/2020-07-21-04-46-24.png)
 
 ### Bio
 
