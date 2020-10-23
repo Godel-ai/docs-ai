@@ -117,7 +117,7 @@ https://github.com/facebookresearch/detr
 - [**Generating Digital Painting Lighting Effects via RGB-space Geometry**](https://lllyasviel.github.io/PaintingLight/)
 - [** A deep learning approach for generalized speech animation**](https://dl.acm.org/doi/pdf/10.1145/3072959.3073699)
 - [**Synthesizing Environment-Aware Activities via Activity Sketches**](https://andrewliao11.github.io/project/env-program/)
-- [**https://openaccess.thecvf.com/content_CVPR_2019/papers/Huh_Feedback_Adversarial_Learning_Spatial_Feedback_for_Improving_Generative_Adversarial_Networks_CVPR_2019_paper.pdf**](https://openaccess.thecvf.com/content_CVPR_2019/papers/Huh_Feedback_Adversarial_Learning_Spatial_Feedback_for_Improving_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)
+- [**Feedback_Adversarial_Learning_Spatial_Feedback_for_Improving_Generative_Adversarial_Networks**](https://openaccess.thecvf.com/content_CVPR_2019/papers/Huh_Feedback_Adversarial_Learning_Spatial_Feedback_for_Improving_Generative_Adversarial_Networks_CVPR_2019_paper.pdf)
 - [**Penrose: from mathematical notation to beautiful diagrams**](https://penrose.ink/siggraph20.html)
 - [**High Fidelity Generative Image Compression**](https://hific.github.io/)
 - [**Immersive Light Field Video with a Layered Mesh Representation**](https://augmentedperception.github.io/deepviewvideo/)
