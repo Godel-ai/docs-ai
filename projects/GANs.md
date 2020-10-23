@@ -70,6 +70,7 @@
 
 - [**how to view gan output - Google Search**](https://www.google.com/search?q=how+to+view+gan+output&oq=how+to+view+gan+output&aqs=chrome..69i57.5406j0j7&sourceid=chrome&ie=UTF-8)
 - [**A New Way to look at GANs - Towards Data Science**](https://towardsdatascience.com/a-new-way-to-look-at-gans-7c6b6e6e9737)
+- [**Unsupervised Discovery of Interpretable Directions in the GAN Latent Space**](https://arxiv.org/abs/2002.03754v2.pdf)
 - [**Graduating in GANs: Going from understanding generative adversarial networks to running your own**](https://towardsdatascience.com/graduating-in-gans-going-from-understanding-generative-adversarial-networks-to-running-your-own-39804c283399)
 - [**This Machine Learning Medium post does not exist - Comet.ml - Medium**](https://medium.com/comet-ml/this-machine-learning-medium-post-does-not-exist-c4705215b4a0)
 - [**GAN Objective Functions: GANs and Their Variations - Towards Data Science**](https://towardsdatascience.com/gan-objective-functions-gans-and-their-variations-ad77340bce3c)

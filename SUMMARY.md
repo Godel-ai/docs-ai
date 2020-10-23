@@ -1,5 +1,5 @@
 - [Projects](Projects.md)
-- [Research](projects/Research.md)
+
   - [GANs](projects/GANs.md)
   - [Graphics](projects/Graphics.md)
   - [NLP](projects/NLP.md)
@@ -9,6 +9,11 @@
     - [Image/Video Synthesis](projects/Synthesia.md)
     - [Video Synthesis](projects/VideoDynamics.md)
   - [CoolApplications](projects/CoolApplications.md)
+
+- [Research](projects/Research.md)
+
+  - [VisionNLPInterfaces](misc/VisionNLPInterfaces.md)
+
 - [Miscellaneous](misc.md)
   - [AbstractIdeas](misc/AbstractIdeas.md)
   - [AGI](misc/AGI.md)
@@ -29,4 +34,3 @@
   - [Random](misc/Random.md)
   - [RL&EmbodiedAI](misc/RL&EmbodiedAI.md)
   - [UnsupervisedLearning](misc/UnsupervisedLearning.md)
-  - [VisionNLPInterfaces](misc/VisionNLPInterfaces.md)

@@ -46,3 +46,5 @@ We propose to meta-learn causal structures based on how fast a learner adapts to
 - [**acmi-lab/counterfactually-augmented-data: Learning the Difference that Makes a Difference with Counterfactually-Augmented Data**](https://github.com/acmi-lab/counterfactually-augmented-data)
 - [**Causality_Cognitive_Science_2013.pdf**](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Causality_Cognitive_Science_2013.pdf)
 - [**[2005.11736] Efficient Intervention Design for Causal Discovery with Latents**](https://arxiv.org/abs/2005.11736)
+- [**Theory of Causal Induction.pdf**](https://cocosci.princeton.edu/tom/papers/tbci.pdf)
+- [**Visual Causal Feature Learning**](http://www.its.caltech.edu/~fehardt/papers/CPE_UAI2015.pdf)

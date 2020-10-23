@@ -2,7 +2,7 @@
 
 - [**NLP-progress**](http://nlpprogress.com/ | Tracking Progress in Natural Language Processing )
 - [**Vision and Language tasks by shubhamagarwal92 · Pull Request #443 · sebastianruder/NLP-progress**](https://github.com/sebastianruder/NLP-progress/pull/443)
-
+- [**Torch-Struct: Deep Structured Prediction Library**](https://arxiv.org/abs/2002.00876v1.pdf)
 - [**Experience Grounds Language**](https://arxiv.org/abs/2004.10151v1.pdf)
 - [**Shortcut Learning in Deep Neural Networks**](https://arxiv.org/abs/2004.07780v1.pdf)
 - [**SenseBERT: Driving Some Sense into BERT**](https://arxiv.org/abs/1908.05646.pdf)
