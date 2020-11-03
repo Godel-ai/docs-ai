@@ -57,7 +57,7 @@
 
 # Philo-Stream : Video Streaming
 
-- TikTok, BulBul : Curiosity and Information Stream
+- TikTok/Bulbul : Short Lecture format, Random Feed based on interests
 
 At a high level:
 A rust TTS server hosts two models: a mel inference model and a mel inversion model. The ones I'm using are glow-tts and melgan. They fit together back to back in a pipeline.
