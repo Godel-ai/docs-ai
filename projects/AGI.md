@@ -38,7 +38,7 @@
 - [**Proceedings of the 13th International Conference on Web Search and Data Mining**](https://dl.acm.org/doi/abs/10.1145/3336191.3371854 | Knowledge-aware Complementary Product Representation Learning )
 - [**Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency**](https://dl.acm.org/doi/abs/10.1145/3351095.3372866 | Recommendations and user agency )
 - [**Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency**](https://dl.acm.org/doi/abs/10.1145/3351095.3372879 | Auditing radicalization pathways on YouTube )
-- [**now publishers - Explainable Recommendation: A Survey and New Perspectives**](https://www.nowpublishers.com/article/Details/INR-066)
+- [**Explainable Recommendation: A Survey and New Perspectives**](https://www.nowpublishers.com/article/Details/INR-066)
 
 ### AGI
 
@@ -68,14 +68,11 @@ https://www.youtube.com/watch?v=TJyy_qz_qII&pbjreload=10
 - [**[1905.13049] Neural Consciousness Flow**](https://arxiv.org/abs/1905.13049)
 - [**Cross-channel Communication Networks**](https://openreview.net/forum?id=HJllSVBgLH)
 - [**Rios: Closed-loop memory GAN for continual learning - Google Scholar**](https://scholar.google.com/scholar?safe=active&sxsrf=ALeKk018TpsnXwJtn_lO0482qyrbdU0f1w:1585041270402&uact=5&um=1&ie=UTF-8&lr&cites=16122983999526866358)
-- [**1811.01146.pdf**](https://arxiv.org/abs/1811.01146.pdf)
 - [**Human Replay Spontaneously Reorganizes Experience - ScienceDirect**](https://www.sciencedirect.com/science/article/pii/S0092867419306403)
 - [**modular curriculum learning - Google Scholar**](https://scholar.google.co.in/scholar?q=modular+curriculum+learning&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 - [**Andreas: Modular multitask reinforcement learning... - Google Scholar**](https://scholar.google.co.in/scholar?as_ylo=2019&hl=en&as_sdt=2005&sciodt=0,5&cites=5436796240835430868&scipsc=)
-- [**HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Miech_HowTo100M_Learning_a_Text-Video_Embedding_by_Watching_Hundred_Million_Narrated_ICCV_2019_paper.pdf)
-- [**2003.07018.pdf**](https://arxiv.org/abs/2003.07018.pdf)
 - [**Multiple and Modular Artificial Neural Networks**](https://www.teco.edu/~albrecht/neuro/html/node32.html)
-- [**embedding to join modular neural networks - Google Search**](https://www.google.com/search?safe=active&sxsrf=ALeKk01_1cRXRsnwoBBxOgASiRxl7bajBQ%3A1596027813074&ei=pXMhX--BBIj99QOY46SIDA&q=embedding+to+join+modular+neural+networks&oq=embedding+to+join+modular+neural+networks&gs_lcp=CgZwc3ktYWIQAzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzoHCCMQ6gIQJzoNCC4QxwEQrwEQ6gIQJzoHCC4Q6gIQJ1CriAFY0ZEBYJSZAWgBcAd4AIABAIgBAJIBAJgBAKABAaABAqoBB2d3cy13aXqwAQrAAQE&sclient=psy-ab&ved=0ahUKEwiv6OX2wvLqAhWIfn0KHZgxCcEQ4dUDCAw&uact=5)
+- [**Embedding to join modular neural networks - Google Search**](https://www.google.com/search?safe=active&sxsrf=ALeKk01_1cRXRsnwoBBxOgASiRxl7bajBQ%3A1596027813074&ei=pXMhX--BBIj99QOY46SIDA&q=embedding+to+join+modular+neural+networks&oq=embedding+to+join+modular+neural+networks&gs_lcp=CgZwc3ktYWIQAzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzoHCCMQ6gIQJzoNCC4QxwEQrwEQ6gIQJzoHCC4Q6gIQJ1CriAFY0ZEBYJSZAWgBcAd4AIABAIgBAJIBAJgBAKABAaABAqoBB2d3cy13aXqwAQrAAQE&sclient=psy-ab&ved=0ahUKEwiv6OX2wvLqAhWIfn0KHZgxCcEQ4dUDCAw&uact=5)
 - [**Modularity as a Means for Complexity Management in Neural Networks Learning**](https://arxiv.org/abs/1902.09240.pdf)
 - [**The Design and Evolution of Modular Neural Network Architectures**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.8248&rep=rep1&type=pdf)
 - [**Neural Embedding Propagation on Heterogeneous Networks**](https://www.groundai.com/project/neural-embedding-propagation-on-heterogeneous-networks/1)
