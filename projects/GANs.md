@@ -91,7 +91,7 @@
 - [**Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation**](https://arxiv.org/abs/1712.00080.pdf)
 - [**Learning to See in the Dark**](https://arxiv.org/abs/1805.01934.pdf)
 - [**Self-Attention Generative Adversarial Networks**](https://arxiv.org/abs/1805.08318.pdf)
-- [**10.1145/3072959.3073640**](http://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3073640 | Sci-Hub | Synthesizing Obama. ACM Transactions on Graphics, 36(4), 1–13 )
+- [**Synthesizing Obama. ACM Transactions on Graphics**](http://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3073640)
 - [**State of the Art on 3D Reconstruction with RGB-D Cameras**](https://web.stanford.edu/~zollhoef/papers/EG18_RecoSTAR/paper.pdf)
 - [**Face2Face: Real-time Face Capture and Reenactment of RGB Videos**](https://web.stanford.edu/~zollhoef/papers/CVPR2016_Face2Face/paper.pdf)
 - [**facewarehouse-tr.pdf**](http://kunzhou.net/2012/facewarehouse-tr.pdf)

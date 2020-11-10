@@ -62,7 +62,7 @@
 - [**[2004.02843] Improved Code Summarization via a Graph Neural Network**](https://arxiv.org/abs/2004.02843)
 - [**Opinosis: A Graph Based Approach to Abstractive Summarization of Highly Redundant Opinions**](https://www.aclweb.org/anthology/C10-1039.pdf)
 - [**graph-summarization**](https://gemslab.github.io/papers/liu-2018-graph-summarization.pdf)
-- [**Social-net.pdf**](http://cs-people.bu.edu/evimaria/papers/Social-net.pdf)
+- [**GraSS: Graph Structure Summarization**](http://cs-people.bu.edu/evimaria/papers/Social-net.pdf)
 - [**google-research/electra: ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators**](https://github.com/google-research/electra)
 
 ---
@@ -135,10 +135,9 @@
 - [**[1909.13717] Retrieval-based Goal-Oriented Dialogue Generation**](https://arxiv.org/abs/1909.13717)
 - [**On Extractive and Abstractive Neural Document Summarization with Transformer Language Models**](https://arxiv.org/abs/1909.03186.pdf)
 - [**Katti: Chargrid: Towards understanding 2d documents - Google Scholar**](https://scholar.google.com/scholar?safe=active&rlz=1C1CHBF_enUS858US858&sxsrf=ACYBGNSAPKh-P1RHf4kuZ0Ciw-tc4coy7A:1578892703748&uact=5&um=1&ie=UTF-8&lr&cites=10392085391906571188)
-- [**1910.03678.pdf**](https://arxiv.org/abs/1910.03678.pdf)
+- [**Unfolding the Structure of a Document using Deep Learning**](https://arxiv.org/abs/1910.03678.pdf)
 - [**Chargrid: Towards Understanding 2D Documents**](https://www.aclweb.org/anthology/D18-1476.pdf)
 - [**[1806.00069] Explaining Explanations: An Overview of Interpretability of Machine Learning**](https://arxiv.org/abs/1806.00069)
-
 - [**: Knowledge Base Population**](https://paperswithcode.com/task/knowledge-base-population)
 - [**: Position-aware Attention and Supervised Data Improve Slot Filling**](https://paperswithcode.com/paper/position-aware-attention-and-supervised-data)
 - [**Bread-and-Code/Text-Summarization: A text document will be provided and it'll produce it's summary**](https://github.com/Bread-and-Code/Text-Summarization)

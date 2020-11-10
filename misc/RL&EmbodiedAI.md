@@ -135,7 +135,6 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**: Biologically-Motivated Deep Learning Method using Hierarchical Competitive Learning**](https://paperswithcode.com/paper/biologically-motivated-deep-learning-method)
 - [**: Restricting the Flow: Information Bottlenecks for Attribution**](https://paperswithcode.com/paper/restricting-the-flow-information-bottlenecks-1)
 - [**Reformer: The Efficient Transformer**](https://arxiv.org/abs/2001.04451v1.pdf)
-- [**DeepMind**](https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI | Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI )
 - [**Neural Replicator Dynamics**](https://arxiv.org/abs/1906.00190v1.pdf)
 - [**Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent**](https://arxiv.org/abs/1903.05614v3.pdf)
 - [**High–Dimensional Brain in a High-Dimensional World: Blessing of Dimensionality**](https://arxiv.org/abs/2001.04959v1.pdf)

@@ -53,7 +53,6 @@
 - [**Learning to Decompose and Disentangle Representations for Video Prediction**](http://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf)
 - [**- Non-Adversarial Video Synthesis with Learned Priors**](https://paperswithcode.com/paper/non-adversarial-video-synthesis-with-learned)
 - [**Navsynth**](https://abhishekaich27.github.io/navsynth.html)
-- [**abhishekaich27/Navsynth**](https://github.com/abhishekaich27/Navsynth)
 - [**VideoBERT: A Joint Model for Video and Language Representation Learning**](https://arxiv.org/abs/1904.01766.pdf)
 - [**ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks**](https://arxiv.org/abs/1908.02265.pdf)
 - [**Unified Vision-Language Pre-Training for Image Captioning and VQA**](https://arxiv.org/abs/1909.11059.pdf)
