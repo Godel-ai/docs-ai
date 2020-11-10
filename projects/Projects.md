@@ -23,6 +23,8 @@
 - Do therapy and help, be there in loneliness etc
 - A philosopher bot: someone you can discuss philosophy and psychology with
 
+## Nvidia Jarvis + Omniverse = Bot
+
 ---
 
 # Fables.ai
