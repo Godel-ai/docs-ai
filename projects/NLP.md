@@ -23,7 +23,6 @@
   [**Common-Knowledge Concept Recognition for SEVA**](https://paperswithcode.com/paper/common-knowledge-concept-recognition-for-seva)
 - [**Neural Networks are Surprisingly Modular**](https://arxiv.org/abs/2003.04881v2.pdf)
 - [**[1912.13283v1] oLMpics -- On what Language Model Pre-training Captures**](https://arxiv.org/abs/1912.13283v1)
-- [**shenweichen/DeepCTR: Easy-to-use,Modular and Extendible package of deep-learning based CTR models.**](https://github.com/shenweichen/DeepCTR)
 
 ## Extractive Summarization of Scientific Documents
 
@@ -31,7 +30,6 @@
 - [**TLDR: Extreme Summarization of Scientific Documents**](https://arxiv.org/abs/2004.15011v1.pdf)
 - [**Differentiable Reasoning over a Virtual Knowledge Base**](https://arxiv.org/abs/2002.10640.pdf)
 - [**[1912.10824] Differentiable Reasoning on Large Knowledge Bases and Natural Language**](https://arxiv.org/abs/1912.10824)
-- [**uclnlp/gntp**](https://github.com/uclnlp/gntp)
 
 ---
 
@@ -80,10 +78,9 @@
 
 #### Chatbots
 
-- [**Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems**](https://arxiv.org/abs/1804.08217.pdf)
 - [**Generating English from Abstract Meaning Representations**](https://www.aclweb.org/anthology/W16-6603.pdf)
 - [**[1801.07736] MaskGAN: Better Text Generation via Filling in the**\_\_\*\*\*\*](https://arxiv.org/abs/1801.07736)
-  [**On Extractive and Abstractive Neural Document Summarization with Transformer Language Models**](https://arxiv.org/abs/1909.03186.pdf)
+- [**On Extractive and Abstractive Neural Document Summarization with Transformer Language Models**](https://arxiv.org/abs/1909.03186.pdf)
 - [**A Deep Reinforcement Learning Chatbot**](https://arxiv.org/abs/1709.02349.pdf)
 
 ### Knowledge graph
@@ -95,6 +92,7 @@
 
 ### Random
 
+- [**MeanSum: A Neural Model for Unsupervised Multi-Document Abstractive Summarization**](http://proceedings.mlr.press/v97/chu19b.html)
 - [**Katti: Chargrid: Towards understanding 2d documents - Google Scholar**](https://scholar.google.com/scholar?safe=active&rlz=1C1CHBF_enUS858US858&sxsrf=ACYBGNSAPKh-P1RHf4kuZ0Ciw-tc4coy7A:1578892703748&uact=5&um=1&ie=UTF-8&lr&cites=10392085391906571188)
 - [**MeanSum: A Neural Model for Unsupervised Multi-Document Abstractive Summarization**](http://proceedings.mlr.press/v97/chu19b.html)
 - [**sosuperic/MeanSum**](https://github.com/sosuperic/MeanSum)
@@ -128,7 +126,6 @@
 - [**: Multi-Document Summarization**](https://paperswithcode.com/task/multi-document-summarization)
 - [**[1910.11411] Multi-Document Summarization with Determinantal Point Processes and Contextualized Representations**](https://arxiv.org/abs/1910.11411)
 - [**[1906.01749] Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model**](https://arxiv.org/abs/1906.01749)
-- [**MeanSum: A Neural Model for Unsupervised Multi-Document Abstractive Summarization**](http://proceedings.mlr.press/v97/chu19b.html)
 - [**[1910.08435] Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs**](https://arxiv.org/abs/1910.08435)
 - [**[1706.06681] Graph-based Neural Multi-Document Summarization**](https://arxiv.org/abs/1706.06681)
 - [**Li: Deep recurrent generative decoder for abstractive... - Google Scholar**](https://scholar.google.co.in/scholar?cites=748046702805969208&as_sdt=2005&sciodt=0,5&hl=en)
@@ -146,8 +143,6 @@
 - [**1910.08435.pdf**](https://arxiv.org/abs/1910.08435.pdf)
 - [**Commits · dstlry/dstlr**](https://github.com/dstlry/dstlr/commits/master)
 - [**dstlr**](https://dstlry.github.io/ | What is dstlr? )
-
-- [**TensorSpeech/TensorflowTTS: TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2**](https://github.com/TensorSpeech/TensorflowTTS)
 
 - [**Wu: Transferable Multi-Domain State Generator for... - Google Scholar**](https://scholar.google.com/scholar?rlz=1C1CHBF_enUS858US858&um=1&ie=UTF-8&lr&cites=3530396919946840784)
 - [**[1907.01669] MultiWOZ 2.1: A Consolidated Multi-Domain Dialogue Dataset with State Corrections and State Tracking Baselines**](https://arxiv.org/abs/1907.01669)
@@ -237,3 +232,5 @@
 - [**jasonwu0731/trade-dst: Source code for transferable dialogue state generator (TRADE, Wu et al., 2019). https://arxiv.org/abs/1905.08743**](https://github.com/jasonwu0731/trade-dst)
 - [**nlpyang/BertSum: Code for paper Fine-tune BERT for Extractive Summarization**](https://github.com/nlpyang/BertSum)
 - [**facebookresearch/LAMA: LAnguage Model Analysis**](https://github.com/facebookresearch/LAMA)
+- [**TensorSpeech/TensorflowTTS: TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2**](https://github.com/TensorSpeech/TensorflowTTS)
+- [**shenweichen/DeepCTR: Easy-to-use,Modular and Extendible package of deep-learning based CTR models.**](https://github.com/shenweichen/DeepCTR)

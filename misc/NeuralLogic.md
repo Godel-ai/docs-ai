@@ -13,13 +13,15 @@
 - [**Learning to Prove Theorems by Learning to Generate Theorems**](https://openreview.net/forum?id=BJxiqxSYPB)
 - [**Deep Learning For Symbolic Mathematics**](https://openreview.net/forum?id=S1eZYeHFDS)
 - [**Neural Arithmetic Units**](https://arxiv.org/abs/2001.05016v1.pdf)
-- [**mtensor/rulesynthesis: Code for "Learning Compositional Rules via Neural Program Synthesis"**](https://github.com/mtensor/rulesynthesis)
 - [**Synthesizing Programs for Images using Reinforced Adversarial Learning**](http://proceedings.mlr.press/v80/ganin18a.html)
+- [**uclnlp/gntp**](https://github.com/uclnlp/gntp)
+- [**mtensor/rulesynthesis: Code for "Learning Compositional Rules via Neural Program Synthesis"**](https://github.com/mtensor/rulesynthesis)
 
 ## Program Synthesis
+
 - [**Learning to Represent Programs with Graphs**](https://openreview.net/forum?id=BJOFETxR-)
 - Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples https://arxiv.org/abs/1804.01186
 - Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis
-https://arxiv.org/abs/1805.04276
+  https://arxiv.org/abs/1805.04276
 - Neural Sketch Learning for Conditional Program Generation https://arxiv.org/abs/1703.05698
 - Parametrized Hierarchical Procedures for Neural Programming https://openreview.net/forum?id=rJl63fZRb
