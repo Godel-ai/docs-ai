@@ -91,11 +91,7 @@
 - Neural-Symbolic Learning and Reasoning: A Survey and Interpretation https://arxiv.org/abs/1711.03902.pdf
 - https://arxiv.org/abs/1910.01751.pdf Causal Induction from Visual Observations for Goal Directed Tasks
 
-- 7082-a-simple-neural-network-module-for-relational-reasoning.pdf
 - Differentiable Neural Computer.pdf
-- The Seven Pillars of Causal Reasoning with Reflections on Machine Learning
-- 7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf
-- Reconciling deep learning with symbolic artificial intelligence: representing objects and relations
 - Robust Perception through Analysis by Synthesis
 - 7960-relational-recurrent-neural-networks.pdf
 - Learning Factorized Multimodal Representations.pdf
