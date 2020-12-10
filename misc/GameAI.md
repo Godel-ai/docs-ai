@@ -16,3 +16,4 @@ Such setup opens a plethora of possibilities in studying emergent language and t
 
 - [**OpenSpiel: A Framework For Reinforcement Learning in Games**](https://deepmind.com/research/open-source/openspiel)
 - [**Mastering Complex Control in MOBA Games with Deep Reinforcement Learning**](https://arxiv.org/abs/1912.09729v1.pdf)
+- [**[2002.10433] From Chess and Atari to StarCraft and Beyond: How Game AI is Driving the World of AI**](https://arxiv.org/abs/2002.10433)

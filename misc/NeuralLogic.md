@@ -20,9 +20,7 @@
 ## Program Synthesis
 
 - [**Learning to Represent Programs with Graphs**](https://openreview.net/forum?id=BJOFETxR-)
-- Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples https://arxiv.org/abs/1804.01186
-- Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis
-  https://arxiv.org/abs/1805.04276
+- [**Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples**](https://arxiv.org/abs/1804.01186)
 - Neural Sketch Learning for Conditional Program Generation https://arxiv.org/abs/1703.05698
 - Parametrized Hierarchical Procedures for Neural Programming https://openreview.net/forum?id=rJl63fZRb
 - [**Neural Program Meta-Induction**](https://papers.nips.cc/paper/6803-neural-program-meta-induction.pdf)

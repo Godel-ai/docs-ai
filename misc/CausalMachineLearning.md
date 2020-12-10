@@ -27,9 +27,6 @@ We propose to meta-learn causal structures based on how fast a learner adapts to
 - [**Neural Consciousness Flow**](https://arxiv.org/abs/1905.13049.pdf)
 - [**Differentiable Learning of Logical Rules for Knowledge Base Reasoning**](http://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning.pdf)
 - [**On Causal and Anticausal Learning**](https://icml.cc/2012/papers/625.pdf)
-- [**Mirowski: Learning to navigate in cities without a map - Google Scholar**](https://scholar.google.com/scholar?cites=9758707731169438744&as_sdt=2005&sciodt=0,5&hl=en)
-- [**Diversity and Depth in Per-Example Routing Models**](https://openreview.net/forum?id=BkxWJnC9tX)
-- [**[1801.08214] Active Neural Localization**](https://arxiv.org/abs/1801.08214)
 - [**Learning Spatial Common Sense With Geometry-Aware Recurrent Networks**](http://openaccess.thecvf.com/content_CVPR_2019/html/Tung_Learning_Spatial_Common_Sense_With_Geometry-Aware_Recurrent_Networks_CVPR_2019_paper.html)
 - [**Two Causal Principles for Improving Visual Dialog**](https://arxiv.org/abs/1911.10496.pdf)
 - [**Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution**](https://arxiv.org/abs/1801.04016.pdf)
@@ -45,3 +42,5 @@ We propose to meta-learn causal structures based on how fast a learner adapts to
 - [**Theory of Causal Induction.pdf**](https://cocosci.princeton.edu/tom/papers/tbci.pdf)
 - [**Visual Causal Feature Learning**](http://www.its.caltech.edu/~fehardt/papers/CPE_UAI2015.pdf)
 - https://arxiv.org/abs/2005.13407v2.pdf CausaLM: Causal Model Explanation Through Counterfactual Language Models
+- [**Learning the Difference that Makes a Difference with Counterfactually-Augmented Data**](https://arxiv.org/abs/1909.12434.pdf)
+- [**Ask to Learn: A Study on Curiosity-driven Question Generation**](https://arxiv.org/abs/1911.03350v1.pdf)

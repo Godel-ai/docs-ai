@@ -30,6 +30,8 @@ How do we add constraints to the actions the agent can take ?
 
 ---
 
+## [**CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning**](https://arxiv.org/abs/1810.06284)
+
 ## Self-Supervised Exploration via Disagreement
 
 #### [\*\*[Project Website]](https://pathak22.github.io/exploration-by-disagreement/) [[Demo Video]\*\*](https://youtu.be/POlrWt32_ec)
@@ -134,7 +136,6 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**: Represented Value Function Approach for Large Scale Multi Agent Reinforcement Learning**](https://paperswithcode.com/paper/represented-value-function-approach-for-large)
 - [**: Biologically-Motivated Deep Learning Method using Hierarchical Competitive Learning**](https://paperswithcode.com/paper/biologically-motivated-deep-learning-method)
 - [**: Restricting the Flow: Information Bottlenecks for Attribution**](https://paperswithcode.com/paper/restricting-the-flow-information-bottlenecks-1)
-- [**Reformer: The Efficient Transformer**](https://arxiv.org/abs/2001.04451v1.pdf)
 - [**Neural Replicator Dynamics**](https://arxiv.org/abs/1906.00190v1.pdf)
 - [**Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent**](https://arxiv.org/abs/1903.05614v3.pdf)
 - [**High–Dimensional Brain in a High-Dimensional World: Blessing of Dimensionality**](https://arxiv.org/abs/2001.04959v1.pdf)
@@ -154,24 +155,18 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**Proximal Policy Optimization Algorithms**](https://arxiv.org/abs/1707.06347.pdf)
 - [**Self-Supervised Learning For Few-shot Image Classification**](https://github.com/phecy/SSL-FEW-SHOT)
 - [**[1911.12247] Contrastive Learning of Structured World Models**](https://arxiv.org/abs/1911.12247)
-- [**RLBench: The Robot Learning Benchmark & Learning Environment**](https://arxiv.org/abs/1909.12271.pdf)
 - [**CompILE: Compositional Imitation Learning and Execution**](http://proceedings.mlr.press/v97/kipf19a/kipf19a.pdf)
 - [**Learning Compositional Koopman Operators for Model-Based Control**](https://arxiv.org/abs/1910.08264.pdf)
 - [**World Models**](https://arxiv.org/abs/1803.10122.pdf)
-- [**CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning**](https://arxiv.org/abs/1810.06284)
 - [**Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives**](https://arxiv.org/abs/1906.10667.pdf)
 - [**google-research/dads: Code for 'Dynamics-Aware Unsupervised Discovery of Skills' (DADS). Enables skill discovery without supervision, which can be combined with model-based control.**](https://github.com/google-research/dads)
 - [**Entity Abstraction in Visual Model-Based Reinforcement Learning**](https://arxiv.org/abs/1910.12827.pdf)
 - [**Sparse Graphical Memory for Robust Planning**](https://arxiv.org/abs/2003.06417.pdf)
 - [**First return then explore**](https://arxiv.org/abs/2004.12919v1.pdf)
 - [**Emergent Real-World Robotic Skills via Unsupervised Off-Policy Reinforcement Learning**](https://arxiv.org/abs/2004.12974v1.pdf)
-- [**Learning the Difference that Makes a Difference with Counterfactually-Augmented Data**](https://arxiv.org/abs/1909.12434.pdf)
 - [**Context-aware Dynamics Model for Generalization in Model-Based Reinforcement Learning**](https://paperswithcode.com/paper/context-aware-dynamics-model-for)
 - [**Novelty Search makes Evolvability Inevitable **](https://paperswithcode.com/paper/novelty-search-makes-evolvability-inevitable)
 - [**Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA**](https://paperswithcode.com/paper/dense-caption-matching-and-frame-selection)
-- [**Ask to Learn: A Study on Curiosity-driven Question Generation**](https://arxiv.org/abs/1911.03350v1.pdf)
-- [**RetGK: Graph Kernels based on Return Probabilities of Random Walks**](https://arxiv.org/abs/1809.02670.pdf)
-- [**Deep Relational Factorization Machines**](https://openreview.net/forum?id=HJgySxSKvB)
 - [**Comparing Unsupervised Word Translation Methods Step by Step**](http://papers.nips.cc/paper/8836-comparing-unsupervised-word-translation-methods-step-by-step.pdf)
 - [**Adversarial Policies**](https://adversarialpolicies.github.io/)
 - [**Plan2Vec: Unsupervised Representation Learning by Latent Plans**](https://paperswithcode.com/paper/plan2vec-unsupervised-representation-learning-1)
@@ -211,8 +206,6 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**[2002.02693] Ready Policy One: World Building Through Active Learning**](https://arxiv.org/abs/2002.02693)
 - [**[2002.06038] Never Give Up: Learning Directed Exploration Strategies**](https://arxiv.org/abs/2002.06038)
 - [**[2002.05229] Data Efficient Training for Reinforcement Learning with Adaptive Behavior Policy Sharing**](https://arxiv.org/abs/2002.05229)
-- [**[2002.06306] Jelly Bean World: A Testbed for Never-Ending Learning**](https://arxiv.org/abs/2002.06306)
-- [**[2002.10433] From Chess and Atari to StarCraft and Beyond: How Game AI is Driving the World of AI**](https://arxiv.org/abs/2002.10433)
 - [**[1906.08226] Unsupervised State Representation Learning in Atari**](https://arxiv.org/abs/1906.08226)
 - [**Google AI Blog: Massively Scaling Reinforcement Learning with SEED RL**](https://ai.googleblog.com/2020/03/massively-scaling-reinforcement.html?m=1)
 - [**Google AI Blog: Off-Policy Estimation for Infinite-Horizon Reinforcement Learning**](https://ai.googleblog.com/2020/04/off-policy-estimation-for-infinite.html?m=1)
@@ -226,6 +219,9 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**Procgen and MineRL Competitions**](https://openai.com/blog/procgen-minerl-competitions/)
 - [**Teaching a robot to see and navigate with simulation - Microsoft Research**](https://www.microsoft.com/en-us/research/blog/teaching-a-robot-to-see-and-navigate-with-simulation/?OCID=msr_blog_SLAM_CVPR_fb)
 - [**CARL: Controllable Agent with Reinforcement Learning for Quadruped Locomotion**](https://inventec-ai-center.github.io/projects/CARL/index.html)
+- [**Mirowski: Learning to navigate in cities without a map - Google Scholar**](https://scholar.google.com/scholar?cites=9758707731169438744&as_sdt=2005&sciodt=0,5&hl=en)
+- [**Diversity and Depth in Per-Example Routing Models**](https://openreview.net/forum?id=BkxWJnC9tX)
+- [**[1801.08214] Active Neural Localization**](https://arxiv.org/abs/1801.08214)
 
 ---
 
@@ -233,12 +229,9 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 
 - [**[2001.08328] A Deep Learning Approach to Behavior-Based Learner Modeling**](https://arxiv.org/abs/2001.08328)
 - [**[2001.08349v2] Investigating naturalistic hand movements by behavior mining in long-term video and neural recordings**](https://arxiv.org/abs/2001.08349v2)
-- [**[1909.05114] PaccMann$^{RL}$: Designing anticancer drugs from transcriptomic data via reinforcement learning**](https://arxiv.org/abs/1909.05114)
-- [**[1812.07035] On the Continuity of Rotation Representations in Neural Networks**](https://arxiv.org/abs/1812.07035)
 - [**[2001.09063v2] Towards Graph Representation Learning in Emergent Communication**](https://arxiv.org/abs/2001.09063v2)
 - [**[2001.09122] Reasoning About Generalization via Conditional Mutual Information**](https://arxiv.org/abs/2001.09122)
 - [**HiPlot: High-dimensional interactive plots made easy**](https://ai.facebook.com/blog/hiplot-high-dimensional-interactive-plots-made-easy)
-- [**Deep learning for prediction of colorectal cancer outcome: a discovery and validation study - The Lancet**](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32998-8/fulltext>)
 - [**[1904.12584] The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision**](https://arxiv.org/abs/1904.12584)
 - [**[1810.06721] Optimizing Agent Behavior over Long Time Scales by Transporting Value**](https://arxiv.org/abs/1810.06721)
 - [**Networking Optimizations for Multi-Node DL on Kubernetes w/ Erez Cohen**](https://twimlai.com/twiml-talk-345-networking-optimizations-for-multi-node-deep-learning-on-kubernetes-with-erez-cohen/)
@@ -274,7 +267,6 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 
 ### Github
 
-- [**shreshthtuli/AlphaGoZero: A pytorch implementation of DeepMind's Alpha Go Zero**](https://github.com/shreshthtuli/AlphaGoZero)
 - [**xavierpuigf/virtualhome: API to run VirtualHome, a simulator to generate videos of human activities**](https://github.com/xavierpuigf/virtualhome)
 - [**facebookresearch/impact-driven-exploration: impact-driven-exploration**](https://github.com/facebookresearch/impact-driven-exploration)
 - [**SoRB.ipynb - Colaboratory**](https://colab.research.google.com/drive/1GnyIypicdLf2g--tej3yZguLDkHUgEsk#scrollTo=MbGXO1TURVf-)
@@ -283,3 +275,4 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**Inductive Biases, Invariances and Generalization in RL (BIG)**](https://biases-invariances-generalization.github.io/)
 - [**TonghanWang/ROMA: Codes accompanying the paper "ROMA: Multi-Agent Reinforcement Learning with Emergent Roles" (ICML 2020 https://arxiv.org/abs/2003.08039)**](https://github.com/TonghanWang/ROMA)
 - [**TensorSwarm/TensorSwarm: TensorSwarm: A framework for reinforcement learning of robot swarms.**](https://github.com/TensorSwarm/TensorSwarm)
+- [**[2002.06306] Jelly Bean World: A Testbed for Never-Ending Learning**](https://arxiv.org/abs/2002.06306)
