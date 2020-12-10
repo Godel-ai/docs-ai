@@ -44,3 +44,4 @@ We propose to meta-learn causal structures based on how fast a learner adapts to
 - https://arxiv.org/abs/2005.13407v2.pdf CausaLM: Causal Model Explanation Through Counterfactual Language Models
 - [**Learning the Difference that Makes a Difference with Counterfactually-Augmented Data**](https://arxiv.org/abs/1909.12434.pdf)
 - [**Ask to Learn: A Study on Curiosity-driven Question Generation**](https://arxiv.org/abs/1911.03350v1.pdf)
+- [**Causal Discovery in Physical Systems from Videos**](https://yunzhuli.github.io/V-CDN/)
