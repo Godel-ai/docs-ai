@@ -67,3 +67,7 @@ A rust TTS server hosts two models: a mel inference model and a mel inversion mo
 Instead of using graphemes, I'm using ARPABET phonemes, and I get these from a lookup table called "CMUdict" from Carnegie Mellon. In the future I'll supplement this with a model that predicts phonemes for missing entries.
 
 Each TTS server only hosts one or two voices due to memory constraints. These models are huge. This fleet is scaled horizontally. A proxy server sits in front and decodes the request and directs it to the appropriate backend based on a ConfigMap that associates a service with the underlying model. Kubernetes is used to wire all of this up.
+
+---
+
+# Open World Game using AI
