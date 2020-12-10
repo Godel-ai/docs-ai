@@ -1,5 +1,6 @@
 ## Neural Logic
 
+- [**The Logical Expressiveness of Graph Neural Networks**](https://openreview.net/forum?id=r1lZ7AEKvB)
 - [**Neural Logic Machines**](https://arxiv.org/abs/1904.11694.pdf)
 - [**Logic and the Simplicial Transformer**](https://arxiv.org/abs/1909.00668.pdf)
 - [**Neural Logic Networks**](https://arxiv.org/abs/1910.08629.pdf)
@@ -11,10 +12,9 @@
 - [**uclnlp/gntp**](https://github.com/uclnlp/gntp)
 - [**mtensor/rulesynthesis: Code for "Learning Compositional Rules via Neural Program Synthesis"**](https://github.com/mtensor/rulesynthesis)
 - [**Deep Learning For Symbolic Mathematics**](https://openreview.net/forum?id=S1eZYeHFDS)
-- [**Learning to Prove Theorems by Learning to Generate Theorems**](https://openreview.net/forum?id=BJxiqxSYPB)
 - [**Forgetting to learn logic programs**](https://arxiv.org/abs/1911.06643v1.pdf)
-- [**The Logical Expressiveness of Graph Neural Networks**](https://openreview.net/forum?id=r1lZ7AEKvB)
 - [**Logical Rule Induction and Theory Learning Using Neural Theorem Proving**](https://arxiv.org/abs/1809.02193.pdf)
+- [**Learning to Prove Theorems by Learning to Generate Theorems**](https://openreview.net/forum?id=BJxiqxSYPB)
 
 ## Program Synthesis
 
@@ -25,3 +25,4 @@
 - [**Execution-Guided Neural Program Synthesis**](https://openreview.net/forum?id=H1gfOiAqYm)
 - [Neural Sketch Learning for Conditional Program Generation](https://arxiv.org/abs/1703.05698)
 - [**Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples**](https://arxiv.org/abs/1804.01186)
+- [**Learning Compositional Rules via Neural Program Synthesis**](https://arxiv.org/abs/2003.05562.pdf)

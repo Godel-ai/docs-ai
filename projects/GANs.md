@@ -12,6 +12,7 @@
 - [**[1902.03984] Improving Generalization and Stability of Generative Adversarial Networks**](https://arxiv.org/abs/1902.03984)
 - [**GAN Dissection: Visualizing and Understanding Generative Adversarial Networks**](https://arxiv.org/abs/1811.10597.pdf)
 - [**[1912.00953] LOGAN: Latent Optimisation for Generative Adversarial Networks**](https://arxiv.org/abs/1912.00953)
+- [**Open Questions about Generative Adversarial Networks**](https://distill.pub/2019/gan-open-problems/?utm_campaign=piqcy&utm_medium=email&utm_source=Revue%20newsletter#advx)
 
 ### Training and Stability of Gans
 

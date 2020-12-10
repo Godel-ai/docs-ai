@@ -30,6 +30,8 @@
 - [**TLDR: Extreme Summarization of Scientific Documents**](https://arxiv.org/abs/2004.15011v1.pdf)
 - [**Differentiable Reasoning over a Virtual Knowledge Base**](https://arxiv.org/abs/2002.10640.pdf)
 - [**[1912.10824] Differentiable Reasoning on Large Knowledge Bases and Natural Language**](https://arxiv.org/abs/1912.10824)
+- [**Seeded self-play for language learning**](https://www.aclweb.org/anthology/D19-6409.pdf)
+- [**Key-Value Memory Networks for Directly Reading Documents**](https://arxiv.org/abs/1606.03126.pdf)
 
 ---
 

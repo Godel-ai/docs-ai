@@ -45,3 +45,4 @@ We propose to meta-learn causal structures based on how fast a learner adapts to
 - [**Learning the Difference that Makes a Difference with Counterfactually-Augmented Data**](https://arxiv.org/abs/1909.12434.pdf)
 - [**Ask to Learn: A Study on Curiosity-driven Question Generation**](https://arxiv.org/abs/1911.03350v1.pdf)
 - [**Causal Discovery in Physical Systems from Videos**](https://yunzhuli.github.io/V-CDN/)
+- [Causal Induction from Visual Observations for Goal Directed Tasks](https://arxiv.org/abs/1910.01751.pdf)

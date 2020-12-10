@@ -16,3 +16,4 @@
 - [**Prefrontal cortex exhibits multi-dimensional dynamic encoding during decision-making**](https://www.biorxiv.org/content/biorxiv/early/2019/10/21/808584.full.pdf)
 - [**[1909.05114] PaccMann$^{RL}$: Designing anticancer drugs from transcriptomic data via reinforcement learning**](https://arxiv.org/abs/1909.05114)
 - [**Deep learning for prediction of colorectal cancer outcome: a discovery and validation study - The Lancet**](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32998-8/fulltext>)
+- [**Technique can image individual proteins within synapses **](http://news.mit.edu/2019/image-proteins-synapses-0926)

@@ -23,8 +23,8 @@
 - [**Neural Relational Inference for Interacting Systems**](https://arxiv.org/abs/1802.04687.pdf)
 - [**Chang: A compositional object-based approach to learning... - Google Scholar**](https://scholar.google.co.in/scholar?start=0&hl=en&as_sdt=2005&sciodt=0,5&cites=9706972547667418204&scipsc=)
 - A Compositional Object-Based Approach to Learning Physical Dynamics https://arxiv.org/abs/1612.00341.pdf
-- Learning by Abstraction: The Neural State Machine https://arxiv.org/abs/1907.03950.pdf
 - 7040-visual-interaction-networks-learning-a-physics-simulator-from-video.pdf
+- [**Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids**](https://arxiv.org/abs/1810.01566.pdf)
 
 ---
 

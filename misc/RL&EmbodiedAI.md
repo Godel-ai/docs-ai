@@ -141,6 +141,8 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**Context-aware Dynamics Model for Generalization in Model-Based Reinforcement Learning**](https://paperswithcode.com/paper/context-aware-dynamics-model-for)
 - [**[1810.06544] Deep Imitative Models for Flexible Inference, Planning, and Control**](https://arxiv.org/abs/1810.06544)
 - [**Inductive Biases, Invariances and Generalization in RL (BIG)**](https://biases-invariances-generalization.github.io/)
+- [**Search on the Replay Buffer: Bridging Planning and Reinforcement Learning - Colaboratory**](https://colab.research.google.com/drive/1GnyIypicdLf2g--tej3yZguLDkHUgEsk#scrollTo=MbGXO1TURVf-)
+- [**Mutual Information-based State-Control for Intrinsically Motivated Reinforcement Learning**](https://arxiv.org/abs/2002.01963.pdf)
 
 ### RL
 

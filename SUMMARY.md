@@ -20,7 +20,7 @@
   - [AbstractIdeas](misc/AbstractIdeas.md)
   - [Bookmarks](misc/Bookmarks.md)
   - [Bio](misc/Bio.md)
-  - [CausalMachineLearning](misc/CausalMachineLearning.md)
+  - [Causal](misc/Causal.md)
   - [Cognition](misc/Cognition.md)
   - [EdgeAI](misc/Edgeai.md)
   - [ExplainableAI](misc/ExplainableAI.md)

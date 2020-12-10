@@ -75,6 +75,8 @@
 - [**RAVEN: A Dataset for Relational and Analogical Visual rEasoNing**](https://arxiv.org/abs/1903.02741.pdf)
 - [**Explainable and Explicit Visual Reasoning over Scene Graphs**](https://arxiv.org/abs/1812.01855.pdf)
 - [**From Recognition to Cognition: Visual Commonsense Reasoning**](https://arxiv.org/abs/1811.10830.pdf)
+- [**[1711.03902] Neural-Symbolic Learning and Reasoning: A Survey and Interpretation**](https://arxiv.org/abs/1711.03902)
+- [**CATER: A diagnostic dataset for Compositional Actions & Temporal Reasoning**](https://openreview.net/forum?id=HJgzt2VKPB)
 
 ---
 
@@ -86,10 +88,6 @@
 - [**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**](http://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding.pdf)
 - [**Cross-Modal Relationship Inference for Grounding Referring Expressions**](https://zpascal.net/cvpr2019/Yang_Cross-Modal_Relationship_Inference_for_Grounding_Referring_Expressions_CVPR_2019_paper.pdf)
 - [**Neural-Symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning**](https://arxiv.org/abs/1905.06088.pdf)
-
-- Compositional De-Attention Networks
-- Neural-Symbolic Learning and Reasoning: A Survey and Interpretation https://arxiv.org/abs/1711.03902.pdf
-- https://arxiv.org/abs/1910.01751.pdf Causal Induction from Visual Observations for Goal Directed Tasks
 
 - Differentiable Neural Computer.pdf
 - Robust Perception through Analysis by Synthesis

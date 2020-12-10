@@ -13,6 +13,9 @@
 - [**3D Human Avatar Digitization from a Single Image**](https://dl.acm.org/doi/pdf/10.1145/3359997.3365707)
 - [**TailorGAN: Making User-Defined Fashion Designs**](http://openaccess.thecvf.com/content_WACV_2020/papers/Chen_TailorGAN_Making_User-Defined_Fashion_Designs_WACV_2020_paper.pdf)
 - [**lelechen63/talking-head-generation-survey: Official github repo for paper "What comprises a good talking-head video generation?: A Survey and Benchmark"**](https://github.com/lelechen63/talking-head-generation-survey)
+- [**Expressive Body Capture: 3D Hands, Face, and Body from a Single Image**](https://arxiv.org/abs/1904.05866.pdf)
+- [**Dynamic Multiscale Graph Neural Networks for 3D Skeleton-Based Human Motion Prediction**](https://github.com/limaosen0/DMGNN)
+- [**[1910.04302] Prescribed Generative Adversarial Networks**](https://arxiv.org/abs/1910.04302)
 
 ---
 
