@@ -2,7 +2,7 @@
 
 ### Bio
 
-- [**Mills: Electronic retinal implants and artificial... - Google Scholar**](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&sciodt=0,5&cites=832138810182254554&scipsc=)
+- [**Electronic retinal implants and artificial vision: journey and present**](https://www.nature.com/articles/eye201765/)
   [**Cellular regeneration strategies for macular degeneration: past, present and future**](https://www.nature.com/articles/s41433-018-0061-z)
   [**Restoring vision**](https://www.nature.com/articles/s41586-018-0076-4)
 - [**Improved protein structure prediction using potentials from deep learning**](https://www.nature.com/articles/s41586-019-1923-7.epdf?author_access_token=Z_KaZKDqtKzbE7Wd5HtwI9RgN0jAjWel9jnR3ZoTv0MCcgAwHMgRx9mvLjNQdB2TlQQaa7l420UCtGo8vYQ39gg8lFWR9mAZtvsN_1PrccXfIbc6e-tGSgazNL_XdtQzn1PHfy21qdcxV7Pw-k3htw%3D%3D)

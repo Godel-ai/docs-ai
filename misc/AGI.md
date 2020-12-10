@@ -173,7 +173,6 @@ https://www.youtube.com/watch?v=TJyy_qz_qII&pbjreload=10
 - [**Learning to Propagate for Graph Meta-Learning**](https://openreview.net/forum?id=r1zsNVHgLr)
 - [**Generalization through Memorization: Nearest Neighbor Language Models**](https://arxiv.org/abs/1911.00172.pdf)
 - [**Learning and Using the Arrow of Time**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Learning_and_Using_CVPR_2018_paper.pdf)
-- [**Neural Subdivision**](https://arxiv.org/abs/2005.01819v1.pdf)
 - [**Value-laden Disciplinary Shifts in Machine Learning**](https://arxiv.org/abs/1912.01172.pdf)
 - [**A Theory of Usable Information under Computational Constraints**](https://openreview.net/forum?id=r1eBeyHFDH)
 - [**Online Learning with Sleeping Experts and Feedback Graphs**](http://proceedings.mlr.press/v97/cortes19a/cortes19a.pdf)

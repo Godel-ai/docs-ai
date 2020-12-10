@@ -19,3 +19,4 @@
 - [**Towards Understanding the Invertibility of Convolutional Neural Networks**](https://arxiv.org/abs/1705.08664.pdf)
 - [**NeRF: Neural Radiance Fields**](http://www.matthewtancik.com/nerf)
 - [**Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation**](https://arxiv.org/abs/2001.04947v1.pdf)
+- [**Neural Subdivision**](https://arxiv.org/abs/2005.01819v1.pdf)
