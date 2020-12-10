@@ -38,7 +38,6 @@
 - [**thunlp/GNNPapers: Must-read papers on graph neural networks (GNN)**](https://github.com/thunlp/GNNPapers)
 - [**- Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs**](https://paperswithcode.com/paper/deep-graph-library-towards-efficient-and)
 - [**weihua916 (Weihua Hu)**](https://github.com/weihua916)
-- [**DeepGS: Deep Representation Learning of Graphs and Sequences for Drug-Target Binding Affinity Prediction**](https://paperswithcode.com/paper/deepgs-deep-representation-learning-of-graphs)
 - [**Graph-Bert: Only Attention is Needed for Learning Graph Representations**](https://arxiv.org/abs/2001.05140v1.pdf)
 - [**Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels**](https://arxiv.org/abs/1905.13192.pdf)
 - [GNNExplainer: Generating Explanations for Graph Neural Networks](https://arxiv.org/abs/1903.03894.pdf)

@@ -16,8 +16,6 @@
 - [**Neurally-Guided Structure Inference**](https://arxiv.org/abs/1906.07304.pdf)
 - [**Relational inductive bias for physical construction in humans and machines**](https://arxiv.org/abs/1806.01203.pdf)
 - [**Neural Relational Inference for Interacting Systems**](https://arxiv.org/abs/1802.04687.pdf)
-- [**A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms**](https://arxiv.org/abs/1901.10912.pdf)
-- [**GLoMo: Unsupervised Learning of Transferable Relational Graphs**](http://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs.pdf)
 - [**Beyond the feedforward sweep: feedback computations in the visual cortex**](https://cbmm.mit.edu/sites/default/files/publications/gk7812.pdf)
 
 * Development of abstract thinking during childhood and adolescence: The role of rostrolateral prefrontal cortex
@@ -36,4 +34,3 @@
 * Reconfiguration of Brain Network Architectures between Resting-State and Complexity-Dependent Cognitive Reasoning
 * Learning as the Unsupervised Alignment of Conceptual Systems https://arxiv.org/abs/1906.09012.pdf
 * The economy of brain network organization
-* Portraits of communication in neuronal networks

@@ -25,3 +25,9 @@
   https://arxiv.org/abs/1805.04276
 - Neural Sketch Learning for Conditional Program Generation https://arxiv.org/abs/1703.05698
 - Parametrized Hierarchical Procedures for Neural Programming https://openreview.net/forum?id=rJl63fZRb
+- [**Neural Program Meta-Induction**](https://papers.nips.cc/paper/6803-neural-program-meta-induction.pdf)
+- [**Execution-Guided Neural Program Synthesis**](https://openreview.net/forum?id=H1gfOiAqYm)
+- [**Learning Compositional Neural Programs with Recursive Tree Search and Planning**](https://arxiv.org/abs/1905.12941.pdf)
+- [**Synthetic Datasets for Neural Program Synthesis**](https://openreview.net/forum?id=ryeOSnAqYm)
+- [**Neural Program Synthesis from Diverse Demonstration Videos**](http://proceedings.mlr.press/v80/sun18a/sun18a.pdf)
+- [**Human-level concept learning through probabilistic program induction**](https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)

@@ -75,27 +75,26 @@
 - [**RAVEN: A Dataset for Relational and Analogical Visual rEasoNing**](https://arxiv.org/abs/1903.02741.pdf)
 - [**Explainable and Explicit Visual Reasoning over Scene Graphs**](https://arxiv.org/abs/1812.01855.pdf)
 - [**From Recognition to Cognition: Visual Commonsense Reasoning**](https://arxiv.org/abs/1811.10830.pdf)
-- [**Cross-Modal Relationship Inference for Grounding Referring Expressions**](https://zpascal.net/cvpr2019/Yang_Cross-Modal_Relationship_Inference_for_Grounding_Referring_Expressions_CVPR_2019_paper.pdf)
-- [**Matrix capsules with EM routing**](https://openreview.net/forum?id=HJWLfGWRb)
-- [**Spatio-Temporal Action Graph Networks**](https://arxiv.org/abs/1812.01233.pdf)
+
+---
+
 - [**Unsupervised Discovery of Parts, Structure, and Dynamics**](https://arxiv.org/abs/1903.05136.pdf)
 - [**Language as an Abstraction for Hierarchical Deep Reinforcement Learning**](https://arxiv.org/abs/1906.07343.pdf)
-- [**Visual Foresight: Model-Based Deep Reinforcement Learning for Vision-Based Robotic Control**](https://arxiv.org/abs/1812.00568.pdf)
-- [**Learning Dynamics Model in Reinforcement Learning by Incorporating the Long Term Future**](https://arxiv.org/abs/1903.01599.pdf)
 - [**Discovering objects and their relations from entangled scene representations**](https://arxiv.org/abs/1702.05068.pdf)
 - [**CLEVRER: CoLlision Events for Video REpresentation and Reasoning**](https://arxiv.org/abs/1910.01442.pdf)
 - [**What Can Neural Networks Reason About?**](https://openreview.net/forum?id=rJxbJeHFPS)
 - [**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**](http://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding.pdf)
+- [**Cross-Modal Relationship Inference for Grounding Referring Expressions**](https://zpascal.net/cvpr2019/Yang_Cross-Modal_Relationship_Inference_for_Grounding_Referring_Expressions_CVPR_2019_paper.pdf)
 - [**Neural-Symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning**](https://arxiv.org/abs/1905.06088.pdf)
+- [**Matrix capsules with EM routing**](https://openreview.net/forum?id=HJWLfGWRb)
 - A Compositional Object-Based Approach to Learning Physical Dynamics https://arxiv.org/abs/1612.00341.pdf
 - Learning by Abstraction: The Neural State Machine https://arxiv.org/abs/1907.03950.pdf
 - 7040-visual-interaction-networks-learning-a-physics-simulator-from-video.pdf
 - Compositional De-Attention Networks
 - Neural-Symbolic Learning and Reasoning: A Survey and Interpretation https://arxiv.org/abs/1711.03902.pdf
-- https://arxiv.org/abs/1910.01075v1.pdf Learning Neural Causal Models from Unknown Interventions
 - https://arxiv.org/abs/1910.01751.pdf Causal Induction from Visual Observations for Goal Directed Tasks
 - https://arxiv.org/abs/1907.00878.pdf Neural Logic Rule Layers
-- https://arxiv.org/abs/2005.13407v2.pdf CausaLM: Causal Model Explanation Through Counterfactual Language Models
+
 - 7082-a-simple-neural-network-module-for-relational-reasoning.pdf
 - Differentiable Neural Computer.pdf
 - The Seven Pillars of Causal Reasoning with Reflections on Machine Learning

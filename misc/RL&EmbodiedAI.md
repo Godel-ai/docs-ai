@@ -141,6 +141,11 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**Practice of Streaming and Dynamic Graphs: Concepts, Models, Systems, and Parallelism**](https://arxiv.org/abs/1912.12740v1.pdf)
 - [**Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings**](https://arxiv.org/abs/1806.02813.pdf)
 - [**Inverse reinforcement learning for video games**](https://arxiv.org/abs/1810.10593.pdf)
+- [**Reinforcement Learning, Fast and Slow**](file:///C:/Users/khush/AppData/Roaming/Microsoft/Windows/Network%20Shortcuts/RL,%20%20fast%20and%20slow.pdf)
+- [**Stabilizing Transformers for Reinforcement Learning**](https://arxiv.org/abs/1910.06764.pdf)
+- [**[1810.06544] Deep Imitative Models for Flexible Inference, Planning, and Control**](https://arxiv.org/abs/1810.06544)
+- [**Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning - ScienceDirect**](https://www.sciencedirect.com/science/article/pii/S0004370299000521)
+- [**Visual Foresight: Model-Based Deep Reinforcement Learning for Vision-Based Robotic Control**](https://arxiv.org/abs/1812.00568.pdf)
 
 ### PPO and RL algorithms
 
