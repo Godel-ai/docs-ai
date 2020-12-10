@@ -7,10 +7,9 @@
 - [**Learning to simulate**](https://sites.google.com/view/learning-to-simulate/home#h.p_hjnaJ6k8y0wo)
 - [**Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics **](https://openreview.net/forum?id=r1gelyrtwH)
 - [**Understanding and mitigating gradient pathologies in physics-informed neural networks**](https://arxiv.org/abs/2001.04536v1.pdf)
-- [**Graph Networks as Learnable Physics Engines for Inference and Control**](https://arxiv.org/abs/1806.01242.pdf)
-- [**zhu_gcpr2019_physvidpred.pdf**](https://is.mpg.de/uploads_file/attachment/attachment/543/zhu_gcpr2019_physvidpred.pdf)
 - [**DiffTaichi: Differentiable Programming for Physical Simulation**](https://arxiv.org/abs/1910.00935.pdf)
 - [**PyTorch implementation of Approximate Derenderer, Extended Physics, and Tracking (ADEPT)**](https://github.com/JerryLingjieMei/ADEPT-Model-Release)
+- [**Graph Networks as Learnable Physics Engines for Inference and Control**](https://arxiv.org/abs/1806.01242.pdf)
 
 - [**A Compositional Object-Based Approach to Learning Physical Dynamics**](https://arxiv.org/abs/1612.00341.pdf)
 - [**Interaction Networks for Learning about Objects, Relations and Physics**](http://papers.nips.cc/paper/6418-interaction-networks-for-learning-about-objects-relations-and-physics.pdf)
