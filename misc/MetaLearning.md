@@ -8,13 +8,6 @@
 
 ![](../projects/images/2020-07-21-06-06-07.png)
 
-- [**[1806.01203] Relational inductive bias for physical construction in humans and machines**](https://arxiv.org/abs/1806.01203)
-- [**Learning First-Order Symbolic Representations for Planning from the Structure of the State Space**](https://arxiv.org/abs/1909.05546.pdf)
-- [**Learning to Infer and Execute 3D Shape Programs**](https://arxiv.org/abs/1901.02875.pdf)
-- [**Argument Generation with Retrieval, Planning, and Realization**](https://arxiv.org/abs/1906.03717.pdf)
-- [**State Representation Learning in Robotics: Using Prior Knowledge about Physical Interaction.pdf**](http://roboticsproceedings.org/rss10/p19.pdf)
-- [**[1904.11455] Ray Interference: a Source of Plateaus in Deep Reinforcement Learning**](https://arxiv.org/abs/1904.11455)
-
 ### Meta-Learning
 
 - [**CS 330 Deep Multi-Task and Meta Learning**](http://cs330.stanford.edu/)
@@ -45,3 +38,14 @@
 - [**Planning with Abstract Learned Models While Learning Transferable Subtasks**](https://arxiv.org/abs/1912.07544v1.pdf)
 - [**[1906.11315] Generalization to Novel Objects using Prior Relational Knowledge**](https://arxiv.org/abs/1906.11315)
 - [**Neural Task Graphs: Generalizing to Unseen Tasks From a Single Video Demonstration**](http://openaccess.thecvf.com/content_CVPR_2019/papers/Huang_Neural_Task_Graphs_Generalizing_to_Unseen_Tasks_From_a_Single_CVPR_2019_paper.pdf)
+
+## I don't understand these
+
+---
+
+- [**[1806.01203] Relational inductive bias for physical construction in humans and machines**](https://arxiv.org/abs/1806.01203)
+- [**Learning First-Order Symbolic Representations for Planning from the Structure of the State Space**](https://arxiv.org/abs/1909.05546.pdf)
+- [**Learning to Infer and Execute 3D Shape Programs**](https://arxiv.org/abs/1901.02875.pdf)
+- [**Argument Generation with Retrieval, Planning, and Realization**](https://arxiv.org/abs/1906.03717.pdf)
+- [**State Representation Learning in Robotics: Using Prior Knowledge about Physical Interaction.pdf**](http://roboticsproceedings.org/rss10/p19.pdf)
+- [**[1904.11455] Ray Interference: a Source of Plateaus in Deep Reinforcement Learning**](https://arxiv.org/abs/1904.11455)
