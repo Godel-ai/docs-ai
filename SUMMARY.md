@@ -8,16 +8,16 @@
   - [Computer Vision](projects/Vision.md)
     - [Image/Video Synthesis](projects/Synthesia.md)
     - [Video Synthesis](projects/VideoDynamics.md)
+  - [AutomatedResearch](projects/AutomatedResearch.md)
   - [CoolApplications](projects/CoolApplications.md)
 
 - [Research](research/Research.md)
 
-  - [VisionNLPInterfaces](research/VisionNLPInterfaces.md)
+  - [StoryGan](research/Storygan.md)
 
 - [Miscellaneous](misc.md)
-  - [AbstractIdeas](misc/AbstractIdeas.md)
   - [AGI](misc/AGI.md)
-  - [AutomatedResearch](misc/AutomatedResearch.md)
+  - [AbstractIdeas](misc/AbstractIdeas.md)
   - [Bookmarks](misc/Bookmarks.md)
   - [Bio](misc/Bio.md)
   - [CausalMachineLearning](misc/CausalMachineLearning.md)
@@ -33,4 +33,3 @@
   - [Reasoning](misc/Reasoning.md)
   - [Random](misc/Random.md)
   - [RL&EmbodiedAI](misc/RL&EmbodiedAI.md)
-  - [UnsupervisedLearning](misc/UnsupervisedLearning.md)
