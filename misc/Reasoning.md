@@ -86,14 +86,10 @@
 - [**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding**](http://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding.pdf)
 - [**Cross-Modal Relationship Inference for Grounding Referring Expressions**](https://zpascal.net/cvpr2019/Yang_Cross-Modal_Relationship_Inference_for_Grounding_Referring_Expressions_CVPR_2019_paper.pdf)
 - [**Neural-Symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning**](https://arxiv.org/abs/1905.06088.pdf)
-- [**Matrix capsules with EM routing**](https://openreview.net/forum?id=HJWLfGWRb)
-- A Compositional Object-Based Approach to Learning Physical Dynamics https://arxiv.org/abs/1612.00341.pdf
-- Learning by Abstraction: The Neural State Machine https://arxiv.org/abs/1907.03950.pdf
-- 7040-visual-interaction-networks-learning-a-physics-simulator-from-video.pdf
+
 - Compositional De-Attention Networks
 - Neural-Symbolic Learning and Reasoning: A Survey and Interpretation https://arxiv.org/abs/1711.03902.pdf
 - https://arxiv.org/abs/1910.01751.pdf Causal Induction from Visual Observations for Goal Directed Tasks
-- https://arxiv.org/abs/1907.00878.pdf Neural Logic Rule Layers
 
 - 7082-a-simple-neural-network-module-for-relational-reasoning.pdf
 - Differentiable Neural Computer.pdf
