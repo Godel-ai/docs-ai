@@ -2,7 +2,6 @@
 
 ### Cognitive Science
 
-- [**Relational inductive biases, deep learning, and graph networks**](https://arxiv.org/abs/1806.01261.pdf)
 - [**How to Grow a Mind: Statistics, Structure, and Abstraction**](https://science.sciencemag.org/content/331/6022/1279)
 - [**A theory of learning to infer**](https://www.biorxiv.org/content/biorxiv/early/2019/05/20/644534.full.pdf)
 - [**small-brain-neural-networks-rapidly-solve-inverse-problems-with-vortex-fourier-encoders**](https://deepai.org/publication/small-brain-neural-networks-rapidly-solve-inverse-problems-with-vortex-fourier-encoders)

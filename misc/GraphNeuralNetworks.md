@@ -31,7 +31,7 @@
 ![](../projects/images/2020-07-22-01-58-53.png)
 
 ### Graph and Interaction Networks
-
+- [**Relational inductive biases, deep learning, and graph networks**](https://arxiv.org/abs/1806.01261.pdf)
 - [**Graph Attention Networks**](https://arxiv.org/abs/1710.10903.pdf)
 - [**SuperGlue: Learning Feature Matching with Graph Neural Networks**](https://arxiv.org/abs/1911.11763.pdf)
 - [**RexYing/gnn-model-explainer: gnn explainer**](https://github.com/RexYing/gnn-model-explainer)
