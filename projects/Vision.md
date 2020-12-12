@@ -33,8 +33,6 @@
 
 [**Link**](https://arxiv.org/pdf/1711.07971.pdf)
 
-![](images/2020-07-22-02-02-54.png)
-
 ---
 
 ### End-to-End Object Detection with Transformers
