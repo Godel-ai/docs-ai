@@ -132,20 +132,14 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 ---
 
 - [**Neural Replicator Dynamics**](https://arxiv.org/abs/1906.00190v1.pdf)
-- [**Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent**](https://arxiv.org/abs/1903.05614v3.pdf)
-- [**High–Dimensional Brain in a High-Dimensional World: Blessing of Dimensionality**](https://arxiv.org/abs/2001.04959v1.pdf)
-- [**Practice of Streaming and Dynamic Graphs: Concepts, Models, Systems, and Parallelism**](https://arxiv.org/abs/1912.12740v1.pdf)
-- [**Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning - ScienceDirect**](https://www.sciencedirect.com/science/article/pii/S0004370299000521)
 - [**CompILE: Compositional Imitation Learning and Execution**](http://proceedings.mlr.press/v97/kipf19a/kipf19a.pdf)
-- [**Designing and Interpreting Probes with Control Tasks**](https://arxiv.org/abs/1909.03368.pdf)
 - [**Context-aware Dynamics Model for Generalization in Model-Based Reinforcement Learning**](https://paperswithcode.com/paper/context-aware-dynamics-model-for)
-- [**[1810.06544] Deep Imitative Models for Flexible Inference, Planning, and Control**](https://arxiv.org/abs/1810.06544)
 - [**Inductive Biases, Invariances and Generalization in RL (BIG)**](https://biases-invariances-generalization.github.io/)
 - [**Search on the Replay Buffer: Bridging Planning and Reinforcement Learning - Colaboratory**](https://colab.research.google.com/drive/1GnyIypicdLf2g--tej3yZguLDkHUgEsk#scrollTo=MbGXO1TURVf-)
 - [**Mutual Information-based State-Control for Intrinsically Motivated Reinforcement Learning**](https://arxiv.org/abs/2002.01963.pdf)
 
 ### RL
-
+- [**[1806.01203] Relational inductive bias for physical construction in humans and machines**](https://arxiv.org/abs/1806.01203)
 - [**The Ingredients of Real-World Robotic Reinforcement Learning**](https://arxiv.org/abs/2004.12570.pdf)
 - [**: Represented Value Function Approach for Large Scale Multi Agent Reinforcement Learning**](https://paperswithcode.com/paper/represented-value-function-approach-for-large)
 - [**: Restricting the Flow: Information Bottlenecks for Attribution**](https://paperswithcode.com/paper/restricting-the-flow-information-bottlenecks-1)
@@ -153,6 +147,10 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**Inverse reinforcement learning for video games**](https://arxiv.org/abs/1810.10593.pdf)
 - [**Reinforcement Learning, Fast and Slow**](file:///C:/Users/khush/AppData/Roaming/Microsoft/Windows/Network%20Shortcuts/RL,%20%20fast%20and%20slow.pdf)
 - [**Visual Foresight: Model-Based Deep Reinforcement Learning for Vision-Based Robotic Control**](https://arxiv.org/abs/1812.00568.pdf)
+- [**State Representation Learning in Robotics: Using Prior Knowledge about Physical Interaction.pdf**](http://roboticsproceedings.org/rss10/p19.pdf)
+- [**Learning First-Order Symbolic Representations for Planning from the Structure of the State Space**](https://arxiv.org/abs/1909.05546.pdf)
+- [**[1904.11455] Ray Interference: a Source of Plateaus in Deep Reinforcement Learning**](https://arxiv.org/abs/1904.11455)
+- [**[1810.06544] Deep Imitative Models for Flexible Inference, Planning, and Control**](https://arxiv.org/abs/1810.06544)
 
 ### PPO and RL algorithms
 

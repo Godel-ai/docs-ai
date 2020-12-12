@@ -23,11 +23,10 @@
   [**Common-Knowledge Concept Recognition for SEVA**](https://paperswithcode.com/paper/common-knowledge-concept-recognition-for-seva)
 - [**Neural Networks are Surprisingly Modular**](https://arxiv.org/abs/2003.04881v2.pdf)
 - [**[1912.13283v1] oLMpics -- On what Language Model Pre-training Captures**](https://arxiv.org/abs/1912.13283v1)
+- [**Argument Generation with Retrieval, Planning, and Realization**](https://arxiv.org/abs/1906.03717.pdf)
 
 ## Extractive Summarization of Scientific Documents
 
-- [**allenai/scitldr**](https://github.com/allenai/scitldr)
-- [**TLDR: Extreme Summarization of Scientific Documents**](https://arxiv.org/abs/2004.15011v1.pdf)
 - [**Differentiable Reasoning over a Virtual Knowledge Base**](https://arxiv.org/abs/2002.10640.pdf)
 - [**[1912.10824] Differentiable Reasoning on Large Knowledge Bases and Natural Language**](https://arxiv.org/abs/1912.10824)
 - [**Seeded self-play for language learning**](https://www.aclweb.org/anthology/D19-6409.pdf)
