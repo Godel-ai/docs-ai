@@ -125,5 +125,7 @@ https://github.com/facebookresearch/detr
 - [**Neural Supersampling for Real-time Rendering - Facebook Research**](https://research.fb.com/publications/neural-supersampling-for-real-time-rendering/)
 - [**VR Facial Animation via Multiview Image Translation - Facebook Research**](https://research.fb.com/publications/vr-facial-animation-via-multiview-image-translation/)
 - [**VirtualHome**](http://virtual-home.org/)
+- [**Reinforcing an Image Caption Generator Using Off-Line Human Feedback**](https://arxiv.org/abs/1911.09753.pdf)
+- [**HobbitLong/CMC: pytorch implementation of "Contrastive Multiview Coding", "Momentum Contrast for Unsupervised Visual Representation Learning", and "Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination"**](https://github.com/HobbitLong/CMC)
 
 ---

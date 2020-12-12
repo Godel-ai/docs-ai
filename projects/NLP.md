@@ -17,6 +17,7 @@
 - [**Papers with Code - Longformer: The Long-Document Transformer**](https://paperswithcode.com/paper/longformer-the-long-document-transformer#code)
 - [**Papers with Code - Natural Language Processing**](https://paperswithcode.com/area/natural-language-processing)
 - [**Papers with Code - Extractive Document Summarization**](https://paperswithcode.com/task/extractive-document-summarization)
+- [**Working Memory Graphs**](https://arxiv.org/abs/1911.07141.pdf)
 
 ---
 
