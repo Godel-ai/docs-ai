@@ -14,11 +14,6 @@
 
 ## CoRL
 
-## IROS
-
-## ICRA
-
-## RSS
 
 ## CHI
 
