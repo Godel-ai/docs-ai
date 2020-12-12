@@ -1,3 +1,6 @@
+
+- [**FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models**](https://arxiv.org/abs/1810.01367.pdf)
+
 ### Interpretable GAN Controls
 
 - [**[2004.02546] GANSpace: Discovering Interpretable GAN Controls**](https://arxiv.org/abs/2004.02546)
@@ -11,7 +14,6 @@
 - [**Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing**](http://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.html)
 - [**[1902.03984] Improving Generalization and Stability of Generative Adversarial Networks**](https://arxiv.org/abs/1902.03984)
 - [**GAN Dissection: Visualizing and Understanding Generative Adversarial Networks**](https://arxiv.org/abs/1811.10597.pdf)
-- [**[1912.00953] LOGAN: Latent Optimisation for Generative Adversarial Networks**](https://arxiv.org/abs/1912.00953)
 - [**Open Questions about Generative Adversarial Networks**](https://distill.pub/2019/gan-open-problems/?utm_campaign=piqcy&utm_medium=email&utm_source=Revue%20newsletter#advx)
 
 ### Training and Stability of Gans
@@ -89,14 +91,12 @@
 - [**Unsupervised Learning of Object Structure and Dynamics from Videos**](https://arxiv.org/abs/1906.07889.pdf)
 - [**Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN**](https://arxiv.org/abs/1904.10247.pdf)
 - [**Deep Video Frame Interpolation using Cyclic Frame Generation**](https://www.citi.sinica.edu.tw/papers/yylin/6497-F.pdf)
-- [**Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation**](https://arxiv.org/abs/1712.00080.pdf)
 - [**Learning to See in the Dark**](https://arxiv.org/abs/1805.01934.pdf)
 - [**Self-Attention Generative Adversarial Networks**](https://arxiv.org/abs/1805.08318.pdf)
 - [**Synthesizing Obama. ACM Transactions on Graphics**](http://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3073640)
 - [**State of the Art on 3D Reconstruction with RGB-D Cameras**](https://web.stanford.edu/~zollhoef/papers/EG18_RecoSTAR/paper.pdf)
 - [**Face2Face: Real-time Face Capture and Reenactment of RGB Videos**](https://web.stanford.edu/~zollhoef/papers/CVPR2016_Face2Face/paper.pdf)
 - [**facewarehouse-tr.pdf**](http://kunzhou.net/2012/facewarehouse-tr.pdf)
-- [**iwanao731’s gists**](https://gist.github.com/iwanao731)
 - [**ESanchezLozano/GANnotation: GANnotation (PyTorch): Landmark-guided face to face synthesis using GANs (And a triple consistency loss!)**](https://github.com/ESanchezLozano/GANnotation)
 - [**ESanchezLozano/StarGAN-with-Triple-Consistency-Loss: StarGAN with a triple consistency loss**](https://github.com/ESanchezLozano/StarGAN-with-Triple-Consistency-Loss)
 - [**Triple consistency loss for pairing distributions in GAN-based face synthesis**](https://arxiv.org/abs/1811.03492.pdf)
@@ -157,7 +157,6 @@
 - [**Which Training Methods for GANs do actually Converge?**](https://arxiv.org/abs/1801.04406.pdf)
 - [**Deep Video Inpainting**](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Video_Inpainting_CVPR_2019_paper.pdf)
 - [**PacGAN: The power of two samples in generative adversarial networks**](http://papers.nips.cc/paper/7423-pacgan-the-power-of-two-samples-in-generative-adversarial-networks.pdf)
-- [**FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models**](https://arxiv.org/abs/1810.01367.pdf)
 - [**User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks**](https://arxiv.org/abs/1808.03240.pdf)
 - [**Generative Adversarial Text to Image Synthesis**](http://proceedings.mlr.press/v48/reed16.pdf)
 - [**Stacked_Generative_Adversarial Networks**](http://openaccess.thecvf.com/content_cvpr_2017/html/Huang_Stacked_Generative_Adversarial_CVPR_2017_paper.html)

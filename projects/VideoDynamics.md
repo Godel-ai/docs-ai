@@ -24,30 +24,26 @@
 
 ---
 
-[**Link**](https://arxiv.org/pdf/)
-
-![](images/2020-07-22-01-54-13.png)
-
----
-
 [**Link**](https://arxiv.org/pdf/1806.01810.pdf)
 
 ![](images/2020-07-22-02-10-43.png)
 
 ---
 
-[**Link**](https://arxiv.org/pdf/1806.04166.pdf)
+[**Learning to Decompose and Disentangle Representations for Video Prediction**](https://arxiv.org/pdf/1806.04166.pdf)
 
-![](images/2020-07-22-02-17-52.png)
+We propose the Decompositional Disentangled Predictive Auto-Encoder (DDPAE), a framework that combines structured probabilistic models and deep networks to automatically (i) decompose the high-dimensional video that we aim to predict into components, and (ii) disentangle each component to have low-dimensional temporal dynamics that are easier to predict.
 
 ---
 
-[**Link**](https://papers.nips.cc/paper/8304-unsupervised-learning-of-object-structure-and-dynamics-from-videos.pdf)
+[**Unsupervised-learning-of-object-structure-and-dynamics-from-videos**](https://papers.nips.cc/paper/8304-unsupervised-learning-of-object-structure-and-dynamics-from-videos.pdf)
 
-![](images/2020-07-22-02-24-07.png)
+We adopt a keypoint-based image representation and learn a stochastic dynamics model of the keypoints.
+
 
 ### Video Understanding
 
+[**MoCoGAN: Decomposing Motion and Content for Video Generation**](https://arxiv.org/pdf/)
 - [**Point-to-Point Video Generation**](https://arxiv.org/abs/1904.02912v2.pdf)
 - [**G3AN : This video does not exist. Disentangling motion and appearance for video generation**](https://arxiv.org/abs/1912.05523v1.pdf)
 - [**Learning to Decompose and Disentangle Representations for Video Prediction**](http://papers.nips.cc/paper/7333-learning-to-decompose-and-disentangle-representations-for-video-prediction.pdf)

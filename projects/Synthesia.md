@@ -37,7 +37,7 @@
 - [**grey-eye/talking-heads: Our implementation of "Few-Shot Adversarial Learning of Realistic Neural Talking Head Models" (Egor Zakharov et al.)**](https://github.com/grey-eye/talking-heads)
 - [**Recycle-GAN: Unsupervised Video Retargeting**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Aayush_Bansal_Recycle-GAN_Unsupervised_Video_ECCV_2018_paper.pdf)
 - [**Synthesizing Obama: Learning Lip Sync from Audio**](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)
-- [**10.1145/3197517.3201283**](https://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3201283 | Sci-Hub | Deep video portraits. ACM Transactions on Graphics, 37(4), 1–14 )
+- [**Deep video portraits**](https://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3201283)
 - [**Cudeiro: Capture, Learning, and Synthesis of 3D Speaking... - Google Scholar**](https://scholar.google.com/scholar?rlz=1C1CHBF_enUS858US858&um=1&ie=UTF-8&lr&cites=12568957979354957566)
 - [**Animation Synthesis Triggered by Vocal Mimics**](https://dl.acm.org/citation.cfm?id=3360067)
 - [**Animating Face using Disentangled Audio Representations**](https://arxiv.org/abs/1910.00726.pdf)
