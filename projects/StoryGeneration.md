@@ -76,12 +76,6 @@
 
 ---
 
-### Normative Generation
-
-![](images/2020-07-22-00-50-01.png)
-
-![](images/2020-07-22-00-50-16.png)
-
 ![](images/2020-07-22-00-51-00.png)
 
 ### Misc
