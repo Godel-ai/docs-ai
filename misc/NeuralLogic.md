@@ -19,10 +19,10 @@
 ## Program Synthesis
 
 - [**Learning to Represent Programs with Graphs**](https://openreview.net/forum?id=BJOFETxR-)
-- [**Neural Program Meta-Inductionf : Learn Data and computation efficiency of program induction by leveraging information from related tasks**](https://papers.nips.cc/paper/6803-neural-program-meta-induction.pdf)
+- [**Neural Program Meta-Induction : Learn Data and computation efficiency of program induction by leveraging information from related tasks**](https://papers.nips.cc/paper/6803-neural-program-meta-induction.pdf)
 - [**Neural Program Synthesis from Diverse Demonstration Videos**](http://proceedings.mlr.press/v80/sun18a/sun18a.pdf)
 - [**Human-level concept learning through probabilistic program induction**](https://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf)
 - [**Execution-Guided Neural Program Synthesis**](https://openreview.net/forum?id=H1gfOiAqYm)
-- [Neural Sketch Learning for Conditional Program Generation](https://arxiv.org/abs/1703.05698)
+- [**Neural Sketch Learning for Conditional Program Generation**](https://arxiv.org/abs/1703.05698)
 - [**Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples**](https://arxiv.org/abs/1804.01186)
 - [**Learning Compositional Rules via Neural Program Synthesis**](https://arxiv.org/abs/2003.05562.pdf)
