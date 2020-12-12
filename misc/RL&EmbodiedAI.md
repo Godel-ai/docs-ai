@@ -33,6 +33,8 @@ How do we add constraints to the actions the agent can take ?
 
 ## [**CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning**](https://arxiv.org/abs/1810.06284)
 
+---
+
 ## Self-Supervised Exploration via Disagreement
 
 #### [\*\*[Project Website]](https://pathak22.github.io/exploration-by-disagreement/) [[Demo Video]\*\*](https://youtu.be/POlrWt32_ec)
@@ -42,6 +44,8 @@ How do we add constraints to the actions the agent can take ?
 ## Zero-Shot Visual Imitation
 
 #### In ICLR 2018 [\*\*[Project Website]](https://pathak22.github.io/zeroshot-imitation/) [[Videos]\*\*](http://pathak22.github.io/zeroshot-imitation/index.html#demoVideos)
+
+The current dominant paradigm of imitation learning relies on strong supervision of expert actions for learning both what to and how to imitate.
 
 We propose an alternative paradigm wherein an agent first explores the world without any expert supervision and then distills its experience into a goal-conditioned skill policy with a novel forward consistency loss. The key insight is the intuition that, for most tasks, reaching the goal is more important than how it is reached.
 
@@ -59,7 +63,7 @@ Please see [**blog post**](http://blog.otoro.net//2018/06/09/world-models-experi
 
 ## Soft Actor-Critic
 
-Soft actor-critic is a deep reinforcement learning framework for training maximum entropy policies in continous domains. The algorithm is based on the paper [\*\*Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://drive.google.com/file/d/0Bxz3x8U2LH_2QllDZVlUQ1BJVEJHeER2YU5mODNaeFZmc3dz/view) presented at the [Deep Reinforcement Learning Symposium\*\*](https://sites.google.com/view/deeprl-symposium-nips2017/), NIPS 2017.
+Soft actor-critic is a deep reinforcement learning framework for training maximum entropy policies in continous domains. The algorithm is based on the paper [\*\*Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://drive.google.com/file/d/0Bxz3x8U2LH_2QllDZVlUQ1BJVEJHeER2YU5mODNaeFZmc3dz/view) 
 
 ---
 
@@ -83,52 +87,31 @@ a partially-trained agent in the environment. Compared to [**previous**](https:/
 
 ---
 
-## Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller
-
-#### [\*\*[Project Website]](https://pathak22.github.io/hierarchical-imitation/) [[Demo Video]\*\*](https://youtu.be/eWBkDuNFEKA)
-
----
-
 ## IC3Net
 
 This repository contains reference implementation for IC3Net paper (accepted to ICLR 2019), **Learning when to communicate at scale in multiagent cooperative and competitive tasks**, available at [**https://arxiv.org/abs/1812.09755**](https://arxiv.org/abs/1812.09755)
 
+
 ---
-
-## PlaNet
-
-======
-
-[**![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)**](LICENSE.md)
 
 PlaNet: A Deep Planning Network for Reinforcement Learning [**[1]**](#references). Supports symbolic/visual observation spaces. Supports some Gym environments (including classic control/non-MuJoCo environments, so DeepMind Control Suite/MuJoCo are optional dependencies). Hyperparameters have been taken from the original work and are tuned for DeepMind Control Suite, so would need tuning for any other domains (such as the Gym environments).
 
 ---
 
-## AlphaNPI
-
-Adapting the AlphaZero algorithm to remove the need of execution traces to train NPI.
-
----
-
-## Hierarchical Visual Foresight
-
-[**Link**](https://arxiv.org/abs/1909.05829)
-
-![](../projects/images/2020-07-21-14-14-22.png)
-
-![](../projects/images/2020-07-21-14-15-01.png)
-
-![](../projects/images/2020-07-21-14-15-55.png)
-
-![](../projects/images/2020-07-21-14-16-32.png)
-
-![](../projects/images/2020-07-21-14-17-08.png)
-
----
-
-![](../projects/images/2020-08-09-01-32-25.png)
+[](../projects/images/2020-08-09-01-32-25.png)
 ![](../projects/images/2020-08-09-01-35-34.png)
+
+---
+
+[**Hierarchical Visual Foresight**](https://arxiv.org/abs/1909.05829)
+
+We propose a framework for subgoal generation and planning, hierarchical visual foresight (HVF), which generates subgoal images conditioned on a goal image, and uses them for plannin
+
+---
+
+- [**[2003.08165] Neuroevolution of Self-Interpretable Agents**](https://arxiv.org/abs/2003.08165)
+
+Inattentional blindness is the psychological phenomenon that causes one to miss things in plain sight. It is a consequence of the selective attention in perception that lets us remain focused on important parts of our world without distraction from irrelevant details. Motivated by selective attention, we study the properties of artificial agents that perceive the world through the lens of a self-attention bottleneck
 
 ---
 
@@ -208,6 +191,7 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**Diversity and Depth in Per-Example Routing Models**](https://openreview.net/forum?id=BkxWJnC9tX)
 - [**[1801.08214] Active Neural Localization**](https://arxiv.org/abs/1801.08214)
 - [**[2002.02836] Causally Correct Partial Models for Reinforcement Learning**](https://arxiv.org/abs/2002.02836)
+- [**[2001.08868] Exploration Based Language Learning for Text-Based Games**](https://arxiv.org/abs/2001.08868)
 
 ---
 
@@ -234,7 +218,6 @@ Adapting the AlphaZero algorithm to remove the need of execution traces to train
 - [**[2002.10549] Progressive Learning and Disentanglement of Hierarchical Representations**](https://arxiv.org/abs/2002.10549)
 - [**[1906.11951] Supervise Thyself: Examining Self-Supervised Representations in Interactive Environments**](https://arxiv.org/abs/1906.11951)
 - [**[2003.02989] TensorFlow Quantum: A Software Framework for Quantum Machine Learning**](https://arxiv.org/abs/2003.02989)
-- [**[2003.08165] Neuroevolution of Self-Interpretable Agents**](https://arxiv.org/abs/2003.08165)
 - [**SAIL Blog : | When Humans Aren’t Optimal: Robots that Collaborate with Risk-Aware Humans **](http://ai.stanford.edu/blog/modeling-risky-humans/)
 - [**SCALABLE AND COMPRESSIVE NEURAL NETWORK DATA STORAGE SYSTEM - DeepMind Technologies Limited**](http://www.freepatentsonline.com/y2020/0104677.html)
 - [**[1912.04838] Scalability in Perception for Autonomous Driving: Waymo Open Dataset**](https://arxiv.org/abs/1912.04838)

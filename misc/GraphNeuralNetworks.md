@@ -1,34 +1,14 @@
 # Graph Neural Networks
 
-[**Link**](https://arxiv.org/abs/1903.03894)
+---
 
-![](../projects/images/2020-07-21-04-49-16.png)
+[**Glomo-unsupervised-learning-of-transferable-relational-graphs**](https://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs.pdf)
+
+This work explores the possibility of learning generic latent relational graphs that capture dependencies between pairs of data units (e.g., words or pixels) from large-scale unlabeled data and transferring the graphs to downstream tasks
 
 ---
 
-[**Link**](https://papers.nips.cc/paper/8110-glomo-unsupervised-learning-of-transferable-relational-graphs.pdf)
-
-![](../projects/images/2020-07-23-01-11-22.png)
-
-![](../projects/images/2020-07-23-01-13-04.png)
-
-![](../projects/images/2020-07-22-00-29-11.png)
-
-![](../projects/images/2020-07-22-00-29-42.png)
-
-![](../projects/images/2020-07-22-00-30-07.png)
-
-![](../projects/images/2020-07-22-00-30-44.png)
-
-![](../projects/images/2020-07-22-00-31-02.png)
-
-![](../projects/images/2020-07-22-00-31-24.png)
-
----
-
-[**Link**](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Graph-Based_Global_Reasoning_Networks_CVPR_2019_paper.pdf)
-
-![](../projects/images/2020-07-22-01-58-53.png)
+[**Graph-Based_Global_Reasoning_Networks**](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Graph-Based_Global_Reasoning_Networks_CVPR_2019_paper.pdf)
 
 ### Graph and Interaction Networks
 - [**Relational inductive biases, deep learning, and graph networks**](https://arxiv.org/abs/1806.01261.pdf)

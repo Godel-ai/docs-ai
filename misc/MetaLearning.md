@@ -2,13 +2,13 @@
 
 ---
 
-![](../projects/images/2020-07-21-06-05-42.png)
 
-![](../projects/images/2020-07-21-06-05-56.png)
+### Meta-learning curiosity algorithms
 
-![](../projects/images/2020-07-21-06-06-07.png)
 
-### Meta-Learning
+We propose a strategy for encoding curiosity algorithms as programs in a domain-specific language and searching, during a meta-learning phase, for algorithms that enable RL agents to perform well in new domains
+
+---
 
 - [**CS 330 Deep Multi-Task and Meta Learning**](http://cs330.stanford.edu/)
 - [**[1810.03642] Fast Context Adaptation via Meta-Learning**](https://arxiv.org/abs/1810.03642)
@@ -39,7 +39,6 @@
 - [**[1906.11315] Generalization to Novel Objects using Prior Relational Knowledge**](https://arxiv.org/abs/1906.11315)
 - [**Neural Task Graphs: Generalizing to Unseen Tasks From a Single Video Demonstration**](http://openaccess.thecvf.com/content_CVPR_2019/papers/Huang_Neural_Task_Graphs_Generalizing_to_Unseen_Tasks_From_a_Single_CVPR_2019_paper.pdf)
 - [**Meta-learning of Sequential Strategies**](https://arxiv.org/abs/1905.03030.pdf)
-
 
 ---
 

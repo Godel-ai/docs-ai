@@ -11,10 +11,10 @@
 - [**Learning to Optimize Computational Resources: Frugal Training with Generalization Guarantees**](https://arxiv.org/abs/1905.10819.pdf)
 - MixMatch: A Holistic Approach to Semi-Supervised Learning https://arxiv.org/abs/1905.02249.pdf
 - Designing Network Design Spaces https://arxiv.org/abs/2003.13678v1.pdf
-- A Simple Method for Commonsense Reasoning
+- A Simple Method for Commonsense Reasoning https://arxiv.org/abs/1806.02847
 - Spatial Transformer Networks https://arxiv.org/abs/1506.02025.pdf
 - An Introduction to Probabilistic Programming https://arxiv.org/abs/1809.10756.pdf
-- [**Coresets for Data-efficient Training of Machine Learning Models**](https://arxiv.org/abs/1906.01827.pdf)
+- [**Coresets for Data-efficient Training of Machine Learning Models**](https://arxiv.org/abs/1906.01827.pdf) : CRAIG, a method to select a weighted subset (or coreset) of training data that closely estimates the full gradient by maximizing a submodular function
 
 ---
 

@@ -9,18 +9,6 @@ We propose to meta-learn causal structures based on how fast a learner adapts to
 
 ---
 
-![](../projects/images/2020-07-21-05-34-53.png)
-
-![](../projects/images/2020-07-21-05-35-22.png)
-
-![](../projects/images/2020-07-21-14-24-55.png)
-
-![](../projects/images/2020-07-21-05-37-40.png)
-
-![](../projects/images/2020-07-21-05-39-44.png)
-
----
-
 ### Causality
 
 - [**Papers with Code : Causal Inference**](https://paperswithcode.com/task/causal-inference)

@@ -1,5 +1,7 @@
 # NLP
 
+## NAACL
+
 - [**NLP-progress**](http://nlpprogress.com/)
 - [**Vision and Language tasks by shubhamagarwal92 · Pull Request #443 · sebastianruder/NLP-progress**](https://github.com/sebastianruder/NLP-progress/pull/443)
 - [**Torch-Struct: Deep Structured Prediction Library**](https://arxiv.org/abs/2002.00876v1.pdf)
@@ -182,7 +184,6 @@
 - [**MID_Cell_and_Gene_Therapy_2018_FINAL.pdf**](http://phrma-docs.phrma.org/files/dmfile/MID_Cell_and_Gene_Therapy_2018_FINAL.pdf)
 - [**Grounding Conversations with Improvised Dialogues - Papers With Code**](https://paperswithcode.com/paper/grounding-conversations-with-improvised)
 
-- [**[2001.08868] Exploration Based Language Learning for Text-Based Games**](https://arxiv.org/abs/2001.08868)
 - [**[1909.00512] How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings**](https://arxiv.org/abs/1909.00512)
 - [**[2001.11314] ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation**](https://arxiv.org/abs/2001.11314)
 - [**[1907.02704v2] Extraction and Analysis of Fictional Character Networks: A Survey**](https://arxiv.org/abs/1907.02704v2)
