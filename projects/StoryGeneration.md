@@ -1,14 +1,14 @@
 ## Story Generation
 
-**Where is State-of-the-are Story Generation today**
+- **Where is State-of-the-are Story Generation today**
 
-**What are the remaining big challenges in Story Generation**
+- **What are the remaining big challenges in Story Generation**
 
-**What are the various subdomains in Story Generation : for publication**
+- **What are the various subdomains in Story Generation : for publication**
 
-**What are the different kinds of approaches for these subdomains in Story Generation**
+- **What are the different kinds of approaches for these subdomains in Story Generation**
 
-**Story Generation : Monetization, Use Cases in Industry**
+- **Story Generation : Monetization, Use Cases in Industry**
 
 ---
 
@@ -28,6 +28,10 @@
 
 ![](images/2020-07-23-01-18-38.png)
 
+![](images/2020-07-23-01-21-32.png)
+
+![](images/2020-07-23-01-18-15.png)
+
 ### Plot Generation
 
 ![](images/2020-07-22-00-49-42.png)
@@ -38,6 +42,8 @@
 
 ![](images/2020-07-23-01-17-43.png)
 
+We propose a latent variable model for neural story generation that achieves significant improvements over state-of-the-art method
+
 ### Event Representation
 
 ![](images/2020-07-23-01-17-10.png)
@@ -47,10 +53,6 @@
 ### Story Represenation
 
 ![](images/2020-07-23-01-20-31.png)
-
----
-
-### Props Morphology
 
 ---
 
@@ -80,9 +82,6 @@
 
 ### Misc
 
-![](images/2020-07-23-01-21-32.png)
-
-![](images/2020-07-23-01-18-15.png)
 
 - [**[2001.08764] Fine-Tuning a Transformer-Based Language Model to Avoid Generating Non-Normative Text**](https://arxiv.org/abs/2001.08764)
 - [**Generating Interactive Worlds with Text**](https://arxiv.org/abs/1911.09194.pdf)
@@ -117,3 +116,4 @@
 - [**ALBERT: A Lite BERT for Self-supervised Learning of Language Representations**](https://arxiv.org/abs/1909.11942.pdf)
 - [**Home > ChooseYourStory.com**](http://chooseyourstory.com/)
 - [**CTRL: A Conditional Transformer Language Model for Controllable Generation**](https://arxiv.org/abs/1909.05858.pdf)
+- Vladímir Propp : MORPHOLOGY OF THE FOLK TALE https://web.mit.edu/allanmc/www/propp.pdf
