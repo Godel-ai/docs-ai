@@ -15,7 +15,7 @@
 
   - [StoryGan](research/Storygan.md)
 
-- [Miscellaneous](misc.md)
+- Miscellaneous
   - [AGI](misc/AGI.md)
   - [AbstractIdeas](misc/AbstractIdeas.md)
   - [Bookmarks](misc/Bookmarks.md)
