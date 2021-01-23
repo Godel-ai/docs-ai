@@ -21,7 +21,7 @@
 - A person that you can talk as a friend/partner
 - Be a good advisor and mentor
 - Do therapy and help, be there in loneliness etc
-- A philosopher bot: someone you can discuss philosophy and psychology with
+- A philosopher bot, expert bot etc: someone you can discuss philosophy and psychology with
 
 ## Nvidia Jarvis + Omniverse = Bot
 
@@ -70,4 +70,4 @@ Each TTS server only hosts one or two voices due to memory constraints. These mo
 
 ---
 
-# Open World Game using AI
+# Open World Game using AI : No Man's Skys
