@@ -14,6 +14,7 @@
 - [Research](research/Research.md)
 
   - [StoryGan](research/Storygan.md)
+  - [VSE](research/VSE.md)
 
 - Miscellaneous
   - [AGI](misc/AGI.md)
