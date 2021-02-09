@@ -15,8 +15,6 @@ Let's start by introducing the great hypothesis that understanding a video shoul
 What are the applications where we just providing the same semantic context is enough and the entire content of the video is not required?
 Let's do another thing, we will synthesize video on the edge by just passing the semantic information to you. But what if we want to synthesize and compress domain-specific videos, then can we compress the videos by finding a specific domain. So we can maybe do better on a specific domain for video compression. So, in what domains can the ultimate compression is alright to get ?.
 
-That is your pass only what is important and don't pass any extra information.
-
 ## AR Hardware Chips / Video-Analytics + Video Compression Chips
 
 https://ieeexplore.ieee.org/document/8875669
