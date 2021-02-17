@@ -153,12 +153,9 @@ https://www.youtube.com/watch?v=TJyy_qz_qII&pbjreload=10
 - [**The Consciousness Prior**](https://arxiv.org/abs/1709.08568.pdf)
 - [**Exploring AI Futures Through Role Play**](https://arxiv.org/ftp/arxiv/papers/1912/1912.08964.pdf)
 
-## I don't understand this
-
 ---
 
 - [**Learning by Abstraction: The Neural State Machine**](https://arxiv.org/abs/1907.03950.pdf)
-- [**On Exact Computation with an Infinitely Wide Neural Net**](https://arxiv.org/abs/1904.11955.pdf)
 - [**On Mutual Information Maximization for Representation Learning **](https://openreview.net/forum?id=rkxoh24FPH)
 - [**Neural GPUs Learn Algorithms**](https://arxiv.org/abs/1511.08228.pdf)
 - [**Graph Element Networks: adaptive, structured computation and memory**](https://arxiv.org/abs/1904.09019.pdf)
@@ -172,10 +169,9 @@ https://www.youtube.com/watch?v=TJyy_qz_qII&pbjreload=10
 - [**Specializing Word Embeddings (for Parsing) by Information Bottleneck**](https://arxiv.org/abs/1910.00163.pdf)
 - [**Learning to Propagate for Graph Meta-Learning**](https://openreview.net/forum?id=r1zsNVHgLr)
 - [**Generalization through Memorization: Nearest Neighbor Language Models**](https://arxiv.org/abs/1911.00172.pdf)
-- [**Learning and Using the Arrow of Time**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Learning_and_Using_CVPR_2018_paper.pdf)
-- [**Value-laden Disciplinary Shifts in Machine Learning**](https://arxiv.org/abs/1912.01172.pdf)
 - [**A Theory of Usable Information under Computational Constraints**](https://openreview.net/forum?id=r1eBeyHFDH)
-- [**Online Learning with Sleeping Experts and Feedback Graphs**](http://proceedings.mlr.press/v97/cortes19a/cortes19a.pdf)
-- [**Active Learning with Disagreement Graphs**](http://proceedings.mlr.press/v97/cortes19b/cortes19b.pdf)
 - [**DeepMind | StreetLearn - Code **](https://deepmind.com/research/open-source/streetlearn-code)
-- [**Probabilistic Future Prediction for Video Scene Understanding**](https://arxiv.org/abs/2003.06409v1)
+
+- [**Active Learning with Disagreement Graphs**](http://proceedings.mlr.press/v97/cortes19b/cortes19b.pdf)
+- [**Online Learning with Sleeping Experts and Feedback Graphs**](http://proceedings.mlr.press/v97/cortes19a/cortes19a.pdf)
+

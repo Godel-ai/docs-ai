@@ -7,3 +7,6 @@
 - [**slundberg/shap: A game theoretic approach to explain the output of any machine learning model.**](https://github.com/slundberg/shap)
 - [**tensorflow/lucid: A collection of infrastructure and tools for research in neural network interpretability.**](https://github.com/tensorflow/lucid)
 - [**facebookresearch/visdom: A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.**](https://github.com/facebookresearch/visdom)
+
+# Theoretical ML
+- [**On Exact Computation with an Infinitely Wide Neural Net**](https://arxiv.org/abs/1904.11955.pdf)

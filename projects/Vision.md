@@ -40,7 +40,9 @@
 https://github.com/facebookresearch/detr
 
 ---
-
+- [**Learning Spatial Common Sense With Geometry-Aware Recurrent Networks**](http://openaccess.thecvf.com/content_CVPR_2019/html/Tung_Learning_Spatial_Common_Sense_With_Geometry-Aware_Recurrent_Networks_CVPR_2019_paper.html)
+- [**Probabilistic Future Prediction for Video Scene Understanding**](https://arxiv.org/abs/2003.06409v1)
+- [**Learning and Using the Arrow of Time**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Learning_and_Using_CVPR_2018_paper.pdf)
 - [**guoyongcs/DRN: Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution**](https://github.com/guoyongcs/DRN)
 - [**Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution**](https://arxiv.org/abs/2003.07018.pdf)
 - [**Ariel Shamir's Homepage**](http://www.faculty.idc.ac.il/arik/site/writeVideo.asp)
