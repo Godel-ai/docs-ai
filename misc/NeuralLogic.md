@@ -5,16 +5,15 @@
 - [**Logic and the Simplicial Transformer**](https://arxiv.org/abs/1909.00668.pdf)
 - [**Neural Logic Networks**](https://arxiv.org/abs/1910.08629.pdf)
 - [**The Connectionist Inductive Learning and Logic Programming System **](https://link.springer.com/article/10.1023/A:1008328630915)
-- [**Neural Logic Reinforcement Learning**](https://arxiv.org/abs/1904.10729.pdf)
 - [**Probabilistic Logic Neural Networks for Reasoning**](https://arxiv.org/abs/1906.08495.pdf)
-- [**Neural Arithmetic Units**](https://arxiv.org/abs/2001.05016v1.pdf)
+- [**Neural Arithmetic Units**](https://arxiv.org/abs/2001.05016v1.pdf) : We present two new neural network components: the Neural Addition Unit (NAU), which can learn exact addition and subtraction; and the Neural Multiplication Unit (NMU) that can multiply subsets of a vector
 - [**Synthesizing Programs for Images using Reinforced Adversarial Learning**](http://proceedings.mlr.press/v80/ganin18a.html)
 - [**uclnlp/gntp**](https://github.com/uclnlp/gntp)
 - [**mtensor/rulesynthesis: Code for "Learning Compositional Rules via Neural Program Synthesis"**](https://github.com/mtensor/rulesynthesis)
 - [**Deep Learning For Symbolic Mathematics**](https://openreview.net/forum?id=S1eZYeHFDS)
 - [**Forgetting to learn logic programs**](https://arxiv.org/abs/1911.06643v1.pdf)
 - [**Logical Rule Induction and Theory Learning Using Neural Theorem Proving**](https://arxiv.org/abs/1809.02193.pdf)
-- [**Learning to Prove Theorems by Learning to Generate Theorems**](https://openreview.net/forum?id=BJxiqxSYPB)
+- [**Learning to Prove Theorems by Learning to Generate Theorems**](https://openreview.net/forum?id=BJxiqxSYPB) | We propose to learn a neural generator that automatically synthesizes theorems and proofs for the purpose of training a theorem prover
 
 ## Program Synthesis
 
