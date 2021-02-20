@@ -41,6 +41,10 @@
 - Grounding, Non-Normative Text and Enhancement of Plots (Events to Sentences), Fine-Tuning of GPT-2 and Generating Stories with Characters with more benefit from different story-writing platforms with others
 - So, let us think about the steps story writing involves: a generated world/scene-setting, characters, character dynamics, keys events, plots, genre and dialogue generation
 - Fantasy name generator
+- The Problem we are trying to Solve : Rich Storytelling Sharing Platform, AI-based Story-Writing Experience
+- Market Search - I shared the startups similar yesterday
+- Solutions - Web/Mobile Applications, Features
+- Business Model - Ad-based etc 
 
 ---
 
