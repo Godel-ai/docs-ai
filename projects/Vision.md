@@ -62,17 +62,11 @@ https://github.com/facebookresearch/detr
 - [**Modular Generative Adversarial Networks**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bo_Zhao_Modular_Generative_Adversarial_ECCV_2018_paper.pdf)
 
 - [**Unsupervised Doodling and Painting with Improved SPIRAL**](https://learning-to-paint.github.io/)
-- [**Deep Learning Monitor - Find new Arxiv papers, tweets and Reddit posts for you**](https://deeplearn.org/)
 - [**Image Synthesis From Reconfigurable Layout and Style**](https://arxiv.org/abs/1908.07500.pdf)
 - [**Adversarial Learning of Semantic Relevance in Text to Image Synthesis**](http://www.eecs.harvard.edu/~htk/publication/2019-aaai-cha-gwon-kung.pdf)
 - [**Convolutional Sequence Generation for Skeleton-Based Action Synthesis - Google Search**](https://www.google.com/search?q=Convolutional+Sequence+Generation+for+Skeleton-Based+Action+Synthesis&rlz=1C1CHBF_enUS858US858&oq=Convolutional+Sequence+Generation+for+Skeleton-Based+Action+Synthesis&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 
 ---
-
-- [**Art and Technology at Pixar**](http://graphics.pixar.com/library/sigAsia2018Course/paper.pdf)
-- [**Film Prodcution Pipeline**](https://www.youtube.com/watch?v=7hUH92xwODg)
-- [**A Survey on Human Performance Capture and Animation**](https://users.cs.cf.ac.uk/Yukun.Lai/papers/PerformanceSurveyJCST.pdf)
-- [**Painterly Rendering for Animation**](http://www.eecs.umich.edu/courses/eecs498-2/papers/meier96.pdf)
 
 - [**Text-based Editing of Talking-head Video**](https://arxiv.org/abs/1906.01524.pdf)
 - [**Incremental Scene Synthesis**](https://arxiv.org/abs/1811.12297.pdf)
@@ -129,5 +123,6 @@ https://github.com/facebookresearch/detr
 - [**VirtualHome**](http://virtual-home.org/)
 - [**Reinforcing an Image Caption Generator Using Off-Line Human Feedback**](https://arxiv.org/abs/1911.09753.pdf)
 - [**HobbitLong/CMC: pytorch implementation of "Contrastive Multiview Coding", "Momentum Contrast for Unsupervised Visual Representation Learning", and "Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination"**](https://github.com/HobbitLong/CMC)
+- [**Deep Learning Monitor - Find new Arxiv papers, tweets and Reddit posts for you**](https://deeplearn.org/)
 
 ---

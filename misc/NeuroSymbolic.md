@@ -93,5 +93,6 @@
 - Robust Perception through Analysis by Synthesis
 - 7960-relational-recurrent-neural-networks.pdf
 - Learning Factorized Multimodal Representations.pdf
-- Chen_Graph-Based_Global_Reasoning_Networks_CVPR_2019_paper.pdf Model-free, Model-based, and General Intelligence.pdf
+- Chen_Graph-Based_Global_Reasoning_Networks_CVPR_2019_paper.pdf 
+- Model-free, Model-based, and General Intelligence.pdf
 - [**Neural Reasoning, Fast and Slow, for Video Question Answering**](https://arxiv.org/abs/1907.04553.pdf)

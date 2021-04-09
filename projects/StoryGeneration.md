@@ -12,7 +12,7 @@
 
 ---
 
-## Full automated story telling pipeline
+### Full automated story telling pipeline
 
 ![](images/2020-07-22-00-48-41.png)
 
@@ -116,4 +116,4 @@ We propose a latent variable model for neural story generation that achieves sig
 - [**ALBERT: A Lite BERT for Self-supervised Learning of Language Representations**](https://arxiv.org/abs/1909.11942.pdf)
 - [**Home > ChooseYourStory.com**](http://chooseyourstory.com/)
 - [**CTRL: A Conditional Transformer Language Model for Controllable Generation**](https://arxiv.org/abs/1909.05858.pdf)
-- Vladímir Propp : MORPHOLOGY OF THE FOLK TALE https://web.mit.edu/allanmc/www/propp.pdf
+- [**Vladímir Propp : MORPHOLOGY OF THE FOLK TALE**](https://web.mit.edu/allanmc/www/propp.pdf)

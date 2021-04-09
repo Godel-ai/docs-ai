@@ -2,7 +2,7 @@
 - [**microsoft/AirSim: Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research**](https://github.com/microsoft/AirSim)
 - [**Kamaropoulos/AirSim_Gym: An OpenAI Gym environment for Microsoft's AirSim Multirotor simulator**](https://github.com/Kamaropoulos/AirSim_Gym)
 - [**JeremyBYU/airsimgeo: AirSim with more coordinate systems**](https://github.com/JeremyBYU/airsimgeo)
-- [** An Animation System for Imitation of Object Grasping in Virtual Reality **](https://link.springer.com/chapter/10.1007/11941354_8)
+- [**An Animation System for Imitation of Object Grasping in Virtual Reality **](https://link.springer.com/chapter/10.1007/11941354_8)
 - [**A Computational Framework for Expressive, Personality-based, Non-verbal Behaviour for Affective 3D Character Agents **](http://summit.sfu.ca/item/16854)
 - [**VR facial animation via multiview image translation**](https://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3323030)
 
@@ -20,3 +20,7 @@
 - [**Neural Human Video Rendering: Joint Learning of Dynamic Textures and Rendering-to-Video Translation**](https://arxiv.org/abs/2001.04947v1.pdf)
 - [**Neural Subdivision**](https://arxiv.org/abs/2005.01819v1.pdf)
 - [**Learning to Infer and Execute 3D Shape Programs**](https://arxiv.org/abs/1901.02875.pdf)
+- [**Art and Technology at Pixar**](http://graphics.pixar.com/library/sigAsia2018Course/paper.pdf)
+- [**Film Prodcution Pipeline**](https://www.youtube.com/watch?v=7hUH92xwODg)
+- [**A Survey on Human Performance Capture and Animation**](https://users.cs.cf.ac.uk/Yukun.Lai/papers/PerformanceSurveyJCST.pdf)
+- [**Painterly Rendering for Animation**](http://www.eecs.umich.edu/courses/eecs498-2/papers/meier96.pdf)

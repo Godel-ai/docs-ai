@@ -58,7 +58,7 @@ We adopt a keypoint-based image representation and learn a stochastic dynamics m
 - [**Disentangling Propagation and Generation for Video Prediction**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Disentangling_Propagation_and_Generation_for_Video_Prediction_ICCV_2019_paper.pdf)
 - [**End-To-End Time-Lapse Video Synthesis From a Single Outdoor Image**](http://openaccess.thecvf.com/content_CVPR_2019/html/Nam_End-To-End_Time-Lapse_Video_Synthesis_From_a_Single_Outdoor_Image_CVPR_2019_paper.html)
 - [**[1907.06571] Efficient Video Generation on Complex Datasets**](https://arxiv.org/abs/1907.06571)
-- [**GANimation: One-Shot Anatomically Consistent Facial Animation **](https://link.springer.com/article/10.1007/s11263-019-01210-3)
+- [**GANimation: One-Shot Anatomically Consistent Facial Animation**](https://link.springer.com/article/10.1007/s11263-019-01210-3)
 - [**[1908.06607] Video synthesis of human upper body with realistic face**](https://arxiv.org/abs/1908.06607)
 - [**Liu: Video synthesis of human upper body with realistic face - Google Scholar**](https://scholar.google.com/scholar?cites=13583776322979873311&as_sdt=2005&sciodt=0,5&hl=en)
 - [**Cartoonish sketch-based face editing in videos using identity deformation transfer - ScienceDirect**](https://www.sciencedirect.com/science/article/abs/pii/S0097849319300147)

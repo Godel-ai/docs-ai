@@ -25,7 +25,6 @@ We propose a strategy for encoding curiosity algorithms as programs in a domain-
 - [**Google AI Blog: Introducing PlaNet: A Deep Planning Network for Reinforcement Learning**](https://ai.googleblog.com/2019/02/introducing-planet-deep-planning.html?)
 
 - [**Watch, Reason and Code: Learning to Represent Videos Using Program**](http://delivery.acm.org/10.1145/3360000/3351094/p1543-duan.pdf?ip=196.207.120.77&id=3351094&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572177329_8e0602267436eaebaa93882eaf22b0f5)
-- [**Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution**](https://arxiv.org/abs/1801.04016.pdf)
 - [**Reconciling deep learning with symbolic artificial intelligence: representing objects and relations**](file:///C:/Users/khush/Desktop/DL_symbolic_processing.pdf)
 - [**learnables/learn2learn: PyTorch Meta-learning Framework for Researchers**](https://github.com/learnables/learn2learn/tree/master)
 - [**Modular meta-learning**](https://arxiv.org/abs/1806.10166.pdf)
@@ -34,7 +33,6 @@ We propose a strategy for encoding curiosity algorithms as programs in a domain-
 - Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.pdf
 
 - [**[1906.07343] Language as an Abstraction for Hierarchical Deep Reinforcement Learning**](https://arxiv.org/abs/1906.07343)
-
 - [**Planning with Abstract Learned Models While Learning Transferable Subtasks**](https://arxiv.org/abs/1912.07544v1.pdf)
 - [**[1906.11315] Generalization to Novel Objects using Prior Relational Knowledge**](https://arxiv.org/abs/1906.11315)
 - [**Neural Task Graphs: Generalizing to Unseen Tasks From a Single Video Demonstration**](http://openaccess.thecvf.com/content_CVPR_2019/papers/Huang_Neural_Task_Graphs_Generalizing_to_Unseen_Tasks_From_a_Single_CVPR_2019_paper.pdf)
