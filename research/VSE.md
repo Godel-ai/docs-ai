@@ -80,7 +80,6 @@
 
 ### Unified Embedding Project
 
-- [**Knowledge Graph summarization for anomaly/error detection & completion**](https://github.com/GemsLab/KGist)
 - [**Discriminative distribution alignment: A unified framework for heterogeneous domain adaptation - ScienceDirect**](https://www.sciencedirect.com/science/article/abs/pii/S0031320319304650)
 - [**Differentiable Scene Graphs**](http://openaccess.thecvf.com/content_WACV_2020/papers/Raboh_Differentiable_Scene_Graphs_WACV_2020_paper.pdf)
 - [**Expressing Objects just like Words: Recurrent Visual Embedding for Image-Text Matching**](https://arxiv.org/abs/2002.08510.pdf)
