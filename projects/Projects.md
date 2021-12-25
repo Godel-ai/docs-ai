@@ -8,7 +8,7 @@
 * Talking Heads
 * Scene Graph: Text2Scene
 * View Synthesis
-* Video Dynamics: DDPAE
+* Video Dynamics
 * Dialogues
 * Voice Synthesis
 
@@ -18,10 +18,7 @@
 * Replika type Apps: that can go really popular will also be useful
 * A person that you can talk as a friend/partner
 * Be a good advisor and mentor
-* Do therapy and help, be there in loneliness etc
-* A philosopher bot, expert bot etc: someone you can discuss philosophy and psychology with
-
-### Nvidia Jarvis + Omniverse = Bot
+* A philosopher and expert bot etc: Capable of Discussion
 
 ## Fables.ai
 
@@ -38,7 +35,7 @@
 * So, let us think about the steps story writing involves: a generated world/scene-setting, characters, character dynamics, keys events, plots, genre and dialogue generation
 * Fantasy name generator
 * The Problem we are trying to Solve : Rich Storytelling Sharing Platform, AI-based Story-Writing Experience
-* Market Search - I shared the startups similar yesterday
+* Market Search
 * Solutions - Web/Mobile Applications, Features
 * Business Model - Ad-based etc&#x20;
 
