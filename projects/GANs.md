@@ -1,8 +1,6 @@
 # GANs
 
-* [**FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models**](https://arxiv.org/abs/1810.01367.pdf)
-
-## Interpretable GAN Controls
+Interpretable GAN Controls
 
 * [**\[2004.02546\] GANSpace: Discovering Interpretable GAN Controls**](https://arxiv.org/abs/2004.02546)
 * [**harskish/ganspace: Discovering Interpretable GAN Controls**](https://github.com/harskish/ganspace)
