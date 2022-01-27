@@ -2,12 +2,8 @@
 
 ## Visual NLP Project
 
-* Also, look at how the graph modules are bound on the simple structures&#x20;
-* Read the Detection Transformers Paper from Facebook
-* MS COCO Dataset: Image to Sentence Retrieval, Sentence to Image Retrieval&#x20;
-* have read papers with really complicated architecture: ACMM paper has the best approach I was looking for&#x20;
-* But need to understand, probably write a visualization paper?
-* SimClr embeddings vs Contrastive Embeddings vs Visual Embeddings vs  Language Models?
+- Aligned Cross-Modal Memory
+* SimClr embeddings vs Visual Embeddings vs Language Models Embedding
 * Some kind of Modular Interface between Vision and Language 
 * See code are available, datasets used, Experiments will be done etc
 
@@ -22,10 +18,16 @@
 * Finish the analytical comparison of FLOPS b/w Video Compression H.265/H.264 and DVC&#x20;
 * Propose a method of the couple that reduces the flops&#x20;
 * Point out the data movement b/w different chipsets of Vid-Transcoder and NN-accelerator
+
+Opportunities : 
 * High-Performance Differential Processor for Edge Training,
-* EdgeX: Edge-AI Infrastructure
-* Energy-Efficient  Accelerator Design by Coupling  Video  Understanding and Compression.&#x20;
-* Propose an Edge Framework for Efficient Data Understanding, Compression and Transmission
+
+Vision : EdgeX: Edge-AI Infrastructure
+
+* Energy-Efficient Accelerator Design by Coupling Video Understanding and Compression.&#x20;
+
+Framework :
+Propose an Edge Framework for Efficient Data Understanding, Compression and Transmission
 
 Notes :
 
