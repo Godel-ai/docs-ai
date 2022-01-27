@@ -8,8 +8,8 @@
 * have read papers with really complicated architecture: ACMM paper has the best approach I was looking for&#x20;
 * But need to understand, probably write a visualization paper?
 * SimClr embeddings vs Contrastive Embeddings vs Visual Embeddings vs  Language Models?
-* To make vision language modular interfaces
-* See code are available,  datasets used,  experiments will be done etc
+* Some kind of Modular Interface between Vision and Language 
+* See code are available, datasets used, Experiments will be done etc
 
 ## Reinforcement Learning Robots: Embodied AI
 
@@ -19,18 +19,15 @@
 
 ## Video Accelerator
 
-* Finally, finish the analytical comparison of FLOPS b/w Video Compression H.265/H.264 and DVC&#x20;
+* Finish the analytical comparison of FLOPS b/w Video Compression H.265/H.264 and DVC&#x20;
 * Propose a method of the couple that reduces the flops&#x20;
 * Point out the data movement b/w different chipsets of Vid-Transcoder and NN-accelerator
 * High-Performance Differential Processor for Edge Training,
 * EdgeX: Edge-AI Infrastructure
 * Energy-Efficient  Accelerator Design by Coupling  Video  Understanding and Compression.&#x20;
-* Propose  an  Edge  Framework  for Efficient Data Understanding, Compression and Transmission
+* Propose an Edge Framework for Efficient Data Understanding, Compression and Transmission
 
 Notes :
 
-Robustness of Deep Learning-based Video Compression Techniques
-
-Let's just say that everything about video compression has an incomplete analysis of power consumption on mobile phones. What is the power consumption ratio of decoding and displaying to the power consumption of streaming?
-
-Not really clear is it?
+- Robustness of Deep Learning-based Video Compression Techniques
+- What is the power consumption ratio of decoding and displaying to the power consumption of streaming?
