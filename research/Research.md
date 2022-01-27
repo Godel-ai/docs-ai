@@ -20,6 +20,7 @@
 * Point out the data movement b/w different chipsets of Vid-Transcoder and NN-accelerator
 
 Opportunities : 
+
 * High-Performance Differential Processor for Edge Training,
 
 Vision : EdgeX: Edge-AI Infrastructure
@@ -27,7 +28,8 @@ Vision : EdgeX: Edge-AI Infrastructure
 * Energy-Efficient Accelerator Design by Coupling Video Understanding and Compression.&#x20;
 
 Framework :
-Propose an Edge Framework for Efficient Data Understanding, Compression and Transmission
+
+- Propose an Edge Framework for Efficient Data Understanding, Compression and Transmission
 
 Notes :
 
