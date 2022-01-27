@@ -10,11 +10,14 @@
 * Energy-Efficient Accelerator Design by Coupling Video Understanding and Compression
 * Propose an Edge Framework for Collaborative and Efficient Data Understanding, Compression and Transmission
 
-Let's just say that everything about video compression has an incomplete analysis of power consumption on mobile phones. What is the power consumption ratio of decoding and displaying to the power consumption of streaming?
+Let's just say that everything about video compression has an incomplete analysis of power consumption on mobile phones. 
+What is the power consumption ratio of decoding and displaying to the power consumption of streaming?
 
-Let's start by introducing the great hypothesis that understanding a video should satisfy the needs of transmitting it.
-
-What are the applications where we just providing the same semantic context is enough and the entire content of the video is not required? Let's do another thing, we will synthesize video on the edge by just passing the semantic information to you. But what if we want to synthesize and compress domain-specific videos, then can we compress the videos by finding a specific domain. So we can maybe do better on a specific domain for video compression. So, in what domains can the ultimate compression is alright to get ?.
+Same semantic context is enough and the entire content of the video is not required ? 
+Let's do another thing, we will synthesize video on the edge by just passing the semantic information to you. 
+But what if we want to synthesize and compress domain-specific videos, then can we compress the videos by finding a specific domain. 
+So we can maybe do better on a specific domain for video compression. 
+So, in what domains can the ultimate compression is alright to get ?
 
 ## AR Hardware Chips / Video-Analytics + Video Compression Chips
 
