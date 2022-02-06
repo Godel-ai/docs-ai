@@ -27,7 +27,6 @@
 * [**Hangz-nju-cuhk/Talking-Face-Generation-DAVS: Code for Talking Face Generation by Adversarially Disentangled Audio-Visual Representation (AAAI 2019)**](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS)
 * [**3D Morphable Face Models - Past, Present and Future**](https://arxiv.org/abs/1909.01815.pdf)
 * [**A Robust Interactive Facial Animation Editing System. Motion, Interaction and Games on - MIG ’19**](https://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3360076)
-* [**cleardusk/3DDFA: The PyTorch improved version of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.**](https://github.com/cleardusk/3DDFA)
 * [**\[1804.01005\] Face Alignment in Full Pose Range: A 3D Total Solution**](https://arxiv.org/abs/1804.01005)
 * [**TimoBolkart/voca: Voice Operated Character Animation**](https://github.com/TimoBolkart/voca)
 * [**Voice Operated Character Animation**](https://voca.is.tue.mpg.de)
