@@ -1,19 +1,6 @@
 # Image/Video Synthesis
 
-## Talking Head and GANs
 
-![](images/2020-07-22-01-46-01.png)
-
-![](<images/2020-07-22-01-46-31 (1).png>)
-
-* [**What comprises a good talking-head video generation?: A Survey and Benchmark**](https://arxiv.org/abs/2005.03201.pdf)
-* [**Hierarchical Cross-Modal Talking Face Generation With Dynamic Pixel-Wise Loss**](http://openaccess.thecvf.com/content\_CVPR\_2019/papers/Chen\_Hierarchical\_Cross-Modal\_Talking\_Face\_Generation\_With\_Dynamic\_Pixel-Wise\_Loss\_CVPR\_2019\_paper.pdf)
-* [**3D Human Avatar Digitization from a Single Image**](https://dl.acm.org/doi/pdf/10.1145/3359997.3365707)
-* [**TailorGAN: Making User-Defined Fashion Designs**](http://openaccess.thecvf.com/content\_WACV\_2020/papers/Chen\_TailorGAN\_Making\_User-Defined\_Fashion\_Designs\_WACV\_2020\_paper.pdf)
-* [**lelechen63/talking-head-generation-survey: Official github repo for paper "What comprises a good talking-head video generation?: A Survey and Benchmark"**](https://github.com/lelechen63/talking-head-generation-survey)
-* [**Expressive Body Capture: 3D Hands, Face, and Body from a Single Image**](https://arxiv.org/abs/1904.05866.pdf)
-* [**Dynamic Multiscale Graph Neural Networks for 3D Skeleton-Based Human Motion Prediction**](https://github.com/limaosen0/DMGNN)
-* [**\[1910.04302\] Prescribed Generative Adversarial Networks**](https://arxiv.org/abs/1910.04302)
 
 ## First order model and GANs
 
@@ -49,7 +36,6 @@
 * [**Neural Rendering and Reenactment of Human Actor Videos**](http://gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/content/main.pdf)
 * [**facebookresearch/QuaterNet: Proposes neural networks that can generate animation of virtual characters for different actions.**](https://github.com/facebookresearch/QuaterNet)
 * [**Structured Prediction Helps 3D Human Motion Modelling**](http://openaccess.thecvf.com/content\_ICCV\_2019/papers/Aksan\_Structured\_Prediction\_Helps\_3D\_Human\_Motion\_Modelling\_ICCV\_2019\_paper.pdf)
-* [**PMnet\_Learning.pdf**](https://research.birmingham.ac.uk/portal/files/71180007/PMnet\_Learning.pdf)
 * [**Neural Rendering and Reenactment of Human Actor Videos**](https://amds123.github.io/2019/05/05/Neural-Rendering-and-Reenactment-of-Human-Actor-Videos/)
 * [**\[1806.07179\] FrankenGAN: Guided Detail Synthesis for Building Mass-Models Using Style-Synchonized GANs**](https://arxiv.org/abs/1806.07179)
 * [**lei65537/Visual\_Driven\_Mesh\_Repair: Repairing Man-Made Meshes via Visual Driven Global Optimization with Minimum Intrusion**](https://github.com/lei65537/Visual\_Driven\_Mesh\_Repair)
