@@ -69,10 +69,6 @@ We propose a framework for subgoal generation and planning, hierarchical visual 
 
 Inattentional blindness is the psychological phenomenon that causes one to miss things in plain sight. It is a consequence of the selective attention in perception that lets us remain focused on important parts of our world without distraction from irrelevant details. Motivated by selective attention, we study the properties of artificial agents that perceive the world through the lens of a self-attention bottleneck
 
-* [**Neural Replicator Dynamics**](https://arxiv.org/abs/1906.00190v1.pdf)
-* [**CompILE: Compositional Imitation Learning and Execution**](http://proceedings.mlr.press/v97/kipf19a/kipf19a.pdf)
-* [**Context-aware Dynamics Model for Generalization in Model-Based Reinforcement Learning**](https://paperswithcode.com/paper/context-aware-dynamics-model-for)
-* [**Inductive Biases, Invariances and Generalization in RL (BIG)**](https://biases-invariances-generalization.github.io)
 * [**Search on the Replay Buffer: Bridging Planning and Reinforcement Learning - Colaboratory**](https://colab.research.google.com/drive/1GnyIypicdLf2g--tej3yZguLDkHUgEsk#scrollTo=MbGXO1TURVf-)
 * [**Mutual Information-based State-Control for Intrinsically Motivated Reinforcement Learning**](https://arxiv.org/abs/2002.01963.pdf)
 
