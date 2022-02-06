@@ -17,7 +17,7 @@
   * [VSE](research/VSE.md)
 * [Miscellaneous](miscellaneous/README.md)
   * [AGI](misc/AGI.md)
-  * [AbstractIdeas](misc/AbstractIdeas.md)
+  * [Abstract Ideas](misc/AbstractIdeas.md)
   * [Bookmarks](miscellaneous/bookmarks.md)
   * [Bio](misc/Bio.md)
   * [Causal](misc/Causal.md)
