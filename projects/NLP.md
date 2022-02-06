@@ -4,27 +4,16 @@
 
 * [**NLP-progress**](http://nlpprogress.com)
 * [**Vision and Language tasks by shubhamagarwal92 · Pull Request #443 · sebastianruder/NLP-progress**](https://github.com/sebastianruder/NLP-progress/pull/443)
-* [**Torch-Struct: Deep Structured Prediction Library**](https://arxiv.org/abs/2002.00876v1.pdf)
 * [**Experience Grounds Language**](https://arxiv.org/abs/2004.10151v1.pdf)
-* [**SenseBERT: Driving Some Sense into BERT**](https://arxiv.org/abs/1908.05646.pdf)
-* [**Finding Experts in Transformer Models**](https://arxiv.org/abs/2005.07647.pdf)
-* [**Grounding Language in Play**](https://arxiv.org/abs/2005.07648.pdf)
-* [**ToTTo: A Controlled Table-To-Text Generation Dataset**](https://arxiv.org/abs/2004.14373.pdf)
-*   [**Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models**](https://homes.cs.washington.edu/\~msap/pdfs/sap2020recollectionImagination.pdf)
 
-    [**Inducing Relational Knowledge from BERT**](https://arxiv.org/abs/1911.12753v1.pdf)
+
+   [**Inducing Relational Knowledge from BERT**](https://arxiv.org/abs/1911.12753v1.pdf)
 * [**Do Neural Dialog Systems Use the Conversation History Effectively? An Empirical Study**](https://arxiv.org/abs/1906.01603.pdf)
 * [**Open Questions about Generative Adversarial Networks**](https://distill.pub/2019/gan-open-problems/)
 * [**Papers with Code - Longformer: The Long-Document Transformer**](https://paperswithcode.com/paper/longformer-the-long-document-transformer#code)
 * [**Papers with Code - Natural Language Processing**](https://paperswithcode.com/area/natural-language-processing)
 * [**Papers with Code - Extractive Document Summarization**](https://paperswithcode.com/task/extractive-document-summarization)
-* [**Working Memory Graphs**](https://arxiv.org/abs/1911.07141.pdf)
 * [**\[2005.00571v1\] Learning Collaborative Agents with Rule Guidance for Knowledge Graph Reasoning**](https://arxiv.org/abs/2005.00571v1)
-*   [**\[2005.00782v1\] Can BERT Reason? Logically Equivalent Probes for Evaluating the Inference Capabilities of Language Models**](https://arxiv.org/abs/2005.00782v1)
-
-    [**Common-Knowledge Concept Recognition for SEVA**](https://paperswithcode.com/paper/common-knowledge-concept-recognition-for-seva)
-* [**Neural Networks are Surprisingly Modular**](https://arxiv.org/abs/2003.04881v2.pdf)
-* [**\[1912.13283v1\] oLMpics -- On what Language Model Pre-training Captures**](https://arxiv.org/abs/1912.13283v1)
 * [**Argument Generation with Retrieval, Planning, and Realization**](https://arxiv.org/abs/1906.03717.pdf)
 
 ## Extractive Summarization of Scientific Documents
@@ -76,7 +65,6 @@
 #### Chatbots
 
 * [**Generating English from Abstract Meaning Representations**](https://www.aclweb.org/anthology/W16-6603.pdf)
-* [**\[1801.07736\] MaskGAN: Better Text Generation via Filling in the**\_\_\*\*\*\*](https://arxiv.org/abs/1801.07736)
 * [**On Extractive and Abstractive Neural Document Summarization with Transformer Language Models**](https://arxiv.org/abs/1909.03186.pdf)
 * [**A Deep Reinforcement Learning Chatbot**](https://arxiv.org/abs/1709.02349.pdf)
 
@@ -97,6 +85,7 @@
 * [**On Extractive and Abstractive Neural Document Summarization with Transformer Language Models**](https://arxiv.org/abs/1909.03186.pdf)
 * [**Graph-based Neural Multi-Document Summarization**](https://arxiv.org/abs/1706.06681.pdf)
 * [**Gehrmann: Bottom-up abstractive summarization - Google Scholar**](https://scholar.google.com/scholar?start=10\&hl=en\&as\_sdt=2005\&sciodt=0,5\&cites=6702357170880053318\&scipsc=)
+* 
 * [**Abstractive summarization: An overview of the state of the art - ScienceDirect**](https://www.sciencedirect.com/science/article/pii/S0957417418307735)
 * [**Language Models are Unsupervised Multitask Learners**](https://www.techbooky.com/wp-content/uploads/2019/02/Better-Language-Models-and-Their-Implications.pdf)
 * [**\[1908.08345\] Text Summarization with Pretrained Encoders**](https://arxiv.org/abs/1908.08345)
@@ -108,6 +97,7 @@
 * [**: Recommendation Systems**](https://paperswithcode.com/task/recommendation-systems/latest#code)
 * [**: Neural Network Compression**](https://paperswithcode.com/task/neural-network-compression/latest#code)
 * [**: Knowledge Graphs**](https://paperswithcode.com/task/knowledge-graphs/latest#code)
+* 
 * [**: Knowledge Base Completion**](https://paperswithcode.com/task/knowledge-base-completion)
 * [**: Extractive Document Summarization**](https://paperswithcode.com/task/extractive-document-summarization/latest#code)
 * [**: Abstractive Text Summarization**](https://paperswithcode.com/task/abstractive-text-summarization/latest#code)
@@ -118,11 +108,13 @@
 * [**https://language-play.github.io**](https://language-play.github.io)
 * [**Yasunaga: Graph-based neural multi-document summarization - Google Scholar**](https://scholar.google.co.in/scholar?cites=10202908905437352262\&as\_sdt=2005\&sciodt=0,5\&hl=en)
 * [**: Multi-Document Summarization**](https://paperswithcode.com/task/multi-document-summarization)
+* 
 * [**\[1910.11411\] Multi-Document Summarization with Determinantal Point Processes and Contextualized Representations**](https://arxiv.org/abs/1910.11411)
 * [**\[1906.01749\] Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model**](https://arxiv.org/abs/1906.01749)
 * [**\[1910.08435\] Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs**](https://arxiv.org/abs/1910.08435)
 * [**\[1706.06681\] Graph-based Neural Multi-Document Summarization**](https://arxiv.org/abs/1706.06681)
 * [**Li: Deep recurrent generative decoder for abstractive... - Google Scholar**](https://scholar.google.co.in/scholar?cites=748046702805969208\&as\_sdt=2005\&sciodt=0,5\&hl=en)
+* 
 * [**\[1909.13717\] Retrieval-based Goal-Oriented Dialogue Generation**](https://arxiv.org/abs/1909.13717)
 * [**On Extractive and Abstractive Neural Document Summarization with Transformer Language Models**](https://arxiv.org/abs/1909.03186.pdf)
 * [**Katti: Chargrid: Towards understanding 2d documents - Google Scholar**](https://scholar.google.com/scholar?safe=active\&rlz=1C1CHBF\_enUS858US858\&sxsrf=ACYBGNSAPKh-P1RHf4kuZ0Ciw-tc4coy7A:1578892703748\&uact=5\&um=1\&ie=UTF-8\&lr\&cites=10392085391906571188)
@@ -138,6 +130,8 @@
 * [**Commits · dstlry/dstlr**](https://github.com/dstlry/dstlr/commits/master)
 * [**dstlr**](https://dstlry.github.io/%20|%20What%20is%20dstlr?)
 * [**Wu: Transferable Multi-Domain State Generator for... - Google Scholar**](https://scholar.google.com/scholar?rlz=1C1CHBF\_enUS858US858\&um=1\&ie=UTF-8\&lr\&cites=3530396919946840784)
+
+
 * [**\[1907.01669\] MultiWOZ 2.1: A Consolidated Multi-Domain Dialogue Dataset with State Corrections and State Tracking Baselines**](https://arxiv.org/abs/1907.01669)
 * [**\[1908.01946\] Dialog State Tracking: A Neural Reading Comprehension Approach**](https://arxiv.org/abs/1908.01946)
 * [**1905.08743.pdf**](https://arxiv.org/abs/1905.08743.pdf)
